@@ -2,9 +2,7 @@
     text-align: center;
 }
 
-.fa-twitter,
-.fa-facebook,
-.fa-share-alt {
+.pull-right {
     display: none;
 }
 
