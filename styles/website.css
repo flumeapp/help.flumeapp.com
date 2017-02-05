@@ -1,3 +1,7 @@
+.center {
+    text-align: center;
+}
+
 .book-summary ul.summary li.header {
     padding: 10px 15px;
     padding-top: 20px;
