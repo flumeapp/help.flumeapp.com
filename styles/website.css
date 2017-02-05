@@ -90,7 +90,8 @@ ul.articles > li.chapter {
 }
 
 .book-header h1 {
-    display: none;
+    content: '';
+    background-image: url('assets/header.png');
 }
 
 html {
