@@ -1,12 +1,5 @@
 # Summary
 
-## Introduction
+Flume for Mac is a beautiful Instagram app for your Mac. 
 
-* [Introduction](README.md)
-* [Keyboard Shortcuts](keyboard-shortcuts.md)
-* [What is Flume Pro?](what-is-flume-pro.md)
-
-## How-To
-
-* [Upload a photo or video](test/another-book.md)
-
+[Website](https://flumeapp.com) | [Support Portal](https://flumeapp.com/support/)
