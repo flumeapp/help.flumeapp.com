@@ -93,6 +93,6 @@ ul.articles > li.chapter {
     display: none;
 }
 
-.book-header .h1 {
+.book-header > .h1 {
     display: none;
 }
