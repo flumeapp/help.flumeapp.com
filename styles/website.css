@@ -91,7 +91,7 @@ ul.articles > li.chapter {
 
 .book-header h1 {
     content: '';
-    background-image: url('assets/header.svg');
+    background-image: url('/assets/header.svg');
 }
 
 html {
