@@ -2,7 +2,8 @@
     text-align: center;
 }
 
-.pull-right {
+.pull-right,
+.font-settings {
     display: none;
 }
 
