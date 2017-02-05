@@ -2,7 +2,7 @@
 
 #### General
 
-* [Keyboard shortcuts](/keyboard-shortcuts.md)
+* [Keyboard shortcuts](/general/keyboard-shortcuts.md)
 
 #### Flume Pro
 
