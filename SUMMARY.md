@@ -2,7 +2,7 @@
 
 
 * [Getting Started](README.md)
-  * [Introduction](README.md)
+  * [Introduction to Flume for Mac](README.md)
 
 * [General](general/README.md)
   * [Keyboard Shortcuts](general/keyboard-shortcuts.md)
