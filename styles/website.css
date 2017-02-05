@@ -29,7 +29,7 @@ ul.articles > li.chapter {
     display: none;
 }
 
-.markdown-section.first-child {
+.markdown-section:first-child {
     text-align: center;
     width: 100%;
 }
