@@ -2,6 +2,13 @@
     text-align: center;
 }
 
+.fa-twitter,
+.fa-facebook,
+.fa-share-alt {
+    display: none;
+}
+
+
 .book-summary ul.summary li.header {
     padding: 10px 15px;
     padding-top: 20px;
