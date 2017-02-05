@@ -55,6 +55,11 @@ h1 {
 
 .book-body {
     background: #F3F4F8;
+    color: #7A8599;
+}
+
+.markdown-section {
+    color: #7A8599;
 }
 
 .center {
