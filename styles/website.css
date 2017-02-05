@@ -11,7 +11,7 @@
     display: none !important;
 }
 
-li.chapter {
+ul > li.chapter {
     text-transform: uppercase;
     color: #939da3;
 }
