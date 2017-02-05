@@ -1,7 +1,6 @@
 # Summary
 
-* [Getting Started](README.md)
-  * [Flume for Mac](introduction.md)
+* [Flume for Mac](README.md)
 * [General](general/README.md)
   * [Keyboard Shortcuts](general/keyboard-shortcuts.md)
 * [Flume Pro](flume-pro/README.md)
