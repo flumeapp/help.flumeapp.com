@@ -92,11 +92,12 @@ ul.articles > li.chapter {
 .book-header h1 {
     background-image: url('/assets/logo.png');
     background-repeat: no-repeat;
-/*    background-size: 76px 27px;*/
+    background-size: 76px 27px;
+    width: 76px;
 }
 
 .book-header h1 a {
-    content: '';
+    display: none;
 }
 
 
