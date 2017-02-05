@@ -1,8 +1,8 @@
 # Summary
 
-## Introduction
 
-* [Introduction](README.md)
+* [Getting Started](README.md)
+  * [Introduction](README.md)
 
 * [General](general/README.md)
   * [Keyboard Shortcuts](general/keyboard-shortcuts.md)
