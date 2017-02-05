@@ -85,7 +85,7 @@ ul.articles > li.chapter {
     color: red;
 }
 
-.gitbook-link {
+ul.summary:last-child {
     display: none;
 }
 
