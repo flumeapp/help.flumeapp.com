@@ -6,7 +6,7 @@
 * [Keyboard Shortcuts](keyboard-shortcuts.md)
 * [What is Flume Pro?](what-is-flume-pro.md)
 
-## Test
+## How-To
 
-* [Another book?](test/another-book.md)
+* [Upload a photo or video](test/another-book.md)
 

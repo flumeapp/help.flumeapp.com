@@ -1,15 +1,9 @@
 # [![](/cover.jpg)](/SUMMARY.md)
 
 
-## General
+#### General
 
-- This
-- That
-- One more
 
-## How-To
+#### How-To
 
-- This
-- That
-- One more
-
+- [Upload a photo or video](/test/another-book.md)
