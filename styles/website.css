@@ -1,13 +1,14 @@
 .center {
     text-align: center;
+    width: 100%;
 }
 
 .pull-right {
-    display: none;
+    display: none !important;
 }
 
 .font-settings {
-    display: none;
+    display: none !important;
 }
 
 
