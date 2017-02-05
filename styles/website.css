@@ -24,3 +24,7 @@ ul.articles > li.chapter {
 .gitbook-link {
     display: none;
 }
+
+.navigation-next, .navigation-prev {
+    display: none;
+}
