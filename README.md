@@ -10,7 +10,7 @@
 
 #### How-To
 
-* [Upload a photo or video](/test/another-book.md)
+* [Upload a photo or video](/how-tos/upload-a-file.md)
 
 
 
