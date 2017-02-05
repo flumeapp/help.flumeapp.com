@@ -28,3 +28,8 @@ ul.articles > li.chapter {
 .navigation-next, .navigation-prev {
     display: none;
 }
+
+.markdown-section.first-child {
+    text-align: center;
+    width: 100%;
+}
