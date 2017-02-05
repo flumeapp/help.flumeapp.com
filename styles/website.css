@@ -29,7 +29,7 @@ ul.articles > li.chapter {
     display: none;
 }
 
-.markdown-section + h1 {
+.markdown-section > h1 {
     text-align: center;
     width: 100%;
 }
