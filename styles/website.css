@@ -11,8 +11,7 @@
     display: none !important;
 }
 
-
-.book-summary ul.summary li.header {
+.book-summary ul.summary li a {
     padding: 10px 15px;
     padding-top: 20px;
     text-transform: uppercase;
