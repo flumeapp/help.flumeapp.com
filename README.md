@@ -3,6 +3,7 @@
 
 #### General
 
+- [Keyboard shortcuts](/keyboard-shortcuts.md)
 
 #### How-To
 
