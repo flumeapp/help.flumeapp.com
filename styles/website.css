@@ -90,9 +90,16 @@ ul.articles > li.chapter {
 }
 
 .book-header h1 {
-    content: '';
     background-image: url('/assets/logo.png');
+    background-repeats: false;
+    background-size: 76px 27px;
 }
+
+.book-header h1 a {
+    display: none;
+}
+
+
 
 html {
 	height: 100%;
