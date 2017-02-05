@@ -1,6 +1,6 @@
 
 
-<div class="center"><img src="/logo.png" width="128" height="128" /></div>
+<div class="center"><img src="/logo.png" width="256" height="256" /></div>
 
 <div class="center"><h1 style="font-weight: 100;">Flume for Mac Help</h1></div>
 
