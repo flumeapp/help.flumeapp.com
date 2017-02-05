@@ -1,3 +1,8 @@
 {
-    "plugins": ["back-to-top-button", "add-header"]
+    "plugins": ["back-to-top-button", "header"],
+    "pluginsConfig": {
+    "layout": {
+      "headerPath" : "layouts/header.html"
+    }
+  }
 }
