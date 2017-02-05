@@ -2,7 +2,10 @@
     text-align: center;
 }
 
-.pull-right,
+.pull-right {
+    display: none;
+}
+
 .font-settings {
     display: none;
 }
