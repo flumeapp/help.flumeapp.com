@@ -11,9 +11,14 @@
     display: none !important;
 }
 
-ul > li.chapter {
+li.chapter {
     text-transform: uppercase;
     color: #939da3;
+}
+
+ul.articles > li.chapter {
+    text-transform: none;
+    color: red;
 }
 
 .gitbook-link {
