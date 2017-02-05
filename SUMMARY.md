@@ -1,7 +1,7 @@
 # Summary
 
 
-* Getting Started
+* [Getting Started](README.md)
   * [Introduction to Flume for Mac](introduction.md)
 
 * General
