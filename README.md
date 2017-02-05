@@ -8,7 +8,7 @@ Help Manual
 
 #### Flume Pro
 
-What is Flume Pro?
+[What is Flume Pro?](/what-is-flume-pro.md)
 
 Upgrading to Flume Pro
 
