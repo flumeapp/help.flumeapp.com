@@ -29,7 +29,6 @@ ul.articles > li.chapter {
     display: none;
 }
 
-.markdown-section > h1 {
-    text-align: center;
-    width: 100%;
+.book-header .h1 {
+    display: none;
 }
