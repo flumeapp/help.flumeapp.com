@@ -2,4 +2,5 @@
 
 * [Introduction](README.md)
 * [Keyboard Shortcuts](keyboard-shortcuts.md)
+* [What is Flume Pro?](what-is-flume-pro.md)
 

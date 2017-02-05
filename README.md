@@ -18,5 +18,3 @@ Uploading a photo
 
 Uploading a video
 
-
-
