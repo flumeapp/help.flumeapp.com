@@ -47,6 +47,15 @@ body {
 	color: #7A8599;
 }
 
+h1 {
+    font-weight: 300;
+    font-size: 1.6em;
+    line-height: 1.25em;
+    color: #353D4C;
+    margin: 0 auto 0.625em;
+    padding: 0;
+}
+
 .book-body {
     background: #F3F4F8;
 }
