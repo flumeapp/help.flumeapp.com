@@ -1,3 +1,3 @@
 {
-    "plugins": ["back-to-top-button", "toggle2", "remove-link"]
+    "plugins": ["back-to-top-button", "toggle2"]
 }
