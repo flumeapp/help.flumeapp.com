@@ -1,4 +1,4 @@
-# What is Flume Pro?
+# What is Flume New Tab?
 
-Flume Pro is this.
+Flume New Tab is …
 
