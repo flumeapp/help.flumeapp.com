@@ -1,6 +1,6 @@
 # Summary
 
-* [Flume for Mac](README.md)
+* [Home](README.md)
 * [General](general/README.md)
   * [Keyboard Shortcuts](general/keyboard-shortcuts.md)
 * [Flume Pro](flume-pro/README.md)
