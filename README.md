@@ -1,4 +1,4 @@
-<ul class="screenshots">
+<ul class="screenshots"> 
 <li><figure class="screenshot screenshot-left"></figure></li>
 <li><figure class="screenshot screenshot-center"></figure></li>
 <li><figure class="screenshot screenshot-right"></figure></li>
