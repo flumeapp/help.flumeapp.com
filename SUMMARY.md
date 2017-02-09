@@ -7,4 +7,6 @@
   * [What is Flume Pro?](flume-pro/what-is-flume-pro.md)
 * [How-To's](how-tos/README.md)
   * [Upload a File](how-tos/upload-a-file.md)
+* [Flume New Tab](flume-new-tab/README.md)
+  * [What is Flume New Tab?](flume-new-tab/what-is-flume-new-tab.md)
 
