@@ -1,7 +1,7 @@
 {
     "plugins": ["back-to-top-button", "header", "custom-favicon"],
     "pluginsConfig": {
-    "favicon": "assets/favicon.ico",
+    "favicon": "assets/favicon.png",
     "layout": {
       "headerPath" : "layouts/header.html"
     }
