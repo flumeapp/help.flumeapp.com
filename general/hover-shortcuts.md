@@ -1,10 +1,15 @@
-# Mouse Shortcuts
+# Hover Shortcuts
 
-Flume offers some unique mouse-shortcuts to speed up and improve your browsing experience.
+One of Flume's unique features, is something we like to call "Hover Shortcuts". These allow incredibly fast exploration of Instagram, by allowing you to perform actions using both hands - one on the keyboard, and the other on a mouse or trackpad.
 
-## General Shortcuts
+![](/assets/hovershortcuts.gif)
+
+To activate a Hover Shortcut, simply mouse the mouse cursor over a post (in either Column-View or Grid-View modes), and press one of the following keys:
 
 | Mouse Combination  | Explanation |
 | ------------- | ------------- |
-| Two-finger swipe | In Column-View mode, a two-finger swipe forward will "push" you to the relevant content as if you clicked on it. The opposite direction two-finger swipe will "pop" you back. The direction adheres to your current scrolling settings as configured in System Preferences > Mouse/Trackpad > Scrolling > Scroll direction.<br /><br />While in the process of making a two-finger swipe, arrow indicators will appear in the Flume main window indicating the direct you are about to move. |
-| Long-press (left-mouse) | Long-press can be used to quickly enlarge media wherever you see it (Feed, Likes, Explore, Profile, Activity).<br /><br />Long-pressing on a hashtag, location or avatar displays previews of that content also. |
+| L | Likes the media that is directly underneath the mouse cursor. |
+| C | Displays a comment text area for the media that is directly underneath the mouse cursor.  |
+| S | Saves the media that is directly underneath the mouse cursor.  |
+| Space | Opens a large preview for the media that is directly underneath the mouse cursor.  |
+
