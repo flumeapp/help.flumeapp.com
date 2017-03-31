@@ -135,9 +135,10 @@ The "Upload" menu will appear when the Upload window is the front-most window. W
 |Key Combination | Explanation |
 | ------------- | ------------- |
 | ⇧+ | Displays the menu to select a photo/video from your Mac, take a photo, or remove a previously selected item. Arrow keys can be used to navigate your selection and RETURN (↩) to confirm. |
-| ⌥L | Shows the Location window, allowing you to search for a location to tag the Media at. |
-| ⌥T | Shows the Tagging window, allowing you to add User's to tagged in the Photo (not applicable when uploading a Video). |
-| ⌥C | Shows the Cropping window, allowing you to crop the Photo to 1:1 square dimensions (not applicable when uploading a Video). |
-| ⌥R | Resizes a cropped Photo back to its original dimensions (not applicable when uploading a Video, or when the Photo has yet to be cropped). |
-| ⌥F | Shows the Poster Frame window, allowing you to select a specific frame to become the thumbnail image of your Video (not applicable when uploading a Photo). |
+| ⌥⌘L | Shows the Location window, allowing you to search for a location to tag the Media at. |
+| ⌥⌘E | Toggles the editing options. |
+| ⌥⌘T | Shows the Tagging window, allowing you to add User's to tagged in the Photo (not applicable when uploading a Video). |
+| ⌥⌘C | Shows the Cropping window, allowing you to crop the Photo to 1:1 square dimensions (not applicable when uploading a Video). |
+| ⌥⌘R | Resizes a cropped Photo back to its original dimensions (not applicable when uploading a Video, or when the Photo has yet to be cropped). |
+| ⌥⌘F | Shows the Poster Frame window, allowing you to select a specific frame to become the thumbnail image of your Video (not applicable when uploading a Photo). |
 | ⌘↩ | Posts the current Photo / Video. |
