@@ -13,6 +13,6 @@ To activate a Hover Shortcut, simply mouse the mouse cursor over a post (in eith
 
 <div style="text-align:center">
 
-![Hover Shortcut Example](/assets/hovershortcuts.gif)
+![Hover Shortcut Example](/assets/hovershortcuts.gif =100x200)
 
 </div>
