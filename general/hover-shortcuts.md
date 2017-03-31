@@ -11,8 +11,5 @@ To activate a Hover Shortcut, simply mouse the mouse cursor over a post (in eith
 | S | Saves the media that is directly underneath the mouse cursor.  |
 | Space | Opens a large preview for the media that is directly underneath the mouse cursor.  |
 
-<div style="text-align:center">
 
 ![Hover Shortcut Example](/assets/hovershortcuts.gif)
-
-</div>
