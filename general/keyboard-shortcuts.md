@@ -19,107 +19,43 @@ All of Flume's features can be accessed via the keyboard, and there are countles
 
 ## Menu&nbsp;Shortcuts
 
-An inbuilt-feature of macOS are keyboard shortcuts assigned to items in menu&#39;s. Flume shows menu&#39;s when the selection / item makes most sense. For instance, when you are viewing the Profile of a user, the &quot;User&quot; menu will appear in the menu. Similarly, when using keyboard selections for Media, Comments, Conversations and Messages, their related menu&#39;s will appear.
+An inbuilt-feature of macOS are keyboard shortcuts assigned to items in menus. Flume shows menus when the selection / item makes most sense. For instance, when you are viewing the Profile of a user, the "User" menu will appear in the menu. Similarly, when using keyboard selections for Media, Comments, Conversations and Messages, their related menus will appear.
 
 _Note: Not all menu items are listed below, only those with existing keyboard shortcuts._
 
 #### File Menu Shortcuts
 
-<table align="left" border="0" cellpadding="0" cellspacing="0">
-<colgroup>
-<col style="width:30%" />
-<col style="width:70%" />
-</colgroup>
-<tbody>
-<tr>
-<td>⌘R</td>
-<td>Refreshes the feed view, your notifications, pending follower requests, and the current view you are looking at, if applicable.</td>
-</tr>
-<tr>
-<td>⌘W</td>
-<td>Closes the currently focused window.</td>
-</tr>
-</tbody>
-</table>
-
-{% endraw %}
+| Key Combination  | Explanation |
+| ------------- | ------------- |
+| ⌘N | Opens an upload window |
+| ⌘O | Opens an file selection window in order to open .flume saved draft files. |
+| ⌘R | Refreshes the feed view, your notifications, pending follower requests, and the current view you are looking at, if applicable. |
+| ⌘W | Closes the currently focused window. |
 
 #### Account Menu Shortcuts
 
-{% raw %}
-
-<table align="left" border="0" cellpadding="0" cellspacing="0">
-<colgroup>
-<col style="width:30%" />
-<col style="width:70%" />
-</colgroup>
-<tbody>
-<tr>
-<td>⌘⇧L</td>
-<td>When you use Flume with just a single account, this will logout your account, and delete all cached data and account information, presenting you with the login window.<br />
-<br />
-If you use multiple accounts, this action is disabled.</td>
-</tr>
-<tr>
-<td>⌃[1-9]</td>
-<td>When using multiple accounts, pressing Ctrl (⌃) together with a corresponding number from 1..9 will quickly switch accounts. Click the &quot;Accounts&quot; menu to check the corresponding number (accounts are sorted alphabetically).</td>
-</tr>
-</tbody>
-</table>
-
-{% endraw %}
+| Key Combination  | Explanation |
+| ------------- | ------------- |
+| ⌘⇧L | When you use Flume with just a single account, this will logout your account, and delete all cached data and account information, presenting you with the login window.<br /><br />If you use multiple accounts, this action is disabled. |
+| ⌃[1-9] | When using multiple accounts, pressing Ctrl (⌃) together with a corresponding number from 1..9 will quickly switch accounts. Click the "Accounts" menu to check the corresponding number (accounts are sorted alphabetically). |
 
 #### View Menu Shortcuts
 
-{% raw %}
+|
+Key Combination | Explanation |
+| ------------- | ------------- |
+| ⌘0 | Opens the Upload window to create a new post. |
+| ⌘1 | Switches to the Home tab. |
+| ⌘2 | Switches to the Likes tab. |
+| ⌘3 | Switches to the Explore tab. |
+| ⌘4 | Switches to the Search tab. |
+| ⌘5 | Switches to the Activity tab. |
+| ⌘6 | Switches to the Conversations tab. |
+| ⌘7 | Switches to the Profile tab. |
+| ⌘U | Displays a popover to jump quickly to any user. Use the ESC/Down Arrow key while typing a username to see suggestions. |
+| ⌥⌘1 | In the Feed, Likes and Explore tabs, as well as in Profiles, switches the display to display Media in a single Column-View. |
 
-<table align="left" border="0" cellpadding="0" cellspacing="0">
-<colgroup>
-<col style="width:30%" />
-<col style="width:70%" />
-</colgroup>
-<tbody>
-<tr>
-<td>⌘0</td>
-<td>Opens the Upload window to create a new post (Flume Pro feature).</td>
-</tr>
-<tr>
-<td>⌘1</td>
-<td>Switches to the Home tab.</td>
-</tr>
-<tr>
-<td>⌘2</td>
-<td>Switches to the Likes tab.</td>
-</tr>
-<tr>
-<td>⌘3</td>
-<td>Switches to the Explore tab.</td>
-</tr>
-<tr>
-<td>⌘4</td>
-<td>Switches to the Search tab.</td>
-</tr>
-<tr>
-<td>⌘5</td>
-<td>Switches to the Activity tab.</td>
-</tr>
-<tr>
-<td>⌘6</td>
-<td>Switches to the Conversations tab.</td>
-</tr>
-<tr>
-<td>⌘7</td>
-<td>Switches to the Profile tab.</td>
-</tr>
-<tr>
-<td>⌘U</td>
-<td>Displays a popover to jump quickly to any user. Use the ESC/Down Arrow key while typing a username to see suggestions.</td>
-</tr>
-<tr>
-<td>⌥⌘1</td>
-<td>In the Feed, Likes and Explore tabs, as well as in Profiles, switches the display to display Media in a single Column-View.</td>
-</tr>
-<tr>
+
 <td>⌥⌘2</td>
 <td>In the Feed, Likes and Explore tabs, as well as in Profiles, switches the display to display Media in a 3x3 Grid-View.</td>
 </tr>
