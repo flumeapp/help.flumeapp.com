@@ -2,44 +2,35 @@
 
 All of Flume's features can be accessed via the keyboard, and there are countless keyboard shortcuts that you can use to speed up your browsing experience.
 
-{% raw %}
-<style type="text/css">
-table { border: 1px solid #efefef; clear: both; float: left; }
-table { margin: 20px; vertical-align: top; margin: 10px; width: 90%; font-size: 14px; border: 1px solid #efefef; }
-td { vertical-align: top; padding: 10px; }
-table td, table th { border-bottom: 1px solid #efefef; }
-tr:first-child td { width: 100px; }
-h2 { margin: 20px auto; font-size: 16px; }
-h4 { margin: 20px auto; font-size: 15px; border: none; text-decoration: none; }
-.regular { font-size: 14px; margin: 10px 0; border: none; text-decoration: none; }
-</style>
-{% endraw %}
-
 ## General Shortcuts
 
+| Key Combination  | Explanation |
+| ------------- | ------------- |
+| UP / DOWN (&uarr; / &darr;)  | In Column-View mode, this will &quot;focus&quot; your media selection. In Grid-View Mode, this will move your current selection one row up/down.<br /><br />In lists, such as Conversations, or Comments, this will &quot;focus&quot; your selection.  |
+| LEFT / RIGHT (&larr; / &rarr;)  | The behaviour of the Left arrow will depend on your current navigation history. Normally, it will &quot;pop&quot; you one level back to where you previously where. If you have already made a selection in Grid-View Mode, the selection will move one to the left. If you deselect (using ESC), then pressing left will "pop" you back as usual.<br />
+<br />The Right Arrow is only used in Grid-View mode currently, and moves your selection one item to the right.  |
+| PAGE UP / DOWN (⇞ / ⇟)  | Selects the first / last item in lists. |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {% raw %}
 
-<table align="left" border="0" cellpadding="0" cellspacing="0">
-<colgroup>
-<col style="width:30%" />
-<col style="width:70%" />
-</colgroup>
-<tbody>
+
 <tr>
-<td>UP / DOWN (&uarr; / &darr;)</td>
-<td>In Column-View mode, this will &quot;focus&quot; your media selection. In Grid-View Mode, this will move your current selection one row up/down.<br />
-<br />
-In lists, such as Conversations, or Comments, this will &quot;focus&quot; your selection.</td>
-</tr>
-<tr>
-<td>LEFT / RIGHT (&larr; / &rarr;)</td>
-<td>The behaviour of the Left arrow will depend on your current navigation history. Normally, it will &quot;pop&quot; you one level back to where you previously where. If you have already made a selection in Grid-View Mode, the selection will move one to the left. If you deselect (using ESC), then pressing left will &quot;pop&quot; you back as usual.<br />
-<br />
-The Right Arrow is only used in Grid-View mode currently, and moves your selection one item to the right.</td>
-</tr>
-<tr>
-<td>PAGE UP / DOWN (⇞ / ⇟)</td>
-<td>Selects the first / last item in lists.</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>RETURN (↩)</td>
