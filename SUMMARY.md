@@ -3,6 +3,8 @@
 * [Home](README.md)
 * [General](general/README.md)
   * [Keyboard Shortcuts](general/keyboard-shortcuts.md)
+  * [Mouse Shortcuts](general/mouse-shortcuts.md)
+  * [Hover Shortcuts](general/hover-shortcuts.md)
 * [Flume Pro](flume-pro/README.md)
   * [What is Flume Pro?](flume-pro/what-is-flume-pro.md)
 * [How-To's](how-tos/README.md)
