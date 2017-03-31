@@ -368,13 +368,14 @@ The "Location" menu will appear when viewing the tagged posts at a Location.
 </tr>
 </tbody>
 </table>
-&nbsp;
 
-<div style="clear: both;">&nbsp;</div>
+{% endraw %}
 
-<h4>Hashtag Menu Shortcuts</h4>
+#### Hashtag Menu Shortcuts
 
-<div class="regular">The &quot;Hashtag&quot; menu will appear when viewing the tagged posts of that Hashtag.</div>
+The "Hashtag" menu will appear when viewing the tagged posts of that Hashtag.
+
+{% endraw %}
 
 <table align="left" border="0" cellpadding="0" cellspacing="0">
 <colgroup>
@@ -388,13 +389,14 @@ The "Location" menu will appear when viewing the tagged posts at a Location.
 </tr>
 </tbody>
 </table>
-&nbsp;
 
-<div style="clear: both;">&nbsp;</div>
+{% raw %}
 
-<h4>Upload Menu Shortcuts</h4>
+#### Upload Menu Shortcuts
 
-<div class="regular">The &quot;Upload&quot; menu will appear when the Upload window is the front-most window. When a Photo / Video has been selected, the TAB key can switch focus between the Caption text-input, and the other buttons.</div>
+The "Upload" menu will appear when the Upload window is the front-most window. When a Photo / Video has been selected, the TAB key can switch focus between the Caption text-input, and the other buttons.
+
+{% raw %}
 
 <table align="left" border="0" cellpadding="0" cellspacing="0">
 <colgroup>
