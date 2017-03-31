@@ -2,7 +2,7 @@
 
 One of Flume's unique features, is something we like to call "Hover Shortcuts". These allow incredibly fast exploration of Instagram, by allowing you to perform actions using both hands - one on the keyboard, and the other on a mouse or trackpad.
 
-![](/assets/hovershortcuts.gif)
+![](/assets/hovershortcuts.gif =250x)
 
 To activate a Hover Shortcut, simply mouse the mouse cursor over a post (in either Column-View or Grid-View modes), and press one of the following keys:
 
