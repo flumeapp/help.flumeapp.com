@@ -6,66 +6,16 @@ All of Flume's features can be accessed via the keyboard, and there are countles
 
 | Key Combination  | Explanation |
 | ------------- | ------------- |
-| UP / DOWN (&uarr; / &darr;)  | In Column-View mode, this will &quot;focus&quot; your media selection. In Grid-View Mode, this will move your current selection one row up/down.<br /><br />In lists, such as Conversations, or Comments, this will &quot;focus&quot; your selection.  |
-| LEFT / RIGHT (&larr; / &rarr;)  | The behaviour of the Left arrow will depend on your current navigation history. Normally, it will &quot;pop&quot; you one level back to where you previously where. If you have already made a selection in Grid-View Mode, the selection will move one to the left. If you deselect (using ESC), then pressing left will "pop" you back as usual.<br />
-<br />The Right Arrow is only used in Grid-View mode currently, and moves your selection one item to the right.  |
-| PAGE UP / DOWN (⇞ / ⇟)  | Selects the first / last item in lists. |
+| UP / DOWN (&uarr; / &darr;) | In Column-View mode, this will "focus" your media selection. In Grid-View Mode, this will move your current selection one row up/down.<br /><br />In lists, such as Conversations, or Comments, this will "focus" your selection.  |
+| LEFT / RIGHT (&larr; / &rarr;) | The behaviour of the Left arrow will depend on your current navigation history. Normally, it will "pop" you one level back to where you previously where. If you have already made a selection in Grid-View Mode, the selection will move one to the left. If you deselect (using ESC), then pressing left will "pop" you back as usual.<br /><br />The Right Arrow is only used in Grid-View mode currently, and moves your selection one item to the right.  |
+| PAGE UP / DOWN (⇞ / ⇟) | Selects the first / last item in lists. |
+| RETURN (↩) | When selecting items with the keyboard, RETURN will "push" to the relevant item. |
+| ESC (⎋) | If you have made a selection using the arrow keys, ESC will deselect your selection.<br /><br />If you have no current selection, ESC will "pop" you one level back to where you previously where, if applicable. The window will "bounce" when you cannot "pop" any further.<br /><br />If the "Larger Preview" window is visible, ESC will close the Larger Preview, but keep your current selection.<br /><br />In "pop-up" windows and popovers, such as the in-built Browser window, Camera window, Upload Locations, "Go to User…" popover, as well as the automatic hashtag and user search popovers, ESC will close the window/popover. |
+| TAB (⇥) | In the Explore, Search and Profile views, the TAB key will switch between the sections of that view. In area where a text-entry area exists, TAB will switch focus between elements in that view (for example, between the Search field and the search results table in the Search view. |
+| ⌘F | Jumps to the Search tab. If you are on Conversations tab, the search field will be put in focus if it wasn't previously. |
+| ⌘? | Displays the "Welcome to Flume" Window, with quick links to Flume's Website, Support and "What's New?"|
+| ⌘⌃Space | When the keyboard focus is in a text-entry area, this will invoke macOS's default "Emoji and Symbols" picker window, allowing you to insert emoji characters. See <a href="https://support.apple.com/en-us/HT201586">https://support.apple.com/en-us/HT201586</a> for more info. |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-{% raw %}
-
-
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>RETURN (↩)</td>
-<td>When selecting items with the keyboard, RETURN will &quot;push&quot; to the relevant item.</td>
-</tr>
-<tr>
-<td>ESC (⎋)</td>
-<td>If you have made a selection using the arrow keys, ESC will deselect your selection.&nbsp;<br />
-<br />
-If you have no current selection, ESC will &quot;pop&quot; you one level back to where you previously where, if applicable. The window will &quot;bounce&quot; when you cannot &quot;pop&quot; any further.<br />
-<br />
-If the &quot;Larger Preview&quot; window is visible, ESC will close the Larger Preview, but keep your current selection.<br />
-<br />
-In &quot;pop-up&quot; windows and popovers, such as the in-built Browser window, Camera window, Upload Locations, &quot;Go to User...&quot; popover, as well as the automatic hashtag and user search popovers, ESC will close the window/popover.</td>
-</tr>
-<tr>
-<td>TAB (⇥)</td>
-<td>In the Explore, Search and Profile views, the TAB key will switch between the sections of that view. In area where a text-entry area exists, TAB will switch focus between elements in that view (for example, between the Search field and the search results table in the Search view.</td>
-</tr>
-<tr>
-<td>⌘F</td>
-<td>Jumps to the Search tab. If you are on Conversations tab, the search field will be put in focus if it wasn&#39;t previously.</td>
-</tr>
-<tr>
-<td>⌘?</td>
-<td>Displays the &quot;Welcome to Flume&quot; Window, with quick links to Flume&#39;s Website, Support and &quot;What&#39;s New?&quot;</td>
-</tr>
-<tr>
-<td><span style="font-size: 14px;">⌘⌃Space</span></td>
-<td>When the keyboard focus is in a text-entry area, this will invoke macOS&#39;s default &quot;Emoji and Symbols&quot; picker window, allowing you to insert emoji characters. See&nbsp;<a href="https://support.apple.com/en-us/HT201586">https://support.apple.com/en-us/HT201586</a> for more info.</td>
-</tr>
-</tbody>
-</table>
-
-{% endraw %}
 
 ## Menu&nbsp;Shortcuts
 
