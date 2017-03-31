@@ -63,141 +63,49 @@ _Note: Not all menu items are listed below, only those with existing keyboard sh
 
 The "Media" menu will appear when a keyboard selection has been made on a Media item, or when in the Detail View of a Media item.
 
-{% raw %}
-
-<table align="left" border="0" cellpadding="0" cellspacing="0">
-<colgroup>
-<col style="width:30%" />
-<col style="width:70%" />
-</colgroup>
-<tbody>
-<tr>
-<td>Space</td>
-<td>Opens the Larger Preview window.</td>
-</tr>
-<tr>
-<td>D</td>
-<td>&quot;Pushes&quot; to the Detail View.</td>
-</tr>
-<tr>
-<td>A</td>
-<td>&quot;Pushes&quot; to the Profile View of the Media&#39;s author.</td>
-</tr>
-<tr>
-<td>T</td>
-<td>&quot;Pushes&quot; to the location that the Media is tagged at.</td>
-</tr>
-<tr>
-<td>L</td>
-<td>Likes the Photo/Video.</td>
-</tr>
-<tr>
-<td>U</td>
-<td>Unlikes the Photo/Video.</td>
-</tr>
-<tr>
-<td>C</td>
-<td>&quot;Pushes&quot; to the Detail View and sets the focus on the Add Comment text-field.</td>
-</tr>
-<tr>
-<td>⌥⌘C</td>
-<td>Copies the URL of the Media item to the system clipboard.</td>
-</tr>
-<tr>
-<td>⌥⌘B</td>
-<td>Opens the URL of the Media item in your web-browser.</td>
-</tr>
-<tr>
-<td>⌥⌘U</td>
-<td>Opens the Profile URL of the Media item&#39;s author in your web-browser.</td>
-</tr>
-<tr>
-<td>⌘E</td>
-<td>Opens the Edit Window for the Media (visible only for Media you uploaded).</td>
-</tr>
-<tr>
-<td>⌘S</td>
-<td>Saves the Media item to your chosen location.</td>
-</tr>
-<tr>
-<td>⌘⌫</td>
-<td>Deletes the current Media Item (visible only for Media you uploaded).</td>
-</tr>
-</tbody>
-</table>
-
-{% endraw %}
+| Key Combination | Explanation |
+| ------------- | ------------- |
+| Space | Opens the Larger Preview window. | 
+| D | "Pushes" to the Detail View. |
+| A | "Pushes" to the Profile View of the Media's author. |
+| T | "Pushes" to the location that the Media is tagged at. |
+| L | Likes the Photo/Video.|
+| U | Unlikes the Photo/Video. |
+| C | "Pushes" to the Detail View and sets the focus on the Add Comment text-field. |
+| ⌥⌘C | Copies the URL of the Media item to the system clipboard. |
+| ⌥⌘B | Opens the URL of the Media item in your web-browser. |
+| ⌥⌘U | Opens the Profile URL of the Media item's author in your web-browser. |
+| ⌘E | Opens the Edit Window for the Media (visible only for Media you uploaded). |
+| ⌘S | Saves the Media item to your chosen location. |
+| ⌘⌫ | Deletes the current Media Item (visible only for Media you uploaded) |
 
 #### User Menu Shortcuts
 
 The "User" menu will appear when a keyboard selection has been made on a Media item, when in the Detail View of a Media item, on a user's Profile, when selecting a Comment, Message, and in all User lists (following/followers, Activity notifications etc)
 
-{% raw %}
+|Key Combination | Explanation |
+| ------------- | ------------- |
+| F | Follows the selected User. |
 
-<table align="left" border="0" cellpadding="0" cellspacing="0">
-<colgroup>
-<col style="width:30%" />
-<col style="width:70%" />
-</colgroup>
-<tbody>
-<tr>
-<td>F</td>
-<td>Follows the selected User.</td>
-</tr>
-</tbody>
-</table>
-
-{% endraw %}
 
 #### Comment Menu Shortcuts
 
 The "Comment" menu will appear when a keyboard selection has been made on a Comment in the Detail View of a Media item.
 
-{% raw %}
+|Key Combination | Explanation |
+| ------------- | ------------- |
+| R | Compose a reply to the selected comment's author. |
+| ⌥A | "Pushes" to the Profile of the selected comment's author. |
 
-<table align="left" border="0" cellpadding="0" cellspacing="0">
-<colgroup>
-<col style="width:30%" />
-<col style="width:70%" />
-</colgroup>
-<tbody>
-<tr>
-<td>R</td>
-<td>Compose a reply to the selected comment&#39;s author.</td>
-</tr>
-<tr>
-<td>⌥A</td>
-<td>&quot;Pushes&quot; to the Profile of the selected comment&#39;s author.</td>
-</tr>
-</tbody>
-</table>
-
-{% endraw %}
 
 #### Conversation Menu Shortcuts
 
 The "Conversation" menu will appear when a keyboard selection has been made on a Conversation in the Conversations View.
 
-{% raw %}
-
-<table align="left" border="0" cellpadding="0" cellspacing="0">
-<colgroup>
-<col style="width:30%" />
-<col style="width:70%" />
-</colgroup>
-<tbody>
-<tr>
-<td>M</td>
-<td>Toggles muting the selected conversation.</td>
-</tr>
-<tr>
-<td>⌘D / ⌥⌘D</td>
-<td>Toggles adding the Conversation to your Bookmarks.</td>
-</tr>
-</tbody>
-</table>
-
-{% endraw %}
+|Key Combination | Explanation |
+| ------------- | ------------- |
+| M | Toggles muting the selected conversation. |
+| ⌘D / ⌥⌘D | Toggles adding the Conversation to your Bookmarks. |
 
 #### Message Menu Shortcuts
 
@@ -207,7 +115,10 @@ The "Message" menu will appear when a keyboard selection has been made on a Mess
 
 The "Location" menu will appear when viewing the tagged posts at a Location.
 
-{% raw %}
+|Key Combination | Explanation |
+| ------------- | ------------- |
+
+
 
 <table align="left" border="0" cellpadding="0" cellspacing="0">
 <colgroup>
@@ -222,13 +133,15 @@ The "Location" menu will appear when viewing the tagged posts at a Location.
 </tbody>
 </table>
 
-{% endraw %}
 
 #### Hashtag Menu Shortcuts
 
 The "Hashtag" menu will appear when viewing the tagged posts of that Hashtag.
 
-{% endraw %}
+|Key Combination | Explanation |
+| ------------- | ------------- |
+
+
 
 <table align="left" border="0" cellpadding="0" cellspacing="0">
 <colgroup>
@@ -243,13 +156,15 @@ The "Hashtag" menu will appear when viewing the tagged posts of that Hashtag.
 </tbody>
 </table>
 
-{% raw %}
 
 #### Upload Menu Shortcuts
 
 The "Upload" menu will appear when the Upload window is the front-most window. When a Photo / Video has been selected, the TAB key can switch focus between the Caption text-input, and the other buttons.
 
-{% raw %}
+|Key Combination | Explanation |
+| ------------- | ------------- |
+
+
 
 <table align="left" border="0" cellpadding="0" cellspacing="0">
 <colgroup>
@@ -291,5 +206,3 @@ The "Upload" menu will appear when the Upload window is the front-most window. W
 </tr>
 </tbody>
 </table>
-
-{% endraw %}
