@@ -3,7 +3,6 @@
 All of Flume's features can be accessed via the keyboard, and there are countless keyboard shortcuts that you can use to speed up your browsing experience.
 
 {% raw %}
-
 <style type="text/css">
 table { border: 1px solid #efefef; clear: both; float: left; }
 table { margin: 20px; vertical-align: top; margin: 10px; width: 90%; font-size: 14px; border: 1px solid #efefef; }
@@ -14,7 +13,6 @@ h2 { margin: 20px auto; font-size: 16px; }
 h4 { margin: 20px auto; font-size: 15px; border: none; text-decoration: none; }
 .regular { font-size: 14px; margin: 10px 0; border: none; text-decoration: none; }
 </style>
-
 {% endraw %}
 
 ## General Shortcuts
