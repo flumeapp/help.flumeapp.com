@@ -41,8 +41,7 @@ _Note: Not all menu items are listed below, only those with existing keyboard sh
 
 #### View Menu Shortcuts
 
-|
-Key Combination | Explanation |
+| Key Combination | Explanation |
 | ------------- | ------------- |
 | ⌘0 | Opens the Upload window to create a new post. |
 | ⌘1 | Switches to the Home tab. |
@@ -54,32 +53,11 @@ Key Combination | Explanation |
 | ⌘7 | Switches to the Profile tab. |
 | ⌘U | Displays a popover to jump quickly to any user. Use the ESC/Down Arrow key while typing a username to see suggestions. |
 | ⌥⌘1 | In the Feed, Likes and Explore tabs, as well as in Profiles, switches the display to display Media in a single Column-View. |
-
-
-<td>⌥⌘2</td>
-<td>In the Feed, Likes and Explore tabs, as well as in Profiles, switches the display to display Media in a 3x3 Grid-View.</td>
-</tr>
-<tr>
-<td>⌘D / ⌥⌘D</td>
-<td>Toggles the currently selected or viewed Profile, Hashtag or Location as a Bookmark. These Bookmarks are visible from the Search tab.</td>
-</tr>
-<tr>
-<td>⌘+</td>
-<td>Increases the font size of the textual user interface elements.</td>
-</tr>
-<tr>
-<td>⌘-</td>
-<td>Decreases the font size of the textual user interface elements.</td>
-</tr>
-<tr>
-<td>⌃⌘F</td>
-<td>Toggles Full Screen mode.</td>
-</tr>
-</tbody>
-</table>
-&nbsp;
-
-{% endraw %}
+| ⌥⌘2 | In the Feed, Likes and Explore tabs, as well as in Profiles, switches the display to display Media in a 3x3 Grid-View. |
+| ⌘D / ⌥⌘D | Toggles the currently selected or viewed Profile, Hashtag or Location as a Bookmark. These Bookmarks are visible from the Search tab. |
+| ⌘+ | Increases the font size of the textual user interface elements. |
+| ⌘- | Decreases the font size of the textual user interface elements. |
+| ⌃⌘F | Toggles Full Screen mode. |
 
 #### Media Menu Shortcuts
 
