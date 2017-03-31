@@ -1,6 +1,6 @@
 # Keyboard Shortcuts
 
-All of Flume&#39;s features can be accessed via the keyboard, and there are countless keyboard shortcuts that you can use to speed up your browsing experience.
+All of Flume's features can be accessed via the keyboard, and there are countless keyboard shortcuts that you can use to speed up your browsing experience.
 
 {% raw %}
 
