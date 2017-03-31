@@ -12,4 +12,4 @@ To activate a Hover Shortcut, simply mouse the mouse cursor over a post (in eith
 | Space | Opens a large preview for the media that is directly underneath the mouse cursor.  |
 
 
-<div style="text-align: center;"><img src="/assets/logo.png" /></div>
+<p style="text-align: center;"><img src="/assets/logo.png" /></p>
