@@ -15,7 +15,7 @@ All of Flume's features can be accessed via the keyboard, and there are countles
 | TAB (⇥) | In the Explore, Search and Profile views, the TAB key will switch between the sections of that view. In area where a text-entry area exists, TAB will switch focus between elements in that view (for example, between the Search field and the search results table in the Search view. |
 | ⌘F | Jumps to the Search tab. If you are on Conversations tab, the search field will be put in focus if it wasn't previously. |
 | ⌘? | Displays the "Welcome to Flume" Window, with quick links to Flume's Website, Support and "What's New?"|
-| ⌘⌃Space | When the keyboard focus is in a text-entry area, this will invoke macOS's default "Emoji and Symbols" picker window, allowing you to insert emoji characters. See <a href="https://support.apple.com/en-us/HT201586">https://support.apple.com/en-us/HT201586</a> for more info. |
+| ⌘⌃Space | When the keyboard focus is in a text-entry area, this will invoke macOS's default "Emoji and Symbols" picker window, allowing you to insert emoji characters. See this [Apple Support](https://support.apple.com/en-us/HT201586) article for more info. |
 
 
 ## Menu&nbsp;Shortcuts
