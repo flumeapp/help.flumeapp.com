@@ -1,4 +1,4 @@
-# Flume for Mac - Overview
+# Overview
 
 Flume for Mac is a beautiful Instagram client for macOS 10.10 and above. Flume makes browsing Instagram faster, and more efficient than any other platform. With support for uploading, direct messaging, sharing, editing and much more, Flume is the best way to use Instagram for both casual and professional Instagram users.
 
