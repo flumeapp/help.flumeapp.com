@@ -27,7 +27,7 @@
   * [Sharing](views/sharing.md)
   * [Promoting](views/promote.md)
   * [Large Preview](views/largepreview.md)  
-* Preferences
+* [Preferences](preferences/README.md)
   * [General Preferences](preferences/general.md)
   * [Design Preferences](preferences/design.md)
   * [Accounts Preferences](preferences/accounts.md)
