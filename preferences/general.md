@@ -32,9 +32,7 @@ If set to "Menu bar only", it is a macOS feature that the macOS menubar will not
 
 Enable or disable user-interface sounds (such as when refreshing content with the "pull-to-refresh" method, or clicking on buttons).
 
-
 <hr /> 
-
 
 ##### Show labels in Touch Bar
 
@@ -44,15 +42,25 @@ Enable or disable labels for buttons that appear in the [Touch Bar](https://supp
 
 ##### Keep window on top
 
+
+
 <hr />
 
 ##### Open web links in background
 
+
+
 <hr />
-
-
 
 ##### Global show/hide window
 
 
+
+<hr />
+
 ##### Local cache
+
+
+
+<hr />
+
