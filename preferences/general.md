@@ -6,7 +6,7 @@ To access Flume's Preferences, press the <kbd>⌘,</kbd> shortcut, or access it 
 
 <p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/general.png" width="60%" height="60%" /></p>
 
-###### Language
+##### Language
 
 Flume supports the current languages: Arabic, Chinese (Simplified), Chinese (Traditional), Czech, Danish, Dutch, English, French, German, Greek, Indonesian, Italian, Japanese, Korean, Malay, Norwegian, Polish, Portuguese, Portuguese (Brazilian), Russian, Spanish, Swedish, Thai, Turkish, Ukrainian and Vietnamese.
 
@@ -14,7 +14,7 @@ Adjusting the language will adjust all user-interface elements, as well as conte
 
 Note that you will need to restart Flume after changing language in order for it to take effect.
 
-###### Show icon in
+##### Show icon in
 
 Choose between three options:
 
@@ -27,7 +27,7 @@ If set to "Menu bar only", it is a macOS feature that the macOS menubar will not
 <p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/menubar.png" width="60%" height="60%" /></p>
 
 
-###### Play sounds
+##### Play sounds
 
 Enable or disable user-interface sounds (such as when refreshing content with the "pull-to-refresh" method, or clicking on buttons).
 
