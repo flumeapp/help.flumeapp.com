@@ -17,7 +17,7 @@
   * [Accounts](preferences/accounts.md)
   * [Feed](preferences/feed.md)
   * [Upload](preferences/upload.md)
-  * [Notifications](preferences/general.md)
+  * [Notifications](preferences/notifications.md)
   * [Flume Pro](preferences/flumepro.md)
   * [Licence](preferences/licence.md)
 * Misc
