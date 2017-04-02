@@ -18,9 +18,13 @@
     * [Change Password](views/profile/editpassword.md)
     * [Blocked Users](views/profile/blockedusers.md)
     * [Business Profiles](views/profile/businessprofiles.md)
+    * [Payment Methods](views/profile/paymentmethods.md)
     * [Private Profiles](views/profile/priviateprofiles.md)
     * [Linked Accounts](views/profile/linkedaccounts.md)
     * [Comments](views/profile/comments.md)
+  * [Sharing](views/sharing.md)
+  * [Promote](views/promote.md)
+  * [Large Preview](views/largepreview.md)  
 * Preferences
   * [General Preferences](preferences/general.md)
   * [Design Preferences](preferences/design.md)
