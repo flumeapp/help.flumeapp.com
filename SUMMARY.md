@@ -2,10 +2,6 @@
 
 * [Home](README.md)
   * [Overview](home/overview.md)
-* General
-  * [Keyboard Shortcuts](general/keyboard-shortcuts.md)
-  * [Mouse Shortcuts](general/mouse-shortcuts.md)
-  * [Hover Shortcuts](general/hover-shortcuts.md)
 * Views
   * [Upload](views/upload.md)
   * [Feed](views/feed.md)
@@ -24,6 +20,10 @@
   * [Notifications](preferences/general.md)
   * [Flume Pro](preferences/flumepro.md)
   * [Licence](preferences/licence.md)
+* Misc
+  * [Keyboard Shortcuts](misc/keyboard-shortcuts.md)
+  * [Mouse Shortcuts](misc/mouse-shortcuts.md)
+  * [Hover Shortcuts](misc/hover-shortcuts.md)
 * Flume Pro
   * [What is Flume Pro?](flume-pro/what-is-flume-pro.md)
 * How-To's
