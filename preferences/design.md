@@ -11,15 +11,21 @@
 | Dark | The user interface will use a darker background, with lighter text. |
 | Light | The user interface will use a lighter background, with darker text. |
 
+<hr />
+
 ##### Font size
 
-The font size preference can also be adjusted via the [keyboard shortcuts](/misc/keyboard-shortcuts.md) 
+The font size preference can also be adjusted at any time in Flume via the [keyboard shortcuts](/misc/keyboard-shortcuts.md) <kbd>⌘+</kbd> and <kbd>⌘-</kbd>.
 
 | Option | Explanation |
 |----------------------|
-| Default | The user interface will use a darker background, with lighter text. |
-| Larger | The user interface will use a lighter background, with darker text. |
-| Largest | The user interface will use a lighter background, with darker text. |
+| Default | Text elements will use the default font sizes as recommended by the [macOS Human Interface Guidelines.](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/index.html)  |
+| Larger | Increases the text sizes from the default by 1pt. |
+| Largest | Increases the text sizes from the default by 2pt. |
+
+<hr />
+
+
 
 
 
