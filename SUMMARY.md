@@ -15,10 +15,17 @@
   * [Activity](views/activity.md)
   * [Conversations](views/conversations.md)
   * [Profile](views/profile.md)
+* Preferences
+  * [General](preferences/general.md)
+  * [Design](preferences/design.md)
+  * [Accounts](preferences/accounts.md)
+  * [Feed](preferences/feed.md)
+  * [Upload](preferences/upload.md)
+  * [Notifications](preferences/general.md)
+  * [Flume Pro](preferences/flumepro.md)
+  * [Licence](preferences/licence.md)
 * Flume Pro
   * [What is Flume Pro?](flume-pro/what-is-flume-pro.md)
 * How-To's
   * [Upload a File](how-tos/upload-a-file.md)
-* Flume New Tab
-  * [What is Flume New Tab?](flume-new-tab/what-is-flume-new-tab.md)
 
