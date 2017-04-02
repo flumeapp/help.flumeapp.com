@@ -36,7 +36,6 @@
   * [Upload Preferences](preferences/upload.md)
   * [Notifications Preferences](preferences/notifications.md)
   * [Flume Pro Preferences](preferences/flumepro.md)
-  * [Licence Preferences](preferences/licence.md)
 * Misc
   * [Keyboard Shortcuts](misc/keyboard-shortcuts.md)
   * [Mouse Shortcuts](misc/mouse-shortcuts.md)
