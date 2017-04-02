@@ -6,5 +6,5 @@ To use Flume with VoiceOver, enable VoiceOver from System Preferences > Accessib
 
 <p style="text-align: center; margin-top: 1em;"><img src="/home/assets/voiceover.png" width="60%" height="60%" /></p>
 
-<hr />
+We are constantly improving our Accessibility support - if you're an accessibility user and would like to help or report an issue, [please contact us.](http://support.flumeapp.com/customer/en/portal/articles/2550592-how-can-i-contact-support-)
 
