@@ -62,7 +62,7 @@ When the [Show icon in](/preferences/general.md#showiconin) option is set to "Me
 
 ##### Local cache
 
-
+Displays the current size of the local database and image cache. This cache is automatically cleared by Flume when it reaches 300MB, when all accounts are logged out, or manually by pressing the "Empty Caches" button.
 
 <hr />
 
