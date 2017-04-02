@@ -39,8 +39,3 @@
   * [Keyboard Shortcuts](misc/keyboard-shortcuts.md)
   * [Mouse Shortcuts](misc/mouse-shortcuts.md)
   * [Hover Shortcuts](misc/hover-shortcuts.md)
-* Flume Pro
-  * [What is Flume Pro?](flume-pro/what-is-flume-pro.md)
-* How-To's
-  * [Upload a File](how-tos/upload-a-file.md)
-
