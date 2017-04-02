@@ -1,2 +1,2 @@
-# Promoting
+# Promote
 
