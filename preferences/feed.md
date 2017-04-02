@@ -1,2 +1,2 @@
-# Feed
+# Feed Preferences
 
