@@ -1,4 +1,4 @@
-<p style="text-align: center; margin-top: 1em;"><img src="/home/assets/icon.png" width="60%" height="60%" /></p>
+<p style="text-align: center; margin-top: 1em;"><img src="/home/assets/icon.png" width="30%" height="30%" /></p>
 
 <div class="center"><h1>Flume for Mac Help</h2></div>
 
