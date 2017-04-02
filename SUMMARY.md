@@ -15,7 +15,6 @@
   * [Activity](views/activity.md)
   * [Conversations](views/conversations.md)
   * [Profile](views/profile.md)
-
 * Flume Pro
   * [What is Flume Pro?](flume-pro/what-is-flume-pro.md)
 * How-To's
