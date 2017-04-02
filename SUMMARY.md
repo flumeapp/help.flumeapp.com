@@ -2,6 +2,7 @@
 
 * [Home](README.md)
   * [Overview](home/overview.md)
+  * [Design](home/design.md)
 * Views
   * [Upload](views/upload.md)
   * [Feed](views/feed.md)
