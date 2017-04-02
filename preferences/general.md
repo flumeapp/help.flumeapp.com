@@ -30,5 +30,5 @@ Enable or disable user-interface sounds (such as when refreshing content with th
 
 ##### Show labels in Touch Bar
 
-Enable or disable labels for buttons that appear in the [Touch Bar.](https://developer.apple.com/macos/touch-bar/). Disabling this option will allow more buttons to be visible in the Touch Bar.
+Enable or disable labels for buttons that appear in the [Touch Bar.](https://developer.apple.com/macos/touch-bar/). Disabling this option will allow more buttons to be visible in the Touch Bar. Learn more.
 
