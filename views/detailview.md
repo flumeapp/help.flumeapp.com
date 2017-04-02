@@ -1,2 +1,2 @@
-# Large Preview
+# Details
 
