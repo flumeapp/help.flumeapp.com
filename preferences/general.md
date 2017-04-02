@@ -22,7 +22,7 @@ Choose between three options:
 - Dock and menu bar
 - Menu bar only
 
-Clicking on the status bar icon will toggle the windows front-most status, similar to [Global show/hide window](#global-show-hide-window) keyboard shortcut.
+Clicking on the status bar icon will toggle the windows front-most status, similar to [Global show/hide window](#global-showhide-window) keyboard shortcut.
 
 
 
