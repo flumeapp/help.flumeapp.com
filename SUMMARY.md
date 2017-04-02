@@ -24,7 +24,7 @@
     * [Comments](views/profile/comments.md)
   * [Editing](views/editing.md)
   * [Sharing](views/sharing.md)
-  * [Promote](views/promote.md)
+  * [Promoting](views/promote.md)
   * [Large Preview](views/largepreview.md)  
 * Preferences
   * [General Preferences](preferences/general.md)
