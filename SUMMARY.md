@@ -40,3 +40,6 @@
   * [Keyboard Shortcuts](misc/keyboard-shortcuts.md)
   * [Mouse Shortcuts](misc/mouse-shortcuts.md)
   * [Hover Shortcuts](misc/hover-shortcuts.md)
+* [Flume Support Portal](http://support.flumeapp.com)
+* [Contact Us](http://support.flumeapp.com/customer/en/portal/articles/2550592-how-can-i-contact-support-)
+
