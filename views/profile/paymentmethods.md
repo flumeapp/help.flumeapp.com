@@ -1,1 +1,1 @@
-# Private Profiles
+# Payment Methods
