@@ -25,7 +25,6 @@ Choose between three options:
 Clicking on the status bar icon will toggle the windows front-most status, similar to [Global show/hide window](#global-showhide-window) keyboard shortcut.
 
 
-
 If set to "Menu bar only", it is a macOS feature that the macOS menubar will not update when Flume is in focus. To access Flume's preferences again, right-click on Flume's menubar icon.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/menubar.png" width="60%" height="60%" /></p>
