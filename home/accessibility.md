@@ -2,7 +2,7 @@
 
 Flume is entirely accessible with the [keyboard](/misc/keyboard-shortcuts.md) and localized for macOS [VoiceOver](https://www.apple.com/accessibility/mac/vision/). 
 
-To use Flume with VoiceOver, enable VoiceOver from <kbd>System Preferences > Accessibility > VoiceOver.</kbd>
+To use Flume with VoiceOver, enable VoiceOver from <kbd>System Preferences > Accessibility > VoiceOver</kbd>.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/home/assets/voiceover.png" width="60%" height="60%" /></p>
 
