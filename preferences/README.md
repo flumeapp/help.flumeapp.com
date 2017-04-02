@@ -4,7 +4,7 @@ To access Flume's Preferences, use the macOS standard <kbd>⌘,</kbd> keyboard s
 
 <p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/preferences-macos.png" width="60%" height="60%" /></p>
 
-You can also access Flume's Preferences through an additional shortcut under your Profile's Settings menu.
+You can also access Flume's Preferences through an additional shortcut under your [Profile's](/views/profile/README.md) Settings menu.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/preferences-profile.png" width="60%" height="60%" /></p>
 
