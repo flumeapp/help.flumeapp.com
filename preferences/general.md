@@ -56,7 +56,7 @@ When clicking on web links in comments, captions, messages, or using the "Open i
 
 Allows you to configure a custom [keyboard shortcut](/misc/keyboard-shortcuts.md) that can be triggered whenever Flume is open, that will display or hide the Flume main window quickly. If Flume is not currently open, no action will be performed.
 
-When the Show icon in option is set to "Menu bar only" or "Dock and menu bar", clicking on the status bar icon will also toggle the windows front-most status.
+When the [Show icon in](/preferences/general.md#showiconin) option is set to "Menu bar only" or "Dock and menu bar", clicking on the status bar icon will also toggle the windows front-most status.
 
 <hr />
 
