@@ -1,7 +1,7 @@
 {
     "plugins": ["back-to-top-button", "header", "custom-favicon", "toggle-headers", "toggle-chapters"],
     "pluginsConfig": {
-    "favicon": "assets/favicon.png",
+    "favicon": "/assets/favicon.png",
     "layout": {
       "headerPath" : "layouts/header.html"
     }
