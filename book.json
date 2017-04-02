@@ -1,5 +1,5 @@
 {
-    "plugins": ["back-to-top-button", "header", "custom-favicon"],
+    "plugins": ["back-to-top-button", "header", "custom-favicon", "toggle-headers"],
     "pluginsConfig": {
     "favicon": "assets/favicon.png",
     "layout": {
