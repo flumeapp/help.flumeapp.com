@@ -1,9 +1,5 @@
 # General Preferences
 
-To access Flume's Preferences, use the macOS standard <kbd>⌘,</kbd> keyboard shortcut, or access it from the macOS menubar under <kbd>Flume</kbd> > <kbd>Preferences</kbd>.
-
-### Overview
-
 <p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/general.png" width="60%" height="60%" /></p>
 
 ##### Language
