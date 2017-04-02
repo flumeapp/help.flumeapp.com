@@ -19,7 +19,7 @@
     * [Blocked Users](views/profile/blockedusers.md)
     * [Business Profiles](views/profile/businessprofiles.md)
     * [Payment Methods](views/profile/paymentmethods.md)
-    * [Private Profiles](views/profile/priviateprofiles.md)
+    * [Private Profiles](views/profile/privateprofiles.md)
     * [Linked Accounts](views/profile/linkedaccounts.md)
     * [Comments](views/profile/comments.md)
   * [Editing](views/editing.md)
