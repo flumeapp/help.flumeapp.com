@@ -23,6 +23,7 @@
     * [Private Profiles](views/profile/privateprofiles.md)
     * [Linked Accounts](views/profile/linkedaccounts.md)
     * [Comments](views/profile/comments.md)
+  * [Details](views/detailview.md)
   * [Editing](views/editing.md)
   * [Sharing](views/sharing.md)
   * [Promoting](views/promote.md)
