@@ -27,13 +27,21 @@ The font size preference can also be adjusted at any time in Flume via the [keyb
 
 ##### Show the menu
 
+<p style="text-align: center; margin-top: 1em;"><img src="/home/preferences/menu.png" width="60%" height="60%" /></p>
 
+| Option | Explanation |
+|----------------------|
+| On Hover | The toolbar menu will appear when the mouse hovers the bottom region of the main window (_default_). |
+| Always | The toolbar menu is always visible. |
+| When scrolling up | The toolbar menu will appear when the mouse hovers the bottom region of the main window, or when scrolling content up. |
 
 <hr />
 
 ##### Always show the title bar
 
+<p style="text-align: center; margin-top: 1em;"><img src="/home/assets/titlebar.png" width="60%" height="60%" /></p>
 
+Enables or disables showing the Flume title bar in [Feed](/views/feed.md) and [Likes](/views/likes.md). When disabled, [Show the menu](#show-the-menu) is set to "On Hover" and [Show media details](#show-media-details) is set to "None", Flume will display content edge-to-edge with no visible chrome (_default_).
 
 <hr />
 
