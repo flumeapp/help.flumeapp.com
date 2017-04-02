@@ -6,7 +6,7 @@ Flume for Mac is a beautiful Instagram client for macOS 10.10 and above. Flume m
 
 With support for cropping, tagging, locations, filters, adjustments, cover images and social network sharing, Flume's upload support is comprehensive and complete. [Learn more.](/views/upload.md)
 
-<p style="text-align: center; margin-top: 1em;"><img src="/home/assets/upload.png" width="30%" height="30%" /></p>
+<p style="text-align: center; margin-top: 1em;"><img src="/home/assets/upload.png" width="60%" height="60%" /></p>
 
 
 ### Chat to customers, fans, friends
