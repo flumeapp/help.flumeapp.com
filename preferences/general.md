@@ -42,7 +42,7 @@ Enable or disable labels for buttons that appear in the [Touch Bar](https://supp
 
 ##### Keep window on top
 
-
+Enable or disable Flume's windows to float above all other windows on the screen. [Large Preview](/views/largepreview.md) windows will display above all other Flume windows regardless of this option.
 
 <hr />
 
