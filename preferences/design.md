@@ -26,8 +26,7 @@ The font size preference can also be adjusted at any time in Flume via the [keyb
 <hr />
 
 
-
-
+##### Font size
 
 
 
