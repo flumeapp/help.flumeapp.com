@@ -22,6 +22,10 @@ Choose between three options:
 - Dock and menu bar
 - Menu bar only
 
+Clicking on the status bar icon will toggle the windows front-most status, similar to [Global show/hide window](#global-show-hide-window) keyboard shortcut.
+
+
+
 If set to "Menu bar only", it is a macOS feature that the macOS menubar will not update when Flume is in focus. To access Flume's preferences again, right-click on Flume's menubar icon.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/menubar.png" width="60%" height="60%" /></p>
@@ -56,7 +60,7 @@ When clicking on web links in comments, captions, messages, or using the "Open i
 
 Allows you to configure a custom [keyboard shortcut](/misc/keyboard-shortcuts.md) that can be triggered whenever Flume is open, that will display or hide the Flume main window quickly. If Flume is not currently open, no action will be performed.
 
-When the [Show icon in](/preferences/general.md#show-icon-in) option is set to "Menu bar only" or "Dock and menu bar", clicking on the status bar icon will also toggle the windows front-most status.
+When the [Show icon in](#show-icon-in) option is set to "Menu bar only" or "Dock and menu bar", clicking on the status bar icon will also toggle the windows front-most status.
 
 <hr />
 
