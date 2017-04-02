@@ -38,7 +38,7 @@ _Note: Not all menu items are listed below, only those with existing keyboard sh
 | Key Combination  | Explanation |
 | ------------- | ------------- |
 | <kbd>⌘⇧L</kbd> | When you use Flume with just a single account, this will logout your account, and delete all cached data and account information, presenting you with the login window.<br /><br />If you use multiple accounts, this action is disabled. |
-| <kbd>⌃[1-9]</kbd> | When using multiple accounts, pressing Ctrl (⌃) together with a corresponding number from 1..9 will quickly switch accounts. Click the "Accounts" menu to check the corresponding number (accounts are sorted alphabetically). |
+| <kbd>⌃[1-9]</kbd> | When using multiple accounts, pressing <kbd>⌃ (CTRL)</kbd> together with a corresponding number from 1..9 will quickly switch accounts. Click the "Accounts" menu to check the corresponding number (accounts are sorted alphabetically). |
 
 #### View Menu Shortcuts
 
