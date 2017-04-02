@@ -13,6 +13,8 @@ With support for cropping, tagging, locations, filters, adjustments, cover image
 
 Use the benefit of your dedicated keyboard to quickly respond to customers and share items with friends with complete Instagram Direct support. [Learn more.](/views/conversations.md)
 
+<p style="text-align: center; margin-top: 1em;"><img src="/home/assets/conversations.png" /></p>
+
 
 
 
