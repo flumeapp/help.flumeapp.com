@@ -1,2 +1,2 @@
-# Upload Preferences
+# Notifications Preferences
 
