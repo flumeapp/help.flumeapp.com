@@ -1,7 +1,7 @@
 # Summary
 
 * [Home](README.md)
-  * [Flume for Mac - Overview](home/overview.md)
+  * [Overview](home/overview.md)
 * General
   * [Keyboard Shortcuts](general/keyboard-shortcuts.md)
   * [Mouse Shortcuts](general/mouse-shortcuts.md)
