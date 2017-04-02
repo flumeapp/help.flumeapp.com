@@ -1,2 +1,2 @@
-# Feed View
+# Feed
 

@@ -1,2 +1,2 @@
-# Explore View
+# Explore
 

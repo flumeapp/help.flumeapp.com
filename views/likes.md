@@ -1,2 +1,2 @@
-# Likes View
+# Likes
 

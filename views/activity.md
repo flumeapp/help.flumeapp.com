@@ -1,1 +1,1 @@
-# Activity View
+# Activity
