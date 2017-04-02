@@ -42,4 +42,17 @@ Enable or disable labels for buttons that appear in the [Touch Bar](https://supp
 
 <hr /> 
 
+##### Keep window on top
 
+<hr />
+
+##### Open web links in background
+
+<hr />
+
+
+
+##### Global show/hide window
+
+
+##### Local cache
