@@ -19,7 +19,7 @@ Use the benefit of your dedicated keyboard to quickly respond to customers and s
 
 Switching between your personal and business accounts is a breeze. With comprehensive [Keyboard Shortcuts](/misc/keyboard-shortcuts.md), you can switch accounts from anywhere with a simple keypress. [Learn more.](/preferences/accounts.md)
 
-<p style="text-align: center; margin-top: 1em;"><img src="/home/assets/multipleaccounts.png" width="30%" height="30%" /></p>
+<p style="text-align: center; margin-top: 1em;"><img src="/home/assets/multipleaccounts.png" width="50%" height="50%" /></p>
 
 
 
