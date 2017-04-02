@@ -11,7 +11,7 @@
   * [Search](views/search.md)
   * [Activity](views/activity.md)
   * [Conversations](views/conversations.md)
-  * [Profile](views/profile.md)
+  * [Profile](views/profile/README.md)
     * [Invite Facebook Friends](views/profile/invitefacebook.md)
     * [Follow Facebook Friends](views/profile/followfacebook.md)
     * [Invite Contacts](views/profile/invitecontacts.md)
