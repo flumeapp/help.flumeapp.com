@@ -16,6 +16,10 @@ To switch between the active accounts, click on any (✔) button.
 
 Note that you can also switch accounts much faster by using the "Accounts" macOS menu bar, the corresponding [keyboard shortcut](/misc/keyboard-shortcuts.md), or by long-pressing on your avatar in the Profile tab.
 
+<p style="text-align: center; margin-top: 1em;"><img src="/home/assets/multipleaccounts.png" width="50%" height="50%" /></p>
 
 
 #### Removing an account
+
+To remove an account, first select the row in the list, then click on the ![/preferences/assets/delete.png] icon.
+
