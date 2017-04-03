@@ -5,6 +5,7 @@
   * [Design](home/design.md)
   * [Accessibility](home/accessibility.md)
 * Views
+  * [Login](views/login.md)
   * [Upload](views/upload.md)
   * [Feed](views/feed.md)
   * [Likes](views/likes.md)
