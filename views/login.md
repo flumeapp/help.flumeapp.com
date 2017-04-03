@@ -1,4 +1,33 @@
 # Login
 
 
+Upon launching Flume, you will first be presented with the Login Window.
+
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/login.png" width="60%" height="60%" /></p>
+
+Click "Let's Go" to get started.
+
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/login-form.png" width="60%" height="60%" /></p>
+
+Enter your Instagram username and password to login. 
+
+_Note that you should use your username, and not your email address to login. Your username should also not include the "@" symbol._ 
+
+If you have 1Password installed on your Mac, the 1Password logo will appear next to the Password field allowing you quicker access to copy and paste your password securely.
+
+#### Login Errors
+
+If login fails, a visible error alert will appear describing the issue. If your account has been disabled for violating Instagram's Community Guidelines, please consult [Instagram Support](https://help.instagram.com/366993040048856) for more info.
+
+#### Facebook Login
+
+If you normally use Facebook to login to Instagram, click on the "Help!" button and select the "I want to log-in with my Facebook account" option.
+
+#### Forgotten Password
+
+If you have forgotten your password, click on the "Help!" button and select the "I forgot my password, or don't have one." option.
+
+#### Register an Instagram account
+
+Flume does not currently support registration of Instagram accounts. To register a new Instagram account, click on the "Help!" button and select the "I don't have an Instagram account." option.
 
