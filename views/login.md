@@ -1,7 +1,7 @@
 # Login
 
 
-Upon launching Flume, you will be presented with the Login Window.
+Upon launching Flume, you will be presented with the Login Window. This window will also appear as a sheet when you are adding [multiple accounts.](/preferences/accounts.md)
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/login.png" width="30%" height="30%" /> <img src="/views/assets/login-form.png" width="30%" height="30%" /></p>
 
