@@ -21,9 +21,9 @@ If you normally use Facebook to login to Instagram, click on the "Help!" button 
 
 #### Forgotten Password
 
-If you have forgotten your password, click on the "Help!" button and select the "I forgot my password, or don't have one." option.
+If you have forgotten your password, click on the "Help!" button and select the "I forgot my password, or don't have one" option.
 
 #### Register an Instagram account
 
-Flume does not currently support registration of Instagram accounts. To register a new Instagram account, click on the "Help!" button and select the "I don't have an Instagram account." option.
+Flume does not currently support registration of Instagram accounts. To register a new Instagram account, click on the "Help!" button and select the "I don't have an Instagram account" option.
 
