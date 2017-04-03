@@ -3,13 +3,9 @@
 
 Upon launching Flume, you will first be presented with the Login Window.
 
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/login.png" width="60%" height="60%" /></p>
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/login.png" width="30%" height="30%" /> <img src="/views/assets/login-form.png" width="30%" height="30%" /></p>
 
-Click "Let's Go" to get started.
-
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/login-form.png" width="60%" height="60%" /></p>
-
-Enter your Instagram username and password to login. 
+Click "Let's Go" to get started and enter your Instagram username and password to login. 
 
 _Note that you should use your username, and not your email address to login. Your username should also not include the "@" symbol._ 
 
