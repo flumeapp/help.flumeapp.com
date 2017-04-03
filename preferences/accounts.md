@@ -21,5 +21,4 @@ Note that you can also switch accounts much faster by using the "Accounts" macOS
 
 #### Removing an account
 
-To remove an account, first select the row in the list, then click on the ![/preferences/assets/delete.png] icon.
-
+To remove an account, first select the row in the list, then click on the ![](/preferences/assets/delete.png) icon.
