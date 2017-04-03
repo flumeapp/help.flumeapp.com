@@ -13,7 +13,7 @@ Enter your Instagram username and password to login.
 
 _Note that you should use your username, and not your email address to login. Your username should also not include the "@" symbol._ 
 
-If you have 1Password installed on your Mac, the 1Password logo will appear next to the Password field allowing you quicker access to copy and paste your password securely.
+If you have [1Password](https://1password.com) installed on your Mac, the 1Password logo will appear next to the Password field allowing you quicker access to copy and paste your password securely.
 
 #### Login Errors
 
