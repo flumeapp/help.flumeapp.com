@@ -1,7 +1,7 @@
 # Login
 
 
-Upon launching Flume, you will first be presented with the Login Window.
+Upon launching Flume, you will be presented with the Login Window.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/login.png" width="30%" height="30%" /> <img src="/views/assets/login-form.png" width="30%" height="30%" /></p>
 
