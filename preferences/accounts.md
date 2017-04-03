@@ -8,11 +8,11 @@ In order to add more than one account at a time, you must upgrade to [Flume Pro 
 
 #### Adding an account
 
-To add an additional account, click on the ![](/preferences/assets/add.png) button.
+To add an additional account, click on the <img src="/preferences/assets/add.png" width="50%" height="50%" /> button.
 
 #### Switching an account
 
-To switch between the active accounts, click on any ![](/preferences/assets/active.png) button.
+To switch between the active accounts, click on any <img src="/preferences/assets/active.png" width="50%" height="50%" /> button.
 
 Note that you can also switch accounts much faster by using the "Accounts" macOS menu bar, the corresponding [keyboard shortcut](/misc/keyboard-shortcuts.md), or by long-pressing on your avatar in the Profile tab.
 
