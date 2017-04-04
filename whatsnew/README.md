@@ -52,7 +52,48 @@ _Release Date: August 27th, 2016_
 
 _Release Date: July 6th, 2016_
 
-
+- NEW: Improved scrolling performance and behaviour.
+- NEW: Improved memory usage.
+- NEW: The new sorting algorithm for user feed’s is now enabled. This fixes the issue of not being able to view more than 13 posts in the current version.
+- NEW: A new preference option is available to display the username, avatar and location in column view by default.
+- NEW: The activity tab is completely new - it is no longer a WebView and has support for displaying pending follower requests.
+- NEW: Videos now display a small run-down counter to indicate the video duration.
+- NEW: Support for Instagram’s Sponsored Posts.
+- FIXED: Images in higher DPI (240dpi, 300dpi) no longer cause a blurry upload.
+- FIXED: A crash that would occur when trying to upload on 10.10 Yosemite, either by selecting a file or dragging one onto the window.
+- FIXED: A crash that would occur if you tried to type an invisible character.
+- FIXED: An issue posting photos/videos when using the hashtag / username search popover.
+- FIXED: When pasting in text that contains an ASCII quote, we replace it with an opening/closing quote character. This fixes issues when trying to post captions, messages or comments with pasted quotation marks.
+- FIXED: Trying to compose new conversation with new user/s did not work. 
+- FIXED: You can now remove accounts from Preferences > Accounts even when you have just one account logged in.
+- FIXED: When changing your password from another device / website, we handle session timeouts correctly and prompt you to log in again.
+- FIXED: The verified badge image was misaligned.
+- FIXED: The translation of the Service menu item was missing.
+- FIXED: Liked animations on grid view cells is improved.
+- FIXED: Desktop notifications for new posts did not show if Flume was on another virtual desktop/screen.
+- FIXED: When switching the options for the menu bar visibility, hidden Finder windows would display.
+- FIXED: Video’s would not play if the low and standard resolution were pointing to the same URL.
+- FIXED: Video’s would show the thumbnail “stuck” behind as they played.
+- FIXED: Cmd+Up/Down arrow behaves better.
+- FIXED: Profile headers now include the context.
+- FIXED: Cmd+Ctrl+F toggles full-screen mode again instead of switching to the Search tab.
+- FIXED: The Flume Pro “trial” has been removed, due to confusion.
+- FIXED: Scroll-wheel mice don’t show the old style scrollbars.
+- FIXED: The QuickLook preview in the Upload window would zoom in too far for very large images.
+- FIXED: When adding too many hashtags to a comment or caption, we display an error.
+- FIXED: When pasting text that exceeds the maximum allowed amount, we paste up until the maximum amount instead of disallowing the paste entirely.
+- FIXED: The Preferences > Accounts window was resizable.
+- FIXED: Improved behaviour in grid view for loading older content.
+- FIXED: Infinite scrolling behaviour improved, in order to fetch new content earlier.
+- FIXED: Various issues related to the last line of text getting clipped.
+- FIXED: A crash on login if you had no internet connection, or the initial request failed.
+- FIXED: Scroll-wheel mice did not pre-fetch content and relied on scrolling all the way to the bottom.
+- FIXED: When switching tabs, the wrong titlebar could appear.
+- FIXED: Sending a like as the first message of a new conversation did nothing.
+- FIXED: A crash when sending a photo/video as the first message of a new conversation.
+- FIXED: If a user previously had a biography, website, or profile context, and later deleted them, the profile header view did not reflect the latest info.
+- FIXED: A crash when trying to push to the detail view from a profile with an invalid keyboard selection.
+- FIXED: A crash when pressing up/down/left/right arrow keys on private profiles, or when the profile had no posts.
 
 <hr />
 
