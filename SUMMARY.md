@@ -30,7 +30,7 @@
   * [Editing](views/editing.md)
   * [Sharing](views/sharing.md)
   * [Promoting](views/promote.md)
-  * [Large Preview](views/largepreview.md)  
+  * [Large Preview](views/largepreview.md)
 * [Preferences](preferences/README.md)
   * [General Preferences](preferences/general.md)
   * [Design Preferences](preferences/design.md)
@@ -39,11 +39,12 @@
   * [Upload Preferences](preferences/upload.md)
   * [Notifications Preferences](preferences/notifications.md)
   * [Flume Pro Preferences](preferences/flumepro.md)
-* Misc
+* [Misc](misc.md)
   * [Keyboard Shortcuts](misc/keyboard-shortcuts.md)
   * [Mouse Shortcuts](misc/mouse-shortcuts.md)
   * [Hover Shortcuts](misc/hover-shortcuts.md)
   * [Touch Bar](misc/touchbar.md)
+  * [URL Scheme](misc/urlscheme.md)
 * [Flume Support Portal](http://support.flumeapp.com)
 * [Contact Us](http://support.flumeapp.com/customer/en/portal/articles/2550592-how-can-i-contact-support-)
 
