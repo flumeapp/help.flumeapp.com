@@ -97,7 +97,7 @@
 
 #### Flume 2.4.2
 
-_Release Date: January 21st, 2017_
+[_Release Date: January 21st, 2017_](http://blog.flumeapp.com/post/156030916356/flume-for-mac-241)
 
 Re-release of Flume 2.4.1 with minor adjustments for Setapp release.
 
@@ -105,7 +105,7 @@ Re-release of Flume 2.4.1 with minor adjustments for Setapp release.
 
 #### Flume 2.4.1
 
-_Release Date: January 22nd, 2017_
+[_Release Date: January 22nd, 2017_](http://blog.flumeapp.com/post/156030916356/flume-for-mac-241)
 
 - NEW: Respond to comments directly from notifications.
 - NEW: Directly jump to comments from the notifications in the Activity tab.
