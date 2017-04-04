@@ -16,3 +16,21 @@ If using Flume with [multiple accounts](/preferences/accounts.md), the refresh w
 
 Enable or disable displaying videos in Flume. When enabled, all videos will be filtered from the [feed](/views/feed.md), [likes](/views/likes.md) and [explore](/views/explore.md) views. Videos will be displayed on [profiles](/views/profile/README.md).
 
+<hr />
+
+##### Use relative dates
+
+Will toggle the display of dates for posts between relative (```2 hours ago```), or absolute (```Saturday, April 1st, 2017 13:37```). The exact format of absolute dates will depend on your macOS Date & Time and Region preferences.
+
+<hr />
+
+##### Automatically scroll to top
+
+Enable or disable fixing the scroll position to the first item (top) whenever an [automatic refresh](#automatically-refresh) triggers, or when [manually refreshing.](/misc/keyboard-shortcuts.md). This option only applies when viewing the [Feed](/views/feed.md) in Column-View mode.
+
+<hr />
+
+##### Selecting media in feed
+
+Customize the action that will occur when clicking on items in the Feed.
+
