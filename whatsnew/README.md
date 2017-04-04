@@ -6,10 +6,7 @@ _Release Date: March 31st, 2017 (Setapp). Mac App Store approval pending._
 
 
 
-
-
-
-
+<hr />
 
 #### Flume 2.4.2
 
@@ -17,7 +14,7 @@ _Release Date: January 21st, 2017_
 
 
 
-
+<hr />
 
 #### Flume 2.4.1
 
@@ -25,7 +22,7 @@ _Release Date: January 22nd, 2017_
 
 
 
-
+<hr />
 
 #### Flume 2.4
 
@@ -33,7 +30,7 @@ _Release Date: December 24th, 2016_
 
 
 
-
+<hr />
 
 #### Flume 2.3
 
@@ -41,7 +38,7 @@ _Release Date: September 15th, 2016_
 
 
 
-
+<hr />
 
 #### Flume 2.2
 
@@ -49,10 +46,7 @@ _Release Date: August 27th, 2016_
 
 
 
-
-
-
-
+<hr />
 
 #### Flume 2.1
 
@@ -60,7 +54,7 @@ _Release Date: July 6th, 2016_
 
 
 
-
+<hr />
 
 #### Flume 2.0
 
@@ -68,11 +62,15 @@ _Release Date: June 1st, 2016_
 
 
 
+<hr />
+
 #### Flume 1.2.2
 
 _Release Date: December 22nd, 2015_
 
 
+
+<hr />
 
 #### Flume 1.2.1
 
