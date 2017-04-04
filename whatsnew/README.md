@@ -556,7 +556,7 @@ NEW: The new Touch Bar and Flume are a match made in heaven! Comprehensive suppo
 
 #### Flume 1.2
 
-_Release Date: November 25th, 2015_
+[_Release Date: November 25th, 2015_](http://blog.flumeapp.com/post/133540475551/flume-12-changelog)
 
 - NEW: Added Spanish, French and Russian localisations.
 - NEW: The popular tab infinitely loads from the bottom.
@@ -571,7 +571,7 @@ _Release Date: November 25th, 2015_
 
 #### Flume 1.1
 
-_Release Date: November 15th, 2015_
+[_Release Date: November 15th, 2015_](http://blog.flumeapp.com/post/132692260871/flume-for-mac-11-update)
 
 - NEW: Added Chinese (Simplified) localisation.
 - NEW: Added a preference to always display the title bar.
@@ -628,6 +628,6 @@ _Release Date: November 15th, 2015_
 
 #### Flume 1.0
 
-_Release Date: October 12th, 2015_
+[_Release Date: October 12th, 2015_](http://blog.flumeapp.com/image/131027923266)
 
 - Initial release
