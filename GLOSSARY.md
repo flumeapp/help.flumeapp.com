@@ -1,2 +1,0 @@
-## Flume Pro
-Flume Pro is an in-app purchase that unlocks additional functionality, such as uploading, and adding multiple accounts. The purchase of Flume Pro goes towards future updates, maintenance, server costs, translation services, customer support, as well as supporting independent developers.
