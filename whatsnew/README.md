@@ -28,7 +28,114 @@ _Release Date: January 22nd, 2017_
 
 _Release Date: December 24th, 2016_
 
-
+NEW: The new Touch Bar and Flume are a match made in heaven! Comprehensive support for all functions, and completely customisable, and localised in all languages.
+- NEW: Flume now speaks a whopping 25 languages! Arabic, Chinese (Traditional), Danish, Dutch, French, Greek, Indonesian, Italian, Malay, Portuguese (and BR), Swedish, Thai, Turkish and Vietnamese speakers can now enjoy Flume in their native tongue.
+- NEW: Get insights on your posts and followers. For the first time ever, now available on a desktop!
+- NEW: Create Instagram Adverts and view your promotion results.
+- NEW: Edit your profile, change your password, convert to a Business account (and back to Personal), configure your comment filters and edit your business contact information.
+- NEW: Support for “Saved” posts including via our handy “Hover Shortcuts” - simply hover your mouse over items and tap “S” to save them! See our Support Portal for more info about our Hover Shortcuts.
+- NEW: Like comments, and turn commenting on/off for your posts.
+- NEW: Edit your tagged posts and remove them from your profile.
+- NEW: View blocked users.
+- NEW: Added a quick “Logout All Users” shortcut.
+- NEW: Related hashtags are now shown when viewing the posts of another hashtag.
+- NEW: Support for “Videos you might like”.
+- NEW: Hover menu actions on comments - simply move your cursor to the edge of the comment to have quick access to reply/report/like/delete actions.
+- FIXED: A crash when using the hashtag / user search popover in a comment / message on macOS Yosemite.
+- FIXED: A crash when a video upload failed to post.
+- FIXED: A crash when cropping videos on macOS Yosemite.
+- FIXED: A crash related to specific types of content in the Activity > Following tab.
+- FIXED: A potential crash for messages that contained a shared hashtag or location.
+- FIXED: A crash when deleting media from the Detail View.
+- FIXED: A crash when switching between tabs quickly in the Activity View.
+- FIXED: A crash when deleting a conversation via the contextual menu and there were pending message requests in the conversations list.
+- FIXED: A crash when switching accounts while viewing a conversation.
+- FIXED: A crash when downloading a video and switching to a new view before it completed downloading.
+- FIXED: Various visual issues in conversations with lots of shared content.
+- FIXED: Improved performance and fixed missing images in Activity.
+- FIXED: Added a reset option in rare cases of needing to reset all Flume’s data - hold the OPTION key when launching Flume to use it.
+- FIXED: Improved photo and video upload quality and stability.
+- FIXED: Contextual-menus on labels are much improved, providing easier access to comment / message actions, and regular text (copy / translate) actions.
+- FIXED: Added an emoji button to comment / message areas for quick access to the macOS Character Picker.
+- FIXED: An issue that would cause Wacom tablets to handle clicks as drags instead.
+- FIXED: An issue when writing captions/comments/messages with slashes.
+- FIXED: Improved visibility of current keyboard selection.
+- FIXED: Various video playback issues.
+- FIXED: Improvements to not deselect selections when new content is reloaded.
+- FIXED: An issue that could cause batch upload windows to not close.
+- FIXED: An issue where menu’s could appear multiple times.
+- FIXED: An issue with content scrolling to the top despite disabling the option in Preferences > Feed.
+- FIXED: An issue when trying to login with a password that contained a “ character.
+- FIXED: An issue with photos not handling EXIF rotation tags resulting in 90º rotated photo uploads.
+- FIXED: An issue where new message notifications could be duplicated.
+- FIXED: An issue when sharing content to a conversation.
+- FIXED: An issue when trying to close the QuickLook window and the main window was closed or minimised.
+- FIXED: An issue where multiple notifications could fire all at once when multiple new media is downloaded.
+- FIXED: An issue that could cause flickering of images in conversations.
+- FIXED: An issue where the info button in group conversations didn’t align when resizing the window.
+- FIXED: Now everyone can see what the upload features are, with the "PRO” badge removed from the menu.
+- FIXED: An issue with an incorrect filename extension when trying to save a video.
+- FIXED: An issue when quickly switching tabs in Preferences.
+- FIXED: An issue with updating the avatar failing.
+- FIXED: An issue when trying to edit the location on previously uploaded media.
+- FIXED: An issue on macOS Yosemite that caused the Facebook login window to appear incorrectly.
+- FIXED: An issue where Cmd+W would not close the QuickLook window.
+- FIXED: An issue that would cause the last saved search bookmark to not be removable.
+- FIXED: When viewing the followers / followings of a profile, the correct “Follows You” status is displayed.
+- FIXED: An issue when blocking a profile that you used to follow.
+- FIXED: An issue that could cause the QuickLook window to not close.
+- FIXED: An issue when trying to send an empty comment or message.
+- FIXED: Improved the placeholder message content when viewing an account that you’ve blocked.
+- FIXED: Removed Facebook, Twitter and Flickr share options from the macOS system “Share” list. Use Instagram’s “Linked Accounts” feature to share posts, not macOS’s sharing feature.
+- FIXED: An issue when trying to share an item without a message not being able to send.
+- FIXED: An issue if you logged in with a Facebook account as the second account, linking it to the first account.
+- FIXED: Sharing content will now use the ranked recipients correctly.
+- FIXED: Added confirmations when “unsending” messages.
+- FIXED: Comments now load in the same order and fashion as the official apps.
+- FIXED: Support message types for shared media that was deleted, or if the shared content comes from a private profile that the recipient does not follow.
+- FIXED: A scrolling issue with Logitech MX mice that would cause older content to never load.
+- FIXED: Added a keyboard shortcut to switch to the main window.
+- FIXED: Preferences and profile headers have much improved text rendering on non-retina displays.
+- FIXED: Support for macOS Sierra’s window-snapping feature.
+- FIXED: Added timestamps when selecting messages in conversations.
+- FIXED: When exiting full-screen mode on macOS Yosemite, the main window would display nothing.
+- FIXED: Message replies to Instagram Stories appear in conversations.
+- FIXED: Avatar borders adjust if using macOS’ dark menu bar.
+- FIXED: Sponsored posts now display similarly to the official apps.
+- FIXED: Notifications will attempt to display the media /  user avatar before being displayed.
+- FIXED: Display connection issues when trying to login.
+- FIXED: An issue when trying to share to Sina Weibo / Odoklassniki.
+- FIXED: When deleting the last item in a table, the placeholder will appear afterwards instead of an empty table.
+- FIXED: Unlinking a business account from Facebook is now restricted.
+- FIXED: Show permissions issues if trying to share to a Facebook Page that you’re no longer the admin of.
+- FIXED: Errors are displayed if there is an issue with Facebook access.
+- FIXED: Popovers correctly adjust the scrollbar area when switching Design Mode.
+- FIXED: The last view is restored when relaunching.
+- FIXED: An issue when quickly switching between Views causing incorrect content to appear for a different View.
+- FIXED: While a video is compressing, you cannot try to select a new file.
+- FIXED: Uploads that are cropped to square, but were zoomed out, will now display more clearly that they will upload with a white (default) border. Please use the cropping tool only if you wish to upload a square post.
+- FIXED: Various clipped labels in different languages.
+- FIXED: Various fixes for keyboard selections, scrolling via keyboard arrows, menu bar updates, and missing “click” sounds.
+- FIXED: The Facebook location that posts will share to is now clearly indicated on the upload/share windows.
+- FIXED: Notifications that were delivered are removed on relaunch, to make sure Notification Centre doesn’t get too messy.
+- FIXED: Reduced the required minimum height for the Flume main window, for those on 11" screens.
+- FIXED: An issue with long conversation names (unnamed) not clipping properly in the conversations header.
+- FIXED: An issue that would not allow you to send media you wish to share after typing an optional message, then deleting it.
+- FIXED: An issue with loading follower/followings lists.
+- FIXED: An issue with saved bookmark searches disappearing after switching accounts.
+- FIXED: An issue when trying to add an account you already added.
+- FIXED: An issue when trying to upload an image that you then deleted / moved from its locations.
+- FIXED: An issue that could have allowed simultaneous posting to occur.
+- FIXED: Added easy access to open and search for Instagram logins in 1Password for Mac (if present).
+- FIXED: An issue that would never allow you to see “Recent” Activity as it was refreshed twice.
+- FIXED: Added support for “feedback_required” issues - when Instagram believes your account is being used for spam etc.
+- FIXED: Profiles now display addresses.
+- FIXED: An issue with translations not updating.
+- FIXED: Removed support for maps on profiles.
+- FIXED: An issue where new conversations would not refresh after sending the first message.
+- FIXED: An issue when uploading a post with a location that contained quote characters.
+- FIXED: An issue where location searching did not always find the correct results.
+- FIXED: An issue that would cause older messages in conversations to not load.
 
 <hr />
 
