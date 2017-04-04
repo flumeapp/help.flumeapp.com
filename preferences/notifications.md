@@ -6,14 +6,11 @@
 
 Notifications in Flume can occur in the following ways:
 
-** Badge the Dock icon **
-A red indicator will display on the Dock icon.
+** Badge the Dock icon ** - A red indicator will display on the Dock icon.
 
-** Show a desktop notification **
-A macOS desktop notification will appear, with actionable items (eg. to reply to a new message, or to view a new activity notification).
+** Show a desktop notification ** - A macOS desktop notification will appear, with actionable items (eg. to reply to a new message, or to view a new activity notification).
 
-** Play an audio alert **
-A short audio sound effect will play.
+** Play an audio alert ** - A short audio sound effect will play. The volume will be set to the current [macOS alert volume](https://support.apple.com/kb/PH18959).
 
 <hr />
 
