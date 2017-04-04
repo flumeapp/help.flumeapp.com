@@ -2,9 +2,96 @@
 
 #### Flume 2.5
 
-_Release Date: March 31st, 2017 (Setapp). Mac App Store approval pending._
+[_Release Date: March 31st, 2017 (Setapp). Mac App Store approval pending._](http://blog.flumeapp.com/post/158945007616/flume-for-mac-25)
 
-
+- NEW: Editing and filters! This is a huge change to Flume’s upload support with 23 Instagram filters (replicated) and 38 custom Flume filters, in addition to complete editing support. Filters and edits can be applied to photos as well as videos (video edits cannot be made on macOS Yosemite however). In addition, Touch Bar support has been added for all these features, and there is a new preference panel for configuring filters and adjustments.
+- NEW: Drafts! You can now save all edits to a photo or video, the location, the caption, the tagged users, the cover image position for video uploads, which sharing networks to post to, and whether to disable comments. You can save drafts when closing the upload window after making changes, and open them by double-clicking .flume files, or dragging them onto Flume like a photo/video. Drafts will also switch you to the correct account that you saved the draft under, in case you are logged into another. Better yet, since these .flume files include all the information Flume needs to upload your post, you can share these files with colleagues.
+- NEW: Support for multi-posts (carousels)! Viewing, editing, deleting and sharing is supported, with upload support coming in a future update.
+- NEW: Repost support! Note that reposting of content from private profiles is not allowed unless you manage/own that account in Flume.
+- NEW: Hashtag, location and profile previews! Simply long-press anywhere you see an avatar, hashtag or location to see quick previews.
+- NEW: Profile suggestions! View accounts similar to ones you just followed or are viewing.
+- NEW: Revamped search, including top search results.
+- NEW: View recent and suggested searches in the Search view. You can also clear your recent search history from your Profile.
+- NEW: Added hashtag, character and mention counts to upload and editing windows.
+- NEW: Added two new viewing options in Column-View: Compact and Hover.
+- NEW: Import and export your bookmarks.
+- NEW: Sorting options for bookmarks (Date Added, Date Added (Reverse), Alphabetically, Frequency)
+- NEW: Filter conversations to people you follow only, or only unread conversations.
+- NEW: Filter activity to people you follow, comments, likes, mentions or new followers.
+- NEW: Send and display “typing…” indicators in conversations.
+- NEW: Search followers and following lists.
+- NEW: Multiple upload windows can now be opened much more easily.
+- NEW: Added a “flumeapp://userid/:id” URI scheme.
+- NEW: Choose to view dates in relative or absolute formats.
+- NEW: You can now use the J and K keys in addition to the arrow keys to move through content.
+- NEW: Support for Instagram’s sensitive content flagging as well as displaying help/support options for users considering self-harm / suicide.
+- NEW: Added a new Help menu, with all new documentation. This is also available at https://help.flumeapp.com
+- NEW: A larger upload window, with completely revamped cropping tools that also allow for custom background colors, crop-to-fit.
+- NEW: You can report posts, and they are no longer displayed.
+- NEW: Sync the previously blocked media on login.
+- NEW: Added an option to block one-on-one conversations from the conversation info view.
+- NEW: Report carousel posts.
+- NEW: Hide labels for Touch Bar items preference option. This allows you to see more buttons in the Touch Bar that might be otherwise hidden.
+- NEW: Insights added for Stories.
+- NEW: You can now double-click (or right-click) to like shared messages.
+- NEW: Turn on/off post notifications. Only your phones can actually receive the push notifications, but you can still enable/disable them from Flume.
+- NEW: Support for “Try Business Instagram Tools” and declaring your profile “Not a Business”
+- NEW: The position of the Large Preview is remembered so you can position it where you like.
+- NEW: Added Norwegian localization.
+- FIXED: A crash that could occur on macOS Yosemite when a database migration fails.
+- FIXED: Dismissing suggested users did not always work.
+- FIXED: An issue that could cause duplicate desktop notifications when a recipient read your message.
+- FIXED: An issue with posting images to new conversations.
+- FIXED: An issue with Page Up/Down keys not deselecting the current selection.
+- FIXED: Improved keyboard support when adding locations using the arrow keys.
+- FIXED: Reduced photo size restrictions of 640x640px to 160x160px. Photos will be resized to a minimum size of 320x320px.
+- FIXED: Display password reset dialogs when Instagram recommends you update your password.
+- FIXED: Multiple issues related to cropping and uploading non-square vertical videos.
+- FIXED: Improved QuickLook behaviour on upload windows.
+- FIXED: Desktop notification and badging settings will now ignore new sponsored posts.
+- FIXED: Listening for location updates did not stop when closing the upload window.
+- FIXED: When selecting a shared post of a user, hashtag, location or media, you can now access all the relevant keyboard shortcuts for that item.
+- FIXED: Placeholder text in the comment/message area was clipped instead of truncated (for long languages such as German).
+- FIXED: An issue that could require you to press ESC twice to deselect selections in Grid-View.
+- FIXED: An issue with selection flickering when using the keyboard to delete items in the Feed / Profile.
+- FIXED: Added an explicit „Change Profile Photo“ button in profile editing because someone left a review saying it’s not possible. Hint: Press the avatar.
+- FIXED: An issue with stuck large preview windows when repeatedly opening/closing large previews in conversations.
+- FIXED: An issue when pressing ESC to try and close the avatar image picker that instead popped the view back.
+- FIXED: Copy support for all cell types, and improved text selection for captions, messages and comments.
+- FIXED: Engagement counts in business profile insights did not display.
+- FIXED: Following and follower ordering is corrected.
+- FIXED: A crash that could occur when deleting comments, posts, conversations, or messages.
+- FIXED: Improved behaviour for “shortcode” URI links.
+- FIXED: flumeapp:// links will now go to the correct area if Flume was not open.
+- FIXED: “Main window” menu item is hidden when not logged in.
+- FIXED: Login errors are now displayed rather than only being hidden in the log file.
+- FIXED: A crash for macOS Yosemite users with multiple accounts.
+- FIXED: A crash when trying to edit a post when the post is deleted while the edit window is open.
+- FIXED: The payments window did not load correctly.
+- FIXED: A crash when trying to edit promotions.
+- FIXED: When deleting a promotion, Flume will jump back to the list of promotions correctly.
+- FIXED: An incorrect label in menu’s for saving videos.
+- FIXED: An issue that didn’t keep all windows on top when the option was enabled.
+- FIXED: Flume will now report “unseen” and “seen” content to Instagram.
+- FIXED: The Share panel will pop-up when using the macOS menubar to initiate sharing on an upload.
+- FIXED: Removed click-and-drag for cropping photos that go beyond Instagram’s approved aspect ratio. You can still use mouse scrolling to position the cropping area.
+- FIXED: The contextual “Copy” menu item didn’t do anything since the last change to enable the macOS Edit > Copy menu item.
+- FIXED: Various issues related to carousel posts display.
+- FIXED: Workaround for Instagram’s latest API changes that broke thumbnails (squashed or missing) in grid layouts for Flume.
+- FIXED: An issue when compressing certain videos.
+- FIXED: The Large Preview window now remains in front of all other Flume windows.
+- FIXED: Shared carousel posts will now appear in messages.
+- FIXED: Profile headers no longer jump when loading in the biography details.
+- FIXED: Allow line-breaks in comments.
+- FIXED: An issue that caused unnecessary scrolling when replying to comments.
+- FIXED: If Instagram is overloaded and reports HTTP 503 Service Unavailable errors, Flume will display this particular error, as it’s not Flume’s fault 😎
+- FIXED: An issue that could have caused duplicate items to appear in a user’s feed, if they were recommended to you previously.
+- FIXED: Removed app ratings prompt from Setapp versions.
+- FIXED: An issue that could have caused accounts to be non-selectable in Preferences > Accounts.
+- FIXED: Text rendering on popovers improved, as well as the quick „Go to user“ window.
+- FIXED: An issue with stuck large preview windows when repeatedly opening/closing large previews in conversations.
+- FIXED: An issue when pressing ESC to try and close the avatar image picker that instead popped the view back.
+- FIXED: Lots of asset updates and bits of UI polish, and tons of other little hidden behind the scenes fixes and memory improvements.
 
 <hr />
 
@@ -12,7 +99,7 @@ _Release Date: March 31st, 2017 (Setapp). Mac App Store approval pending._
 
 _Release Date: January 21st, 2017_
 
-
+Re-release of Flume 2.4.1 with minor adjustments for Setapp release.
 
 <hr />
 
@@ -20,7 +107,7 @@ _Release Date: January 21st, 2017_
 
 _Release Date: January 22nd, 2017_
 
-NEW: Respond to comments directly from notifications.
+- NEW: Respond to comments directly from notifications.
 - NEW: Directly jump to comments from the notifications in the Activity tab.
 - NEW: Save sharing options for Linked Accounts.
 - NEW: You can now switch Facebook sharing options easily and more directly on the Upload window as opposed to the Profile > Settings > Linked Accounts > Facebook menu.
