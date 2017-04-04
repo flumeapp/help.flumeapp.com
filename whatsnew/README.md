@@ -174,7 +174,7 @@ Re-release of Flume 2.4.1 with minor adjustments for Setapp release.
 
 #### Flume 2.4
 
-_Release Date: December 24th, 2016_
+[_Release Date: December 24th, 2016_](http://blog.flumeapp.com/post/154810435611/flume-for-mac-24-update)
 
 NEW: The new Touch Bar and Flume are a match made in heaven! Comprehensive support for all functions, and completely customisable, and localised in all languages.
 - NEW: Flume now speaks a whopping 25 languages! Arabic, Chinese (Traditional), Danish, Dutch, French, Greek, Indonesian, Italian, Malay, Portuguese (and BR), Swedish, Thai, Turkish and Vietnamese speakers can now enjoy Flume in their native tongue.
@@ -289,7 +289,7 @@ NEW: The new Touch Bar and Flume are a match made in heaven! Comprehensive suppo
 
 #### Flume 2.3
 
-_Release Date: September 15th, 2016_
+[_Release Date: September 15th, 2016_](http://blog.flumeapp.com/post/150462881826/flume-for-mac-23-update)
 
 - NEW: Videos can now be uploaded in 1:1 square format, and also cropped in original format should they be too wide or tall.
 - NEW: “Hover shortcuts”. Quickly like, comment, or zoom media using the L, C or Spacebar while hovering the mouse over items.
@@ -359,13 +359,7 @@ _Release Date: September 15th, 2016_
 
 #### Flume 2.2.1
 
-_Release Date: Unreleased, was merged with the Flume 2.3 update_
-
-<hr />
-
-#### Flume 2.2.1
-
-_Release Date: Unreleased, was merged with the Flume 2.3 update_
+[_Release Date: Unreleased, was merged with the Flume 2.3 update_](https://flumeapp.tumblr.com/post/149716825616/flume-for-mac-221-update)
 
 - NEW: Shared media activity posts now show the preview of the image shared.
 - FIXED: A crash that could occur when following/unfollowing a profile.
@@ -397,7 +391,7 @@ _Release Date: Unreleased, was merged with the Flume 2.3 update_
 
 #### Flume 2.2
 
-_Release Date: August 27th, 2016_
+[_Release Date: August 27th, 2016_](http://blog.flumeapp.com/post/149339016961/flume-for-mac-22-update)
 
 - NEW: Editing posts! Full support to edit captions, add/remove locations, and add/edit user tags (for photos).
 - NEW: An all new Light Mode.
@@ -474,7 +468,7 @@ _Release Date: August 27th, 2016_
 
 #### Flume 2.1
 
-_Release Date: July 6th, 2016_
+[_Release Date: July 6th, 2016_](http://blog.flumeapp.com/post/146894777981/flume-for-mac-21-update)
 
 - NEW: Improved scrolling performance and behaviour.
 - NEW: Improved memory usage.
@@ -523,7 +517,7 @@ _Release Date: July 6th, 2016_
 
 #### Flume 2.0
 
-_Release Date: June 1st, 2016_
+[_Release Date: June 1st, 2016_](http://blog.flumeapp.com/post/145212126271/introducing-flume-20-and-flume-pro)
 
 - NEW: Flume Pro.
 - NEW: Upload support.
@@ -535,7 +529,7 @@ _Release Date: June 1st, 2016_
 
 #### Flume 1.2.2
 
-_Release Date: December 22nd, 2015_
+[_Release Date: December 22nd, 2015_](http://blog.flumeapp.com/post/135435777181/flume-122-changelog)
 
 - FIXED: Commenting, the Activity and Popular tabs failed to load due to changes from Instagram
 - FIXED: Some inconsistencies with menu’s. Follow/unfollow state is correctly updated in the menu also.
@@ -547,7 +541,7 @@ _Release Date: December 22nd, 2015_
 
 #### Flume 1.2.1
 
-_Release Date: December 3rd, 2015_
+[_Release Date: December 3rd, 2015_](http://blog.flumeapp.com/post/134286761751/flume-121-changelog)
 
 - FIXED: An issue that caused the Activity stream to not load. Please log-out and log-in to make this work again.
 - FIXED: An issue that caused the same account to be added when trying to add a different account. Please log-out and log-in to make this work again.
