@@ -36,14 +36,6 @@ _Release Date: December 24th, 2016_
 
 _Release Date: September 15th, 2016_
 
-
-
-<hr />
-
-#### Flume 2.2.1
-
-_Release Date: Unreleased, was merged with the Flume 2.3 update_
-
 - NEW: Videos can now be uploaded in 1:1 square format, and also cropped in original format should they be too wide or tall.
 - NEW: “Hover shortcuts”. Quickly like, comment, or zoom media using the L, C or Spacebar while hovering the mouse over items.
 - NEW: “Show Media Details” now displays captions and likes/comment counts in Column-View mode.
@@ -107,6 +99,12 @@ _Release Date: Unreleased, was merged with the Flume 2.3 update_
 - FIXED: After accepting a pending conversation, the message text area did not appear immediately.
 - FIXED: Improved swiping gesture support.
 - FIXED: Compatibility with macOS Sierra.
+
+<hr />
+
+#### Flume 2.2.1
+
+_Release Date: Unreleased, was merged with the Flume 2.3 update_
 
 <hr />
 
