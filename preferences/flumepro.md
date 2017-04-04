@@ -20,7 +20,7 @@ Flume for Mac via [Setapp](https://go.setapp.com/stp154) includes Flume Pro as s
 
 To upgrade to Flume Pro, simply open Flume's [Preferences](/preferences/README.md), click on the "Flume Pro" tab, then click on "Upgrade to Pro". The price of Flume Pro will vary based on your App Store region and currency, and will be displayed in the button.
 
-Flume will communicate with the App Store to confirm your Apple ID and purchase. Upon a successful purchase, you will be presented with a thank you screen. All previously locked features such as [Uploading](/views/upload.md) and [adding multiple accounts](/preferences/accounts.md) will be unlocked and the <img src="/preferences/assets/pro.png" width="36" height="20" /> badge will disappear.
+Flume will communicate with the App Store to confirm your Apple ID and purchase. Upon a successful purchase, you will be presented with a thank you screen. All previously locked features such as [uploading](/views/upload.md) and [adding multiple accounts](/preferences/accounts.md) will be unlocked and the <img src="/preferences/assets/pro.png" width="36" height="20" /> badge will disappear.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/flumepro-success.png" width="60%" height="60%" /></p>
 
