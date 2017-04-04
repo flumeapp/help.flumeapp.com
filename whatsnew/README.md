@@ -1,8 +1,82 @@
 # What's New in Flume
 
+#### Flume 2.5
+
+_Release Date: March 31st, 2017 (Setapp). Mac App Store approval pending._
+
+
+
+
+
+
+
+
+#### Flume 2.4.2
+
+_Release Date: January 21st, 2017_
+
+
+
+
+
+#### Flume 2.4.1
+
+_Release Date: January 22nd, 2017_
+
+
+
+
+
+#### Flume 2.4
+
+_Release Date: December 24th, 2016_
+
+
+
+
+
+#### Flume 2.3
+
+_Release Date: September 15th, 2016_
+
+
+
+
+
+#### Flume 2.2
+
+_Release Date: August 27th, 2016_
+
+
+
+
+
+
+
+
+#### Flume 2.1
+
+_Release Date: July 6th, 2016_
+
+
+
+
+
+#### Flume 2.0
+
+_Release Date: June 1st, 2016_
+
+
+
+#### Flume 1.2.2
+
+_Release Date: December 22nd, 2015_
+
+
+
 #### Flume 1.2.1
 
-Released 
+_Release Date: December 3rd, 2015_
 
 - FIXED: An issue that caused the Activity stream to not load. Please log-out and log-in to make this work again.
 - FIXED: An issue that caused the same account to be added when trying to add a different account. Please log-out and log-in to make this work again.
@@ -13,7 +87,12 @@ Released
 - FIXED: A rare crash that could occur when opening the QuickLook window.
 - FIXED: Improvements to the French localisation.
 
+<hr />
+
+
 #### Flume 1.2
+
+_Release Date: November 25th, 2015_
 
 - NEW: Added Spanish, French and Russian localisations.
 - NEW: The popular tab infinitely loads from the bottom.
@@ -23,6 +102,8 @@ Released
 - FIXED: A crash that could occur when using the keyboard to scroll to the last row in Grid View.
 - FIXED: A crash that could occur in rare occurrences when updating the previously downloaded avatar of a user.
 - FIXED: When liking a photo or video in column view, quickly scrolling away could cause the “liked” image to appear on the wrong media.
+
+<hr />
 
 #### Flume 1.1
 
@@ -79,9 +160,10 @@ _Release Date: November 15th, 2015_
 - FIXED: Switching accounts keeps you on the same tab you had previously selected.
 - FIXED: Many other miscellaneous improvements and crash fixes!
 
+<hr />
+
 #### Flume 1.0
 
 _Release Date: October 12th, 2015_
 
 - Initial release
-
