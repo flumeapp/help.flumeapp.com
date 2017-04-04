@@ -11,45 +11,14 @@ Additionally, all the shortcuts below can be opened via a HTTP link to our websi
 | <kbd>flumeapp://media/:id</kbd> | Jumps to the Detail View of the media with the corresponding ID. If the ID is invalid or does not exist, the Flume window will shake. |
 | <kbd>flumeapp://shortcode/:shortcode</kbd> | Jumps to the Detail View of the media with the corresponding short code. A ```shortcode``` is the series of numbers and letters found on the Instagram website eg. in the URL https://www.instagram.com/p/-Bw_YOEcrW, the shortcode is ```-Bw_YOEcrW```. If the short code is invalid or does not exist, the Flume window will shake (available in Flume 2.4.3 and above). |
 | <kbd>flumeapp://user/:username</kbd> | Jumps to the Profile of the user with the corresponding username. If the username is invalid or does not exist, the Flume window will shake. |
-| <kbd>flumeapp://media/:id</kbd> | Jumps to the Detail View of the media with the corresponding ID. If the ID is invalid or does not exist, the Flume window will shake. |
-| <kbd>flumeapp://media/:id</kbd> | Jumps to the Detail View of the media with the corresponding ID. If the ID is invalid or does not exist, the Flume window will shake. |
-| <kbd>flumeapp://media/:id</kbd> | Jumps to the Detail View of the media with the corresponding ID. If the ID is invalid or does not exist, the Flume window will shake. |
+| <kbd>flumeapp://userid/:id</kbd> | Jumps to the Profile of the user with the corresponding user ID. If the user ID is invalid or does not exist, the Flume window will shake (available in Flume 2.4.3 and above). |
+| <kbd>flumeapp://location/:id</kbd> | Jumps to the tagged posts at the location with the corresponding ID. If the ID is invalid or does not exist, the Flume window will shake. |
+| <kbd>flumeapp://tag/:tagname</kbd> | Jumps to the posts tagged with the corresponding hashtag. If the hashtag is invalid or does not exist, the Flume window will shake. |
+| <kbd>flumeapp://feed</kbd> | Switches to the Feed view. |
+| <kbd>flumeapp://pending_conversations</kbd> | Displays the current pending conversations. |
+| <kbd>flumeapp://pro</kbd> | Displays the &quot;Pro&quot; tab of the Preferences window. |
 
-
-		<tr>
-			<td><span style="font-size:14px;">flumeapp://</span></td>
-			<td><span style="font-size:14px;"></span></td>
-		</tr>
-		<tr>
-			<td><span style="font-size:14px;">flumeapp://userid/:id</span></td>
-			<td><span style="font-size:14px;">Jumps to the Profile of the user with the corresponding user ID. If the user ID is invalid or does not exist, the Flume window will shake (available in Flume 2.4.3 and above).</span></td>
-		</tr>
-		<tr>
-			<td><span style="font-size:14px;">flumeapp://location/:id</span></td>
-			<td><span style="font-size:14px;">Jumps to the tagged posts at the location with the corresponding ID. If the ID is invalid or does not exist, the Flume window will shake.</span></td>
-		</tr>
-		<tr>
-			<td><span style="font-size:14px;">flumeapp://tag/:tagname</span></td>
-			<td><span style="font-size:14px;">Jumps to the posts tagged with the corresponding hashtag. If the hashtag is invalid or does not exist, the Flume window will shake.</span></td>
-		</tr>
-		<tr>
-			<td><span style="font-size:14px;">flumeapp://feed</span></td>
-			<td><span style="font-size:14px;">Switches to the Feed view.</span></td>
-		</tr>
-		<tr>
-			<td><span style="font-size:14px;">flumeapp://pending_conversations</span></td>
-			<td><span style="font-size:14px;">Displays the current pending conversations.</span></td>
-		</tr>
-		<tr>
-			<td><span style="font-size:14px;">flumeapp://pro</span></td>
-			<td><span style="font-size:14px;">Displays the &quot;Pro&quot; tab of the Preferences window.</span></td>
-		</tr>
-	</tbody>
-</table>
-
-<div style="clear: both;">&nbsp;</div>
-
-<h2>Preferences Shortcuts</h2>
+## Preferences Shortcuts
 
 <table align="left" border="0" cellpadding="0" cellspacing="0">
 	<colgroup>
