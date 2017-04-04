@@ -68,7 +68,11 @@ _Release Date: June 1st, 2016_
 
 _Release Date: December 22nd, 2015_
 
-
+- FIXED: Commenting, the Activity and Popular tabs failed to load due to changes from Instagram
+- FIXED: Some inconsistencies with menu’s. Follow/unfollow state is correctly updated in the menu also.
+- FIXED: An issue that could cause video’s to play in the QuickLook window as well as the main window.
+- FIXED: An issue where audio from a previously playing video could still be heard despite no QuickLook window visible.
+- FIXED: A bunch of very rare crashes reported by users.
 
 <hr />
 
