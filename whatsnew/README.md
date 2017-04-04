@@ -28,7 +28,69 @@ _Release Date: January 22nd, 2017_
 
 _Release Date: December 24th, 2016_
 
-
+- NEW: Videos can now be uploaded in 1:1 square format, and also cropped in original format should they be too wide or tall.
+- NEW: “Hover shortcuts”. Quickly like, comment, or zoom media using the L, C or Spacebar while hovering the mouse over items.
+- NEW: “Show Media Details” now displays captions and likes/comment counts in Column-View mode.
+- NEW: Added support for Ukrainian.
+- NEW: Long-press support. Hold down the left-mouse on Media to toggle the Large Preview window.
+- NEW: You can now browse items directly from the Detail View.
+- FIXED: Sharing to a Facebook page from the Upload window now correctly shares to the correct page, rather than the Timeline.
+- FIXED: High resolution images in portrait orientation did not upload correctly.
+- FIXED: A crash that could occur randomly in the future, after viewing the location tagged posts of a user.
+- FIXED: A crash that would occur when typing the # character in the Upload caption.
+- FIXED: A crash that could occur after pasting text in the caption text area.
+- FIXED: A crash that could occur when using multiple accounts and pressing the “Post” button.
+- FIXED: A crash that could occur when trying to deselect a selection.
+- FIXED: Video duration labels were clipped and not always center-aligned.
+- FIXED: Older conversations did not always load.
+- FIXED: Avatars and labels would flicker when loading new content in user lists.
+- FIXED: Conversation search results with a single match did not show the results.
+- FIXED: A crash that could occur when following a user.
+- FIXED: An issue that would sometimes cause avatars to not appear on first load.
+- FIXED: A rare but potential crash that could occur when popping a view.
+- FIXED: Shared media activity posts now show the preview of the image shared.
+- FIXED: A fix for a potential crash, after trying to download the same avatar twice.
+- FIXED: Clicking on the (+) button when trying to add recipients to a new conversation did not actually toggle their participation.
+- FIXED: Timestamps were sometimes clipped in the conversations list, depending on language / time.
+- FIXED: Searching conversations with 0 matches no longer shows a spinning indicator.
+- FIXED: Some some rare crashes related to viewing the followers/following/requested followers on the Profile tab.
+- FIXED: A potential crash that could occur when clicking on the tagged profile posts of a user.
+- FIXED: A potential crash that could occur when trying to switch quickly between tabs.
+- FIXED: You can now click anywhere in the “Your report has been updated” activity notifications, to view the report.
+- FIXED: The menu on the avatar button on the Upload window showed the checkmark on the wrong account after switching accounts.
+- FIXED: Removed the elasticity (bounce-scrolling) in the Welcome window change-log.
+- FIXED: Fixed missing background on the Upload button when not a Flume Pro user. 
+- FIXED: Replaced the missing emoji for 10.10 Yosemite in the “Upgrade to Flume Pro” dialog.
+- FIXED: Pasting of text in the caption should now paste up until the maximum length properly (2200 characters).
+- FIXED: A crash when trying to request content and the session had timed-out (potentially from a previous crash).
+- FIXED: A potential crash when pressing the “Clear Caches” button and new content was being downloaded/updated.
+- FIXED: An issue that could result in duplicated items in Profiles.
+- FIXED: A crash related to emoji-hashtags you had composed as a comment or caption
+- FIXED: The “Explore Instagram” button was not center-aligned.
+- FIXED: Followers/following lists did not display all results.
+- FIXED: Hashtags or locations that don’t have a “Popular” section, showed an empty header.
+- FIXED: Left/Right arrows in Grid-View now wrap to the next/previous row.
+- FIXED: The “Flume Pro” modal dialog has been removed.
+- FIXED: The “Delete Comment” menu item appear for comments you didn’t author.
+- FIXED: Translating will now translate into the app’s language, if overridden from the System Default language.
+- FIXED: You can now create new Posts using Cmd+N.
+- FIXED: The Poster Frame window did not display correctly in “Light” Design Mode.
+- FIXED: Hashtag search popovers now show the post counts.
+- FIXED: Disabled system text suggestions (ESC) on text-entry areas.
+- FIXED: Locations are searched progressively and results now display addresses.
+- FIXED: Lots of fixes related to Sponsored Posts.
+- FIXED: Support for uploading extra wide images (eg. panorama’s)
+- FIXED: Tagged location posts are no longer visible on user profile’s except your own.
+- FIXED: Bookmarks are no longer lost on logout.
+- FIXED: Emoji’s can be used for searching.
+- FIXED: Session timeouts did not correctly display the Login window.
+- FIXED: Hashtag search results containing emoji’s were clipped.
+- FIXED: The Feed will display more content initially if set to Grid-View.
+- FIXED: The “pop” sound played when switching to the Conversations tab.
+- FIXED: The Detail View like/comment counts update more reliably.
+- FIXED: After accepting a pending conversation, the message text area did not appear immediately.
+- FIXED: Improved swiping gesture support.
+- FIXED: Compatibility with macOS Sierra.
 
 <hr />
 
