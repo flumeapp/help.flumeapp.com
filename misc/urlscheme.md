@@ -2,7 +2,7 @@
 
 Flume uses the <kbd>flumeapp://</kbd> URL scheme, which allows you to create links to jump directly to various areas of the application. Like with all macOS URL schemes, the links will also open Flume if it is not currently open.
 
-Additionally, all the shortcuts below can be opened via a HTTP link to our website, using the prefix <kbd>https://flumeapp.com/?redirect=SHORTCUT</kbd> eg. https://flumeapp.com/?redirect=pro
+Additionally, all the shortcuts below can be opened via a HTTP link to our website, using the prefix <kbd>eg. https://flumeapp.com/?redirect=pro</kbd>
 
 ## General Shortcuts
 
