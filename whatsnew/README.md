@@ -44,7 +44,76 @@ _Release Date: September 15th, 2016_
 
 _Release Date: August 27th, 2016_
 
-
+- NEW: Editing posts! Full support to edit captions, add/remove locations, and add/edit user tags (for photos).
+- NEW: An all new Light Mode.
+- NEW: Customisable font-size preference.
+- NEW: Added support for Japanese, Korean, Polish, Czech and French.
+- NEW: An improved login window, with support for Facebook account login and easy access to get Help.
+- NEW: Link your profile to social media accounts! Support for Facebook, Twitter, Tumblr, Flickr, Weibo, Ameba, Mixi, VKontakte and Odnoklassniki.
+- NEW: Share your media to your Facebook Page, or to your Timeline.
+- NEW: Find and follow friends from Facebook and your Contacts.
+- NEW: Support for overriding the System Default language.
+- NEW: Portrait photos that are beyond the acceptable aspect ratio, can now be cropped during click-and-drag or scrolling, and do not need to be cropped to a 1:1 square ratio.
+- NEW: You can now drag-and-drop or select up to 9 photos/videos and upload successively.
+- NEW: Timestamps are now relative in the detail view.
+- NEW: You can report user profile’s for spam.
+- NEW: The Activity tab handles updated user profile reports.
+- NEW: Complete support for business profiles contact information (email, directions and calling).
+- NEW: Profile’s now display tagged location posts.
+- NEW: Support for editing posts you are tagged in (removing tags, or hiding from your profile).
+- NEW: Support for editing posts you’ve tagged at locations (removing locations).
+- NEW: Profile’s now support tagged location posts.
+- NEW: Support for profile’s flagged as requiring age-verification (over 18)
+- NEW: Searches now show “X new posts”
+- NEW: Edit / remove your avatar.
+- NEW: Set your profile to private/public.
+- NEW: Profile headers display the context and business category.
+- NEW: You can indicate to “Show Fewer Posts Like These” for media that appears in the Explore tab.
+- NEW: You can clear the image caches from Preferences.
+- NEW: An “Upload” menu is displayed when the Upload window is front-most.
+- NEW: Conversation cells now show image previews.
+- NEW: You can now bookmark conversations and they are displayed first.
+- NEW: Support for profile’s that disallow commenting on their media.
+- FIXED: Double-click to like animation did not appear in grid-view when there was a section header.
+- FIXED: Desktop Notifications will only show for new media that is downloaded from the Feed.
+- FIXED: The comment count in the detail view was always 1 less than the correct amount.
+- FIXED: Clicking on a Desktop Notification for multiple new posts did not bring Flume above all other windows.
+- FIXED: A crash when clicking in empty feeds.
+- FIXED: The preview images in the Activity tab did not always appear on the first load.
+- FIXED: Sponsored Posts are now indicated in Grid-View.
+- FIXED: Sponsored Post actions are now displayed in the contextual menu.
+- FIXED: The “Media” menu would disappear when pressing the “Help” menu.
+- FIXED: When a comment started with an emoji character, the font would display incorrectly.
+- FIXED: The Acknowledgements button would not display on the About window.
+- FIXED: An issue with encoding non-Latin characters in comments.
+- FIXED: Clicking on the tabbed buttons in Search did not always work.
+- FIXED: Clicking on a Desktop Notification will remove it correctly from Notification Center.
+- FIXED: Popovers now have their arrows styled correctly.
+- FIXED: The previously used hashtag list did not correctly detect all your previously used hashtags.
+- FIXED: An issue that would not display all the comments in the Detail View.
+- FIXED: User preferences are no longer removed when logging out.
+- FIXED: The activity indicator did not always disappear after submitting a comment.
+- FIXED: The ESC key deselected your selection in Grid-View when the QuickLook window was visible.
+- FIXED: Clicking on Desktop Notifications when Flume was closed did not correctly load the appropriate view.
+- FIXED: The main window is positioned in the previously visible position when logging in again.
+- FIXED: Liking an item from the Detail View before the thumbnail or high resolution image had downloaded, did not actually like the item.
+- FIXED: Various issues related to images not always downloading in Grid View.
+- FIXED: A crash that would occur after successfully uploading an item with the main window viewing a conversation.
+- FIXED: Many improvements to the networking layer, keyboard navigation and selection, and menu bar updates.
+- FIXED: A crash when typing the @ or # character on OS X 10.10 Yosemite.
+- FIXED: An issue uploading captions when pasting text from Microsoft Word that included line-breaks.
+- FIXED: An issue that would show placeholder images in Grid View when resizing.
+- FIXED: Various fixes to drag-and-drop saving of media.
+- FIXED: Tagged users are no longer displayed on hover in the Detail View.
+- FIXED: Liking items in Grid View via the contextual menu did not work.
+- FIXED: Various issues with the badge counts for unseen items.
+- FIXED: An issue that caused the View Mode switch to show the wrong background colour.
+- FIXED: The video duration label was not center-aligned.
+- FIXED: The close button was visible on QuickLook windows when the “Always Show Title Bar” option was enabled.
+- FIXED: Closing the QuickLook window through the close button did not animate the window out.
+- FIXED: Conversation searching did not find all results.
+- FIXED: Pressing Cmd+F on the Conversations tab now jumps to the Conversation search text field, not the Search tab.
+- FIXED: The logout keyboard shortcut was missing after removing all but one account.
 
 <hr />
 
