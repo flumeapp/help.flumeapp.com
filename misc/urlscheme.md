@@ -6,24 +6,19 @@ Additionally, all the shortcuts below can be opened via a HTTP link to our websi
 
 ## General Shortcuts
 
+| URI | Explanation |
+|-------------------|
+| <kbd>flumeapp://media/:id</kbd> | Jumps to the Detail View of the media with the corresponding ID. If the ID is invalid or does not exist, the Flume window will shake. |
+| <kbd>flumeapp://shortcode/:shortcode</kbd> | Jumps to the Detail View of the media with the corresponding short code. A ```shortcode``` is the series of numbers and letters found on the Instagram website eg. in the URL https://www.instagram.com/p/-Bw_YOEcrW, the shortcode is ```-Bw_YOEcrW```. If the short code is invalid or does not exist, the Flume window will shake (available in Flume 2.4.3 and above). |
+| <kbd>flumeapp://user/:username</kbd> | Jumps to the Profile of the user with the corresponding username. If the username is invalid or does not exist, the Flume window will shake. |
+| <kbd>flumeapp://media/:id</kbd> | Jumps to the Detail View of the media with the corresponding ID. If the ID is invalid or does not exist, the Flume window will shake. |
+| <kbd>flumeapp://media/:id</kbd> | Jumps to the Detail View of the media with the corresponding ID. If the ID is invalid or does not exist, the Flume window will shake. |
+| <kbd>flumeapp://media/:id</kbd> | Jumps to the Detail View of the media with the corresponding ID. If the ID is invalid or does not exist, the Flume window will shake. |
 
-<table align="left" border="0" cellpadding="0" cellspacing="0">
-	<colgroup>
-		<col style="width:30%" />
-		<col style="width:70%" />
-	</colgroup>
-	<tbody>
+
 		<tr>
-			<td><span style="font-size:14px;">flumeapp://media/:id</span></td>
-			<td><span style="font-size:14px;">Jumps to the Detail View of the media with the corresponding ID. If the ID is invalid or does not exist, the Flume window will shake.</span></td>
-		</tr>
-		<tr>
-			<td><span style="font-size:14px;">flumeapp://shortcode/:shortcode</span></td>
-			<td><span style="font-size:14px;">Jumps to the Detail View of the media with the corresponding short code. A &quot;shortcode&quot; is the series of numbers and letters found on the Instagram website eg. in the URL https://www.instagram.com/p/-Bw_YOEcrW, the shortcode is &quot;-Bw_YOEcrW&quot;. If the short code is invalid or does not exist, the Flume window will shake (available in Flume 2.4.3 and above).</span></td>
-		</tr>
-		<tr>
-			<td><span style="font-size:14px;">flumeapp://user/:username</span></td>
-			<td><span style="font-size:14px;">Jumps to the Profile of the user with the corresponding username. If the username is invalid or does not exist, the Flume window will shake.</span></td>
+			<td><span style="font-size:14px;">flumeapp://</span></td>
+			<td><span style="font-size:14px;"></span></td>
 		</tr>
 		<tr>
 			<td><span style="font-size:14px;">flumeapp://userid/:id</span></td>
