@@ -16,43 +16,19 @@ Additionally, all the shortcuts below can be opened via a HTTP link to our websi
 | <kbd>flumeapp://tag/:tagname</kbd> | Jumps to the posts tagged with the corresponding hashtag. If the hashtag is invalid or does not exist, the Flume window will shake. |
 | <kbd>flumeapp://feed</kbd> | Switches to the Feed view. |
 | <kbd>flumeapp://pending_conversations</kbd> | Displays the current pending conversations. |
-| <kbd>flumeapp://pro</kbd> | Displays the &quot;Pro&quot; tab of the Preferences window. |
+| <kbd>flumeapp://pro</kbd> | Displays the ```Pro``` tab of the Preferences window. |
+| <kbd>flumeapp://log</kbd> | Displays the debugging log. |
+| <kbd>flumeapp://logfile</kbd> | Opens Finder to the current debugging log file. |
 
 ## Preferences Shortcuts
 
-<table align="left" border="0" cellpadding="0" cellspacing="0">
-	<colgroup>
-		<col style="width:30%" />
-		<col style="width:70%" />
-	</colgroup>
-	<tbody>
-		<tr>
-			<td><span style="font-size:14px;">flumeapp://preferences/</span></td>
-			<td><span style="font-size:14px;">Opens the Preferences window with the last selected tab.</span></td>
-		</tr>
-		<tr>
-			<td><span style="font-size:14px;">flumeapp://preferences/general</span></td>
-			<td><span style="font-size:14px;">Opens the Preferences window to the General tab.</span></td>
-		</tr>
-		<tr>
-			<td><span style="font-size:14px;">flumeapp://preferences/design</span></td>
-			<td><span style="font-size:14px;">Opens the Preferences window to the Design tab.</span></td>
-		</tr>
-		<tr>
-			<td><span style="font-size:14px;">flumeapp://preferences/accounts</span></td>
-			<td><span style="font-size:14px;">Opens the Preferences window to the Accounts tab.</span></td>
-		</tr>
-		<tr>
-			<td><span style="font-size:14px;">flumeapp://preferences/feed</span></td>
-			<td><span style="font-size:14px;">Opens the Preferences window to the Feed tab.</span></td>
-		</tr>
-		<tr>
-			<td><span style="font-size:14px;">flumeapp://preferences/notifications</span></td>
-			<td><span style="font-size:14px;">Opens the Preferences window to the Notifications tab.</span></td>
-		</tr>
-		<tr>
-			<td><span style="font-size:14px;">flumeapp://preferences/pro</span></td>
-			<td><span style="font-size:14px;">Opens the Preferences window to the Pro tab.</span></td>
-		</tr>
-	</tbody>
-</table>
+| URI | Explanation |
+|-------------------|
+| <kbd>flumeapp://preferences/</kbd> | Opens the Preferences window with the last selected tab. |
+| <kbd>flumeapp://preferences/general/</kbd> | Opens the Preferences window to the General tab. |
+| <kbd>flumeapp://preferences/design/</kbd> | Opens the Preferences window to the Design tab. |
+| <kbd>flumeapp://preferences/accounts/</kbd> | Opens the Preferences window to the Accounts tab. |
+| <kbd>flumeapp://preferences/Feed/</kbd> | Opens the Preferences window to the Feed tab. |
+| <kbd>flumeapp://preferences/Upload/</kbd> | Opens the Preferences window to the Upload tab. |
+| <kbd>flumeapp://preferences/Notifications/</kbd> | Opens the Preferences window to the Notifications tab. |
+| <kbd>flumeapp://preferences/pro/</kbd> | Opens the Preferences window to the Pro tab. |
