@@ -13,6 +13,7 @@ Benefits of Flume Pro:
 - A good feeling :)
 
 Flume for Mac via [Setapp](https://go.setapp.com/stp154) includes Flume Pro as standard and does not require any additional upgrade purchase, as it is covered by Setapp's monthly subscription fee. 
+
 <hr /> 
 
 #### Upgrading to Flume Pro
@@ -23,10 +24,13 @@ Flume will communicate with the App Store to confirm your Apple ID and purchase.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/flumepro-success.png" width="60%" height="60%" /></p>
 
+<hr />
 
 #### Restoring Flume Pro
 
 If you have previously purchased Flume Pro, use the "Restore Purchases" button. Flume will communicate with Apple to discover if the currently logged in Apple ID has previously upgraded to Flume Pro.
+
+<hr />
 
 #### Purchase / Restore issues
 
