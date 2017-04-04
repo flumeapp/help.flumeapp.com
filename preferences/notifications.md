@@ -15,6 +15,7 @@ A macOS desktop notification will appear, with actionable items (eg. to reply to
 ** Play an audio alert **
 A short audio sound effect will play.
 
+<hr />
 
 #### New Posts
 
