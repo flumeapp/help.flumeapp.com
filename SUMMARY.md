@@ -36,7 +36,10 @@
   * [Design Preferences](preferences/design.md)
   * [Accounts Preferences](preferences/accounts.md)
   * [Feed Preferences](preferences/feed.md)
-  * [Upload Preferences](preferences/upload.md)
+  * Upload Preferences
+    * [Filters](preferences/upload/filters.md)
+    * [Adjustments](preferences/upload/adjustments.md)
+    * [Settings](preferences/upload/settings.md)
   * [Notifications Preferences](preferences/notifications.md)
   * [Flume Pro Preferences](preferences/flumepro.md)
 * [Misc](misc.md)
