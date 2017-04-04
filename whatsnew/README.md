@@ -60,7 +60,11 @@ _Release Date: July 6th, 2016_
 
 _Release Date: June 1st, 2016_
 
-
+- NEW: Flume Pro.
+- NEW: Upload support.
+- NEW: Instagram Direct support.
+- NEW: Curated recommendations
+- NEW: Improved notification preferences.
 
 <hr />
 
