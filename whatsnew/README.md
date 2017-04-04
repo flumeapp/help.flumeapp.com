@@ -36,7 +36,31 @@ _Release Date: December 24th, 2016_
 
 _Release Date: September 15th, 2016_
 
-
+- NEW: Shared media activity posts now show the preview of the image shared.
+- FIXED: A crash that could occur when following/unfollowing a profile.
+- FIXED: A fix for a potential crash, after trying to download the same avatar twice (race-condition).
+- FIXED: Searching conversations did not show results if there was just a single match.
+- FIXED: An issue that would sometimes cause avatars to not appear on first load.
+- FIXED: A rare but potential crash that could occur when popping a view.
+- FIXED: Clicking on the (+) button when trying to add recipients to a new conversation did not actually toggle their participation.
+- FIXED: Timestamps were sometimes clipped in the conversations list, depending on language / time.
+- FIXED: Searching conversations with 0 matches no longer shows a spinning indicator.
+- FIXED: Some some rare crashes related to viewing the followers/following/requested followers on the Profile tab.
+- FIXED: Older conversations were not always downloaded and displayed.
+- FIXED: A potential crash that could occur when clicking on the tagged profile posts of a user.
+- FIXED: A potential crash that could occur when trying to switch quickly between tabs.
+- FIXED: You can now click anywhere in the “Your report has been updated” activity notifications, to view the report.
+- FIXED: A crash that results after you’ve logged in with a secondary account, due to an incorrectly parsed cookie.
+- FIXED: The menu on the avatar button on the Upload window showed the checkmark on the wrong account after switching accounts.
+- FIXED: Removed the elasticity (bounce-scrolling) in the Welcome window change-log.
+- FIXED: Potentially fixed the crash affecting 10.10 users when typing newlines and # or @ characters.
+- FIXED: Fixed missing background on the Upload button when not a Flume Pro user.
+- FIXED: Replaced the missing emoji for 10.10 Yosemite in the “Upgrade to Flume Pro” dialog.
+- FIXED: Pasting of text in the caption should now paste up until the maximum length properly (2200 characters).
+- FIXED: A potential crash related to pasting text.
+- FIXED: A potential crash that would occur when the username/hashtag search popover displayed (on 10.10 mostly).
+- FIXED: A crash when trying to request content and the session had timed-out (potentially from a previous crash).
+- FIXED: A potential crash when pressing the “Clear Caches” button and new content was being downloaded/updated.
 
 <hr />
 
