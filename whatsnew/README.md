@@ -1,17 +1,32 @@
 # What's New in Flume
 
+#### Flume 1.2.1
+
+Released 
+
+- FIXED: An issue that caused the Activity stream to not load. Please log-out and log-in to make this work again.
+- FIXED: An issue that caused the same account to be added when trying to add a different account. Please log-out and log-in to make this work again.
+- FIXED: Fixed text legibility on non-retina displays.
+- FIXED: An issue that caused the following status of a user to display incorrectly when clicking on their Followers.
+- FIXED: A crash that occurred when long-pressing the back button in full-screen/split-screen mode.
+- FIXED: A rare crash that could occur when trying to load the shortcut recorder control in Preferences.
+- FIXED: A rare crash that could occur when opening the QuickLook window.
+- FIXED: Improvements to the French localisation.
+
 #### Flume 1.2
 
 - NEW: Added Spanish, French and Russian localisations.
 - NEW: The popular tab infinitely loads from the bottom.
 - FIXED: Videos would not play in the QuickLook window.
-FIXED: An issue that could cause some images in very rare cases to not appear in Column view.
-FIXED: Scrolling performance improvements.
-FIXED: A crash that could occur when using the keyboard to scroll to the last row in Grid View.
-FIXED: A crash that could occur in rare occurrences when updating the previously downloaded avatar of a user.
-FIXED: When liking a photo or video in column view, quickly scrolling away could cause the “liked” image to appear on the wrong media.
+- FIXED: An issue that could cause some images in very rare cases to not appear in Column view.
+- FIXED: Scrolling performance improvements.
+- FIXED: A crash that could occur when using the keyboard to scroll to the last row in Grid View.
+- FIXED: A crash that could occur in rare occurrences when updating the previously downloaded avatar of a user.
+- FIXED: When liking a photo or video in column view, quickly scrolling away could cause the “liked” image to appear on the wrong media.
 
 #### Flume 1.1
+
+_Release Date: November 15th, 2015_
 
 - NEW: Added Chinese (Simplified) localisation.
 - NEW: Added a preference to always display the title bar.
@@ -65,6 +80,8 @@ FIXED: When liking a photo or video in column view, quickly scrolling away could
 - FIXED: Many other miscellaneous improvements and crash fixes!
 
 #### Flume 1.0
+
+_Release Date: October 12th, 2015_
 
 - Initial release
 
