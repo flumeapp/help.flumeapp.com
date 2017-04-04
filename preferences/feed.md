@@ -34,3 +34,11 @@ Enable or disable fixing the scroll position to the first item (top) whenever an
 
 Customize the action that will occur when clicking on items in the Feed.
 
+| Option | Explanation |
+|----------------------|
+| Shows Detail | Clicking on a post will "push" you to see more details such as the comments, likes and user tags (_default_). |
+| Shows Author | Clicking on a post will "push" you to see the author's profile. |
+
+<hr />
+
+
