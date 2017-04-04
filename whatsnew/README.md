@@ -89,7 +89,6 @@ _Release Date: December 3rd, 2015_
 
 <hr />
 
-
 #### Flume 1.2
 
 _Release Date: November 25th, 2015_
