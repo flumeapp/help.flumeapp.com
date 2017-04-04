@@ -20,7 +20,7 @@ Enable or disable displaying videos in Flume. When enabled, all videos will be f
 
 ##### Use relative dates
 
-Will toggle the display of dates for posts between relative (```2 hours ago```), or absolute (```Saturday, April 1st, 2017 13:37```). The exact format of absolute dates will depend on your macOS Date & Time and Region preferences.
+Will toggle the display of dates for posts between relative (```2 hours ago```), or absolute (```Saturday, April 1st, 2017 13:37```). The exact format of absolute dates will depend on your [macOS Language & Region](https://support.apple.com/kb/PH18445) preferences.
 
 <hr />
 
