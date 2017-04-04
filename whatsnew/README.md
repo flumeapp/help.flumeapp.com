@@ -20,7 +20,68 @@ _Release Date: January 21st, 2017_
 
 _Release Date: January 22nd, 2017_
 
-
+NEW: Respond to comments directly from notifications.
+- NEW: Directly jump to comments from the notifications in the Activity tab.
+- NEW: Save sharing options for Linked Accounts.
+- NEW: You can now switch Facebook sharing options easily and more directly on the Upload window as opposed to the Profile > Settings > Linked Accounts > Facebook menu.
+- NEW: Disable commenting on uploads.
+- NEW: Progress is displayed when compressing videos and uploading photos and videos.
+- NEW: The titlebar now animates leaving more space for buttons on the Detail View.
+- NEW: Export your Insights data.
+- FIXED: Downloading posts is removed for accounts you do not manage, in order to comply with Instagram’s copyright terms.
+- FIXED: A crash when un-liking items in Grid View mode.
+- FIXED: An issue that would cause conversations to display the wrong timestamp and move to the top of the conversations list.
+- FIXED: An issue that would cause media that had failed to download be un-clickable.
+- FIXED: An issue that would cause media that had failed to download to never re-appear, even after relaunch.
+- FIXED: The profile switcher on the Touch Bar has been improved when using multiple accounts.
+- FIXED: Multiple issues that could result in a crash when a menu had an invalid or empty selection.
+- FIXED: An issue that could cause double video playback when using the Large Preview window from the Detail View.
+- FIXED: An issue that could cause hashtag/user search popovers to appear even after typing a space character.
+- FIXED: An issue that could cause button presses to still be performed even when click-and-dragging outside the bounds of the button.
+- FIXED: An issue that would cause the first image/video selected in the Upload window to upload even when overwriting the selection with another.
+- FIXED: When logging out, the main window is disabled with a progress indicator.
+- FIXED: When deleting media from the Detail View, the content is immediately refreshed to remove the newly deleted item.
+- FIXED: The Large Preview window on the Upload window is much faster at displaying/hiding for very large images.
+- FIXED: An issue when uploading / editing a post with a location that included quote characters in the name.
+- FIXED: Editing / deleting of posts that have been promoted or are currently promoted is now disabled.
+- FIXED: An issue that caused the Services > Upload with Flume menu item to not work.
+- FIXED: Copyright takedown notices are handled in the Activity tab.
+- FIXED: An issue that would display 4 rows instead of 3 under “Top Posts” sections.
+- FIXED: Alignment issues with videos and buttons in Column-View mode when you are an Instagram Business user.
+- FIXED: Multiple issues with the height of activity rows.
+- FIXED: The bookmark (save) icon did not disappear when editing tagged posts on your profile.
+- FIXED: The display position of the tagged posts menu was incorrect.
+- FIXED: The “Learn More” button did not work on the tagged post options view.
+- FIXED: An issue with sharing to Facebook Pages for Instagram Business profiles.
+- FIXED: An issue with sharing to Facebook Pages for Instagram Business profiles when your Facebook account is an editor and not an admin.
+- FIXED: An issue displaying thumbnails of shared profiles when the profile is a private user, or does not have more than 6 posts yet.
+- FIXED: A crash when allowing or declining pending message requests from the message request list as opposed from the pending conversation itself.
+- FIXED: A crash when a long video download operation completes some time in the future.
+- FIXED: The group name placeholder text colour did not respect the Design Mode setting.
+- FIXED: An issue where multiple similar notifications would replace the previous notification in Notification Center.
+- FIXED: The poster frame slider on the Touch Bar did not correctly reflect the initial position.
+- FIXED: Comments are updated to Instagram’s latest security methods.
+- FIXED: Comments, captions, messages and biographies would fail to send/update when using “dumb quotes”.
+- FIXED: Captions that use “invisible spaces” to space out captions will no longer remove these characters.
+- FIXED: Video upload quality increased.
+- FIXED: An issue that would cause video uploads to fail if navigating in the main window while a video was still uploading.
+- FIXED: An issue that would cause video uploads to fail if the resulting compressed file size was too large for Instagram to accept.
+- FIXED: An issue that would cause video uploads to fail due to a “transcode timeout” error.
+- FIXED: Alignment of the video icon for shared videos in messages.
+- FIXED: The Large Preview window for messages overlaid an empty video player.
+- FIXED: Backslashes in passwords caused login to fail.
+- FIXED: Avatar borders in the Touch Bar are always white, regardless of Design Mode setting.
+- FIXED: The “Customize Touch Bar” menu item appeared for Macs that don’t have a Touch Bar.
+- FIXED: Mentions in captions, messages and comments to usernames that were longer than 20 characters did not work.
+- FIXED: An issue with the security checkpoint browser loading a “404 Bad Request”.
+- FIXED: An issue that would cause the placeholder text to appear on the pending conversations list incorrectly.
+- FIXED: Video uploads in conversations failed.
+- FIXED: The pause button would not show when hovering over videos.
+- FIXED: The view mode switcher has been removed from the Touch Bar when viewing a profile.
+- FIXED: Added share to Facebook / Twitter options to help spread the word.
+- FIXED: View the conversation info in a one-on-one conversation so you can click through to the other member’s profile.
+- FIXED: An issue when linking accounts with Tumblr and Flickr.
+- FIXED: Many more minor tweaks and improvements.
 
 <hr />
 
