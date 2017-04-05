@@ -28,7 +28,7 @@ We recommend the use of a third-party extension, [External Editors for Photos](h
 
 To send content from Lightroom into Flume, you can create a new Export Preset with the the following options. The only necessary step is that listed under "Post-Processing", the options for where to place the exported file are customizable to your workflow.
 
-<p style="text-align: center; margin-top: 1em;"><img src="/misc/assets/integrations-lightroom.png" width="50%" height="50%" /> </p>
+<p style="text-align: center; margin-top: 1em;"><img src="/misc/assets/integrations-lightroom.png" width="70%" height="70%" /> </p>
 
 ### Photoshop
 
