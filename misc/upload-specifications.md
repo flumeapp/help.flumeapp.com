@@ -27,4 +27,4 @@ We suggest you output your videos using the following specifications for best re
 | Video Codec | H.264 codec / MP4 container with a 5,500 kbps video bitrate. The final bitrate might be adjusted by Instagram's servers. |
 | Audio Codec | AAC audio codec at 44.1 kHz |
 
-Some additional information can be found on Facebook's official guide at https://www.facebook.com/business/ads-guide/video-views/instagram-video-views/
+Some additional information can be found on [Facebook's official recommendations](https://www.facebook.com/business/ads-guide/video-views/instagram-video-views/).
