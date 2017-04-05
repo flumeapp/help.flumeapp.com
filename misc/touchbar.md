@@ -4,7 +4,7 @@ The [Touch Bar](https://support.apple.com/en-us/HT207055) is a unique hardware-f
 
 Flume has comprehensive support for the Touch Bar, localized into all supported languages.
 
-<p style="text-align: center; margin-top: 1em;"><img src="/misc/assets/touchbar.png" width="50%" height="50%" /> </p>
+<p style="text-align: center; margin-top: 1em;"><img src="/misc/assets/touchbar.png" width="70%" height="70%" /> </p>
 
 #### Customizing the Touch Bar items
 
