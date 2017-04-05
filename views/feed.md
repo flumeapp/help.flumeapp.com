@@ -17,3 +17,12 @@ To adjust your viewing mode preference:
 
 <hr />
 
+#### Column View display options
+
+By default, Flume displays content edge-to-edge, removing distracting information and leaves you to enjoy the photos and videos as individual works of art. If you would rather view more metadata, Column-View offers 4 different levels, as explained in [design preferences](/preferences/design.md).
+
+
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/feed-column-none.png" width="30%" height="30%" /> <img src="/views/assets/feed-hover.png" width="30%" height="30%" /> <img src="/views/assets/feed-compact.png" width="30%" height="30%" /> <img src="/views/assets/feed-all.png" width="30%" height="30%" /></p>
+
+
+
