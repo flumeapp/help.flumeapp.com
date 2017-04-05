@@ -58,6 +58,7 @@
   * [Notifications Preferences](preferences/notifications.md)
   * [Flume Pro Preferences](preferences/flumepro.md)
 * Misc
+  * [Photo / Video Upload Specifications](misc/upload-specifications.md)
   * [Keyboard Shortcuts](misc/keyboard-shortcuts.md)
   * [Mouse Shortcuts](misc/mouse-shortcuts.md)
   * [Hover Shortcuts](misc/hover-shortcuts.md)
