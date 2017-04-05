@@ -30,9 +30,11 @@ We recommend the use of a third-party extension, [External Editors for Photos](h
 
 ### Adobe Lightroom
 
-To send content from Lightroom into Flume, you can create a new [Export Preset](https://helpx.adobe.com/lightroom/help/export-presets-settings-plug-ins.html) with the following options. The only necessary step is that listed under "Post-Processing", the options for where to place the exported file are customizable to your workflow.
+To send content from Lightroom into Flume, you can create a new [Export Preset](https://helpx.adobe.com/lightroom/help/export-presets-settings-plug-ins.html) with the following options:
 
 <p style="text-align: center; margin-top: 1em;"><img src="/misc/assets/integrations-lightroom.png" width="70%" height="70%" /> </p>
+
+_Note: The only necessary step is that listed under "Post-Processing", the options for where to place the exported file are customizable to your workflow._
 
 <hr />
 
