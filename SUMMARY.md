@@ -17,7 +17,7 @@
   * [How do I upload a photo or video?](getstarted/upload-a-post.md)
   * [How do I edit a photo or video?](getstarted/edit-a-post.md)
   * [How do I share my photos to Facebook?](getstarted/share-to-facebook.md)
-  * [How do I add another account?](getstarted/multipleaccounts.md)
+  * [How do I add another account?](getstarted/add-an-account.md)
   * [How do I switch between accounts?](getstarted/switch-accounts.md)
   * [How do I always show the menu?](getstarted/show-menu.md)
 * Views
