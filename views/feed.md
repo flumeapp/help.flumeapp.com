@@ -1,6 +1,6 @@
 # Feed
 
-The Feed view is your "Home", and displays your timeline. Depending on your [Design preferences](/preferences/design.md), the layout can differ in multiple ways.
+The Feed view is your "Home", and displays your timeline. Depending on your [Design Preferences](/preferences/design.md), the layout can differ in multiple ways.
 
 #### Column View / Grid View
 
@@ -10,9 +10,9 @@ The Feed, as well as your [Likes](/views/likes.md) and [Profiles](/views/profile
 
 To adjust your viewing mode preference, you can use:
 
-- The View-Mode Switcher in the titlebar. If the titlebar is not visible, hover near the top of the main Flume window and it will appear. You can adjust your [design preferences](/preferences/design.md) to have the titlebar appear at all times.
+- The View-Mode Switcher in the titlebar. If the titlebar is not visible, hover near the top of the main Flume window and it will appear. You can adjust your [Design Preferences](/preferences/design.md) to have the titlebar appear at all times.
 - The macOS menu bar under <kbd>View > Column/Grid View</kbd>
-- The [keyboard shortcut](/misc/keyboard-shortcuts.md) <kbd>⌥⌘1</kbd> or <kbd>⌥⌘2</kbd>
+- The [Keyboard Shortcut](/misc/keyboard-shortcuts.md) <kbd>⌥⌘1</kbd> or <kbd>⌥⌘2</kbd>
 - The View-Mode Switcher in the [Touch Bar](/misc/touchbar.md)
 
 
@@ -20,7 +20,7 @@ To adjust your viewing mode preference, you can use:
 
 #### Column View display options
 
-By default, Flume displays content edge-to-edge, removing distracting information and leaves you to enjoy the photos and videos as individual works of art. If you would rather view more metadata, Column-View offers 4 different levels, as explained in [design preferences](/preferences/design.md).
+By default, Flume displays content edge-to-edge, removing distracting information and leaves you to enjoy the photos and videos as individual works of art. If you would rather view more metadata, Column-View offers 4 different levels, as explained in [Design Preferences](/preferences/design.md).
 
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/feed-column-none.png" width="25%" height="25%" /> <img src="/views/assets/feed-column-hover.png" width="25%" height="25%" /> <img src="/views/assets/feed-column-compact.png" width="25%" height="25%" /> <img src="/views/assets/feed-column-all.png" width="25%" height="25%" /></p>
