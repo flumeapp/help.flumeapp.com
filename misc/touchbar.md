@@ -6,6 +6,8 @@ Flume has comprehensive support for the Touch Bar, localized into all supported 
 
 <p style="text-align: center; margin-top: 1em;"><img src="/misc/assets/touchbar.png" width="70%" height="70%" /> </p>
 
+<hr />
+
 #### Customizing the Touch Bar items
 
 Each "view" in Flume will update the options and buttons available in the Touch Bar. To customize the ordering, or to remove default items, use the <kbd>View > Customize Touch Bar…</kbd> menu bar item.
