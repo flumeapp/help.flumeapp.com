@@ -62,6 +62,7 @@
   * [Hover Shortcuts](misc/hover-shortcuts.md)
   * [Touch Bar](misc/touchbar.md)
   * [URL Scheme](misc/urlscheme.md)
+  * [Reset Flume](misc/reset.md)
 * [Flume Support Portal](http://support.flumeapp.com)
 * [Contact Us](http://support.flumeapp.com/customer/en/portal/articles/2550592-how-can-i-contact-support-)
 
