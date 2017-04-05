@@ -1,34 +1,30 @@
-# URL Scheme
+# Photo / Upload Video Specifications
 
-Flume uses the <kbd>flumeapp://</kbd> URL scheme, which allows you to create links to jump directly to various areas of the application. Like with all macOS URL schemes, the links will also open Flume if it is not currently open.
+#### Aspect Ratio
+Instagram enforces aspect ratio rules for all uploads. All uploads must fit between a 4:5 (vertical) and 1.91:1 (horizontal) aspect ratio. For regular horizontal photos and videos taken with most cameras and smartphones, no cropping is necessary as they fit between these ratios. For portrait photos and videos, or panorama photos, some cropping is required to upload your photo/video.
 
-Additionally, all the shortcuts below can be opened via a HTTP link to our website (eg. <kbd>https://flumeapp.com/?redirect=pro</kbd>)
+To choose the cropping region for photos and videos in Flume, simply use the mouse scroll-wheel to pan left/right/up/down, or click-and-drag.
 
-## General Shortcuts
+#### Photo Specifications
+Flume will accept all JPG and PNG files. No other specifications are required, except for the aspect ratio rules above. High DPI images are supported.
 
-| URI | Explanation |
-|-------------------|
-| <kbd>flumeapp://media/:id</kbd> | Jumps to the Detail View of the media with the corresponding ID. If the ID is invalid or does not exist, the Flume window will shake. |
-| <kbd>flumeapp://shortcode/:shortcode</kbd> | Jumps to the Detail View of the media with the corresponding short code. A "shortcode" is the series of numbers and letters found on the Instagram website eg. in the URL https://www.instagram.com/p/-Bw_YOEcrW, the shortcode is ```-Bw_YOEcrW```. If the short code is invalid or does not exist, the Flume window will shake (available in [Flume 2.5](//whatsnew/README.md) and above). |
-| <kbd>flumeapp://user/:username</kbd> | Jumps to the Profile of the user with the corresponding username. If the username is invalid or does not exist, the Flume window will shake. |
-| <kbd>flumeapp://userid/:id</kbd> | Jumps to the Profile of the user with the corresponding user ID. If the user ID is invalid or does not exist, the Flume window will shake (available in [Flume 2.5](//whatsnew/README.md) and above). |
-| <kbd>flumeapp://location/:id</kbd> | Jumps to the tagged posts at the location with the corresponding ID. If the ID is invalid or does not exist, the Flume window will shake. |
-| <kbd>flumeapp://tag/:tagname</kbd> | Jumps to the posts tagged with the corresponding hashtag. If the hashtag is invalid or does not exist, the Flume window will shake. |
-| <kbd>flumeapp://feed</kbd> | Switches to the Feed view. |
-| <kbd>flumeapp://pending_conversations</kbd> | Displays the current pending conversations. |
-| <kbd>flumeapp://pro</kbd> | Displays the Pro tab of the Preferences window. |
-| <kbd>flumeapp://log</kbd> | Displays the debugging log. |
-| <kbd>flumeapp://logfile</kbd> | Opens Finder to the current debugging log file. |
+Photos will be compressed to a maximum dimension of 1080px before uploading. If you would like to avoid Flume performing compression of high-resolution photos, configure your workflow to export photos with a maximum dimension of 1080px.
 
-## Preferences Shortcuts
+For more info on photo specifications and resolutions, please see the [official Instagram support article](www.facebook.com/help/instagram/1631821640426723).
 
-| URI | Explanation |
-|-------------------|
-| <kbd>flumeapp://preferences/</kbd> | Opens the Preferences window with the last selected tab. |
-| <kbd>flumeapp://preferences/general/</kbd> | Opens the Preferences window to the General tab. |
-| <kbd>flumeapp://preferences/design/</kbd> | Opens the Preferences window to the Design tab. |
-| <kbd>flumeapp://preferences/accounts/</kbd> | Opens the Preferences window to the Accounts tab. |
-| <kbd>flumeapp://preferences/Feed/</kbd> | Opens the Preferences window to the Feed tab. |
-| <kbd>flumeapp://preferences/Upload/</kbd> | Opens the Preferences window to the Upload tab. |
-| <kbd>flumeapp://preferences/Notifications/</kbd> | Opens the Preferences window to the Notifications tab. |
-| <kbd>flumeapp://preferences/pro/</kbd> | Opens the Preferences window to the Pro tab. |
+#### Video Specifications
+Flume will accept all video files with a .mp4, .mov or .m4v container. Note that if you are using a video codec that QuickTime cannot compress, your upload may fail. Duration must be between 3-60 seconds. 
+
+Videos will be compressed to a maximum dimension of 1920px before uploading. If you would like to avoid Flume performing compression of high-resolution videos, configure your workflow to export videos with a maximum dimension of 1920px.
+
+We suggest you output your videos using the following specifications for best results.
+
+| Attribute | Requirement |
+| ----------------------- |
+| Dimensions | No greater than 1920x1080. Note that Instagram's aspect-ratio rules still apply. |
+| File size | Less than 100MB. This is to ensure Flume's compression before upload will not result in drastic changes from a high-resolution export. |
+| Frame Rate | 30fps |
+| Video codec | H.264 codec / MP4 container with a 5,500 kbps video bitrate. The final bitrate might be adjusted by Instagram's servers. |
+| Audio codec | AAC audio codec at 44.1 kHz |
+
+Some additional information can be found on Facebook's official guide at https://www.facebook.com/business/ads-guide/video-views/instagram-video-views/
