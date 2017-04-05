@@ -8,11 +8,12 @@ The Feed, as well as your [Likes](/views/likes.md) and [Profiles](/views/profile
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/feed-column.png" width="30%" height="30%" /> <img src="/views/assets/feed-grid.png" width="30%" height="30%" /></p>
 
-To adjust your viewing mode preference:
+To adjust your viewing mode preference, you can use:
 
-- Use the View-Mode Switcher in the titlebar. If the titlebar is not visible, hover near the top of the main Flume window and it will appear. You can adjust your [design preferences](/preferences/design.md) to have the titlebar appear at all times.
-- Use the macOS menu bar under <kbd>View > Column/Grid View</kbd>
-- Use the [keyboard shortcut](/misc/keyboard-shortcuts.md) <kbd>⌥⌘1</kbd> or <kbd>⌥⌘2</kbd>
+- The View-Mode Switcher in the titlebar. If the titlebar is not visible, hover near the top of the main Flume window and it will appear. You can adjust your [design preferences](/preferences/design.md) to have the titlebar appear at all times.
+- The macOS menu bar under <kbd>View > Column/Grid View</kbd>
+- The [keyboard shortcut](/misc/keyboard-shortcuts.md) <kbd>⌥⌘1</kbd> or <kbd>⌥⌘2</kbd>
+- The View-Mode Switcher in the [Touch Bar](/misc/touchbar.md)
 
 
 <hr />
