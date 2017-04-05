@@ -28,7 +28,7 @@ Clicking on the status bar icon will toggle the windows front-most status, simil
 
 ** To access Flume's preferences in "Menu bar only", right-click on Flume's menubar icon.
 
-<img src="/preferences/assets/menubar.png" width="30%" height="30%" /> 
+<p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/menubar.png" width="30%" height="30%" /></p>
 
 <hr /> 
 
