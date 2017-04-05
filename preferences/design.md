@@ -47,7 +47,7 @@ Enables or disables showing the Flume title bar in [Feed](/views/feed.md) and [L
 
 ##### Show media details
 
-Customizes the amount of details to show about media when in Column-View content areas ([Feed](/views/feed.md), [Likes](/views/likes.md) and [Profile](/views/profile/README.md)).
+Customizes the amount of details to show about media when in Column-View content areas ([Feed](/views/feed.md), [Likes](/views/likes.md) and [Profile](/views/profile/README.md)). See [Feed](/views/feed.md) for visual examples.
 
 | Option | Explanation |
 |----------------------|
