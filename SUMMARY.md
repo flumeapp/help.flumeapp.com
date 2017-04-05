@@ -5,7 +5,7 @@
   * [Design](home/design.md)
   * [Accessibility](home/accessibility.md)
 * [What's New in Flume](/whatsnew/README.md)
-* [Views](views.md)
+* Views
   * [Login](views/login.md)
   * [Upload](views/upload.md)
   * [Feed](views/feed.md)
