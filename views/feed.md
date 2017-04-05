@@ -12,7 +12,7 @@ To adjust your viewing mode preference:
 
 - Use the View-Mode Switcher in the titlebar. If the titlebar is not visible, hover near the top of the main Flume window and it will appear. You can adjust your [design preferences](/preferences/design.md) to have the titlebar appear at all times.
 - Use the macOS menu bar under <kbd>View > Column/Grid View</kbd>
-- Use the [keyboard shortcut](/misc/keyboard-shortcuts.md) <kbd>1</kbd> or <kbd>2</kbd>
+- Use the [keyboard shortcut](/misc/keyboard-shortcuts.md) <kbd>⌥⌘1</kbd> or <kbd>⌥⌘2</kbd>
 
 
 <hr />
