@@ -22,9 +22,9 @@ We suggest you output your videos using the following specifications for best re
 | Attribute | Requirement |
 | ----------------------- |
 | Dimensions | No greater than 1920x1080. Note that Instagram's aspect-ratio rules still apply. |
-| File size | Less than 100MB. This is to ensure Flume's compression before upload will not result in drastic changes from a high-resolution export. |
+| File Size | Less than 100MB. This is to ensure Flume's compression before upload will not result in drastic changes from a high-resolution export. |
 | Frame Rate | 30fps |
-| Video codec | H.264 codec / MP4 container with a 5,500 kbps video bitrate. The final bitrate might be adjusted by Instagram's servers. |
-| Audio codec | AAC audio codec at 44.1 kHz |
+| Video Codec | H.264 codec / MP4 container with a 5,500 kbps video bitrate. The final bitrate might be adjusted by Instagram's servers. |
+| Audio Codec | AAC audio codec at 44.1 kHz |
 
 Some additional information can be found on Facebook's official guide at https://www.facebook.com/business/ads-guide/video-views/instagram-video-views/
