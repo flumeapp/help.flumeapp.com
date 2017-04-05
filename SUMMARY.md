@@ -5,6 +5,20 @@
   * [Design](home/design.md)
   * [Accessibility](home/accessibility.md)
 * [What's New in Flume](/whatsnew/README.md)
+* How-To's
+  * [How do I login?](howto/login.md)
+  * [How do I add another account?](howto/multipleaccounts.md)
+  * [How do I like a photo or video?](howto/like-a-post.md)
+  * [How do I comment on a photo or video?](howto/comment-a-post.md)
+  * [How do I see the author of posts?](howto/see-posts-author.md)
+  * [How do I upload a photo or video?](howto/upload-a-post.md)
+  * [How do I share my photos to Facebook?](howto/share-to-facebook.md)
+  * [How do I switch between accounts?](howto/switch-accounts.md)
+  * [How do I follow / unfollow a profile?](howto/follow-profile.md)
+  * [How do I block / report a profile?](howto/block-profile.md)
+  * [How do I message a profile?](howto/message-profile.md)
+  * [How do I follow/unfollow a profile?](howto/follow-profile.md)
+  
 * Views
   * [Login](views/login.md)
   * [Upload](views/upload.md)
