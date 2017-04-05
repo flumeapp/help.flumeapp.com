@@ -32,5 +32,21 @@ To send content from Lightroom into Flume, you can create a new Export Preset wi
 
 ### Photoshop
 
-Unlike Lightroom, Photoshop does not offer a simple way to export content into a post-processing application. However, using AppleScript, it is still possible to automate the export into Flume.
+Unlike Lightroom, Photoshop does not offer a simple way to export content into a post-processing application. However, using [AppleScript](https://en.wikipedia.org/wiki/AppleScript), it is still possible to automate the export into Flume.
+
+```
+set filePath to "/tmp/flume-temp-upload.png"
+
+tell application "Adobe Photoshop CC 2017"
+	set saveOptions to {class:PNG save options}
+	save current document in file filePath as PNG with options Â¬
+		saveOptions appending lowercase extension with copying
+end tell
+
+try
+	set command to "open -a /Applications/Flume.app " & quoted form of filePath
+	do shell script command
+end try
+
+```
 
