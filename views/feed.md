@@ -25,7 +25,14 @@ By default, Flume displays content edge-to-edge, removing distracting informatio
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/feed-column-none.png" width="20%" height="20%" /> <img src="/views/assets/feed-column-hover.png" width="20%" height="20%" /> <img src="/views/assets/feed-column-compact.png" width="20%" height="20%" /> <img src="/views/assets/feed-column-all.png" width="20%" height="20%" /></p>
 
+<hr />
+
 #### Feed Ordering
 
 Posts are ordered based on factors like how recently the post was shared, your interactions with the person who shared it and whether you'll find the post interesting. Posts you're likely to care about most will appear higher in your feed. For more information, please visit [How Feed Works](https://help.instagram.com/1400877086604710).
+
+<hr />
+
+
+
 
