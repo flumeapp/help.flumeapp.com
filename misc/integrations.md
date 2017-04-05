@@ -30,3 +30,7 @@ To send content from Lightroom into Flume, you can create a new Export Preset wi
 
 <p style="text-align: center; margin-top: 1em;"><img src="/misc/assets/integrations-lightroom.png" width="50%" height="50%" /> </p>
 
+### Photoshop
+
+Unlike Lightroom, Photoshop does not offer a simple way to export content into a post-processing application. However, using AppleScript, it is still possible to automate the export into Flume.
+
