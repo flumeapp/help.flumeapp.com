@@ -6,7 +6,7 @@
   * [Accessibility](home/accessibility.md)
 * [What's New in Flume](/whatsnew/README.md)
 * Get Started Guide
-  * [How do I login?](getstarted/login.md)
+  * [How do I login / logout?](getstarted/login.md)
   * [How do I like a photo or video?](getstarted/like-a-post.md)
   * [How do I comment on a photo or video?](getstarted/comment-a-post.md)
   * [How do I see the author of posts?](getstarted/see-posts-author.md)
