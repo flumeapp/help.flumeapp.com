@@ -2,6 +2,8 @@
 
 The Feed view is your "Home", and displays your timeline. Depending on your [Design Preferences](/preferences/design.md), the layout can differ in multiple ways.
 
+<hr />
+
 #### Column View / Grid View
 
 The Feed, as well as your [Likes](/views/likes.md) and [Profiles](/views/profile/README.md) can be viewed in either Column-View or Grid-View mode.
