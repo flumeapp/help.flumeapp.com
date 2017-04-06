@@ -22,7 +22,7 @@ To adjust your viewing mode preference, you can use:
 
 #### Column-View Media Details
 
-By default, Flume displays content edge-to-edge, removing distracting information and leaves you to enjoy the photos and videos as individual works of art. If you would rather view more metadata, Column-View offers 4 different levels, as explained in [Design Preferences](/preferences/design.md#show-media-details).
+By default, Flume displays your Feed and Likes in an edge-to-edge format, removing distracting information and leaves you to enjoy the photos and videos as individual works of art. If you would rather view more metadata, Column-View offers 4 different levels, as explained in [Design Preferences](/preferences/design.md#show-media-details).
 
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/feed-column-none.png" width="20%" height="20%" /> <img src="/views/assets/feed-column-hover.png" width="20%" height="20%" /> <img src="/views/assets/feed-column-compact.png" width="20%" height="20%" /> <img src="/views/assets/feed-column-all.png" width="20%" height="20%" /></p>
