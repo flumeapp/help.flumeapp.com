@@ -20,7 +20,7 @@ When viewing a [Profile](/views/profile.md), [Location](/views/locations.md), or
 
 To add an item as a bookmark:
 
-- Click the bookmarks icon ( in the title bar
+- Click the bookmarks icon (<img src="/views/assets/bookmark.png" width="20" height="20" />) in the title bar
 - Use the <kbd>View > Add to Bookmarks<kbd> menubar item.
 
 ### Suggested Searches
