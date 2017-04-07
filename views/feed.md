@@ -2,13 +2,13 @@
 
 The Feed view is your "Home", and displays your timeline. Depending on your [Design Preferences](/preferences/design.md), the layout can differ in multiple ways.
 
-Your Feed is limited to the last 200 items. You can use [Search](/views/search.md) or the [Go to User…](/misc/keyboard-shortcuts.md) shortcut to quickly jump to a specific [Profile](/views/profile/README.md) and view older posts.
+Your Feed is limited to the last 200 items. You can use [Search](/views/search.md) or the [Go to User…](/misc/keyboard-shortcuts.md) shortcut to quickly jump to a specific [Profile](/views/profile.md) and view older posts.
 
 <hr />
 
 #### Column View / Grid View
 
-The Feed, as well as your [Likes](/views/likes.md) and [Profiles](/views/profile/README.md) can be viewed in either Column-View or Grid-View mode.
+The Feed, as well as your [Likes](/views/likes.md) and [Profiles](/views/profile.md) can be viewed in either Column-View or Grid-View mode.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/feed-column.png" width="30%" height="30%" /> <img src="/views/assets/feed-grid.png" width="30%" height="30%" /></p>
 
