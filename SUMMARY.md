@@ -20,7 +20,7 @@
   * [How do I add another account?](getstarted/add-an-account.md)
   * [How do I switch between accounts?](getstarted/switch-accounts.md)
   * [How do I always show the menu?](getstarted/show-menu.md)
-* Views
+* [Views](views.md)
   * [Login](views/login.md)
   * [Upload](views/upload.md)
   * [Feed](views/feed.md)
