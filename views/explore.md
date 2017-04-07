@@ -2,7 +2,7 @@
 
 The Explore view allows you to discover posts and users that Instagram curates to you personally. These suggestions are based off various factors, such as existing accounts you follow, your contacts, your previous likes and more.
 
-
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/explore.png" width="50%" height="50%" /></p>
 
 <hr />
 
