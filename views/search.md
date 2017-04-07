@@ -25,6 +25,10 @@ When viewing a [Profile](/views/profile.md), [Location](/views/locations.md), or
 To toggle an item ([Profile](/views/profile.md), [Location](/views/locations.md), or [Hashtag](/views/hashtags.md)) as a Bookmark, perform one of the following: 
 
 - Click the Bookmarks icon (<img src="/views/assets/bookmark.png" width="20" height="20" />) in the title bar
+
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/bookmark-toggle.png" width="50%" height="50%" /></p>
+
+
 - Use the <kbd>View > Add / Remove as Bookmark</kbd> macOS menubar item.
 - When viewing your list of Bookmarks, click the <img src="/views/assets/actions-dismiss.png" width="20" height="20" /> button.
 
