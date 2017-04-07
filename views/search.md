@@ -18,22 +18,22 @@ To switch between Search modes, use the <img src="/views/assets/actions-menu.png
 
 When viewing a [Profile](/views/profile.md), [Location](/views/locations.md), or [Hashtag](/views/hashtags.md), you can add the item as a Bookmark, giving you quick access to it later from the Search view. 
 
-#### Adding / removing a Bookmark
+#### Adding / Removing a Bookmark
 
 To toggle an item ([Profile](/views/profile.md), [Location](/views/locations.md), or [Hashtag](/views/hashtags.md)) as a Bookmark: 
 
 - Click the Bookmarks icon (<img src="/views/assets/bookmark.png" width="20" height="20" />) in the title bar
-- Use the <kbd>View > Add / Remove as Bookmark<kbd> macOS menubar item.
+- Use the <kbd>View > Add / Remove as Bookmark</kbd> macOS menubar item.
 
 #### Sorting Bookmarks
 
-By default, Bookmarks are sorted in Date Added order. To change the ordering, use the "Sort by…" option under the <img src="/views/assets/settings.png" width="20" height="20" /> button.
+By default, Bookmarks are sorted in Date Added order. To change the ordering, use the <kbd>Sort by…</kbd> option under the <img src="/views/assets/settings.png" width="20" height="20" /> button.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/bookmarks-sorting.png" width="50%" height="50%" /></p>
 
 #### Importing / Exporting Bookmarks
 
-To import or export your Bookmarks, use the "Import / Export Bookmarks…" option under the <img src="/views/assets/settings.png" width="20" height="20" /> button, or under the <kbd>File > Bookmarks</kbd> macOS menubar item.
+To import or export your Bookmarks, use the <kbd>Import / Export Bookmarks…</kbd> option under the <img src="/views/assets/settings.png" width="20" height="20" /> button, or under the <kbd>File > Bookmarks</kbd> macOS menubar item.
 
 <hr />
 
