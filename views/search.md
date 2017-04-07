@@ -16,7 +16,12 @@ To switch between Search modes, use the <img src="/views/assets/actions-menu.png
 
 ### Bookmarks
 
-When viewing a [Profile](/views/profile.md), [Location](/views/locations.md), or [Hashtag](/views/hashtags.md), you can add the item as a Bookmark, giving you quick access
+When viewing a [Profile](/views/profile.md), [Location](/views/locations.md), or [Hashtag](/views/hashtags.md), you can add the item as a Bookmark, giving you quick access to it later from the Search view. 
+
+To add an item as a bookmark:
+
+- Click the bookmarks icon ( in the title bar
+- Use the <kbd>View > Add to Bookmarks<kbd> menubar item.
 
 ### Suggested Searches
 
