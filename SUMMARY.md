@@ -44,6 +44,8 @@
   * [Details](views/detailview.md)
   * [Editing](views/editing.md)
   * [Sharing](views/sharing.md)
+  * [Locations](views/locations.md)
+  * [Hashtag](views/hashtags.md)
   * [Promoting](views/promote.md)
   * [Large Preview](views/largepreview.md)
 * [Preferences](preferences/README.md)
