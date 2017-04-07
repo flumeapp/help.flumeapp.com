@@ -18,12 +18,16 @@ To switch between Search modes, use the <img src="/views/assets/actions-menu.png
 
 When viewing a [Profile](/views/profile.md), [Location](/views/locations.md), or [Hashtag](/views/hashtags.md), you can add the item as a Bookmark, giving you quick access to it later from the Search view. 
 
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/bookmarks.png" width="50%" height="50%" /></p>
+
 #### Adding / Removing a Bookmark
 
-To toggle an item ([Profile](/views/profile.md), [Location](/views/locations.md), or [Hashtag](/views/hashtags.md)) as a Bookmark: 
+To toggle an item ([Profile](/views/profile.md), [Location](/views/locations.md), or [Hashtag](/views/hashtags.md)) as a Bookmark, perform one of the following: 
 
 - Click the Bookmarks icon (<img src="/views/assets/bookmark.png" width="20" height="20" />) in the title bar
 - Use the <kbd>View > Add / Remove as Bookmark</kbd> macOS menubar item.
+- When viewing your list of Bookmarks, click the <img src="/views/assets/actions-dismiss.png" width="20" height="20" /> button.
+
 
 #### Sorting Bookmarks
 
