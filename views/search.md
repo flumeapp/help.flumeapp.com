@@ -29,7 +29,7 @@ To toggle an item ([Profile](/views/profile.md), [Location](/views/locations.md)
 
 By default, Bookmarks are sorted in Date Added order. To change the ordering, use the "Sort by…" option under the <img src="/views/assets/settings.png" width="20" height="20" /> button.
 
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/search-sorting.png" width="50%" height="50%" /></p>
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/bookmarks-sorting.png" width="50%" height="50%" /></p>
 
 #### Importing / Exporting Bookmarks
 
