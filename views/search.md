@@ -25,9 +25,13 @@ To add an item as a bookmark:
 
 ### Suggested Searches
 
+If you do not have any [Bookmarks](#bookmarks), the Search view will default to showing you Instagram's suggestions.
+
+We recommend you use Flume's [Bookmarks](#bookmarks) feature to save commonly searched items, as suggested searches can change at any time based off various account-factors.
+
 ### Recent Searches
 
-Your recent searches are populated by Instagram based off previous searches. We recommend you use Flume's [Bookmarks](#bookmarks) feature as a better replacement since recent searches are limited to just a few items.
+Your recent searches are populated by Instagram based off your previous searches for that account. We recommend you use Flume's [Bookmarks](#bookmarks) feature to save commonly searched items, as recent searches are limited by Instagram to just a few items.
 
 To clear your recent searches, see [Profile](/views/profile.md).
 
