@@ -23,17 +23,25 @@ When viewing a [Profile](/views/profile.md), [Location](/views/locations.md), or
 To toggle an item ([Profile](/views/profile.md), [Location](/views/locations.md), or [Hashtag](/views/hashtags.md)) as a Bookmark: 
 
 - Click the Bookmarks icon (<img src="/views/assets/bookmark.png" width="20" height="20" />) in the title bar
-- Use the <kbd>View > Add / Remove as Bookmark<kbd> menubar item.
+- Use the <kbd>View > Add / Remove as Bookmark<kbd> macOS menubar item.
 
 #### Sorting Bookmarks
 
 By default, Bookmarks are sorted in Date Added order. To change the ordering, use the "Sort by…" option under the <img src="/views/assets/settings.png" width="20" height="20" /> button.
+
+#### Importing / Exporting Bookmarks
+
+To import or export your Bookmarks, use the "Import / Export Bookmarks…" option under the <img src="/views/assets/settings.png" width="20" height="20" /> button, or under the <kbd>File > Bookmarks</kbd> macOS menubar item.
+
+<hr />
 
 ### Suggested Searches
 
 If you do not have any [Bookmarks](#bookmarks), the Search view will default to showing you Instagram's suggestions.
 
 We recommend you use Flume's [Bookmarks](#bookmarks) feature to save commonly searched items, as suggested searches can change at any time based off various account-factors.
+
+<hr />
 
 ### Recent Searches
 
