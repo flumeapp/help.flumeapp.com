@@ -4,7 +4,9 @@ The Search view allows you to find specific [Profiles](/views/profile.md), [Loca
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/search.png" width="50%" height="50%" /></p>
 
-To switch between Search modes, use the 
+To switch between Search modes, use the <img src="/views/assets/actions-menu.png" width="20" height="20" /> menu.
+
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/search-modes.png" width="50%" height="50%" /></p>
 
 <hr />
 
