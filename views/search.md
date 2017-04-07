@@ -18,10 +18,16 @@ To switch between Search modes, use the <img src="/views/assets/actions-menu.png
 
 When viewing a [Profile](/views/profile.md), [Location](/views/locations.md), or [Hashtag](/views/hashtags.md), you can add the item as a Bookmark, giving you quick access to it later from the Search view. 
 
-To add an item as a bookmark:
+#### Adding / removing a Bookmark
 
-- Click the bookmarks icon (<img src="/views/assets/bookmark.png" width="20" height="20" />) in the title bar
-- Use the <kbd>View > Add to Bookmarks<kbd> menubar item.
+To toggle an item ([Profile](/views/profile.md), [Location](/views/locations.md), or [Hashtag](/views/hashtags.md)) as a Bookmark: 
+
+- Click the Bookmarks icon (<img src="/views/assets/bookmark.png" width="20" height="20" />) in the title bar
+- Use the <kbd>View > Add / Remove as Bookmark<kbd> menubar item.
+
+#### Sorting Bookmarks
+
+By default, Bookmarks are sorted in Date Added order. To change the ordering, use the "Sort by…" option under the <img src="/views/assets/settings.png" width="20" height="20" /> button.
 
 ### Suggested Searches
 
