@@ -26,7 +26,17 @@ Additionally, the following may display:
 
 #### Filtering Activity
 
+By default, all notification types are displayed. To apply filters to the notifications, use the <kbd>Filter</kbd> option under the <img src="/views/assets/settings.png" width="20" height="20" /> button.
 
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/activity-filtering.png" width="50%" height="50%" /></p>
+
+<hr />
 
 ### Following
 
+The Following tab lists the latest 200 notifications that relate to activity made by accounts you follow. These include:
+
+- When accounts you follow like others posts
+- When accounts you follow start following other accounts
+
+<hr />
