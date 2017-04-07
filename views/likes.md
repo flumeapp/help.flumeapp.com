@@ -1,6 +1,6 @@
 # Likes
 
-The Likes view displays all your previousis your "Home", and displays your timeline. Depending on your [Design Preferences](/preferences/design.md), the layout can differ in multiple ways.
+The Likes view displays all your previous liked photos and videos. Visually, it behaves identically to that of the [Feed](/views/feed.md) view. To view items you have saved, see [Profile](/views/profile/README.md#saved-items).
 
 <hr />
 
