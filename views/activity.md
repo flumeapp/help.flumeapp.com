@@ -39,4 +39,6 @@ The Following tab lists the latest 200 notifications that relate to activity mad
 - When accounts you follow like others posts
 - When accounts you follow start following other accounts
 
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/activity-following.png" width="50%" height="50%" /></p>
+
 <hr />
