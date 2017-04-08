@@ -1,6 +1,6 @@
 # Feed
 
-The Feed view is your "Home", and displays your timeline. Depending on your [Design Preferences](/preferences/design.md), the layout can differ in multiple ways.
+The Feed tab is your "Home", and displays your timeline. Depending on your [Design Preferences](/preferences/design.md), the layout can differ in multiple ways.
 
 Your Feed is limited to the last 200 items. You can use [Search](/views/search.md) or the [Go to User…](/misc/keyboard-shortcuts.md) shortcut to quickly jump to a specific [Profile](/views/profile.md) and view older posts.
 
