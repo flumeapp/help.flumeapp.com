@@ -53,6 +53,9 @@ Muted conversations will not send [desktop notifications](/preferences/notificat
 To toggle a conversation's mute status, perform one of the following: 
 
 - Left-click on a conversation to view the messages, and from the <img src="/views/assets/actions-menu.png" width="20" height="20" /> button menu, select "Mute Conversation", or use the <kbd>Conversation > Mute Conversation</kbd> macOS menubar item.
+
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversation-actions.png" width="50%" height="50%" /></p>
+
 - Use the <kbd>Conversation > Mute Conversation</kbd> macOS menubar item when a conversation is selected using the [keyboard arrows](/misc/keyboard-shortcuts.md).
 - Use the <kbd>Mute Conversation</kbd> menu item when right-clicking on a conversation.
 
