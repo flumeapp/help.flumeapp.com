@@ -20,13 +20,15 @@ If you have lots of conversations, you can quickly filter by author or group cha
 
 #### Adding / Removing a Conversation Bookmark
 
+Bookmarked conversations appear at the top of all others in the conversations list, and provide you with quick access to conversations regardless of the conversation's age.
+
 To toggle a conversation as a Bookmark, perform one of the following: 
 
 - Click the Bookmarks icon (<img src="/views/assets/bookmark.png" width="20" height="20" />) in the title bar when viewing the details of a Conversation.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversation-bookmark-toggle.png" width="50%" height="50%" /></p>
 
-- Use the <kbd>View > Add / Remove &lt;Conversation Name&gt; to Bookmarks</kbd> macOS menubar item.
+- Use the <kbd>View > Add / Remove "Conversation Name" to Bookmarks</kbd> macOS menubar item.
 
 
 
