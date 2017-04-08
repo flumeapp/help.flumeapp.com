@@ -61,7 +61,7 @@
 * [Design Preferences](preferences/design.md)
 * [Accounts Preferences](preferences/accounts.md)
 * [Feed Preferences](preferences/feed.md)
-* [Upload Preferences](preferences/upload/filters.md)
+* [Upload Preferences](preferences/upload.md)
   * [Filters](preferences/upload/filters.md)
   * [Adjustments](preferences/upload/adjustments.md)
   * [Settings](preferences/upload/settings.md)
