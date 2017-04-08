@@ -14,7 +14,7 @@ If using Flume with [multiple accounts](/preferences/accounts.md#adding-an-accou
 
 ##### Hide videos
 
-Enable or disable displaying videos in Flume. When enabled, all videos will be filtered from the [Feed](/views/feed.md), [Likes](/views/likes.md) and [Explore](/views/explore.md) views. Videos will be displayed on [Profiles](/views/profile.md).
+Enable or disable displaying videos in Flume. When enabled, all videos will be filtered from the [Feed](/views/feed.md), [Likes](/views/likes.md) and [Explore](/views/explore.md) views. Videos will be displayed on [Profiles.](/views/profile.md)
 
 <hr />
 
@@ -32,12 +32,12 @@ Enable or disable fixing the scroll position to the first item (top) whenever an
 
 ##### Selecting media in feed
 
-Customize the action that will occur when clicking on items in the [feed](/views/Feed.md).
+Customize the action that will occur when clicking on items in the [feed.](/views/Feed.md)
 
 | Option | Explanation |
 |----------------------|
 | Shows Detail | Clicking on a post will display the [Detail View](/views/detailview.md) with more details such as the comments, likes and user tags (_default_). |
-| Shows Author | Clicking on a post will "push" you to see the author's [Profile](/views/profile.md). |
+| Shows Author | Clicking on a post will "push" you to see the author's [Profile.](/views/profile.md) |
 
 <hr />
 
