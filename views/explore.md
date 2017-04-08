@@ -8,7 +8,7 @@ The Explore view allows you to discover posts and users that Instagram curates t
 
 ### Posts
 
-#### Ignoring Recommendations
+#### Ignore a Recommendation
 
 If you'd like to adjust your future recommendations, you can indicate to Instagram that they should show you fewer similar posts. 
 
@@ -20,7 +20,7 @@ If you'd like to adjust your future recommendations, you can indicate to Instagr
 
 ### People
 
-#### Ignoring Recommendations
+#### Ignore a Recommendation
 
 If you'd like to ignore a recommendation, click the <img src="/views/assets/actions-dismiss.png" width="20" height="20" /> button next to each suggestion.
 
