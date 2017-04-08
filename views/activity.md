@@ -1,6 +1,6 @@
 # Activity
 
-The Activity view shows you the latest notifications for your account. You can receive [desktop notifications](/preferences/notifications.md) when new activity arrives, as the Activity feed is automatically refreshed based on your [automatic refresh](/preferences/feed.md#automatically-refresh) setting.
+The Activity tab shows you the latest notifications for your account. You can receive [desktop notifications](/preferences/notifications.md) when new activity arrives, as the Activity feed is automatically refreshed based on your [automatic refresh](/preferences/feed.md#automatically-refresh) setting.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/activity-you.png" width="50%" height="50%" /></p>
 
