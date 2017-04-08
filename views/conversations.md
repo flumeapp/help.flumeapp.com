@@ -8,6 +8,22 @@ The Conversations view gives you access to all the features of [Instagram Direct
 
 ### Conversations List
 
+#### Creating New Conversations
+
+.
+
+#### Delete Conversations
+
+.
+
+#### Report / Block Conversations
+
+. 
+
+#### Message Requests
+
+.
+
 #### Filtering Conversations
 
 To apply filters to your conversation threads, use the <kbd>Filter</kbd> option under the <img src="/views/assets/settings.png" width="20" height="20" /> button.
@@ -40,9 +56,26 @@ To toggle a conversation's mute status, perform one of the following:
 - Use the <kbd>Conversation > Mute Conversation</kbd> macOS menubar item when a conversation is selected using the [keyboard arrows](/misc/keyboard-shortcuts.md).
 - Use the <kbd>Mute Conversation</kbd> menu item when right-clicking on a conversation.
 
+#### Leaving a Group Conversation
+
+.
+
 <hr />
 
+### Conversations
+
+<hr />
+
+### Conversation Info
+
+#### Renaming a Group Conversation
+
+.
+
+#### Managing Members of a Group Conversation
+
+.
 
 
 
-
+<hr />
