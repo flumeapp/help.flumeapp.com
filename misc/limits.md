@@ -30,7 +30,11 @@ The following limits apply to liking posts:
 
 The following limits apply to comments on posts:
 
-- 
+- 5 mentions
+- 30 hashtags 
+- Duplicate comments
+
+See [I get an error when trying to add a comment.](https://help.instagram.com/161863397286564)
 
 #### Biography
 
