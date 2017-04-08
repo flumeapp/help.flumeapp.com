@@ -82,6 +82,7 @@
 
 ### External Links
 
+* [Links](links.md)
 * [Flume Support Portal](http://support.flumeapp.com)
 * [Contact Us](http://support.flumeapp.com/customer/en/portal/articles/2550592-how-can-i-contact-support-)
 
