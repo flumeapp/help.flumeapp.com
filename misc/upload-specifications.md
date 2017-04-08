@@ -10,7 +10,7 @@ Flume will accept all JPG and PNG files. No other specifications are required, e
 
 Photos will be compressed to a maximum dimension of 1080px before uploading. If you would like to avoid Flume performing compression of high-resolution photos, configure your workflow to export photos with a maximum dimension of 1080px.
 
-For more info on photo specifications and resolutions, please see the [official Instagram support article](www.facebook.com/help/instagram/1631821640426723).
+For more info on photo specifications and resolutions, please see the [official Instagram support article.](www.facebook.com/help/instagram/1631821640426723)
 
 #### Video Specifications
 Flume will accept all video files with a .mp4, .mov or .m4v container. Note that if you are using a video codec that QuickTime cannot compress, your upload may fail. Duration must be between 3-60 seconds. 
@@ -27,4 +27,4 @@ We suggest you output your videos using the following specifications for best re
 | Video Codec | H.264 codec / MP4 container with a 5,500 kbps video bitrate. The final bitrate might be adjusted by Instagram's servers. |
 | Audio Codec | AAC audio codec at 44.1 kHz |
 
-Some additional information can be found on [Facebook's official recommendations](https://www.facebook.com/business/ads-guide/video-views/instagram-video-views/).
+Some additional information can be found on [Facebook's official recommendations.](https://www.facebook.com/business/ads-guide/video-views/instagram-video-views/)
