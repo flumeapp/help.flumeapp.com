@@ -16,7 +16,7 @@ The login window will appear, and after successfully logging in, the active acco
 
 To switch between the active accounts, click on any <img src="/preferences/assets/active.png" width="20" height="20" /> button.
 
-Note that you can also switch accounts much faster by using the "Accounts" macOS menu bar, the corresponding [keyboard shortcut](/misc/keyboard-shortcuts.md), or by long-pressing on your avatar in the Profile tab.
+Note that you can also switch accounts much faster by using the "Accounts" macOS Menu Bar, the corresponding [keyboard shortcut](/misc/keyboard-shortcuts.md), or by long-pressing on your avatar in the Profile tab.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/home/assets/multipleaccounts.png" width="50%" height="50%" /></p>
 
