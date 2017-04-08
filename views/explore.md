@@ -14,6 +14,7 @@ If you'd like to adjust your future recommendations, you can indicate to Instagr
 
 - Right-click on a post and select "Show Fewer Posts Like This"
 - Left-click on a post to view the details, and from the <img src="/views/assets/actions-menu.png" width="20" height="20" /> button menu, select "Show Fewer Posts Like This"
+- Use the <kbd>Media > Show Fewer Posts Like This</kbd> macOS menubar item when a post is selected using the [keyboard arrows](/misc/keyboard-shortcuts.md).
 
 <hr />
 
