@@ -16,7 +16,7 @@ You can [upload](/views/upload.md) up to 100 posts in a 24 hour period. Posting 
 
 #### Captions
 
-The following limits apply to captions on posts:
+The following limits apply to [captions](/views/upload.md#caption) on posts:
 
 - 2200 characters
 - 30 hashtags
@@ -24,7 +24,7 @@ The following limits apply to captions on posts:
 
 #### Relationships
 
-The following limits apply to following / unfollowing profiles:
+The following limits apply to [following / unfollowing](/getstarted/follow-profile.md) profiles:
 
 - 160 follows / unfollowers per hour
 
