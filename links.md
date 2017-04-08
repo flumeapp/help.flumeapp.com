@@ -1,4 +1,10 @@
-## macOS Menu Bar
-The [macOS Menu Bar](https://en.wikipedia.org/wiki/Menu_bar#Macintosh) is a strip of menu items that appears at the top of your screen at all times. In Flume, the items in this menu will adapt based off your current [keyboard selection](/misc/keyboard-shortcuts.md) and view.
+# Links
 
-<p style="text-align: center; margin-top: 1em;"><img src="/assets/menubar.png" width="80%" height="80%" /></p>
+- [Flume Website](https://flumeapp.com)
+- [Flume Support Portal](https://flumeapp.com/support/)
+- [Flume Blog](https://flumeapp.com/blog/)
+- [Flume Twitter](https://twitter.com/flumeapp/)
+- [Instagram Help Center](https://flumeapp.com/blog/)
+- [Instagram Blog](http://blog.instagram.com)
+- [Instagram for Business Blog](http://blog.business.instagram.com)
+- [Report a Problem With Instagram](https://help.instagram.com/372161259539444/)
