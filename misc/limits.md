@@ -2,6 +2,14 @@
 
 Instagram imposes a few limits to specific actions. It is important to note that Instagram can add infractions or ban your account temporarily if you are considered "too active" and resemble the actions of a [bot.](https://en.wikipedia.org/wiki/Bot) [Learn more.](https://elfsight.com/blog/2016/12/instagram-restrictions-limits-likes-followers-comments/)
 
+#### Feed
+
+Your Feed is limited to the latest 200 posts.
+
+#### Likes
+
+Your Likes are limited to the latest 300 likes.
+
 #### Uploads
 
 You can post up to 100 posts in a 24 hour period. Posting over this limit will still succeed, but the post will be removed by Instagram shortly after.
