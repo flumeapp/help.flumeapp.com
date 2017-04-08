@@ -8,7 +8,7 @@ The Conversations List view lists all your current conversations, allows you to 
 
 ### Create a New Conversation
 
-.
+To create a new conversation, click the button in the title bar. A list of suggested recipients will appear, and you can search for specific profiles. Selecting more than one recipient will create a group conversation (maximum of 15 recipients).
 
 <hr />
 
