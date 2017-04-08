@@ -74,6 +74,7 @@
 
 ### Misc
 
+* [Limits](misc/limits.md)
 * [Photo / Video Upload Specifications](misc/upload-specifications.md)
 * [Keyboard Shortcuts](misc/keyboard-shortcuts.md)
 * [Mouse Shortcuts](misc/mouse-shortcuts.md)
