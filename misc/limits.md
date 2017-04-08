@@ -30,7 +30,7 @@ The following limits apply to following / unfollowing profiles:
 
 #### Likes
 
-The following limits apply to liking posts:
+The following limits apply to [liking](/views/detailview.md#likes) posts:
 
 - 350 per hour
 
