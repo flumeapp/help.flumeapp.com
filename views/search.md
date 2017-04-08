@@ -24,7 +24,7 @@ When viewing a [Profile](/views/profile.md), [Location](/views/locations.md), or
 
 To toggle an item ([Profile](/views/profile.md), [Location](/views/locations.md), or [Hashtag](/views/hashtags.md)) as a Bookmark, perform one of the following: 
 
-- Click the Bookmarks icon (<img src="/views/assets/bookmark.png" width="20" height="20" />) in the title bar when viewing the details of a [Profile](/views/profile.md), [Location](/views/locations.md), or [Hashtag](/views/hashtags.md).
+- Click the Bookmarks icon (<img src="/views/assets/bookmark.png" width="20" height="20" />) in the title bar when viewing the details of a [Profile](/views/profile.md), [Location](/views/locations.md), or [Hashtag.](/views/hashtags.md)
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/bookmark-toggle.png" width="50%" height="50%" /></p>
 
@@ -57,7 +57,7 @@ We recommend you use Flume's [Bookmarks](#bookmarks) feature to save commonly se
 
 Your recent searches are populated by Instagram based off your previous searches for that account. We recommend you use Flume's [Bookmarks](#bookmarks) feature to save commonly searched items, as recent searches are limited by Instagram to just a few items.
 
-To clear your recent searches, see [Profile](/views/profile.md).
+To clear your recent searches, see [Profile.](/views/profile.md)
 
 
 
