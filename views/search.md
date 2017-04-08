@@ -29,7 +29,7 @@ To toggle an item ([Profile](/views/profile.md), [Location](/views/locations.md)
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/bookmark-toggle.png" width="50%" height="50%" /></p>
 
 
-- Use the <kbd>View > Add / Remove "ITEM" to Bookmarks</kbd> macOS menubar item.
+- Use the <kbd>View > Add / Remove "ITEM" to Bookmarks</kbd> macOS Menu Bar item.
 - When viewing your list of Bookmarks, click the <img src="/views/assets/actions-dismiss.png" width="20" height="20" /> button.
 
 
