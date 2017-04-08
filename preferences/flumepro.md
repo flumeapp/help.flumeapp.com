@@ -2,14 +2,14 @@
 
 <p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/flumepro.png" width="60%" height="60%" /></p>
 
-Flume Pro is a one-time [In-App Purchase](https://support.apple.com/en-us/HT202023), our way of sustaining the development of Flume. You can read more about the introduction of Flume Pro on our [blog](http://blog.flumeapp.com/post/145212126271/introducing-flume-20-and-flume-pro).
+Flume Pro is a one-time [In-App Purchase](https://support.apple.com/en-us/HT202023), our way of sustaining the development of Flume. You can read more about the introduction of Flume Pro on our [blog.](http://blog.flumeapp.com/post/145212126271/introducing-flume-20-and-flume-pro)
 
 Features that are unlocked via Flume Pro display a <img src="/preferences/assets/pro.png" width="36" height="20" /> badge.
 
 Benefits of Flume Pro:
 
 - [Upload photos/videos.](/views/upload.md)
-- [Add multiple accounts](/preferences/accounts.md). You can add and easily switch between as many accounts as you like.
+- [Add multiple accounts.](/preferences/accounts.md) You can add and easily switch between as many accounts as you like.
 - A good feeling :)
 
 Flume for Mac via [Setapp](https://go.setapp.com/stp154) includes Flume Pro as standard and does not require any additional upgrade purchase, as it is covered by Setapp's monthly subscription fee. 
