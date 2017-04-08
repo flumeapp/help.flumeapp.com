@@ -34,6 +34,16 @@ To toggle a conversation as a Bookmark, perform one of the following:
 
 Muted conversations will not send [desktop notifications](/preferences/notifications.md) when new messages are received, and also disable push notifications to your mobile devices if enabled.
 
+To toggle a conversation as muted, perform one of the following: 
+
+- Click the Mute icon (<img src="/views/assets/mute.png" width="20" height="20" />) in the title bar when viewing the details of a Conversation.
+
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversation-bookmark-toggle.png" width="50%" height="50%" /></p>
+
+- Use the <kbd>Mute Conversation</kbd> macOS menubar item when a conversation is selected using the [keyboard arrows](/misc/keyboard-shortcuts.md).
+
+- Use the <kbd>Mute Conversation</kbd> menu item when right-clicking on a conversation.
+
 <hr />
 
 
