@@ -64,6 +64,34 @@ To toggle a conversation's mute status, perform one of the following:
 
 ### Conversations
 
+#### Write a Message / Reply
+
+.
+
+#### Share a Post / Profile / Location / Hashtag
+
+.
+
+#### Share a Photo / Video
+
+.
+
+#### Like / Unlike a Message
+
+.
+
+#### View Message Timestamps
+
+.
+
+#### Translate a Message
+
+.
+
+#### Unsend a Message
+
+.
+
 <hr />
 
 ### Conversation Info
