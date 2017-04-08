@@ -4,7 +4,7 @@
 
 <hr />
 
-### Creating New Conversations
+### Create a New Conversation
 
 .
 
@@ -28,7 +28,7 @@
 
 <hr />
 
-### Filtering Conversations
+### Filter Conversations
 
 To apply filters to your conversation threads, use the <kbd>Filter</kbd> option under the <img src="/views/assets/settings.png" width="20" height="20" /> button.
 
@@ -36,13 +36,13 @@ To apply filters to your conversation threads, use the <kbd>Filter</kbd> option 
 
 <hr />
 
-### Searching Conversations
+### Search Conversations
 
 If you have lots of conversations, you can quickly filter by author or group chat name using the search field (or use the <kbd>⌘F</kbd> [keyboard shortcut](/misc/keyboard-shortcuts.md)) It is not currently possible to perform a full-text search of messages within each conversation, due to limitations in the Instagram API.
 
 <hr />
 
-### Adding / Removing a Conversation Bookmark
+### Add / Remove a Conversation Bookmark
 
 Bookmarked conversations appear at the top of all others in the conversations list, and provide you with quick access to conversations regardless of the conversation's age.
 
@@ -56,7 +56,7 @@ To toggle a conversation as a Bookmark, perform one of the following:
 
 <hr />
 
-### Muting a Conversation
+### Mute a Conversation
 
 Muted conversations will not send [desktop notifications](/preferences/notifications.md) when new messages are received, and also disable push notifications to your mobile devices if enabled.
 
@@ -71,7 +71,7 @@ To toggle a conversation's mute status, perform one of the following:
 
 <hr />
 
-### Leaving a Group Conversation
+### Leave a Group Conversation
 
 .
 
