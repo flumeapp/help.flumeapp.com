@@ -6,15 +6,15 @@ The Conversations view gives you access to all the features of [Instagram Direct
 
 <hr />
 
-### Filtering Conversations
+### Conversations List
+
+#### Filtering Conversations
 
 To apply filters to your conversation threads, use the <kbd>Filter</kbd> option under the <img src="/views/assets/settings.png" width="20" height="20" /> button.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversations-filtering.png" width="50%" height="50%" /></p>
 
-<hr />
-
-### Searching Conversations
+#### Searching Conversations
 
 If you have lots of conversations, you can quickly filter by author or group chat name using the search field (or use the <kbd>⌘F</kbd> [keyboard shortcut](/misc/keyboard-shortcuts.md)) It is not currently possible to perform a full-text search of messages within each conversation, due to limitations in the Instagram API.
 
@@ -29,6 +29,12 @@ To toggle a conversation as a Bookmark, perform one of the following:
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversation-bookmark-toggle.png" width="50%" height="50%" /></p>
 
 - Use the <kbd>View > Add / Remove "Conversation Name" to Bookmarks</kbd> macOS menubar item.
+
+#### Muting a Conversation
+
+Muted conversations will not send [desktop notifications](/preferences/notifications.md) when new messages are received, and also disable push notifications to your mobile devices if enabled.
+
+<hr />
 
 
 
