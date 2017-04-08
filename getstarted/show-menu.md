@@ -1,4 +1,4 @@
-# Get Started Guide
+# Getting Started
 
 ### How do I always show the menu?
 
