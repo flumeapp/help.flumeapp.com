@@ -19,7 +19,6 @@ The following limits apply to captions on posts:
 The following limits apply to following / unfollowing profiles:
 
 - 160 follows / unfollowers per hour
-- 
 
 #### Likes
 
@@ -32,6 +31,12 @@ The following limits apply to liking posts:
 The following limits apply to comments on posts:
 
 - 
+
+#### Biography
+
+The following limits apply to your [Profile](/views/profile.md) biography:
+
+- 150 characters
 
 #### Messages
 
