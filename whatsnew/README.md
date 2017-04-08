@@ -22,7 +22,7 @@
 
 #### Flume 2.5
 
-[_Release Date: March 31st, 2017 (Setapp). Mac App Store approval pending._](http://blog.flumeapp.com/post/158945007616/flume-for-mac-25)
+[_Release Date: March 31st, 2017 (Setapp)._](http://blog.flumeapp.com/post/158945007616/flume-for-mac-25)
 
 - NEW: Editing and filters! This is a huge change to Flume’s upload support with 23 Instagram filters (replicated) and 38 custom Flume filters, in addition to complete editing support. Filters and edits can be applied to photos as well as videos (video edits cannot be made on macOS Yosemite however). In addition, Touch Bar support has been added for all these features, and there is a new preference panel for configuring filters and adjustments.
 - NEW: Drafts! You can now save all edits to a photo or video, the location, the caption, the tagged users, the cover image position for video uploads, which sharing networks to post to, and whether to disable comments. You can save drafts when closing the upload window after making changes, and open them by double-clicking .flume files, or dragging them onto Flume like a photo/video. Drafts will also switch you to the correct account that you saved the draft under, in case you are logged into another. Better yet, since these .flume files include all the information Flume needs to upload your post, you can share these files with colleagues.
