@@ -68,7 +68,7 @@ To toggle a conversation's mute status, perform one of the following:
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversation-actions.png" width="50%" height="50%" /></p>
 
-- Use the <kbd>Conversation > Mute Conversation</kbd> macOS Menu Bar item when a conversation is selected using the [keyboard arrows](/misc/keyboard-shortcuts.md).
+- Use the <kbd>Conversation > Mute Conversation</kbd> macOS Menu Bar item when a conversation is selected using the [keyboard arrows.](/misc/keyboard-shortcuts.md)
 - Use the <kbd>Mute Conversation</kbd> menu item when right-clicking on a conversation.
 
 <hr />
