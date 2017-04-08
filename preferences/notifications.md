@@ -10,7 +10,7 @@ Notifications in Flume can occur in the following ways:
 
 ** Show a desktop notification ** - A macOS desktop notification will appear, with actionable items (eg. to reply to a new message, or to view a new activity notification).
 
-** Play an audio alert ** - A short audio sound effect will play. The volume will be set to the current [macOS alert volume](https://support.apple.com/kb/PH18959).
+** Play an audio alert ** - A short audio sound effect will play. The volume will be set to the current [macOS alert volume.](https://support.apple.com/kb/PH18959)
 
 <hr />
 
@@ -30,4 +30,4 @@ Whenever a new message in an existing [Conversation](/views/conversations.md) is
 
 Whenever a new follower request is received, the notification settings will apply. This usually occurs when the [automatic refresh interval](/preferences/feed.md#automatic-refresh-interval) elapses. 
 
-_Applies only to [private profiles](/views/profile/privateprofiles.md)_.
+_Applies only to [private profiles.](/views/profile/privateprofiles.md)_
