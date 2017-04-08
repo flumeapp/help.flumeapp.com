@@ -70,7 +70,7 @@
   * [Reset Flume](misc/reset.md)
 * [Glossary](GLOSSARY.md)
 
-----
+### External Links
 
 * [Flume Support Portal](http://support.flumeapp.com)
 * [Contact Us](http://support.flumeapp.com/customer/en/portal/articles/2550592-how-can-i-contact-support-)
