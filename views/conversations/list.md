@@ -1,6 +1,6 @@
 # Conversations List
 
-The Conversations List view lists all your current conversations, as well as pending message requests from profiles you do not follow.
+The Conversations List view lists all your current conversations, allows you to create a new one-on-one or group conversation, as well as allowing you to block or allow pending message requests from profiles you do not follow.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversations.png" width="50%" height="50%" /></p>
 
