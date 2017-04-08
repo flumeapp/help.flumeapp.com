@@ -4,15 +4,15 @@ Instagram imposes a few limits to specific actions. It is important to note that
 
 #### Feed
 
-Your Feed is limited to the latest 200 posts.
+Your [Feed](/views/feed.md) is limited to the latest 200 posts.
 
 #### Likes
 
-Your Likes are limited to the latest 300 likes.
+Your [Likes](/views/likes.md) are limited to the latest 300 likes.
 
 #### Uploads
 
-You can post up to 100 posts in a 24 hour period. Posting over this limit will still succeed, but the post will be removed by Instagram shortly after.
+You can [upload](/views/upload.md) up to 100 posts in a 24 hour period. Posting over this limit will still succeed, but the post will be removed by Instagram shortly after.
 
 #### Captions
 
@@ -36,7 +36,7 @@ The following limits apply to liking posts:
 
 #### Comments
 
-The following limits apply to comments on posts:
+The following limits apply to [comments](/views/detailview.md#comments) on posts:
 
 - 5 mentions
 - 30 hashtags 
@@ -46,12 +46,12 @@ See [I get an error when trying to add a comment.](https://help.instagram.com/16
 
 #### Biography
 
-The following limits apply to your [Profile](/views/profile.md) biography:
+The following limits apply to your [Profile](/views/profile/editprofile.md) biography:
 
 - 150 characters
 
 #### Messages
 
-The following limits apply to messages:
+The following limits apply to [messages](/views/conversations/messages.md):
 
 - 500 characters
