@@ -1,6 +1,6 @@
 # Limits
 
-Instagram imposes a few limits to specific actions.
+Instagram imposes a few limits to specific actions. It is important to note that Instagram can add infractions or ban your account temporarily if you are considered "too active" and resemble the actions of a [bot.](https://en.wikipedia.org/wiki/Bot) [Learn more.](https://elfsight.com/blog/2016/12/instagram-restrictions-limits-likes-followers-comments/)
 
 #### Uploads
 
