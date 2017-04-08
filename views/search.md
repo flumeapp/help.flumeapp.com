@@ -20,7 +20,7 @@ When viewing a [Profile](/views/profile.md), [Location](/views/locations.md), or
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/bookmarks.png" width="50%" height="50%" /></p>
 
-#### Adding / Removing a Bookmark
+#### Add / Remove a Bookmark
 
 To toggle an item ([Profile](/views/profile.md), [Location](/views/locations.md), or [Hashtag](/views/hashtags.md)) as a Bookmark, perform one of the following: 
 
@@ -33,13 +33,13 @@ To toggle an item ([Profile](/views/profile.md), [Location](/views/locations.md)
 - When viewing your list of Bookmarks, click the <img src="/views/assets/actions-dismiss.png" width="20" height="20" /> button.
 
 
-#### Sorting Bookmarks
+#### Sort Bookmarks
 
 By default, Bookmarks are sorted in Date Added order. To change the ordering, use the <kbd>Sort by…</kbd> option under the <img src="/views/assets/settings.png" width="20" height="20" /> button.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/bookmarks-sorting.png" width="50%" height="50%" /></p>
 
-#### Importing / Exporting Bookmarks
+#### Import / Export Bookmarks
 
 To import or export your Bookmarks, use the <kbd>Import / Export Bookmarks…</kbd> option under the <img src="/views/assets/settings.png" width="20" height="20" /> button, or under the <kbd>File > Bookmarks</kbd> macOS menubar item.
 
