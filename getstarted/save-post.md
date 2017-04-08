@@ -1,4 +1,4 @@
-# Get Started Guide
+# Getting Started
 
 ### How do I save a photo or video?
 
