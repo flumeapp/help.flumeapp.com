@@ -1,4 +1,4 @@
-# Info
+# Conversation Info
 
 The Conversation Info view lists all the members of a conversation and allows you to view and edit members of a group conversation as well as perform actions related to a conversation.
 
