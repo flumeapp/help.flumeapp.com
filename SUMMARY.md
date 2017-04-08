@@ -7,6 +7,7 @@
 * [What's New in Flume](/whatsnew/README.md)
 
 ### Getting Started
+
 * [How do I login / logout?](getstarted/login.md)
 * [How do I like a photo or video?](getstarted/like-a-post.md)
 * [How do I comment on a photo or video?](getstarted/comment-a-post.md)
