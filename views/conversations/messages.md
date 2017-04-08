@@ -1,4 +1,4 @@
-# Messages
+# Conversation Messages
 
 The Conversation view lists all the messages in a specific one-on-one or group conversation.
 
