@@ -36,7 +36,7 @@ Muted conversations will not send [desktop notifications](/preferences/notificat
 
 To toggle a conversation as muted, perform one of the following: 
 
-- Click the Mute icon (<img src="/views/assets/mute.png" width="20" height="20" />) in the title bar when viewing the details of a Conversation.
+- Click the Mute icon (<img src="/views/assets/mute.png" width="20" height="20" /> / <img src="/views/assets/mute-active.png" width="20" height="20" />) in the title bar when viewing the details of a Conversation.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversation-bookmark-toggle.png" width="50%" height="50%" /></p>
 
