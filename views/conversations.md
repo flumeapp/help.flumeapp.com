@@ -16,7 +16,7 @@ To apply filters to your conversation threads, use the <kbd>Filter</kbd> option 
 
 ### Searching Conversations
 
-If you have lots of conversations, you can quickly filter by author or group chat name using the search field (or use the <kbd>CMDF</kbd> [keyboard shortcut](/misc/keyboard-shortcuts.md)) It is not currently possible to perform a full-text search of messages within each conversation, due to limitations in the Instagram API.
+If you have lots of conversations, you can quickly filter by author or group chat name using the search field (or use the <kbd>⌘F</kbd> [keyboard shortcut](/misc/keyboard-shortcuts.md)) It is not currently possible to perform a full-text search of messages within each conversation, due to limitations in the Instagram API.
 
 
 
