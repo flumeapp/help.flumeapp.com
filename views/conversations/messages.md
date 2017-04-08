@@ -1,6 +1,6 @@
 # Conversation Messages
 
-The Conversation view lists all the messages in a specific one-on-one or group conversation.
+The Conversation Messages view lists all the messages in a specific one-on-one or group conversation.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversation.png" width="50%" height="50%" /></p>
 
