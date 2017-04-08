@@ -1,16 +1,8 @@
-# Conversations
-
-The Conversations view gives you access to all the features of [Instagram Direct](https://help.instagram.com/400205900081854). You can receive [desktop notifications](/preferences/notifications.md) when new messages arrive, as conversations refresh in real-time in the background.
+# Conversations List
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversations.png" width="50%" height="50%" /></p>
 
-- [List](/views/conversations/list.md)
-- [Messages](/views/conversations/messages.md)
-- [Info](/views/conversations/info.md)
-
 <hr />
-
-### Conversations List
 
 #### Creating New Conversations
 
@@ -66,51 +58,5 @@ To toggle a conversation's mute status, perform one of the following:
 #### Leaving a Group Conversation
 
 .
-
-<hr />
-
-### Conversations
-
-#### Write a Message / Reply
-
-.
-
-#### Share a Post / Profile / Location / Hashtag
-
-.
-
-#### Share a Photo / Video
-
-.
-
-#### Like / Unlike a Message
-
-.
-
-#### View Message Timestamps
-
-.
-
-#### Translate a Message
-
-.
-
-#### Unsend a Message
-
-.
-
-<hr />
-
-### Conversation Info
-
-#### Renaming a Group Conversation
-
-.
-
-#### Managing Members of a Group Conversation
-
-.
-
-
 
 <hr />
