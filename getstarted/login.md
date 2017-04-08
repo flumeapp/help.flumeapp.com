@@ -1,4 +1,6 @@
-# Get Started Guide
+# Getting Started
+
+
 
 ### How do I login / logout?
 
