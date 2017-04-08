@@ -19,8 +19,8 @@ You can [upload](/views/upload.md) up to 100 posts in a 24 hour period. Posting 
 The following limits apply to [captions](/views/upload.md#caption) on posts:
 
 - 2200 characters
-- 30 hashtags
-- 30 mentions
+- Include up to 30 hashtags
+- Include up to 30 mentions
 
 #### Relationships
 
@@ -32,15 +32,16 @@ The following limits apply to [following / unfollowing](/getstarted/follow-profi
 
 The following limits apply to [liking](/views/detailview.md#likes) posts:
 
-- 350 per hour
+- 350 likes per hour
 
 #### Comments
 
 The following limits apply to [comments](/views/detailview.md#comments) on posts:
 
-- 5 mentions
-- 30 hashtags 
-- Duplicate comments
+- Include up to 5 mentions
+- Include up to 30 hashtags 
+- Multiple, duplicate comments (including emoji) are not allowed
+- 100 comments per hour
 
 See [I get an error when trying to add a comment.](https://help.instagram.com/161863397286564)
 
