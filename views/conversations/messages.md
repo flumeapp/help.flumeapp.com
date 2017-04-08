@@ -32,17 +32,3 @@
 .
 
 <hr />
-
-### Conversation Info
-
-#### Renaming a Group Conversation
-
-.
-
-#### Managing Members of a Group Conversation
-
-.
-
-
-
-<hr />
