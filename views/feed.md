@@ -15,9 +15,9 @@ The Feed, as well as your [Likes](/views/likes.md) and [Profiles](/views/profile
 To adjust your viewing mode preference, you can use:
 
 - The View-Mode Switcher in the titlebar. If the titlebar is not visible, hover near the top of the main Flume window and it will appear. You can adjust your [Design Preferences](/preferences/design.md#always-show-the-title-bar) to have the titlebar appear at all times.
-- The macOS Menu Bar under <kbd>View > Column/Grid View</kbd>
-- The [Keyboard Shortcut](/misc/keyboard-shortcuts.md) <kbd>⌥⌘1</kbd> or <kbd>⌥⌘2</kbd>
-- The View-Mode Switcher in the [Touch Bar](/misc/touchbar.md)
+- The macOS Menu Bar under <kbd>View > Column/Grid View</kbd>.
+- The [Keyboard Shortcut.](/misc/keyboard-shortcuts.md) <kbd>⌥⌘1</kbd> or <kbd>⌥⌘2</kbd>.
+- The View-Mode Switcher in the [Touch Bar.](/misc/touchbar.md)
 
 
 <hr />
@@ -33,7 +33,7 @@ By default, Flume displays your Feed and Likes in an edge-to-edge format, removi
 
 #### Feed Ordering
 
-Posts are ordered based on factors like how recently the post was shared, your interactions with the person who shared it and whether you'll find the post interesting. Posts you're likely to care about most will appear higher in your feed. For more information, please visit [How Feed Works](https://help.instagram.com/1400877086604710).
+Posts are ordered based on factors like how recently the post was shared, your interactions with the person who shared it and whether you'll find the post interesting. Posts you're likely to care about most will appear higher in your feed. For more information, please visit [How Feed Works.](https://help.instagram.com/1400877086604710)
 
 <hr />
 
