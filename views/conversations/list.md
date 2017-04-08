@@ -4,33 +4,45 @@
 
 <hr />
 
-#### Creating New Conversations
+### Creating New Conversations
 
 .
 
-#### Delete Conversations
+<hr />
+
+### Delete Conversations
 
 .
 
-#### Report / Block Conversations
+<hr />
+
+### Report / Block Conversations
 
 . 
 
-#### Message Requests
+<hr />
+
+### Message Requests
 
 .
 
-#### Filtering Conversations
+<hr />
+
+### Filtering Conversations
 
 To apply filters to your conversation threads, use the <kbd>Filter</kbd> option under the <img src="/views/assets/settings.png" width="20" height="20" /> button.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversations-filtering.png" width="50%" height="50%" /></p>
 
-#### Searching Conversations
+<hr />
+
+### Searching Conversations
 
 If you have lots of conversations, you can quickly filter by author or group chat name using the search field (or use the <kbd>⌘F</kbd> [keyboard shortcut](/misc/keyboard-shortcuts.md)) It is not currently possible to perform a full-text search of messages within each conversation, due to limitations in the Instagram API.
 
-#### Adding / Removing a Conversation Bookmark
+<hr />
+
+### Adding / Removing a Conversation Bookmark
 
 Bookmarked conversations appear at the top of all others in the conversations list, and provide you with quick access to conversations regardless of the conversation's age.
 
@@ -42,7 +54,9 @@ To toggle a conversation as a Bookmark, perform one of the following:
 
 - Use the <kbd>View > Add / Remove "Conversation Name" to Bookmarks</kbd> macOS Menu Bar item.
 
-#### Muting a Conversation
+<hr />
+
+### Muting a Conversation
 
 Muted conversations will not send [desktop notifications](/preferences/notifications.md) when new messages are received, and also disable push notifications to your mobile devices if enabled.
 
@@ -55,7 +69,9 @@ To toggle a conversation's mute status, perform one of the following:
 - Use the <kbd>Conversation > Mute Conversation</kbd> macOS Menu Bar item when a conversation is selected using the [keyboard arrows](/misc/keyboard-shortcuts.md).
 - Use the <kbd>Mute Conversation</kbd> menu item when right-clicking on a conversation.
 
-#### Leaving a Group Conversation
+<hr />
+
+### Leaving a Group Conversation
 
 .
 
