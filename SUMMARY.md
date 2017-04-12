@@ -13,6 +13,7 @@
 * [How do I login / logout?](getstarted/login.md)
 * [How do I like a photo or video?](getstarted/like-a-post.md)
 * [How do I comment on a photo or video?](getstarted/comment-a-post.md)
+* [How do I reply to a comment?](getstarted/reply-to-a-comment.md)
 * [How do I see the author of posts?](getstarted/see-posts-author.md)
 * [How do I follow / unfollow a profile?](getstarted/follow-profile.md)
 * [How do I block / report a profile?](getstarted/block-profile.md)
