@@ -28,7 +28,7 @@ Additionally, all the shortcuts below can be opened via a HTTP link to our websi
 | <kbd>flumeapp://preferences/general/</kbd> | Opens the Preferences window to the General tab. |
 | <kbd>flumeapp://preferences/design/</kbd> | Opens the Preferences window to the Design tab. |
 | <kbd>flumeapp://preferences/accounts/</kbd> | Opens the Preferences window to the Accounts tab. |
-| <kbd>flumeapp://preferences/Feed/</kbd> | Opens the Preferences window to the Feed tab. |
-| <kbd>flumeapp://preferences/Upload/</kbd> | Opens the Preferences window to the Upload tab. |
-| <kbd>flumeapp://preferences/Notifications/</kbd> | Opens the Preferences window to the Notifications tab. |
+| <kbd>flumeapp://preferences/feed/</kbd> | Opens the Preferences window to the Feed tab. |
+| <kbd>flumeapp://preferences/upload/</kbd> | Opens the Preferences window to the Upload tab. |
+| <kbd>flumeapp://preferences/notifications/</kbd> | Opens the Preferences window to the Notifications tab. |
 | <kbd>flumeapp://preferences/pro/</kbd> | Opens the Preferences window to the Pro tab. |
