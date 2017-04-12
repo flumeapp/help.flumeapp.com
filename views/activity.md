@@ -34,10 +34,10 @@ By default, all notification types are displayed. To apply filters to the notifi
 
 ### Following
 
-The Following tab lists the latest 200 notifications that relate to activity made by accounts you follow. These include:
+The Following tab lists the latest 200 notifications that relate to activity made by users you follow. These include:
 
-- When accounts you follow like others posts
-- When accounts you follow start following other accounts
+- When users you follow like other posts
+- When users you follow start following other users
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/activity-following.png" width="50%" height="50%" /></p>
 
