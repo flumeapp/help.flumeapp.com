@@ -1,6 +1,4 @@
-# Profile
-
-## Business Profiles
+# Business Profiles
 
 A Business Profile on Instagram will help your customers connect to your business. When converting to a Business Profile, you'll be able to include additional information about your business on your profile. For example, you'll be able to add a phone number, an email address and your business's physical address. Keep in mind that you must include at least 1 contact option.
 
