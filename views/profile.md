@@ -20,13 +20,13 @@ The Profile view displays all the posts and related information for a particular
 
 ## Saved Posts
 
-
+When viewing your own profile, an extra tab will appear, that allows you to view all the posts you have [saved.](/getstarted/save-post.md) Only you can see this tab, and the posts you have saved.
 
 <hr />
 
 ## Followers
 
-
+To view the followers of a profile, click the "Followers" button. The list is sorted by most recent followers. To quickly follow/unfollow a user, click the Follow  or Unfollow button.
 <hr />
 
 
