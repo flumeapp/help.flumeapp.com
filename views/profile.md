@@ -99,10 +99,23 @@ To view similar account suggestions on a profile:
 
 - Click the collapse <img src="/views/assets/profile-suggestions-collapse.png" width="20" height="20" /> button. To scroll the suggestions, use the <img src="/views/assets/previous.png" width="20" height="20" /> and <img src="/views/assets/next.png" width="20" height="20" /> buttons, or view all similar account suggestions by clicking the <img src="/views/assets/columnview.png" width="20" height="20" /> button.
 
-To dismiss a suggestion, 
-
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-suggestions.png" width="50%" height="50%" /></p>
 
+<hr />
+
+### Following Account Suggestions
+
+To follow a suggestion:
+
+- Click the <img src="/views/assets/follow.png" width="20" height="20" /> button next to each user.
+
+<hr />
+
+### Ignoring Account Suggestions
+
+To dismiss a suggestion:
+
+- Click the <img src="/views/assets/actions-dismiss.png" width="20" height="20" /> button next to each user.
 
 _Note: You can opt-out of being suggested for other users by editing your profile via the Instagram website. [Learn more.](https://help.instagram.com/530450580417848)_
 
