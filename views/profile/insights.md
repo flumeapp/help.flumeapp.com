@@ -52,17 +52,17 @@ To export your Insights:
 
 ### Insights Specific to Stories
 
-> **[info]**
-> While you can view insights on past stories, you won't be able to view past stories that have expired. Stories last for 24 hours, before expiring.
-
 **Replies:** Number of times people send messages through the Send Message option on your story
 **Exits:** The number of times someone swiped from one of your stories to someone else's story, or returned to their Feed.
+
+> **[info]**
+> While you can view insights on past stories, you won't be able to view past stories that have expired. Stories last for 24 hours, before expiring.
 
 ------
 
 ### Insights for Live Content
 
-Instagram doesn't offer insights for live content currently.
+Instagram doesn't offer insights for live content.
 
 ------
 
