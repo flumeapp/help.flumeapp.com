@@ -53,7 +53,11 @@ To share a [hashtag](/views/hashtags.md) with a new or existing conversation:
 
 ### Sharing Photos / Videos
 
-.
+It is possible to share photos and videos privately in a one-on-one or group conversation. These shared items are only visible to members of the conversation and are not posted to your Profile.
+
+To share a photo / video:
+
+- In an existing conversation, click the Upload <img src="/views/assets/conversation-upload.png" width="20" height="20" /> button in the compose area.
 
 <hr />
 
