@@ -59,9 +59,9 @@ If your profile is set to [private](/views/profile/privateprofiles.md), users th
 
 - On the profile of user that sent the friend request, a banner will appear.<br /><br /><p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-friend-request.png" width="30%" height="30%" /></p>
 
-- The Dock icon will be badged (see [Notifications Preferences](/preferences/notifications.md))<br /><br /><p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-friend-requests-dock.png" width="30%" height="30%" /></p>
-
 - The Profile tab will show an indicator.<br /><br /><p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-friend-requests-menu.png" width="30%" height="30%" /></p>
+
+- The Dock icon will be badged (see [Notifications Preferences](/preferences/notifications.md))
 
 
 To respond to friend requests:
