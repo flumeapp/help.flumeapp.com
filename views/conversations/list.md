@@ -34,7 +34,7 @@ Deleting a conversation will only remove the conversation from your own inbox, b
 
 To delete a conversation:
 
-- Right-click a conversation, then select <kdb>Delete Conversation…</kdb> from the contextual menu.
+- Right-click a conversation, then select <kbd>Delete Conversation…</kbd> from the contextual menu.
 - When selecting a conversation using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Conversation > Delete Conversation…</kbd> macOS Menu Bar item.
 - When viewing the conversation's [messages](/views/conversations/messages.md), use the <kbd>Delete Conversation…</kbd> option under the <img src="/views/assets/actions-menu.png" width="20" height="20" /> button.
 - Tap the Delete <img src="/views/assets/delete.png" width="20" height="20" /> button in the [Touch Bar.](/misc/touchbar.md)
