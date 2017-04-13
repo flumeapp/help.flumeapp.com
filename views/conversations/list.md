@@ -84,8 +84,13 @@ You have the option of accepting or declining all message requests, or individua
 
 To accept / decline all message requests:
 
-- Click the accept (<img src="/views/assets/accept.png" width="20" height="20" />) or decline (<img src="/views/assets/decline.png" width="20" height="20" />) icon in the title bar when viewing the list of message requests. You will be asked to confirm your intention.
+- Click either the accept (<img src="/views/assets/accept.png" width="20" height="20" />) or decline (<img src="/views/assets/decline.png" width="20" height="20" />) icon in the title bar when viewing the list of message requests. You will be asked to confirm your intention.
 
+
+
+To accept / decline an individual message requests:
+
+- Click on a conversation from the list of message requests, then click either the accept (<img src="/views/assets/accept.png" width="20" height="20" />) or decline (<img src="/views/assets/decline.png" width="20" height="20" />) icon in the title bar when viewing the list of message requests. You will be asked to confirm your intention.
 
 <hr />
 
