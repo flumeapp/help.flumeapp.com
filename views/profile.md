@@ -23,11 +23,15 @@ To view posts that the profile's user has been tagged in:
 
 When viewing the tagged posts on your own profile, you can also remove tags from posts.
 
+### Removing Tagged Posts
+
 To remove yourself from posts you have been tagged in:
 
 - Use the <kbd>Hide Photos…</kbd> option under the actions <img src="/views/assets/share.png" width="20" height="20" /> button that appears above the tagged posts. Make your selections, and confirm them by clicking the confirm <img src="/views/assets/accept.png" width="20" height="20" /> button in the title bar. You can cancel the selections using the <img src="/views/assets/decline.png" width="20" height="20" /> cancel button.
 - When viewing the [details](/views/detailview.md) of a post you are tagged in, use the <kbd>Remove me from Photo/Video…</kbd> option under the actions <img src="/views/assets/share.png" width="20" height="20" /> button in the title bar.
 - When viewing the [details](/views/detailview.md) of a post you are tagged in, use the <kbd>Remove me from Photo/Video…</kbd> option in the macOS Menu Bar.
+
+### Changing Tagging Options
 
 If you would like to disable users from being able to tag you in photos: 
 
