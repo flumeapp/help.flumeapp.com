@@ -34,8 +34,21 @@ To share a [profile](/views/profile.md) with a new or existing conversation:
 
 #### Sharing Locations
 
+To share a [location](/views/locations.md) with a new or existing conversation:
+
+- When viewing the location's feed, use the <kbd>Send to…</kbd> option under the Share <img src="/views/assets/share.png" width="20" height="20" /> button.
+- When viewing the location's feed, use the <kbd>Location > Share > Send to…</kbd> macOS Menu Bar item.
+
+<hr />
 
 #### Sharing Hashtags
+
+To share a [hashtag](/views/hashtags.md) with a new or existing conversation:
+
+- When viewing the hashtag's feed, use the <kbd>Send to…</kbd> option under the Share <img src="/views/assets/share.png" width="20" height="20" /> button.
+- When viewing the hashtag's feed, use the <kbd>Hashtag > Share > Send to…</kbd> macOS Menu Bar item.
+
+<hr />
 
 ### Sharing Photos / Videos
 
