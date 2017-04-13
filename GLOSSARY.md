@@ -13,5 +13,5 @@ A [contextual menu](https://developer.apple.com/library/content/documentation/Us
 ## Titlebar
 The titlebar is the area at the top of every window in macOS. Flume's titlebar is dynamic, and adjusts based on the current content that you are viewing. Common actions related to the view are available in this area.
 
-<p style="text-align: center; margin-top: 1em;"><img src="/assets/titlebar.png" width="80%" height="80%" /></p>
+<p style="text-align: center; margin-top: 1em;"><img src="/assets/titlebar.png" width="50%" height="50%" /></p>
 
