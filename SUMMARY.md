@@ -52,7 +52,6 @@
     * [Edit Profile](/views/profile/editprofile.md)
     * [Change Password](/views/profile/editpassword.md)
     * [Blocked Users](/views/profile/blockedusers.md)
-    * [Payment Methods](/views/profile/paymentmethods.md)
     * [Linked Accounts](/views/profile/linkedaccounts.md)
     * [Comments](/views/profile/comments.md)
 * [Details](/views/detailview.md)
