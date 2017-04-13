@@ -4,6 +4,8 @@ Private profiles allow you to manage who can see your posts. You do not need a p
 
 Conversely, private profiles that you do not follow will not display any information except for the name, biography, avatar and follower/following counts. It is not possible to view the followers/following of a private account you do not follow.
 
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/private-profile.png" width="50%" height="50%" /></p>
+
 ------
 
 ## Following a Private Profile
