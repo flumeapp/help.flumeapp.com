@@ -35,11 +35,17 @@ Flume allows you to export your Insights to a simple .txt format for use in othe
 ### Insights for Posts and Stories:
 
 **Impressions:** Total number of times your post or story was seen
+
 **Reach:** Number of unique accounts who saw your post or story
+
 **Website Clicks:** Number of accounts that have tapped the website link on your Business Profile
+
 **Follower Activity:** Average times your followers are on Instagram on a typical day
+
 **Video Views:** Number of times your video was viewed for 3 or more seconds
+
 **Saves:** The number of unique accounts that saved your post
+
 
 > **[info]**
 > If your post contains multiple photos or videos, your metrics will still be counted as if there's only one photo or video in your post.
@@ -51,7 +57,9 @@ Flume allows you to export your Insights to a simple .txt format for use in othe
 ### Insights Specific to Stories
 
 **Replies:** Number of times people send messages through the Send Message option on your story
+
 **Exits:** The number of times someone swiped from one of your stories to someone else's story, or returned to their Feed.
+
 
 > **[info]**
 > While you can view insights on past stories, you won't be able to view past stories that have expired. Stories last for 24 hours, before expiring.
