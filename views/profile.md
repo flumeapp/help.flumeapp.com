@@ -71,7 +71,7 @@ If your profile is set to [private](/views/profile/privateprofiles.md), users th
 
 - On the profile of user that sent the friend request, a banner will appear.<br /><br /><p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-friend-request.png" width="50%" height="50%" /></p>
 
-- The Profile tab will show an indicator.<br /><br /><p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-friend-requests-menu.png" width="50%" height="50%" /></p>
+- The Profile tab in the Flume menu will show an indicator.<br /><br /><p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-friend-requests-menu.png" width="50%" height="50%" /></p>
 
 - The Dock icon will be badged (see [Notifications Preferences](/preferences/notifications.md))
 
