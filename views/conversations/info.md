@@ -26,7 +26,7 @@ The Conversation Info view lists all the members of a conversation and allows yo
 
 ### Leaving Group Conversations
 
-.
+
 
 <hr />
 
