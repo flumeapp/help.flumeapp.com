@@ -10,8 +10,8 @@ The Profile view displays all the posts and related information for a particular
 
 Posts can be viewed in either Grid-View (default), or Column-View.
 
-- To view posts in Grid-View, click the Grid-View <img src="/views/assets/gridview.png" width="20" height="20" /> button.
-- To view posts in Column-View, click the Column-View <img src="/views/assets/columnview.png" width="20" height="20" /> button.
+- To view posts in Grid-View, click the Grid-View <img src="/views/assets/gridview.png" width="20" height="20" /> button in the profile tab bar.
+- To view posts in Column-View, click the Column-View <img src="/views/assets/columnview.png" width="20" height="20" /> button in the profile tab bar.
 
 <hr />
 
@@ -19,7 +19,7 @@ Posts can be viewed in either Grid-View (default), or Column-View.
 
 To view posts that the profile's user has been tagged in:
 
-- Click the Tagged <img src="/views/assets/tagged.png" width="20" height="20" /> button.
+- Click the Tagged <img src="/views/assets/tagged.png" width="20" height="20" /> button in the profile tab bar.
 
 When viewing the tagged posts on your own profile, you can also remove tags from posts.
 
@@ -34,6 +34,10 @@ To remove yourself from posts you have been tagged in:
 ## Saved Posts
 
 When viewing your own profile, an extra tab will appear, that allows you to view all the posts you have [saved.](/getstarted/save-post.md) Only you can see this tab, and the posts you have saved.
+
+To view posts that you have saved:
+
+- Click the Saved <img src="/views/assets/saved.png" width="20" height="20" /> button in the profile tab bar.
 
 <hr />
 
