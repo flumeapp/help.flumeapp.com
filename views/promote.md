@@ -19,11 +19,14 @@ You can find more information about promoting posts at [Facebook's Business Reso
 
 To promote a post:
 
-- Right-click a post of yours, then select <kbd>Promote</kbd> from the contextual menu.
+- Right-click any post of yours, then select <kbd>Promote…</kbd> from the contextual menu.
 
 The Promote window will appear with your chosen post ready to configure.
 
 Once you've confirmed your promotion, it will be reviewed to ensure it meets [Facebook's ad policies.](https://www.facebook.com/business/help/732496170188362) Promotions are generally reviewed in 60 minutes, but in some instances, the review process may take longer. Your promotion will begin running after it's been reviewed and approved.
+
+> **[info]**
+> It is not possible to promote [carousel posts](/views/detailview.md#carousel-posts) currently.
 
 ------
 
@@ -35,3 +38,6 @@ To view your current, existing, and expired promotions:
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/view-promotions.png" width="30%" height="30%" /></p>
 
+### Deleting Promotions
+
+You can only delete promotions that are currently running. 
