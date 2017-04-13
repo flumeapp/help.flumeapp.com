@@ -72,7 +72,7 @@ Instagram doesn't offer insights for live content.
 
 ------
 
-### Notes
+## Notes
 - Keep in mind that impressions and reach are different. Impressions are the total number of times your post was seen. A single individual may see your post 5 times. Each time they see it, you'll get an impression. Reach is based on the number of unique people who view your post. Each unique individual will only be counted once, even if they view your post multiple times.
 
 - You'll also see the following insights about your followers, including gender, age and location information.
