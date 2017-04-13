@@ -12,3 +12,4 @@ For high resolution and high DPI photography, we recommend an 80% quality level 
 
 If you mostly post lower resolution, and 72-DPI photos, we recommend a quality level between 80-100%.
 
+<hr />
