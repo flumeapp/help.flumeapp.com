@@ -19,7 +19,7 @@ Only businesses on Instagram should use Business Profiles. Additionally, to get 
 > **[info]**
 > [Private profiles](/views/profile/privateprofiles.md) can't be used as Business Profiles.
 
-To convert to a Business Profile:
+To switch to a Business Profile:
 
 1. When viewing your [Profile](/views/profile.md), select the <kbd>Switch to Business Profile…</kbd> item under the [Settings](/views/profile/settings.md) <img src="/views/assets/settings.png" width="20" height="20" /> button in the title bar.
 
