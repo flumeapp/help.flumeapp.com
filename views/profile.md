@@ -26,7 +26,7 @@ When viewing your own profile, an extra tab will appear, that allows you to view
 
 ## Followers
 
-To view the followers of a profile, click the "Followers" button. The list is sorted by most recent followers. To quickly follow/unfollow a user, click the Follow <img src="/views/assets/follow.png" width="20" height="20" /> or Unfollow <img src="/views/assets/unfollow.png" width="20" height="20" /> button.
+To view the followers of a profile, click the "Followers" button. The list is sorted by most recent followers. To quickly follow/unfollow a user, click the Follow <img src="/views/assets/follow.png" width="20" height="20" /> or Following <img src="/views/assets/following.png" width="20" height="20" /> button (when hovering, the Following button will change in appearance to the Unfollow <img src="/views/assets/unfollow.png" width="20" height="20" /> button).
 <hr />
 
 
