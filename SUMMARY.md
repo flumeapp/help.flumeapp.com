@@ -42,6 +42,7 @@
 * [Profile](views/profile.md)
   * [Business Profiles](views/profile/businessprofiles.md)  
     * [Insights](views/profile/insights.md)  
+    * [Promoting](views/promote.md)
   * [Private Profiles](views/profile/privateprofiles.md)
   * [Profile Settings](views/profile/settings.md)
     * [Invite Facebook Friends](views/profile/invitefacebook.md)
@@ -58,7 +59,6 @@
 * [Sharing](views/sharing.md)
 * [Locations](views/locations.md)
 * [Hashtags](views/hashtags.md)
-* [Promoting](views/promote.md)
 * [Large Preview](views/largepreview.md)
 
 ### Preferences
