@@ -14,13 +14,29 @@ To create a new conversation, click the button in the title bar. A list of sugge
 
 ### Delete Conversations
 
+Deleting a conversation will only remove the conversation from your own inbox, but will not remove it from the inbox of other recipients. 
+
 To delete a conversation:
 
-- Right-click a conversation, then select "Delete Conversation…". You will be asked to confirm the deletion.
+- Right-click a conversation, then select <kdb>Delete Conversation…</kdb> from the contextual menu.
 - When selecting a conversation using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Conversation > Delete Conversation…</kbd> macOS Menu Bar item.
-- When viewing the conversation's [messages](/views/conversations/messages.md), use the <kbd>Delete Conversation…</kbd> option under the <img src="/views/assets/actions.png" width="20" height="20" /> button.
+- When viewing the conversation's [messages](/views/conversations/messages.md), use the <kbd>Delete Conversation…</kbd> option under the <img src="/views/assets/actions-menu.png" width="20" height="20" /> button.
 
+You will be asked to confirm the deletion.
 
+<hr />
+
+### Leave a Group Conversation
+
+Leaving a group conversation will stop you from receiving any further messages in the group, though it will not remove your previous messages sent in the group. The other members of the group conversation will be made aware that you left the group conversation. You can be added back to a group if you have not [blocked the users](/views/profile/blockedusers.md) in the group.
+
+To leave a group conversation:
+
+- Right-click a conversation, then select <kdb>Leave Conversation…</kdb> from the contextual menu.
+- When selecting a conversation using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Conversation > Leave Conversation…</kbd> macOS Menu Bar item.
+- When viewing the conversation's [messages](/views/conversations/messages.md), use the <kbd>Leave Conversation…</kbd> option under the <img src="/views/assets/actions-menu.png" width="20" height="20" /> button.
+
+You will be asked to confirm leaving the group.
 
 <hr />
 
@@ -76,11 +92,5 @@ To toggle a conversation's mute status, perform one of the following:
 
 - Use the <kbd>Conversation > Mute Conversation</kbd> macOS Menu Bar item when a conversation is selected using the [keyboard arrows.](/misc/keyboard-shortcuts.md)
 - Use the <kbd>Mute Conversation</kbd> menu item when right-clicking on a conversation.
-
-<hr />
-
-### Leave a Group Conversation
-
-.
 
 <hr />
