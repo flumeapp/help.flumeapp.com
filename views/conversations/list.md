@@ -17,7 +17,7 @@ To create a new conversation from the conversations list:
 
 A list of suggested recipients will appear, and you can search for specific profiles. Selecting more than one recipient will create a group conversation ([maximum of 15 recipients](/misc/limits.md)).
 
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversations-muted.png" width="50%" height="50%" /></p>
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversation-new.png" width="50%" height="50%" /></p>
 
 You can also create conversations directly from the [Profile](/views/profile.md) of a user.
 
