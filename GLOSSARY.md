@@ -13,5 +13,7 @@ A [contextual menu](https://developer.apple.com/library/content/documentation/Us
 ## Title Bar
 The macOS title bar is the area at the top of every window in macOS. Flume's title bar is dynamic, and adjusts based on the current content that you are viewing. Common actions related to the view are available in this area.
 
+By default, Flume's title bar hides automatically in the [Feed](/views/feed.md) and [Likes](/views/likes.md) views. You can adjust this behaviour in [Design Preferences.](/preferences/design.md)
+
 <p style="text-align: center; margin-top: 1em;"><img src="/assets/titlebar.png" width="50%" height="50%" /></p>
 
