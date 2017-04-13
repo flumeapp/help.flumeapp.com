@@ -6,11 +6,13 @@ Your Feed is [limited](/misc/limits.md) to the last 200 items. You can use [Sear
 
 <hr />
 
-#### Switching View Modes
+#### View Modes
 
 The Feed, as well as your [Likes](/views/likes.md) and [Profiles](/views/profile.md) can be viewed in either Column-View or Grid-View mode.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/feed-column.png" width="30%" height="30%" /> <img src="/views/assets/feed-grid.png" width="30%" height="30%" /></p>
+
+##### Switching View Modes
 
 To adjust your viewing mode preference, you can use:
 
