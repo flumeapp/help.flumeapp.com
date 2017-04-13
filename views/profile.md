@@ -99,7 +99,7 @@ To view similar account suggestions on a profile:
 
 - Click the collapse <img src="/views/assets/profile-suggestions-collapse.png" width="20" height="20" /> button. To scroll the suggestions, use the <img src="/views/assets/previous.png" width="20" height="20" /> and <img src="/views/assets/next.png" width="20" height="20" /> buttons, or view all similar account suggestions by clicking the <img src="/views/assets/columnview.png" width="20" height="20" /> button.
 
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-suggestions.png" width="50%" height="50%" /></p>
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-suggestions.png" width="30%" height="30%" /> <img src="/views/assets/profile-suggestions-list.png" width="30%" height="30%" /></p>
 
 <hr />
 
