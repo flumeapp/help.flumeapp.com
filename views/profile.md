@@ -29,6 +29,13 @@ To remove yourself from posts you have been tagged in:
 - When viewing the [details](/views/detailview.md) of a post you are tagged in, use the <kbd>Remove me from Photo/Video…</kbd> option under the actions <img src="/views/assets/share.png" width="20" height="20" /> button in the title bar.
 - When viewing the [details](/views/detailview.md) of a post you are tagged in, use the <kbd>Remove me from Photo/Video…</kbd> option in the macOS Menu Bar.
 
+If you would like to disable users from being able to tag you in photos: 
+
+- Use the <kbd>Tagging Options…</kbd> option under the actions <img src="/views/assets/share.png" width="20" height="20" /> button that appears above the tagged posts.
+
+
+If tagging options are set to Add Manually, you will be notified in [Activity](/views/activity.md) when someone tags you in a photo, with the option to remove the tag.
+
 <hr />
 
 ## Saved Posts
