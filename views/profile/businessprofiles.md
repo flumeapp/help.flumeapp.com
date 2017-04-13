@@ -23,13 +23,11 @@ To convert to a Business Profile:
 2. On the "Log-in With Facebook" screen, you'll see all of the Facebook Pages you're currently an admin on. Select the Page you'd like to associate with your Business Profile on Instagram. [Learn more about Page roles.](https://www.facebook.com/help/323502271070625)
 3. On the Set Up Your Business Profile page, review your business's contact information, make any changes and click <kbd>Done.</kbd>
 
-
 > **[info]**
 > You can convert your Business Profile on Instagram back to a personal account at any time.
 
 > **[info]**
 > Once you've linked a Facebook Page to your Business Profile, you'll only be able to [share](/views/upload.md#sharing) your Instagram posts to Facebook through that Page. You won't be able to share to another Facebook Page or to a Facebook profile. If you'd like to switch the Facebook Page you're able to share Instagram posts to, you'll need to convert back to a personal account. Once you've converted back, you'll then need to set up your Business Profile again and select the new Facebook Page you'd like to use.
-
 
 > **[info]**
 > Business Profiles can't be set to a Private Account.
