@@ -13,6 +13,7 @@ There are many ways to begin a conversation with a user, however you should note
 To write a new message:
 
 - From the [Conversations List](/views/conversations/list.md) view, click the compose <img src="/views/assets/compose.png" width="20" height="20" /> button. Use the search field to find a specific user, or select from the suggestions that appear. If you select multiple users, a group conversation will be created.
+
 - When viewing the [Profile](/views/profile.md) of a user, use the <kbd>Send Message</kbd> option under the <img src="/views/assets/actions-menu.png" width="20" height="20" /> button.
 
 To reply to messages:
