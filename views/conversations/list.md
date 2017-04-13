@@ -60,7 +60,11 @@ Muted conversations will display a small icon to indicate their current mute sta
 
 ### Reporting / Blocking Conversations
 
-. 
+To report a conversation:
+
+
+
+_Note: Group conversations cannot be reported / blocked._
 
 <hr />
 
