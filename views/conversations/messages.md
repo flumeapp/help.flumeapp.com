@@ -67,30 +67,50 @@ _Note: When selecting a photo or video file, the usual [photo and video upload s
 
 ### Downloading Shared Photos / Videos
 
-To download a photo or video shared in a direct conversation:
+To download a photo or video shared in a conversation:
 
-- Right-click
+- Right-click the photo or video, then select <kbd>Download Photo/Video…</kbd> from the contextual menu.
+- When selecting a message using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Message > Download Photo/Video…</kbd> macOS Menu Bar item.
+
+You will be asked to choose a download location.
+
+<hr />
 
 ### Liking / Unliking Messages
 
-.
+To like a message sent in a conversation:
+
+- Right-click the message, then select <kbd>Like/Unlike Message</kbd> from the contextual menu.
+- When selecting a message using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Message > Like/Unlike Message</kbd> macOS Menu Bar item.
 
 <hr />
 
 ### Viewing Message Timestamps
 
-.
+To view the time a message was sent:
+
+- Click the message.
+- Selecting a message using the [keyboard arrows](/misc/keyboard-shortcuts.md).
+
+The time will appear beside the message.
 
 <hr />
 
 ### Translating Messages
 
-.
+To translate a text message sent in a conversation:
+
+- Right-click the message, then select <kbd>Translate…</kbd> from the contextual menu.
+
+_Note: The translation option will only appear if the message contains text. The translation will use your current [language](/preferences/general.md#language) setting._
 
 <hr />
 
 ### Unsending Messages
 
-.
+To unsend a message you sent in a conversation:
+
+- Right-click the message, then select <kbd>Unsend Message…</kbd> from the contextual menu.
+- When selecting a message using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Message > Unsend Message…</kbd> macOS Menu Bar item.
 
 <hr />
