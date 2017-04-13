@@ -20,7 +20,7 @@ To add a new member to a group conversation:
 
 - Click the Add People… item. Use the search field to find a specific user, or select from the suggestions that appear. 
 
-_Note: You can only add users to group conversations if they were created as a group conversation. It is not possible to add members to a one-on-one conversation._
+_Note: You can only add users to existing group conversations. It is not possible to add members to a one-on-one conversation._
 
 <hr />
 
