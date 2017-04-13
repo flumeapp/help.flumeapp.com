@@ -2,19 +2,30 @@
 
 The Profile view displays all the posts and related information for a particular user. Certain features will toggle if you are viewing your own profile, a [Business Profile](/views/profile/businessprofiles.md), a [private user](/views/profile/privateprofiles.md).
 
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile.png" width="50%" height="50%" /></p>
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-grid.png" width="30%" height="30%" /> <img src="/views/assets/profile-column.png" width="30%" height="30%" /></p>
 
 <hr />
 
 ## Posts
 
+Posts can be viewed in either Grid-View (default), or Column-View.
 
+- To view posts in Grid-View, click the Grid-View <img src="/views/assets/gridview.png" width="20" height="20" /> button.
+- To view posts in Column-View, click the Column-View <img src="/views/assets/columnview.png" width="20" height="20" /> button.
 
 <hr />
 
 ## Tagged Posts
 
+To view posts that the profile's user has been tagged in:
 
+- Click the Tagged <img src="/views/assets/tagged.png" width="20" height="20" /> button.
+
+When viewing the tagged posts on your own profile, you can also remove tags from posts.
+
+To remove yourself from posts you have been tagged in:
+
+- Click the Hide Photos f
 
 <hr />
 
