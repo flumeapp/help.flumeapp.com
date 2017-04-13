@@ -6,7 +6,7 @@ The Search tab allows you to find specific [Profiles](/views/profile.md), [Locat
 
 <hr />
 
-### Switch Modes
+### Switching Search Modes
 
 To switch between Search modes, use the <img src="/views/assets/actions-menu.png" width="20" height="20" /> menu.
 
@@ -14,13 +14,13 @@ To switch between Search modes, use the <img src="/views/assets/actions-menu.png
 
 <hr />
 
-### Bookmarks
+### Search Bookmarks
 
 When viewing a [Profile](/views/profile.md), [Location](/views/locations.md), or [Hashtag](/views/hashtags.md), you can add the item as a Bookmark, giving you quick access to it later from the Search view. 
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/bookmarks.png" width="50%" height="50%" /></p>
 
-#### Add / Remove a Bookmark
+#### Adding / Removing Search Bookmarks
 
 To toggle an item ([Profile](/views/profile.md), [Location](/views/locations.md), or [Hashtag](/views/hashtags.md)) as a Bookmark, perform one of the following: 
 
@@ -33,13 +33,13 @@ To toggle an item ([Profile](/views/profile.md), [Location](/views/locations.md)
 - When viewing your list of Bookmarks, click the <img src="/views/assets/actions-dismiss.png" width="20" height="20" /> button.
 
 
-#### Sort Bookmarks
+#### Sorting Search Bookmarks
 
 By default, Bookmarks are sorted in Date Added order. To change the ordering, use the <kbd>Sort by…</kbd> option under the <img src="/views/assets/settings.png" width="20" height="20" /> button.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/bookmarks-sorting.png" width="50%" height="50%" /></p>
 
-#### Import / Export Bookmarks
+#### Importing / Exporting Search Bookmarks
 
 To import or export your Bookmarks, use the <kbd>Import / Export Bookmarks…</kbd> option under the <img src="/views/assets/settings.png" width="20" height="20" /> button, or under the <kbd>File > Bookmarks</kbd> macOS menubar item.
 
