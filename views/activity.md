@@ -6,7 +6,7 @@ The Activity tab shows you the latest notifications for your account. You can re
 
 <hr />
 
-### You
+## You
 
 The You tab lists the latest 50 notifications that relate to the current account. These include:
 
@@ -24,7 +24,7 @@ Additionally, the following may display:
 - A link to view the performance of your [Promotions](/views/promote.md) (if an Instagram Business Profile)
 - A link to view open follower requests (if set to a [Private Profile](/views/profile/privateprofiles.md)).
 
-#### Filtering Activity
+### Filtering Activity
 
 By default, all notification types are displayed. To apply filters to the notifications, use the <kbd>Filter</kbd> option under the <img src="/views/assets/settings.png" width="20" height="20" /> button in the title bar.
 
@@ -32,7 +32,7 @@ By default, all notification types are displayed. To apply filters to the notifi
 
 <hr />
 
-### Following
+## Following
 
 The Following tab lists the latest 200 notifications that relate to activity made by users you follow. These include:
 
