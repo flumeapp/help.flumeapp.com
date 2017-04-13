@@ -122,6 +122,6 @@ To toggle a conversation as a Bookmark, perform one of the following:
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversation-bookmark-toggle.png" width="50%" height="50%" /></p>
 
-- Use the <kbd>View > Add / Remove "Conversation Name" to Bookmarks</kbd> macOS Menu Bar item.
+- Use the <kbd>View > Add/Remove "Conversation Name" to Bookmarks</kbd> macOS Menu Bar item.
 
 <hr />
