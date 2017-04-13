@@ -36,7 +36,7 @@ The Profile view displays all the posts and related information for a particular
 
 <hr />
 
-## Similar Accounts
+## Similar Account Suggestions
 
 
 
