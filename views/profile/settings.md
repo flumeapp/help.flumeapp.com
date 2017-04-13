@@ -1,7 +1,4 @@
 # Profile Settings
 
-To access your account settings, first visit your own Profile by:
-
-- Clicking on the Profile tab in the Flume menu.
-- Using the <kbd>View > Profile</kbd> item in the macOS Menu Bar.
+Your profile settings can be accessed from your own Profile tab via the <img src="/views/assets/settings.png" width="20" height="20" /> button in the title bar.
 
