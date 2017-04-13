@@ -6,43 +6,43 @@ The Conversation Messages view lists all the messages and activity in a specific
 
 <hr />
 
-### Write a Message / Reply
+### Writing Messages / Replies
 
 .
 
 <hr />
 
-### Share a Post / Profile / Location / Hashtag
+### Sharing Posts / Profiles / Locations / Hashtags
 
 .
 
 <hr />
 
-### Share a Photo / Video
+### Sharing Photos / Videos
 
 .
 
 <hr />
 
-### Like / Unlike a Message
+### Liking / Unliking Messages
 
 .
 
 <hr />
 
-### View Message Timestamps
+### Viewing Message Timestamps
 
 .
 
 <hr />
 
-### Translate a Message
+### Translating Messages
 
 .
 
 <hr />
 
-### Unsend a Message
+### Unsending Messages
 
 .
 
