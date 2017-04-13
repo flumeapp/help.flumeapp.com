@@ -8,12 +8,18 @@ The Conversations List view lists all your current conversations, allows you to 
 
 ### Creating Conversations
 
-- From the [Conversations List](/views/conversations/list.md) view, click the compose <img src="/views/assets/compose.png" width="20" height="20" /> button. Use the search field to find a specific user, or select from the suggestions that appear. If you select multiple users, a group conversation will be created.
+There are many ways to begin a conversation with a user, however you should note that if the recipient of a message does not [follow](/getstarted/follow-profile.md) you, your message will not appear in their inbox directly but as a [message request](#message-requests) that they must approve or decline.
 
-- When viewing the [Profile](/views/profile.md) of a user, use the <kbd>Send Message</kbd> option under the <img src="/views/assets/actions-menu.png" width="20" height="20" /> button.
+- Click the compose <img src="/views/assets/compose.png" width="20" height="20" /> button. Use the search field to find a specific user, or select from the suggestions that appear. If you select multiple users, a group conversation will be created.
+- Tap the "New" button in the [Touch Bar.](/misc/touchbar.md)
+
+A list of suggested recipients will appear, and you can search for specific profiles. Selecting more than one recipient will create a group conversation ([maximum of 15 recipients](/misc/limits.md)).
 
 
-To create a new conversation, click the button in the title bar. A list of suggested recipients will appear, and you can search for specific profiles. Selecting more than one recipient will create a group conversation ([maximum of 15 recipients](/misc/limits.md)).
+You can also create conversations directly from the [Profile](/views/profile.md) of a user.
+
+- Use the <kbd>Send Message</kbd> option under the <img src="/views/assets/actions-menu.png" width="20" height="20" /> button.
+- Tap the "Message" button in the [Touch Bar.](/misc/touchbar.md)
 
 <hr />
 
