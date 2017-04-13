@@ -14,10 +14,19 @@ _Note: One-on-one conversations cannot be named._
 
 ### Adding Members to Group Conversations
 
+You can include up to [15 users](/misc/limits.md) in a group conversation. 
+
 To add a new member to a group conversation:
 
-- Click the Add People… item. You 
+- Click the Add People… item. Use the search field to find a specific user, or select from the suggestions that appear. 
+
 _Note: You can only add users to group conversations if they were created as a group conversation. It is not possible to add members to a one-on-one conversation._
+
+<hr />
+
+### Removing Members to Group Conversations
+
+It is not possible to remove a user from a group conversation. If necessary, you can [block a user](#reporting-blocking-conversation-members).
 
 <hr />
 
