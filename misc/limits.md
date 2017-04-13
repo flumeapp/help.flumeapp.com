@@ -64,5 +64,4 @@ The following limits apply to [conversations](/views/conversations.md):
 - 15 recipients in a group conversation
 - 20 character for group conversation names
 
-
-
+<hr />

@@ -4,6 +4,8 @@ Flume uses the <kbd>flumeapp://</kbd> URL scheme, which allows you to create lin
 
 Additionally, all the shortcuts below can be opened via a HTTP link to our website (eg. <kbd>https://flumeapp.com/?redirect=pro</kbd>)
 
+<hr />
+
 ## General Shortcuts
 
 | URI | Explanation |
@@ -20,6 +22,8 @@ Additionally, all the shortcuts below can be opened via a HTTP link to our websi
 | <kbd>flumeapp://log</kbd> | Displays the debugging log. |
 | <kbd>flumeapp://logfile</kbd> | Opens Finder to the current debugging log file. |
 
+<hr />
+
 ## Preferences Shortcuts
 
 | URI | Explanation |
@@ -32,3 +36,5 @@ Additionally, all the shortcuts below can be opened via a HTTP link to our websi
 | <kbd>flumeapp://preferences/upload/</kbd> | Opens the Preferences window to the Upload tab. |
 | <kbd>flumeapp://preferences/notifications/</kbd> | Opens the Preferences window to the Notifications tab. |
 | <kbd>flumeapp://preferences/pro/</kbd> | Opens the Preferences window to the Pro tab. |
+
+<hr />

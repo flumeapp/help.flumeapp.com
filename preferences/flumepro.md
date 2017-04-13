@@ -35,3 +35,5 @@ If you have previously purchased Flume Pro, use the "Restore Purchases" button. 
 ## Purchase / Restore issues
 
 If you are having trouble restoring or purchasing Flume Pro, please visit our [Support Portal](http://support.flumeapp.com) to discover up-to-date workarounds and fixes.
+
+<hr />

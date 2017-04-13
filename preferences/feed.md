@@ -40,5 +40,3 @@ Customize the action that will occur when clicking on items in the [feed.](/view
 | Shows Author | Clicking on a post will "push" you to see the author's [Profile.](/views/profile.md) |
 
 <hr />
-
-

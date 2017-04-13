@@ -1,5 +1,7 @@
 # Integrations
 
+<hr />
+
 ## Finder
 
 ### System Services
@@ -34,7 +36,8 @@ To send content from Lightroom into Flume, you can create a new [Export Preset](
 
 <p style="text-align: center; margin-top: 1em;"><img src="/misc/assets/integrations-lightroom.png" width="70%" height="70%" /> </p>
 
-_Note: The only necessary step is that listed under "Post-Processing", the options for where to place the exported file are customizable to your workflow._
+> **[info]**
+> The only necessary step is that listed under "Post-Processing", the options for where to place the exported file are customizable to your workflow.
 
 <hr />
 

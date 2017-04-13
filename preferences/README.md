@@ -8,3 +8,4 @@ You can also access Flume's Preferences through an additional shortcut under you
 
 <p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/preferences-profile.png" width="60%" height="60%" /></p>
 
+<hr />
