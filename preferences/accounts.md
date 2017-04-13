@@ -2,7 +2,8 @@
 
 <p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/accounts.png" width="60%" height="60%" /></p>
 
-In order to add more than one account at a time, you must upgrade to [Flume Pro.](/preferences/flumepro.md)
+> **[info]**
+> In order to add more than one account at a time, you must upgrade to [Flume Pro.](/preferences/flumepro.md)
 
 <hr /> 
 

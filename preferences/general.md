@@ -10,7 +10,8 @@ Flume supports the following languages: Arabic, Chinese (Simplified), Chinese (T
 
 Adjusting the language will adjust all user-interface elements, as well as content that is returned from Instagram directly, such as the language of [activity notifications](/views/activity.md), and error messages.
 
-Note that you will need to restart Flume after changing language in order for it to take effect.
+> **[info]**
+> You will need to restart Flume after changing language in order for it to take effect.
 
 <hr /> 
 

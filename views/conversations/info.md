@@ -14,7 +14,8 @@ To rename a group conversation:
 
 - Type a group name where the placeholder "Group name…" and press <kbd>ENTER/RETURN</kbd> to confirm.
 
-_Note: One-on-one conversations cannot be named, and it is not possible to rename a group that already has a name._
+> **[info]**
+> One-on-one conversations cannot be named, and it is not possible to rename a group that already has a name.
 
 <hr />
 
@@ -28,7 +29,8 @@ To add a new member to a group conversation:
 
 - Click the <kbd>Add People…</kbd> item. Use the search field to find a specific user, or select from the suggestions that appear using the <img src="/views/assets/select.png" width="20" height="20" /> button. To confirm your selections, click the Confirm <img src="/views/assets/accept.png" width="20" height="20" /> button.
 
-_Note: You can only add users to existing group conversations. It is not possible to add members to a one-on-one conversation._
+> **[info]**
+> You can only add users to existing group conversations. It is not possible to add members to a one-on-one conversation.
 
 <hr />
 

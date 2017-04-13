@@ -61,7 +61,8 @@ To share a photo / video:
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversation-upload.png" width="50%" height="50%" /></p>
 
-_Note: When selecting a photo or video file, the usual [photo and video upload specifications](/misc/upload-specifications.md) apply._
+> **[info]**
+> When selecting a photo or video file, the usual [photo and video upload specifications](/misc/upload-specifications.md) apply.
 
 <hr />
 
@@ -111,7 +112,8 @@ To translate a text message sent in a conversation:
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/message-translate.png" width="50%" height="50%" /></p>
 
-_Note: The translation option will only appear if the message contains text. The translation will use your current [language](/preferences/general.md#language) setting._
+> **[info]**
+> The translation option will only appear if the message contains text. The translation will use your current [language](/preferences/general.md#language) setting.
 
 <hr />
 

@@ -89,7 +89,8 @@ To respond to friend requests:
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-friend-requests.png" width="50%" height="50%" /></p>
 
-_Note: If you [switch your profile to a public profile](/views/profile/privateprofiles.md), all pending friend requests will be accepted._
+> **[info]**
+> If you [switch your profile to a public profile](/views/profile/privateprofiles.md), all pending friend requests will be accepted.
 
 <hr />
 
@@ -117,6 +118,7 @@ To dismiss a suggestion:
 
 - Click the <img src="/views/assets/actions-dismiss.png" width="20" height="20" /> button next to each user.
 
-_Note: You can opt-out of being suggested for other users by editing your profile via the Instagram website. [Learn more.](https://help.instagram.com/530450580417848)_
+> **[info]**
+> You can opt-out of being suggested for other users by editing your profile via the Instagram website. [Learn more.](https://help.instagram.com/530450580417848)
 
 <hr />

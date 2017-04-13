@@ -90,7 +90,8 @@ To report a conversation:
 
 You will be asked to confirm reporting the conversation (user).
 
-_Note: Group conversations cannot be reported / blocked. You can report / block users in a group conversation by visiting their [profile](/views/profile.md) from the [Conversation Info](/views/conversations/info.md) view and using the regular block / report user feature._
+> **[info]**
+> Group conversations cannot be reported / blocked. You can report / block users in a group conversation by visiting their [profile](/views/profile.md) from the [Conversation Info](/views/conversations/info.md) view and using the regular block / report user feature.
 
 <hr />
 
