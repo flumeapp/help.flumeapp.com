@@ -10,7 +10,7 @@ Flume has comprehensive support for the Touch Bar, localized into all supported 
 
 ### Showing Labels
 
-To save space in the Touch Bar, you can toggle the option to display labels next to buttons from General Preferences.
+To save space in the Touch Bar, you can toggle the option to display labels next to buttons from [General Preferences.](/preferences/general.md#show-labels-in-touch-bar)
 
 ### Customizing the Touch Bar items
 
