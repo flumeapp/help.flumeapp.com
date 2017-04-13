@@ -41,7 +41,7 @@ By default, Bookmarks are sorted in Date Added order. To change the ordering, us
 
 #### Importing / Exporting Search Bookmarks
 
-To import or export your Bookmarks, use the <kbd>Import / Export Bookmarks…</kbd> option under the <img src="/views/assets/settings.png" width="20" height="20" /> button, or under the <kbd>File > Bookmarks</kbd> macOS menubar item.
+To import or export your Bookmarks, use the <kbd>Import / Export Bookmarks…</kbd> option under the <img src="/views/assets/settings.png" width="20" height="20" /> button in the title bar, or under the <kbd>File > Bookmarks</kbd> macOS menubar item.
 
 <hr />
 
