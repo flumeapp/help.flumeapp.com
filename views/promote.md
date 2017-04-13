@@ -36,7 +36,7 @@ To view your current, existing, and expired promotions:
 
 - Click the "Promotions" item that appears at the top of your [Activity.](/views/activity.md)
 
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/view-promotions.png" width="30%" height="30%" /></p>
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/view-promotions.png" width="50%" height="50%" /></p>
 
 ------
 
