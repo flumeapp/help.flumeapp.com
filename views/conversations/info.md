@@ -18,22 +18,15 @@ The Conversation Info view lists all the members of a conversation and allows yo
 
 <hr />
 
-### Blocking Conversation Members
+### Reporting / Blocking Conversation Members
 
-.
+[Learn more](/views/conversations/list.md#reporting-blocking-conversations) about reporting and blocking conversations.
 
 <hr />
 
 ### Leaving Group Conversations
 
-To leave a group conversation from the Conversation Info view:
-
-- Click the Leave <img src="/views/assets/leave.png" width="20" height="20" /> button.
-- Tap the Leave <img src="/views/assets/leave.png" width="20" height="20" /> button in the [Touch Bar.](/misc/touchbar.md)
-
-You will be asked to confirm leaving the group.
-
-[Learn more](/views/conversations/list.md#leaving-group-conversations) about other ways to leave group conversations.
+[Learn more](/views/conversations/list.md#leaving-group-conversations) about ways to leave group conversations.
 
 <hr />
 
