@@ -57,7 +57,7 @@ If your profile is set to [private](/views/profile/privateprofiles.md), users th
 
 - At the top of your [activity.](/views/activity.md)<br /><br /><p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-friend-requests-activity.png" width="30%" height="30%" /></p>
 
-- On the profile of user that sent the friend request, a banner will appear.<br /><br /><p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-friend-requests-avatar.png" width="30%" height="30%" /></p>
+- On the profile of user that sent the friend request, a banner will appear.<br /><br /><p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-friend-request.png" width="30%" height="30%" /></p>
 
 - The Dock icon will be badged (see [Notifications Preferences](/preferences/notifications.md))<br /><br /><p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-friend-requests-dock.png" width="30%" height="30%" /></p>
 
