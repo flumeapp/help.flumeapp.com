@@ -4,7 +4,7 @@ A Business Profile on Instagram will help your customers connect to your busines
 
 When you add contact information, a Contact button will appear near the top of your profile. When people click that button, they'll see options like Get Directions, Call and Email, depending on the contact information you provided.
 
-Additionally, when you convert to a Business Profile, you'll get access to [Insights](/views/profile/insights.md). These insights will help you learn more about your followers and how much your audience engages with your content. 
+Additionally, when you convert to a Business Profile, you'll get access to [Insights](/views/profile/insights.md) and [promoting posts.](/views/promote.md)
 
 You can find more information about Business Profiles at [Facebook's Business Help.](https://www.facebook.com/business/help/897631030335607/)
 
