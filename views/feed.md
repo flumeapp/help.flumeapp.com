@@ -6,7 +6,7 @@ Your Feed is [limited](/misc/limits.md) to the last 200 items. You can use [Sear
 
 <hr />
 
-#### Column View / Grid View
+#### Switching View Modes
 
 The Feed, as well as your [Likes](/views/likes.md) and [Profiles](/views/profile.md) can be viewed in either Column-View or Grid-View mode.
 
