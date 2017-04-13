@@ -122,7 +122,7 @@ To accept / decline an individual message requests:
 
 ### Filtering Conversations
 
-To apply filters to your conversation threads, use the <kbd>Filter</kbd> option under the <img src="/views/assets/settings.png" width="20" height="20" /> button.
+To apply filters to your conversation threads, use the <kbd>Filter</kbd> option under the <img src="/views/assets/settings.png" width="20" height="20" /> button in the title bar.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversations-filtering.png" width="50%" height="50%" /></p>
 
