@@ -5,5 +5,3 @@ The Conversations tab gives you access to all the features of [Instagram Direct.
 - [List](/views/conversations/list.md)
 - [Messages](/views/conversations/messages.md)
 - [Info](/views/conversations/info.md)
-
-<hr />
