@@ -32,7 +32,7 @@ Flume allows you to export your Insights to a simple .txt format for use in othe
 
 ## Available Insights
 
-### Insights for Posts and Stories:
+### Insights for Posts and Stories
 
 **Impressions:** Total number of times your post or story was seen
 
