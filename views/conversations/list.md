@@ -10,6 +10,8 @@ The Conversations List view lists all your current conversations, allows you to 
 
 There are many ways to begin a conversation with a user, however you should note that if the recipient of a message does not [follow](/getstarted/follow-profile.md) you, your message will not appear in their inbox directly but as a [message request](#message-requests) that they must approve or decline.
 
+To create a new conversation from the conversations list: 
+
 - Click the compose <img src="/views/assets/compose.png" width="20" height="20" /> button. Use the search field to find a specific user, or select from the suggestions that appear. If you select multiple users, a group conversation will be created.
 - Tap the "New" button in the [Touch Bar.](/misc/touchbar.md)
 
@@ -17,6 +19,8 @@ A list of suggested recipients will appear, and you can search for specific prof
 
 
 You can also create conversations directly from the [Profile](/views/profile.md) of a user.
+
+To create a new conversation from the Profile of a user:
 
 - Use the <kbd>Send Message</kbd> option under the <img src="/views/assets/actions-menu.png" width="20" height="20" /> button.
 - Tap the "Message" button in the [Touch Bar.](/misc/touchbar.md)
