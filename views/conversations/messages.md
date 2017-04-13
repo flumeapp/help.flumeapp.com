@@ -10,11 +10,7 @@ The Conversation Messages view lists all the messages and activity in a specific
 
 There are many ways to begin a conversation with a user, however you should note that if the recipient of a message does not [follow](/getstarted/follow-profile.md) you, your message will not appear in their inbox directly but as a [message request](/views/conversations/list.md#message-requests) that they must approve or decline.
 
-To write a new message:
-
-- From the [Conversations List](/views/conversations/list.md) view, click the compose <img src="/views/assets/compose.png" width="20" height="20" /> button. Use the search field to find a specific user, or select from the suggestions that appear. If you select multiple users, a group conversation will be created.
-
-- When viewing the [Profile](/views/profile.md) of a user, use the <kbd>Send Message</kbd> option under the <img src="/views/assets/actions-menu.png" width="20" height="20" /> button.
+See [Creating Conversations](/views/conversations/list.md#creating-conversations) for creating a new conversation.
 
 To reply to messages:
 
