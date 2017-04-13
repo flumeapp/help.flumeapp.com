@@ -41,6 +41,7 @@
   * [Info](views/conversations/info.md)
 * [Profile](views/profile.md)
   * [Business Profiles](views/profile/businessprofiles.md)  
+    * [Insights](views/profile/insights.md)  
   * [Private Profiles](views/profile/privateprofiles.md)
   * [Profile Settings](views/profile/settings.md)
     * [Invite Facebook Friends](views/profile/invitefacebook.md)
