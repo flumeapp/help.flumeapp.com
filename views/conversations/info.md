@@ -8,11 +8,11 @@ The Conversation Info view lists all the members of a conversation and allows yo
 
 ### Naming Group Conversations
 
-By default, a group conversation will be given the name of every member in the group. 
+By default, a group conversation will be given the name of every member in the group. You can give a group conversation a custom name ([up to 20 characters](/misc/limits.md)) if you prefer.
 
 To rename a group conversation:
 
-- Type a group name where the placeholder "Group name…". A [limit of 20 characters](/misc/limits.md) applies and press <kbd>ENTER/RETURN</kbd> to confirm.
+- Type a group name where the placeholder "Group name…" and press <kbd>ENTER/RETURN</kbd> to confirm.
 
 _Note: One-on-one conversations cannot be named, and it is not possible to rename a group that already has a name._
 
