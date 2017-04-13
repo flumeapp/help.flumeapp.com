@@ -22,6 +22,7 @@ To share a post with a new or existing conversation:
 - Right-click a post, then select <kbd>Share > Send to…</kbd> from the contextual menu.
 - Use the <kbd>Media > Share > Send to…</kbd> macOS Menu Bar item when selecting a post via the [keyboard arrows](/misc/keyboard-shortcuts.md) or viewing the [details](/views/detailview.md) of a post.
 
+<hr />
 
 #### Sharing Profiles
 
