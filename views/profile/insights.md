@@ -79,4 +79,8 @@ You'll also see the following insights about your followers, including gender, a
 
 If you're viewing insights from a post, you'll be able to see Impressions, Reach and Engagement. Engagement includes the total number of unique Instagram accounts that liked, commented on or saved your post.
 
+You'll be able to see data on your posts and stories, regardless of the number of followers you have. However, Business Profiles on Instagram must have 100 or more followers in order to see demographic metrics like age and gender.
+
+Insights on your stories will only start being tracked after you opt into tracking insights for your stories. To start tracking insights for your stories, you will need to tap the "Get Started" button when viewing your Insights on the official mobile Instagram app.
+
 ------
