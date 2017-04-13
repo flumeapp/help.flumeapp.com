@@ -42,7 +42,7 @@ It is not possible to remove a user from a group conversation. If necessary, you
 
 ## Reporting / Blocking Conversation Members
 
-[Learn more](/views/conversations/list.md#reporting-blocking-conversations) about reporting and blocking conversations.
+[Learn more](/views/conversations/list.md#reporting--blocking-conversations) about reporting and blocking conversations.
 
 ------
 
