@@ -76,7 +76,7 @@ _Note: Group conversations cannot be reported / blocked. You can report / block 
 
 When a user that you do not follow sends you a message, their message will not appear immediately in your inbox, but requires approval. When you have open message requests, an indicator will appear above the list of conversations.
 
-
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversations-message-requests.png" width="50%" height="50%" /></p>
 
 <hr />
 
