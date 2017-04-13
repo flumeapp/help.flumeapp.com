@@ -1,1 +1,1 @@
-<span style="font-size: 0.9em">[Report a mistake / issue](mailto:support@flumeapp.com?subject=Issue%20with%20help%20document&amp;body=Hey!\nThere%20is%20a%20problem%20with%20the%20help%20document%20titled%20%20REPLACEME) with this help document.</span>
+<span style="font-size: 0.9em">[Report a mistake / issue](mailto:support@flumeapp.com?subject=Issue%20with%20help%20document&amp;body=There%20is%20a%20problem%20with%20the%20help%20document%20titled%20%20REPLACEME) with this help document.</span>
