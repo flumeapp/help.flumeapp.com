@@ -1,9 +1,13 @@
 {
-    "plugins": ["back-to-top-button", "header", "custom-favicon", "toggle-headers", "toggle-chapters", "ungrey", "anchors", "localized-footer"],
+    "plugins": ["back-to-top-button", "header", "custom-favicon", "toggle-headers", "toggle-chapters", "ungrey", "anchors", "localized-footer", "page-toc-button"],
     "pluginsConfig": {
         "favicon": "/assets/favicon.png",
         "layout": {
           "headerPath" : "/layouts/header.html"
-        }
+        },
+        "page-toc-button": {
+            "maxTocDepth": 2,
+            "minTocSize": 2
+       }
     }
 }
