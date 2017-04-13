@@ -6,25 +6,25 @@ The Conversation Info view lists all the members of a conversation and allows yo
 
 <hr />
 
-### Rename a Group Conversation
+### Renaming Group Conversations
 
 .
 
 <hr />
 
-### Manage Members of a Group Conversation
+### Managing Group Conversations
 
 .
 
 <hr />
 
-### Block a Member of a Conversation
+### Blocking Conversation Members
 
 .
 
 <hr />
 
-### Leave a Group Conversation
+### Leaving Group Conversations
 
 .
 
