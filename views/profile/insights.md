@@ -11,6 +11,14 @@ You can find more information about Business Insights, see  [Facebook's Business
 
 ------
 
+## Viewing Insights
+
+To view your Insights:
+
+- Click the ...
+
+------
+
 ## Available Insights
 
 ### Insights for Posts and Stories:
