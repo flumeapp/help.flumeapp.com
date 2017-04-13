@@ -12,7 +12,7 @@ By default, a group conversation will be given the name of every member in the g
 
 To rename a group conversation:
 
-- Type a group name where the placeholder "Group name…"
+- Type a group name where the placeholder "Group name…". A [limit of 20 characters](/misc/limits.md) applies and press <kbd>ENTER/RETURN</kbd> to confirm.
 
 _Note: One-on-one conversations cannot be named, and it is not possible to rename a group that already has a name._
 
