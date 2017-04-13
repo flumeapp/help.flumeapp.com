@@ -6,15 +6,15 @@ The Conversation Messages view lists all the messages and activity in a specific
 
 <hr />
 
-### Writing Messages / Replies
+## Writing Messages / Replies
 
 See [Creating Conversations](/views/conversations/list.md#creating-conversations) for creating a new conversation.
 
 <hr />
 
-### Sharing Posts / Profiles / Locations / Hashtags
+## Sharing Posts / Profiles / Locations / Hashtags
 
-#### Sharing Posts
+### Sharing Posts
 
 To share a post with a new or existing conversation:
 
@@ -24,7 +24,7 @@ To share a post with a new or existing conversation:
 
 <hr />
 
-#### Sharing Profiles
+### Sharing Profiles
 
 To share a [profile](/views/profile.md) with a new or existing conversation:
 
@@ -33,7 +33,7 @@ To share a [profile](/views/profile.md) with a new or existing conversation:
 
 <hr />
 
-#### Sharing Locations
+### Sharing Locations
 
 To share a [location](/views/locations.md) with a new or existing conversation:
 
@@ -42,7 +42,7 @@ To share a [location](/views/locations.md) with a new or existing conversation:
 
 <hr />
 
-#### Sharing Hashtags
+### Sharing Hashtags
 
 To share a [hashtag](/views/hashtags.md) with a new or existing conversation:
 
@@ -51,7 +51,7 @@ To share a [hashtag](/views/hashtags.md) with a new or existing conversation:
 
 <hr />
 
-### Sharing Photos / Videos
+## Sharing Photos / Videos
 
 It is possible to share photos and videos privately in a one-on-one or group conversation. These shared items are only visible to members of the conversation and are not posted to your Profile.
 
@@ -65,7 +65,7 @@ _Note: When selecting a photo or video file, the usual [photo and video upload s
 
 <hr />
 
-### Downloading Shared Photos / Videos
+## Downloading Shared Photos / Videos
 
 To download a photo or video shared in a conversation:
 
@@ -78,7 +78,7 @@ You will be asked to choose a download location.
 
 <hr />
 
-### Liking / Unliking Messages
+## Liking / Unliking Messages
 
 To like an individual message sent in a conversation:
 
@@ -89,7 +89,7 @@ To like an individual message sent in a conversation:
 
 <hr />
 
-### Viewing Message Timestamps
+## Viewing Message Timestamps
 
 To view the time a message was sent:
 
@@ -103,7 +103,7 @@ The time will appear beside the message.
 
 <hr />
 
-### Translating Messages
+## Translating Messages
 
 To translate a text message sent in a conversation:
 
@@ -115,7 +115,7 @@ _Note: The translation option will only appear if the message contains text. The
 
 <hr />
 
-### Unsending Messages
+## Unsending Messages
 
 To unsend a message you sent in a conversation:
 
