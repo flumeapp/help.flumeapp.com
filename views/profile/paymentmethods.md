@@ -1,3 +1,1 @@
-# Profile
-
-## Payment Methods
+# Payment Methods

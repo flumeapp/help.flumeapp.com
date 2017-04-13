@@ -1,3 +1,1 @@
-# Profile
-
-## Change Password
+# Change Password

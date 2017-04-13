@@ -1,3 +1,1 @@
-# Profile
-
-## Edit Profile
+# Edit Profile

@@ -1,3 +1,1 @@
-# Profile
-
-## Blocked Users
+# Blocked Users

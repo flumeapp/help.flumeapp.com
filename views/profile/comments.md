@@ -1,3 +1,1 @@
-# Profile
-
-## Comments Options
+# Comments Options
