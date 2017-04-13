@@ -30,7 +30,7 @@ You will be asked to confirm the deletion.
 
 Leaving a group conversation will stop you from receiving any further messages in the group, though it will not remove your previous messages sent in the group. The other members of the group conversation will be made aware that you left the group conversation. You can be added back to a group if you have not [blocked the users](/views/profile/blockedusers.md) in the group.
 
-If you would prefer to remain in the group, but disable notifications of new messages, you can [mute the conversation](#mute-a-conversation) instead.
+If you would prefer to remain in the group, but disable notifications of new messages, you can [mute the conversation](#muting-conversations) instead.
 
 To leave a group conversation:
 
