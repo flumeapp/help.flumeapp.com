@@ -30,6 +30,8 @@ You will be asked to confirm the deletion.
 
 Leaving a group conversation will stop you from receiving any further messages in the group, though it will not remove your previous messages sent in the group. The other members of the group conversation will be made aware that you left the group conversation. You can be added back to a group if you have not [blocked the users](/views/profile/blockedusers.md) in the group.
 
+If you would prefer to remain in the group, but disable notifications of new messages, you can [mute the conversation](#mute-a-conversation) instead.
+
 To leave a group conversation:
 
 - Right-click a conversation, then select <kdb>Leave Conversation…</kdb> from the contextual menu.
@@ -40,7 +42,23 @@ You will be asked to confirm leaving the group.
 
 <hr />
 
-### Report / Block Conversations
+### Mute a Conversation
+
+Muted conversations will not send [desktop notifications](/preferences/notifications.md) when new messages are received, and also disable push notifications to your mobile devices if enabled.
+
+To mute/un-mute a conversation:
+
+- Right-click a conversation, then select <kdb>Mute/Unmute Conversation</kdb> from the contextual menu.
+- When selecting a conversation using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Conversation > Mute/Unmute Conversation</kbd> macOS Menu Bar item.
+- When viewing the conversation's [messages](/views/conversations/messages.md), use the <kbd>Mute/Unmute Conversation</kbd> option under the <img src="/views/assets/actions-menu.png" width="20" height="20" /> button.
+
+Muted conversations will display a small icon to indicate their current mute status.
+
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversations-muted.png" width="50%" height="50%" /></p>
+
+<hr />
+
+### Report / Block a Conversation
 
 . 
 
@@ -77,20 +95,5 @@ To toggle a conversation as a Bookmark, perform one of the following:
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversation-bookmark-toggle.png" width="50%" height="50%" /></p>
 
 - Use the <kbd>View > Add / Remove "Conversation Name" to Bookmarks</kbd> macOS Menu Bar item.
-
-<hr />
-
-### Mute a Conversation
-
-Muted conversations will not send [desktop notifications](/preferences/notifications.md) when new messages are received, and also disable push notifications to your mobile devices if enabled.
-
-To toggle a conversation's mute status, perform one of the following: 
-
-- Left-click on a conversation to view the messages, and from the <img src="/views/assets/actions-menu.png" width="20" height="20" /> button menu, select "Mute Conversation", or use the <kbd>Conversation > Mute Conversation</kbd> macOS menubar item.
-
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversation-actions.png" width="50%" height="50%" /></p>
-
-- Use the <kbd>Conversation > Mute Conversation</kbd> macOS Menu Bar item when a conversation is selected using the [keyboard arrows.](/misc/keyboard-shortcuts.md)
-- Use the <kbd>Mute Conversation</kbd> menu item when right-clicking on a conversation.
 
 <hr />
