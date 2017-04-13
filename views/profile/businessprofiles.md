@@ -14,6 +14,7 @@ Additionally, when you convert to a Business Profile, you'll get access to [Insi
 
 Do this.
 
-_Note: Private profiles cannot be turned into business profiles._
+**[info] Note**
+Private profiles cannot be turned into business profiles.
 
 <hr />
