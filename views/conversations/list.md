@@ -12,7 +12,7 @@ There are many ways to begin a conversation with a user, however you should note
 
 To create a new conversation from the conversations list: 
 
-- Click the compose <img src="/views/assets/compose.png" width="20" height="20" /> button in the title bar. Use the search field to find a specific user, or select from the suggestions that appear. If you select multiple users, a group conversation will be created.
+- Click the compose <img src="/views/assets/compose.png" width="20" height="20" /> button in the title bar. 
 - Tap the New <img src="/views/assets/compose.png" width="20" height="20" /> button in the [Touch Bar.](/misc/touchbar.md)
 
 A list of suggested recipients will appear, and you can search for specific profiles. Selecting more than one recipient will create a group conversation ([maximum of 15 recipients](/misc/limits.md)).
