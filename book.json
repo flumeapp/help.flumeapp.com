@@ -1,5 +1,5 @@
 {
-    "plugins": ["back-to-top-button", "header", "custom-favicon", "toggle-headers", "toggle-chapters", "ungrey", "anchors", "localized-footer", "page-toc-button"],
+    "plugins": ["back-to-top-button", "header", "custom-favicon", "toggle-headers", "toggle-chapters", "ungrey", "anchors", "localized-footer", "page-toc-button", "alerts"],
     "pluginsConfig": {
         "favicon": "/assets/favicon.png",
         "layout": {
