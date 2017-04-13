@@ -24,24 +24,25 @@ When viewing your own profile, an extra tab will appear, that allows you to view
 
 <hr />
 
-## Followers
+## Followers / Following
 
-To view the followers of a profile, click the "Followers" button. The current relationship status between you and each user is displayed, allowing you to quickly follow or unfollow users from other profiles.
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-following.png" width="30%" height="30%" /></p>
+
+To view the followers or followings of a profile, click the "Followers" button. The current relationship status between you and each user is displayed, allowing you to quickly follow or unfollow users from other profiles.
 
 To follow/unfollow a user: 
 
 - Click the Follow <img src="/views/assets/follow.png" width="20" height="20" /> or Following <img src="/views/assets/following.png" width="20" height="20" /> button (when hovering, the Following button will change in appearance to the Unfollow <img src="/views/assets/unfollow.png" width="20" height="20" /> button).
-
 
 <hr />
 
-## Following
+## Pending Friend Requests
 
-To view the users the profile follows, click the "Following" button. The current relationship status between you and each user is displayed, allowing you to quickly follow or unfollow users from other profiles.
+If your profile is set to [private](/views/profile/privateprofiles.md), users that wish to follow you will require your approval.
 
-To follow/unfollow a user: 
+To respond to a friend request:
 
-- Click the Follow <img src="/views/assets/follow.png" width="20" height="20" /> or Following <img src="/views/assets/following.png" width="20" height="20" /> button (when hovering, the Following button will change in appearance to the Unfollow <img src="/views/assets/unfollow.png" width="20" height="20" /> button).
+
 
 <hr />
 
