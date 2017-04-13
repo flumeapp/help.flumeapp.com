@@ -1,4 +1,4 @@
-# Invite Contacts
+# Find Contacts
 
 .
 

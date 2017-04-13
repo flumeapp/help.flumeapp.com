@@ -1,6 +1,6 @@
 # Summary
 
-### General
+## General
 
 * [Home](README.md)
   * [Overview](home/overview.md)
@@ -8,7 +8,7 @@
   * [Accessibility](home/accessibility.md)
 * [What's New in Flume](/whatsnew/README.md)
 
-### Getting Started
+## Getting Started
 
 * [How do I login / logout?](getstarted/login.md)
 * [How do I like a photo or video?](getstarted/like-a-post.md)
@@ -27,7 +27,8 @@
 * [How do I switch between accounts?](getstarted/switch-accounts.md)
 * [How do I always show the menu?](getstarted/show-menu.md)
 
-### Views
+## Views
+
 * [Login](views/login.md)
 * [Upload](views/upload.md)
 * [Feed](views/feed.md)
@@ -40,14 +41,14 @@
   * [Messages](views/conversations/messages.md)
   * [Info](views/conversations/info.md)
 * [Profile](views/profile.md)
-  * [Business Profiles](views/profile/businessprofiles.md)  
-    * [Insights](views/profile/insights.md)  
+  * [Business Profiles](views/profile/businessprofiles.md)
+    * [Insights](views/profile/insights.md)
     * [Promoting](views/promote.md)
   * [Private Profiles](views/profile/privateprofiles.md)
   * [Profile Settings](views/profile/settings.md)
     * [Invite Facebook Friends](views/profile/invitefacebook.md)
     * [Follow Facebook Friends](views/profile/followfacebook.md)
-    * [Invite Contacts](views/profile/invitecontacts.md)
+    * [Find Contacts](views/profile/invitecontacts.md)
     * [Edit Profile](views/profile/editprofile.md)
     * [Change Password](views/profile/editpassword.md)
     * [Blocked Users](views/profile/blockedusers.md)
@@ -61,7 +62,7 @@
 * [Hashtags](views/hashtags.md)
 * [Large Preview](views/largepreview.md)
 
-### Preferences
+## Preferences
 
 * [Accessing Preferences](preferences/README.md)
 * [General Preferences](preferences/general.md)
@@ -75,7 +76,7 @@
 * [Notifications Preferences](preferences/notifications.md)
 * [Flume Pro Preferences](preferences/flumepro.md)
 
-### Misc
+## Misc
 
 * [Limits](misc/limits.md)
 * [Photo / Video Upload Specifications](misc/upload-specifications.md)
@@ -88,6 +89,7 @@
 * [Reset Flume](misc/reset.md)
 * [Glossary](GLOSSARY.md)
 
-### External Links
+## External Links
 
 * [Links](misc/links.md)
+
