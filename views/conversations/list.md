@@ -25,7 +25,7 @@ You can also create conversations directly from the [Profile](/views/profile.md)
 
 To create a new conversation from the Profile of a user:
 
-- Use the <kbd>Send Message</kbd> option under the <img src="/views/assets/actions-menu.png" width="20" height="20" /> button.
+- Use the <kbd>Send Message</kbd> option under the <img src="/views/assets/actions-menu.png" width="20" height="20" /> button in the title bar.
 - Tap the Message <img src="/views/assets/message.png" width="20" height="20" /> button in the [Touch Bar.](/misc/touchbar.md)
 
 <hr />
