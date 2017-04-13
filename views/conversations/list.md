@@ -62,7 +62,11 @@ Muted conversations will display a small icon to indicate their current mute sta
 
 To report a conversation:
 
+- Right-click a conversation, then select <kdb>Report…</kdb> from the contextual menu.
+- When selecting a conversation using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Conversation > Report…</kbd> macOS Menu Bar item.
+- When viewing the conversation's [messages](/views/conversations/messages.md), use the <kbd>Report…</kbd> option under the <img src="/views/assets/actions-menu.png" width="20" height="20" /> button.
 
+You will be asked to confirm reporting the conversation (user).
 
 _Note: Group conversations cannot be reported / blocked._
 
