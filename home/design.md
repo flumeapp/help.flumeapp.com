@@ -5,9 +5,9 @@ The saying goes that a picture is worth a thousand words, and one of Flume's uni
 Flume lets you also customize your viewing preferences to your own preferences. Learn more in [Design Preferences.](/preferences/design.md)
 
 <ul class="screenshots"> 
-<li><figure class="screenshot screenshot-left"></figure></li>
-<li><figure class="screenshot screenshot-center"></figure></li>
-<li><figure class="screenshot screenshot-right"></figure></li>
+<li style="border: none;"><figure class="screenshot screenshot-left"></figure></li>
+<li style="border: none;"><figure class="screenshot screenshot-center"></figure></li>
+<li style="border: none;"><figure class="screenshot screenshot-right"></figure></li>
 </ul>
 
 ------
