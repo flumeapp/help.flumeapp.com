@@ -78,12 +78,13 @@ You will be asked to choose a download location.
 
 ### Liking / Unliking Messages
 
-To like a message sent in a conversation:
+To like an individual message sent in a conversation:
 
 - Right-click the message, then select <kbd>Like/Unlike Message</kbd> from the contextual menu.
 - When selecting a message using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Message > Like/Unlike Message</kbd> macOS Menu Bar item.
 
 <hr />
+
 
 ### Viewing Message Timestamps
 
