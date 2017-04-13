@@ -18,7 +18,7 @@
 - [1.1](#flume-11)
 - [1.0](#flume-10)
 
-<hr />
+------
 
 ## Flume 2.5
 
@@ -113,7 +113,7 @@
 - FIXED: An issue when pressing ESC to try and close the avatar image picker that instead popped the view back.
 - FIXED: Lots of asset updates and bits of UI polish, and tons of other little hidden behind the scenes fixes and memory improvements.
 
-<hr />
+------
 
 ## Flume 2.4.2
 
@@ -121,7 +121,7 @@
 
 Re-release of Flume 2.4.1 with minor adjustments for Setapp release.
 
-<hr />
+------
 
 ## Flume 2.4.1
 
@@ -190,7 +190,7 @@ Re-release of Flume 2.4.1 with minor adjustments for Setapp release.
 - FIXED: An issue when linking accounts with Tumblr and Flickr.
 - FIXED: Many more minor tweaks and improvements.
 
-<hr />
+------
 
 ## Flume 2.4
 
@@ -305,7 +305,7 @@ NEW: The new Touch Bar and Flume are a match made in heaven! Comprehensive suppo
 - FIXED: An issue where location searching did not always find the correct results.
 - FIXED: An issue that would cause older messages in conversations to not load.
 
-<hr />
+------
 
 ## Flume 2.3
 
@@ -375,7 +375,7 @@ NEW: The new Touch Bar and Flume are a match made in heaven! Comprehensive suppo
 - FIXED: Improved swiping gesture support.
 - FIXED: Compatibility with macOS Sierra.
 
-<hr />
+------
 
 ## Flume 2.2.1
 
@@ -407,7 +407,7 @@ NEW: The new Touch Bar and Flume are a match made in heaven! Comprehensive suppo
 - FIXED: A crash when trying to request content and the session had timed-out (potentially from a previous crash).
 - FIXED: A potential crash when pressing the “Clear Caches” button and new content was being downloaded/updated.
 
-<hr />
+------
 
 ## Flume 2.2
 
@@ -484,7 +484,7 @@ NEW: The new Touch Bar and Flume are a match made in heaven! Comprehensive suppo
 - FIXED: Pressing Cmd+F on the Conversations tab now jumps to the Conversation search text field, not the Search tab.
 - FIXED: The logout keyboard shortcut was missing after removing all but one account.
 
-<hr />
+------
 
 ## Flume 2.1
 
@@ -533,7 +533,7 @@ NEW: The new Touch Bar and Flume are a match made in heaven! Comprehensive suppo
 - FIXED: A crash when trying to push to the detail view from a profile with an invalid keyboard selection.
 - FIXED: A crash when pressing up/down/left/right arrow keys on private profiles, or when the profile had no posts.
 
-<hr />
+------
 
 ## Flume 2.0
 
@@ -545,7 +545,7 @@ NEW: The new Touch Bar and Flume are a match made in heaven! Comprehensive suppo
 - NEW: Curated recommendations
 - NEW: Improved notification preferences.
 
-<hr />
+------
 
 ## Flume 1.2.2
 
@@ -557,7 +557,7 @@ NEW: The new Touch Bar and Flume are a match made in heaven! Comprehensive suppo
 - FIXED: An issue where audio from a previously playing video could still be heard despite no QuickLook window visible.
 - FIXED: A bunch of very rare crashes reported by users.
 
-<hr />
+------
 
 ## Flume 1.2.1
 
@@ -572,7 +572,7 @@ NEW: The new Touch Bar and Flume are a match made in heaven! Comprehensive suppo
 - FIXED: A rare crash that could occur when opening the QuickLook window.
 - FIXED: Improvements to the French localisation.
 
-<hr />
+------
 
 ## Flume 1.2
 
@@ -587,7 +587,7 @@ NEW: The new Touch Bar and Flume are a match made in heaven! Comprehensive suppo
 - FIXED: A crash that could occur in rare occurrences when updating the previously downloaded avatar of a user.
 - FIXED: When liking a photo or video in column view, quickly scrolling away could cause the “liked” image to appear on the wrong media.
 
-<hr />
+------
 
 ## Flume 1.1
 
@@ -644,7 +644,7 @@ NEW: The new Touch Bar and Flume are a match made in heaven! Comprehensive suppo
 - FIXED: Switching accounts keeps you on the same tab you had previously selected.
 - FIXED: Many other miscellaneous improvements and crash fixes!
 
-<hr />
+------
 
 ## Flume 1.0
 

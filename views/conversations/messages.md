@@ -4,13 +4,13 @@ The Conversation Messages view lists all the messages and activity in a specific
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversation.png" width="50%" height="50%" /></p>
 
-<hr />
+------
 
 ## Writing Messages / Replies
 
 See [Creating Conversations](/views/conversations/list.md#creating-conversations) for creating a new conversation.
 
-<hr />
+------
 
 ## Sharing Posts / Profiles / Locations / Hashtags
 
@@ -22,7 +22,7 @@ To share a post with a new or existing conversation:
 - Right-click a post, then select <kbd>Share > Send to…</kbd> from the contextual menu.
 - Use the <kbd>Media > Share > Send to…</kbd> macOS Menu Bar item when selecting a post via the [keyboard arrows](/misc/keyboard-shortcuts.md) or viewing the [details](/views/detailview.md) of a post.
 
-<hr />
+------
 
 ### Sharing Profiles
 
@@ -31,7 +31,7 @@ To share a [profile](/views/profile.md) with a new or existing conversation:
 - When viewing the [Profile](/views/profile.md) of a user, use the <kbd>Send to…</kbd> option under the Share <img src="/views/assets/share.png" width="20" height="20" /> button in the title bar.
 - When viewing the [Profile](/views/profile.md) of a user, use the <kbd>User > Share > Send to…</kbd> macOS Menu Bar item.
 
-<hr />
+------
 
 ### Sharing Locations
 
@@ -40,7 +40,7 @@ To share a [location](/views/locations.md) with a new or existing conversation:
 - When viewing the location's feed, use the <kbd>Send to…</kbd> option under the Share <img src="/views/assets/share.png" width="20" height="20" /> button in the title bar.
 - When viewing the location's feed, use the <kbd>Location > Share > Send to…</kbd> macOS Menu Bar item.
 
-<hr />
+------
 
 ### Sharing Hashtags
 
@@ -49,7 +49,7 @@ To share a [hashtag](/views/hashtags.md) with a new or existing conversation:
 - When viewing the hashtag's feed, use the <kbd>Send to…</kbd> option under the Share <img src="/views/assets/share.png" width="20" height="20" /> button in the title bar.
 - When viewing the hashtag's feed, use the <kbd>Hashtag > Share > Send to…</kbd> macOS Menu Bar item.
 
-<hr />
+------
 
 ## Sharing Photos / Videos
 
@@ -64,7 +64,7 @@ To share a photo / video:
 > **[info]**
 > When selecting a photo or video file, the usual [photo and video upload specifications](/misc/upload-specifications.md) apply.
 
-<hr />
+------
 
 ## Downloading Shared Photos / Videos
 
@@ -77,7 +77,7 @@ You will be asked to choose a download location.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/message-unlike.png" width="50%" height="50%" /></p>
 
-<hr />
+------
 
 ## Liking / Unliking Messages
 
@@ -88,7 +88,7 @@ To like an individual message sent in a conversation:
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/message-unlike.png" width="50%" height="50%" /></p>
 
-<hr />
+------
 
 ## Viewing Message Timestamps
 
@@ -102,7 +102,7 @@ The time will appear beside the message.
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/message-timestamp.png" width="50%" height="50%" /></p>
 
 
-<hr />
+------
 
 ## Translating Messages
 
@@ -115,7 +115,7 @@ To translate a text message sent in a conversation:
 > **[info]**
 > The translation option will only appear if the message contains text. The translation will use your current [language](/preferences/general.md#language) setting.
 
-<hr />
+------
 
 ## Unsending Messages
 
@@ -126,4 +126,4 @@ To unsend a message you sent in a conversation:
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/message-unlike.png" width="50%" height="50%" /></p>
 
-<hr />
+------

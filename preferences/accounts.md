@@ -5,7 +5,7 @@
 > **[info]**
 > In order to add more than one account at a time, you must upgrade to [Flume Pro.](/preferences/flumepro.md)
 
-<hr /> 
+------ 
 
 ## Adding an Account
 
@@ -13,7 +13,7 @@ To add an additional account, click on the <img src="/preferences/assets/add.png
 
 The login window will appear, and after successfully logging in, the active account will be switched to the new account.
 
-<hr />
+------
 
 ## Switching an Account
 
@@ -23,10 +23,10 @@ Note that you can also switch accounts much faster by using the "Accounts" macOS
 
 <p style="text-align: center; margin-top: 1em;"><img src="/home/assets/multipleaccounts.png" width="50%" height="50%" /></p>
 
-<hr />
+------
 
 ## Removing an Account
 
 To remove an account, first select the row in the list, then click on the <img src="/preferences/assets/delete.png" width="20" height="20" /> icon.
 
-<hr />
+------

@@ -6,4 +6,4 @@ If you wish to completely reset Flume, including resetting all [Preferences](/pr
 
 <p style="text-align: center; margin-top: 1em;"><img src="/misc/assets/reset.png" width="50%" height="50%" /> </p>
 
-<hr />
+------

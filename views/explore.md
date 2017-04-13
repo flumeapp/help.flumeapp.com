@@ -4,7 +4,7 @@ The Explore tab allows you to discover posts and users that Instagram curates to
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/explore.png" width="50%" height="50%" /></p>
 
-<hr />
+------
 
 ## Posts
 
@@ -16,7 +16,7 @@ If you'd like to adjust your future recommendations, you can indicate to Instagr
 - Left-click on a post to view the details, and from the <img src="/views/assets/actions-menu.png" width="20" height="20" /> button menu, select "Show Fewer Posts Like This"
 - Use the <kbd>Media > Show Fewer Posts Like This</kbd> macOS menubar item when a post is selected using the [keyboard arrows.](/misc/keyboard-shortcuts.md)
 
-<hr />
+------
 
 ## People
 
@@ -24,4 +24,4 @@ If you'd like to adjust your future recommendations, you can indicate to Instagr
 
 If you'd like to ignore a recommendation, click the <img src="/views/assets/actions-dismiss.png" width="20" height="20" /> button next to each suggestion.
 
-<hr />
+------

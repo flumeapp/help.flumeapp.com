@@ -2,7 +2,7 @@
 
 <p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/design.png" width="60%" height="60%" /></p>
 
-<hr /> 
+------ 
 
 ## Design
 
@@ -11,7 +11,7 @@
 | Dark | The user interface will use a darker background, with lighter text. |
 | Light | The user interface will use a lighter background, with darker text. |
 
-<hr />
+------
 
 ## Font size
 
@@ -23,7 +23,7 @@ The font size preference can also be adjusted at any time in Flume via the [keyb
 | Larger | Increases the text sizes from the default by 1pt. |
 | Largest | Increases the text sizes from the default by 2pt. |
 
-<hr />
+------
 
 ## Show the menu
 
@@ -35,7 +35,7 @@ The font size preference can also be adjusted at any time in Flume via the [keyb
 | Always | The toolbar menu is always visible. |
 | When scrolling up | The toolbar menu will appear when the mouse hovers the bottom region of the main window, or when scrolling content up. |
 
-<hr />
+------
 
 ## Always show the title bar
 
@@ -43,7 +43,7 @@ The font size preference can also be adjusted at any time in Flume via the [keyb
 
 Enables or disables showing the Flume title bar in [Feed](/views/feed.md) and [Likes.](/views/likes.md) When disabled, [Show the menu](#show-the-menu) is set to "On Hover" and [Show media details](#show-media-details) is set to "None", Flume will display content edge-to-edge with no visible chrome (_default_).
 
-<hr />
+------
 
 ## Show media details
 
@@ -56,4 +56,4 @@ Customizes the amount of details to show about media when in Column-View content
 | Compact | Displays the author, location (if applicable) and the posting date. |
 | On Hover | Displays the author, location (if applicable) and posting date, overlaid on the post when the mouse hovers directly above. When the mouse exits, the details are hidden. |
 
-<hr />
+------

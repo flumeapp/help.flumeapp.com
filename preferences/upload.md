@@ -4,4 +4,4 @@
 - [Adjustments](/preferences/upload/adjustments.md)
 - [Settings](/preferences/upload/settings.md)
 
-<hr />
+------

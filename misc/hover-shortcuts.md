@@ -11,7 +11,7 @@ To activate a Hover Shortcut, simply mouse the mouse cursor over a post (in eith
 | S | Saves the media that is directly underneath the mouse cursor.  |
 | Space | Opens a large preview for the media that is directly underneath the mouse cursor.  |
 
-<hr />
+------
 
 ## Demo
 
@@ -19,4 +19,4 @@ The demo below demonstrates the use of the "L" shortcut being used to like multi
 
 <p style="text-align: center; margin-top: 1em;"><img src="/assets/hovershortcuts.gif" width="30%" height="30%" /></p>
 
-<hr />
+------

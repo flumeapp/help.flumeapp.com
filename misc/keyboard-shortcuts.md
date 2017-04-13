@@ -2,7 +2,7 @@
 
 All of Flume's features can be accessed via the keyboard, and there are countless keyboard shortcuts that you can use to speed up your browsing experience.
 
-<hr />
+------
 
 ## General Shortcuts
 
@@ -19,7 +19,7 @@ All of Flume's features can be accessed via the keyboard, and there are countles
 | <kbd>⌘?</kbd> | Displays the "Welcome to Flume" Window, with quick links to Flume's Website, Support and "What's New?"|
 | <kbd>⌘⌃Space</kbd> | When the keyboard focus is in a text-entry area, this will invoke macOS's default "Emoji and Symbols" picker window, allowing you to insert emoji characters. See this [Apple Support](https://support.apple.com/en-us/HT201586) article for more info. |
 
-<hr />
+------
 
 ## Menu Shortcuts
 
@@ -28,7 +28,7 @@ An inbuilt-feature of macOS are keyboard shortcuts assigned to items in menus. F
 > **[info]**
 > Not all menu items are listed below, only those with existing keyboard shortcuts.
 
-<hr />
+------
 
 ### File Menu Shortcuts
 
@@ -39,7 +39,7 @@ An inbuilt-feature of macOS are keyboard shortcuts assigned to items in menus. F
 | <kbd>⌘R</kbd> | Refreshes the feed view, your notifications, pending follower requests, and the current view you are looking at, if applicable. |
 | <kbd>⌘W</kbd> | Closes the currently focused window. |
 
-<hr />
+------
 
 ### Account Menu Shortcuts
 
@@ -48,7 +48,7 @@ An inbuilt-feature of macOS are keyboard shortcuts assigned to items in menus. F
 | <kbd>⌘⇧L</kbd> | When you use Flume with just a single account, this will logout your account, and delete all cached data and account information, presenting you with the login window.<br /><br />If you use multiple accounts, this action is disabled. |
 | <kbd>⌃[1-9]</kbd> | When using multiple accounts, pressing <kbd>⌃ (CTRL)</kbd> together with a corresponding number from 1..9 will quickly switch accounts. Click the "Accounts" menu to check the corresponding number (accounts are sorted alphabetically). |
 
-<hr />
+------
 
 ### View Menu Shortcuts
 
@@ -70,7 +70,7 @@ An inbuilt-feature of macOS are keyboard shortcuts assigned to items in menus. F
 | <kbd>⌘-</kbd> | Decreases the font size of the textual user interface elements. |
 | <kbd>⌃⌘F</kbd> | Toggles Full Screen mode. |
 
-<hr />
+------
 
 ### Media Menu Shortcuts
 
@@ -92,7 +92,7 @@ The "Media" menu will appear when a keyboard selection has been made on a Media 
 | <kbd>⌘S</kbd> | Saves the Media item to your chosen location. |
 | <kbd>⌘⌫</kbd> | Deletes the current Media Item (visible only for Media you uploaded) |
 
-<hr />
+------
 
 ### User Menu Shortcuts
 
@@ -112,7 +112,7 @@ The "Comment" menu will appear when a keyboard selection has been made on a Comm
 | <kbd>R</kbd> | Compose a reply to the selected comment's author. |
 | <kbd>⌥A</kbd> | "Pushes" to the Profile of the selected comment's author. |
 
-<hr />
+------
 
 ### Conversation Menu Shortcuts
 
@@ -123,13 +123,13 @@ The "Conversation" menu will appear when a keyboard selection has been made on a
 | <kbd>M</kbd> | Toggles muting the selected conversation. |
 | <kbd>⌘D</kbd> / <kbd>⌥⌘D</kbd> | Toggles adding the Conversation to your Bookmarks. |
 
-<hr />
+------
 
 ### Message Menu Shortcuts
 
 The "Message" menu will appear when a keyboard selection has been made on a Message in a conversation. There are currently no keyboard shortcuts for this menu.
 
-<hr />
+------
 
 ### Location Menu Shortcuts
 
@@ -139,7 +139,7 @@ The "Location" menu will appear when viewing the tagged posts at a Location.
 | ------------- | ------------- |
 | <kbd>⌘D</kbd> / <kbd>⌥⌘D</kbd> | Toggles adding the Location to your Bookmarks.
 
-<hr />
+------
 
 ### Hashtag Menu Shortcuts
 
@@ -149,7 +149,7 @@ The "Hashtag" menu will appear when viewing the tagged posts of that Hashtag.
 | ------------- | ------------- |
 | <kbd>⌘D</kbd> / <kbd>⌥⌘D</kbd> | Toggles adding the Hastag to your Bookmarks. |
 
-<hr />
+------
 
 ### Upload Menu Shortcuts
 
@@ -166,4 +166,4 @@ The "Upload" menu will appear when the Upload window is the front-most window. W
 | <kbd>⌥⌘F</kbd> | Shows the Poster Frame window, allowing you to select a specific frame to become the thumbnail image of your Video (not applicable when uploading a Photo). |
 | <kbd>⌘↩</kbd> | Posts the current Photo / Video. |
 
-<hr />
+------

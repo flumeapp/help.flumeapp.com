@@ -8,7 +8,7 @@ With support for cropping, tagging, locations, filters, adjustments, cover image
 
 <p style="text-align: center; margin-top: 1em;"><img src="/home/assets/upload.png" width="60%" height="60%" /></p>
 
-<hr />
+------
 
 ## Chat to customers, fans, friends
 
@@ -16,7 +16,7 @@ Use the benefit of your dedicated keyboard to quickly respond to customers and s
 
 <p style="text-align: center; margin-top: 1em;"><img src="/home/assets/conversations.png" width="30%" height="30%" /></p>
 
-<hr />
+------
 
 ## Manage multiple accounts
 
@@ -24,4 +24,4 @@ Switching between your personal and business accounts is a breeze. With comprehe
 
 <p style="text-align: center; margin-top: 1em;"><img src="/home/assets/multipleaccounts.png" width="50%" height="50%" /></p>
 
-<hr />
+------

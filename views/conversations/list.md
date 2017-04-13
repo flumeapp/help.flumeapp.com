@@ -4,7 +4,7 @@ The Conversations List view lists all your current conversations, allows you to 
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversations.png" width="50%" height="50%" /></p>
 
-<hr />
+------
 
 ## Creating Conversations
 
@@ -28,7 +28,7 @@ To create a new conversation from the Profile of a user:
 - Use the <kbd>Send Message</kbd> option under the <img src="/views/assets/actions-menu.png" width="20" height="20" /> button in the title bar.
 - Tap the Message <img src="/views/assets/message.png" width="20" height="20" /> button in the [Touch Bar.](/misc/touchbar.md)
 
-<hr />
+------
 
 ## Deleting Conversations
 
@@ -43,7 +43,7 @@ To delete a conversation:
 
 You will be asked to confirm the deletion.
 
-<hr />
+------
 
 ## Leaving Group Conversations
 
@@ -61,7 +61,7 @@ To leave a group conversation:
 
 You will be asked to confirm leaving the group.
 
-<hr />
+------
 
 ## Muting Conversations
 
@@ -78,7 +78,7 @@ Muted conversations will display a small icon to indicate their current mute sta
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversations-muted.png" width="50%" height="50%" /></p>
 
-<hr />
+------
 
 ## Reporting / Blocking Conversations
 
@@ -93,7 +93,7 @@ You will be asked to confirm reporting the conversation (user).
 > **[info]**
 > Group conversations cannot be reported / blocked. You can report / block users in a group conversation by visiting their [profile](/views/profile.md) from the [Conversation Info](/views/conversations/info.md) view and using the regular block / report user feature.
 
-<hr />
+------
 
 ## Message Requests
 
@@ -119,7 +119,7 @@ To accept / decline an individual message requests:
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversations-message-request-respond-individual.png" width="50%" height="50%" /></p>
 
 
-<hr />
+------
 
 ## Filtering Conversations
 
@@ -127,13 +127,13 @@ To apply filters to your conversation threads, use the <kbd>Filter</kbd> option 
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversations-filtering.png" width="50%" height="50%" /></p>
 
-<hr />
+------
 
 ## Searching Conversations
 
 If you have lots of conversations, you can quickly filter by author or group chat name using the search field (or use the <kbd>⌘F</kbd> [keyboard shortcut](/misc/keyboard-shortcuts.md)) It is not currently possible to perform a full-text search of messages within each conversation, due to limitations in the Instagram API.
 
-<hr />
+------
 
 ## Adding / Removing Conversation Bookmarks
 
@@ -147,4 +147,4 @@ To toggle a conversation as a Bookmark, perform one of the following:
 
 - Use the <kbd>View > Add/Remove "Conversation Name" to Bookmarks</kbd> macOS Menu Bar item.
 
-<hr />
+------

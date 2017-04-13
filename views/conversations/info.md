@@ -4,7 +4,7 @@ The Conversation Info view lists all the members of a conversation and allows yo
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversation-info.png" width="50%" height="50%" /></p>
 
-<hr />
+------
 
 ## Naming Group Conversations
 
@@ -17,7 +17,7 @@ To rename a group conversation:
 > **[info]**
 > One-on-one conversations cannot be named, and it is not possible to rename a group that already has a name.
 
-<hr />
+------
 
 ## Adding Members to Group Conversations
 
@@ -32,22 +32,22 @@ To add a new member to a group conversation:
 > **[info]**
 > You can only add users to existing group conversations. It is not possible to add members to a one-on-one conversation.
 
-<hr />
+------
 
 ## Removing Members to Group Conversations
 
 It is not possible to remove a user from a group conversation. If necessary, you can [block a user.](/getstarted/block-profile.md)
 
-<hr />
+------
 
 ## Reporting / Blocking Conversation Members
 
 [Learn more](/views/conversations/list.md#reporting-blocking-conversations) about reporting and blocking conversations.
 
-<hr />
+------
 
 ## Leaving Group Conversations
 
 [Learn more](/views/conversations/list.md#leaving-group-conversations) about ways to leave group conversations.
 
-<hr />
+------

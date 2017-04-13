@@ -4,7 +4,7 @@ The Activity tab shows you the latest notifications for your account. You can re
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/activity-you.png" width="50%" height="50%" /></p>
 
-<hr />
+------
 
 ## You
 
@@ -30,7 +30,7 @@ By default, all notification types are displayed. To apply filters to the notifi
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/activity-filtering.png" width="50%" height="50%" /></p>
 
-<hr />
+------
 
 ## Following
 
@@ -41,4 +41,4 @@ The Following tab lists the latest 200 notifications that relate to activity mad
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/activity-following.png" width="50%" height="50%" /></p>
 
-<hr />
+------

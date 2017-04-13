@@ -2,7 +2,7 @@
 
 <p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/feed.png" width="60%" height="60%" /></p>
 
-<hr /> 
+------ 
 
 ## Automatically Refresh
 
@@ -10,25 +10,25 @@ Choose a refresh interval to automatically refresh your [Feed](/views/feed.md), 
 
 If using Flume with [multiple accounts](/preferences/accounts.md#adding-an-account), the refresh will only occur for the currently active account.
 
-<hr />
+------
 
 ## Hide Videos
 
 Enable or disable displaying videos in Flume. When enabled, all videos will be filtered from the [Feed](/views/feed.md), [Likes](/views/likes.md) and [Explore](/views/explore.md) views. Videos will be displayed on [Profiles.](/views/profile.md)
 
-<hr />
+------
 
 ## Use Relative Dates
 
 Will toggle the display of dates for posts between relative (```2 hours ago```), or absolute (```Saturday, April 1st, 2017 13:37```). The exact format of absolute dates will depend on your [macOS Language & Region](https://support.apple.com/kb/PH18445) preferences.
 
-<hr />
+------
 
 ## Automatically Scroll to Top
 
 Enable or disable fixing the scroll position to the first item (top) whenever an [automatic refresh](#automatically-refresh) triggers, or when [manually refreshing.](/misc/keyboard-shortcuts.md). This option only applies when viewing the [Feed](/views/feed.md) in Column-View mode.
 
-<hr />
+------
 
 ## Selecting Media in Feed
 
@@ -39,4 +39,4 @@ Customize the action that will occur when clicking on items in the [feed.](/view
 | Shows Detail | Clicking on a post will display the [Detail View](/views/detailview.md) with more details such as the comments, likes and user tags (_default_). |
 | Shows Author | Clicking on a post will "push" you to see the author's [Profile.](/views/profile.md) |
 
-<hr />
+------

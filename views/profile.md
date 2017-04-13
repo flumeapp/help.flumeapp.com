@@ -4,7 +4,7 @@ The Profile view displays all the posts and related information for a particular
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-grid.png" width="30%" height="30%" /> <img src="/views/assets/profile-column.png" width="30%" height="30%" /></p>
 
-<hr />
+------
 
 ## Posts
 
@@ -13,7 +13,7 @@ Posts can be viewed in either Grid-View (default), or Column-View.
 - To view posts in Grid-View, click the Grid-View <img src="/views/assets/gridview.png" width="20" height="20" /> button in the profile tab bar.
 - To view posts in Column-View, click the Column-View <img src="/views/assets/columnview.png" width="20" height="20" /> button in the profile tab bar.
 
-<hr />
+------
 
 ## Tagged Posts
 
@@ -41,7 +41,7 @@ If you would like to disable users from being able to tag you in photos:
 
 If set to "Add Manually", you will be notified in [Activity](/views/activity.md) when someone tags you in a photo, with the option to accept or remove the tag.
 
-<hr />
+------
 
 ## Saved Posts
 
@@ -51,7 +51,7 @@ To view posts that you have saved:
 
 - Click the Saved <img src="/views/assets/saved.png" width="20" height="20" /> button in the profile tab bar.
 
-<hr />
+------
 
 ## Followers / Following
 
@@ -63,7 +63,7 @@ To follow/unfollow a user:
 
 - Click the Follow <img src="/views/assets/follow.png" width="20" height="20" /> or Following <img src="/views/assets/following.png" width="20" height="20" /> button (when hovering, the Following button will change in appearance to the Unfollow <img src="/views/assets/unfollow.png" width="20" height="20" /> button).
 
-<hr />
+------
 
 ## Friend Requests
 
@@ -92,7 +92,7 @@ To respond to friend requests:
 > **[info]**
 > If you [switch your profile to a public profile](/views/profile/privateprofiles.md), all pending friend requests will be accepted.
 
-<hr />
+------
 
 ## Similar Account Suggestions
 
@@ -102,7 +102,7 @@ To view similar account suggestions on a profile:
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-suggestions.png" width="30%" height="30%" /> <img src="/views/assets/profile-suggestions-list.png" width="30%" height="30%" /></p>
 
-<hr />
+------
 
 ### Following Account Suggestions
 
@@ -110,7 +110,7 @@ To follow a suggestion:
 
 - Click the <img src="/views/assets/follow.png" width="20" height="20" /> button next to each user.
 
-<hr />
+------
 
 ### Ignoring Account Suggestions
 
@@ -121,4 +121,4 @@ To dismiss a suggestion:
 > **[info]**
 > You can opt-out of being suggested for other users by editing your profile via the Instagram website. [Learn more.](https://help.instagram.com/530450580417848)
 
-<hr />
+------

@@ -1,6 +1,6 @@
 # Integrations
 
-<hr />
+------
 
 ## Finder
 
@@ -20,7 +20,7 @@ If Flume is not currently open, it will open and present you with an [Upload](/v
 
 Flume handles photos and videos dragged to its Dock icon. Each file will open a separate [Upload](/views/upload.md) window.
 
-<hr />
+------
 
 ## Photos
 
@@ -28,7 +28,7 @@ Starting with macOS Yosemite 10.10.3, Apple ships all Macs with [Photos](https:/
 
 We recommend the use of a third-party extension, [External Editors for Photos](http://externaleditorsforphotos.tumblr.com). This extension will allow you to open any content from [Photos](https://support.apple.com/photos) directly into Flume, as it will be considered an "editor". 
 
-<hr />
+------
 
 ## Adobe Lightroom
 
@@ -39,7 +39,7 @@ To send content from Lightroom into Flume, you can create a new [Export Preset](
 > **[info]**
 > The only necessary step is that listed under "Post-Processing", the options for where to place the exported file are customizable to your workflow.
 
-<hr />
+------
 
 ## Adobe Photoshop
 
@@ -62,5 +62,5 @@ try
 end try
 ```
 
-<hr />
+------
 

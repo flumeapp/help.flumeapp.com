@@ -4,7 +4,7 @@ The Feed tab is your "Home", and displays your timeline. Depending on your [Desi
 
 Your Feed is [limited](/misc/limits.md) to the last 200 items. You can use [Search](/views/search.md) or the [Go to User…](/misc/keyboard-shortcuts.md) shortcut to quickly jump to a specific [Profile](/views/profile.md) and view older posts.
 
-<hr />
+------
 
 ## View Modes
 
@@ -22,7 +22,7 @@ To adjust your viewing mode preference, you can use:
 - The View-Mode Switcher in the [Touch Bar.](/misc/touchbar.md)
 
 
-<hr />
+------
 
 ### Column-View Media Details
 
@@ -31,10 +31,10 @@ By default, Flume displays your Feed and Likes in an edge-to-edge format, removi
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/feed-column-none.png" width="20%" height="20%" /> <img src="/views/assets/feed-column-hover.png" width="20%" height="20%" /> <img src="/views/assets/feed-column-compact.png" width="20%" height="20%" /> <img src="/views/assets/feed-column-all.png" width="20%" height="20%" /></p>
 
-<hr />
+------
 
 ## Feed Ordering
 
 Posts are ordered based on factors like how recently the post was shared, your interactions with the person who shared it and whether you'll find the post interesting. Posts you're likely to care about most will appear higher in your feed. For more information, please visit [How Feed Works.](https://help.instagram.com/1400877086604710)
 
-<hr />
+------

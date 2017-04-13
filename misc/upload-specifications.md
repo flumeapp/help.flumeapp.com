@@ -29,4 +29,4 @@ We suggest you output your videos using the following specifications for best re
 
 Some additional information can be found on [Facebook's official recommendations.](https://www.facebook.com/business/ads-guide/video-views/instagram-video-views/)
 
-<hr />
+------

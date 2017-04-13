@@ -8,7 +8,7 @@ Additionally, when you convert to a Business Profile, you'll get access to [Insi
 
 [Learn more about Instagram Insights.](https://www.facebook.com/business/help/788388387972460)
 
-<hr />
+------
 
 ## Switch to a Business Profile
 
@@ -17,4 +17,4 @@ Do this.
 > **[info]**
 > Private profiles cannot be turned into business profiles.
 
-<hr />
+------
