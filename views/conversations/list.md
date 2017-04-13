@@ -8,6 +8,11 @@ The Conversations List view lists all your current conversations, allows you to 
 
 ### Creating Conversations
 
+- From the [Conversations List](/views/conversations/list.md) view, click the compose <img src="/views/assets/compose.png" width="20" height="20" /> button. Use the search field to find a specific user, or select from the suggestions that appear. If you select multiple users, a group conversation will be created.
+
+- When viewing the [Profile](/views/profile.md) of a user, use the <kbd>Send Message</kbd> option under the <img src="/views/assets/actions-menu.png" width="20" height="20" /> button.
+
+
 To create a new conversation, click the button in the title bar. A list of suggested recipients will appear, and you can search for specific profiles. Selecting more than one recipient will create a group conversation ([maximum of 15 recipients](/misc/limits.md)).
 
 <hr />
