@@ -51,14 +51,21 @@ To follow/unfollow a user:
 
 ## Pending Friend Requests
 
-If your profile is set to [private](/views/profile/privateprofiles.md), users that wish to follow you will require your approval. When there are pending friend requests, they will be visible:
+If your profile is set to [private](/views/profile/privateprofiles.md), users that wish to follow you will require your approval. When there are pending friend requests, they will be visible in various places:
 
 - On your profile, with a badge that appears above your avatar.
 - At the top of your [activity.](/views/activity.md)
+- The Dock icon will be badged (see [Notifications Preferences](/preferences/notifications.md))
+- The Profile tab will show an indicator.
 
 To respond to friend requests:
 
 - Click the Accept <img src="/views/assets/follow.png" width="20" height="20" /> or Decline <img src="/views/assets/decline.png" width="20" height="20" /> button that appears next to each user.
+
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-friend-requests.png" width="30%" height="30%" /></p>
+
+
+_Note: If you [switch your profile to a public profile](/views/profile/privateprofiles.md), all pending friend requests will be accepted._
 
 <hr />
 
