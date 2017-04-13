@@ -16,8 +16,10 @@ You can find more information about promoting posts at [Facebook's Business Reso
 
 ## Promoting a Post
 
-To promote posts on Instagram: 
+To promote a post:
 
-.
+- sfsf
+
+Once you've tapped Promote, your promotion will be reviewed to ensure it meets [Facebook's ad policies.](https://www.facebook.com/business/help/732496170188362) Promotions are generally reviewed in 60 minutes, but in some instances, the review process may take longer. Your promotion will begin running after it's been reviewed and approved.
 
 ------
