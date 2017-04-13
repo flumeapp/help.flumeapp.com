@@ -4,9 +4,9 @@ The Conversations List view lists all your current conversations, allows you to 
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversations.png" width="50%" height="50%" /></p>
 
- <hr />
+<hr />
 
-### Creating Conversations
+## Creating Conversations
 
 There are many ways to begin a conversation with a user, however you should note that if the recipient of a message does not [follow](/getstarted/follow-profile.md) you, your message will not appear in their inbox directly but as a [message request](#message-requests) that they must approve or decline.
 
@@ -30,7 +30,7 @@ To create a new conversation from the Profile of a user:
 
 <hr />
 
-### Deleting Conversations
+## Deleting Conversations
 
 Deleting a conversation will only remove the conversation from your own inbox, but will not remove it from the inbox of other recipients. 
 
@@ -45,7 +45,7 @@ You will be asked to confirm the deletion.
 
 <hr />
 
-### Leaving Group Conversations
+## Leaving Group Conversations
 
 Leaving a group conversation will stop you from receiving any further messages in the group, though it will not remove your previous messages sent in the group. The other members of the group conversation will be made aware that you left the group conversation. You can be added back to a group if you have not [blocked the users](/views/profile/blockedusers.md) in the group.
 
@@ -63,7 +63,7 @@ You will be asked to confirm leaving the group.
 
 <hr />
 
-### Muting Conversations
+## Muting Conversations
 
 Muted conversations will not send [desktop notifications](/preferences/notifications.md) when new messages are received, and also disable push notifications to your mobile devices if enabled.
 
@@ -80,7 +80,7 @@ Muted conversations will display a small icon to indicate their current mute sta
 
 <hr />
 
-### Reporting / Blocking Conversations
+## Reporting / Blocking Conversations
 
 To report a conversation:
 
@@ -94,13 +94,13 @@ _Note: Group conversations cannot be reported / blocked. You can report / block 
 
 <hr />
 
-### Message Requests
+## Message Requests
 
 When a user that you do not follow sends you a message, their message will not appear immediately in your inbox, but requires approval. When you have open message requests, an indicator will appear above the list of conversations.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversations-message-requests.png" width="50%" height="50%" /></p>
 
-#### Responding to Message Requests
+### Responding to Message Requests
 
 You have the option of accepting or declining all message requests, or individually.
 
@@ -120,7 +120,7 @@ To accept / decline an individual message requests:
 
 <hr />
 
-### Filtering Conversations
+## Filtering Conversations
 
 To apply filters to your conversation threads, use the <kbd>Filter</kbd> option under the <img src="/views/assets/settings.png" width="20" height="20" /> button in the title bar.
 
@@ -128,13 +128,13 @@ To apply filters to your conversation threads, use the <kbd>Filter</kbd> option 
 
 <hr />
 
-### Searching Conversations
+## Searching Conversations
 
 If you have lots of conversations, you can quickly filter by author or group chat name using the search field (or use the <kbd>⌘F</kbd> [keyboard shortcut](/misc/keyboard-shortcuts.md)) It is not currently possible to perform a full-text search of messages within each conversation, due to limitations in the Instagram API.
 
 <hr />
 
-### Adding / Removing Conversation Bookmarks
+## Adding / Removing Conversation Bookmarks
 
 Bookmarked conversations appear at the top of all others in the conversations list, and provide you with quick access to conversations regardless of the conversation's age.
 
