@@ -32,6 +32,8 @@ To convert to a Business Profile:
 > **[info]**
 > [Private profiles](/views/profile/privateprofiles.md) can't be used as Business Profiles.
 
+------
+
 ## Switch Back to a Personal Account
 
 To switch a Business Profile back to a personal account:
