@@ -4,7 +4,7 @@ Instagram Insights provide information on who your followers are, when they're o
 
 You can find more information about Business Insights, see  [Facebook's Business Resources.](https://www.facebook.com/business/help/897631030335607/)
 
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/insights.png" width="50%" height="50%" /></p>
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/insights-1.png" width="30%" height="30%" /> <img src="/views/assets/insights-2.png" width="30%" height="30%" /></p>
 
 > **[info]**
 > Once you [convert your personal profile over to a Business Profile](/views/profile/businessprofiles.md), you won't be able to view past insights from before you converted your account.
@@ -13,7 +13,7 @@ You can find more information about Business Insights, see  [Facebook's Business
 
 ## Viewing Insights
 
-Your Business Insights can be accessed from your own Profile tab via the <img src="/views/assets/insights.png" width="20" height="20" /> button in the title bar.
+Your Business Insights can be accessed from your own Profile tab via the <img src="/views/assets/viewinsights.png" width="20" height="20" /> button in the title bar.
 
 ------
 
