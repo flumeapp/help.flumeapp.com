@@ -19,7 +19,8 @@ See [Creating Conversations](/views/conversations/list.md#creating-conversations
 To share a post with a new or existing conversation:
 
 - When viewing the [details](/views/detailview.md) of a post, use the <kbd>Send to…</kbd> option under the Share <img src="/views/assets/share.png" width="20" height="20" /> button.
-- Right-click on 
+- Right-click a post, then select <kbd>Share > Send to…</kbd> from the contextual menu.
+
 
 
 #### Sharing Profiles / Locations / Hashtags
