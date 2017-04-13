@@ -70,7 +70,7 @@ To mute/un-mute a conversation:
 - Right-click a conversation, then select <kdb>Mute/Unmute Conversation</kdb> from the contextual menu.
 - When selecting a conversation using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Conversation > Mute/Unmute Conversation</kbd> macOS Menu Bar item.
 - When viewing the conversation's [messages](/views/conversations/messages.md), use the <kbd>Mute/Unmute Conversation</kbd> option under the <img src="/views/assets/actions-menu.png" width="20" height="20" /> button.
-- Tap the "Mute/Unmute" button in the [Touch Bar.](/misc/touchbar.md)
+- Tap the Mute <img src="/views/assets/mute.png" width="20" height="20" /> or Unmute <img src="/views/assets/mute-active.png" width="20" height="20" /> button in the [Touch Bar.](/misc/touchbar.md)
 
 Muted conversations will display a small icon to indicate their current mute status.
 
