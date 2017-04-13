@@ -19,6 +19,19 @@ To view your Insights:
 
 ------
 
+## Exporting Insights
+
+Flume allows you to export your Insights to a simple .txt format for use in other applications.
+
+To export your Insights:
+
+- Click the ...
+
+> **[info]**
+> The export feature will export the currently visible insights. 
+
+------
+
 ## Available Insights
 
 ### Insights for Posts and Stories:
@@ -59,11 +72,5 @@ Keep in mind that impressions and reach are different. Impressions are the total
 You'll also see the following insights about your followers, including gender, age and location information.
 
 If you're viewing insights from a post, you'll be able to see Impressions, Reach and Engagement. Engagement includes the total number of unique Instagram accounts that liked, commented on or saved your post.
-
-------
-
-## Exporting Insights
-
-Flume
 
 ------
