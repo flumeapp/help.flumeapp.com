@@ -73,14 +73,14 @@ Instagram doesn't offer insights for live content.
 ------
 
 ### Notes
-Keep in mind that impressions and reach are different. Impressions are the total number of times your post was seen. A single individual may see your post 5 times. Each time they see it, you'll get an impression. Reach is based on the number of unique people who view your post. Each unique individual will only be counted once, even if they view your post multiple times.
+- Keep in mind that impressions and reach are different. Impressions are the total number of times your post was seen. A single individual may see your post 5 times. Each time they see it, you'll get an impression. Reach is based on the number of unique people who view your post. Each unique individual will only be counted once, even if they view your post multiple times.
 
-You'll also see the following insights about your followers, including gender, age and location information.
+- You'll also see the following insights about your followers, including gender, age and location information.
 
-If you're viewing insights from a post, you'll be able to see Impressions, Reach and Engagement. Engagement includes the total number of unique Instagram accounts that liked, commented on or saved your post.
+- If you're viewing insights from a post, you'll be able to see Impressions, Reach and Engagement. Engagement includes the total number of unique Instagram accounts that liked, commented on or saved your post.
 
-You'll be able to see data on your posts and stories, regardless of the number of followers you have. However, Business Profiles on Instagram must have 100 or more followers in order to see demographic metrics like age and gender.
+- You'll be able to see data on your posts and stories, regardless of the number of followers you have. However, Business Profiles on Instagram must have 100 or more followers in order to see demographic metrics like age and gender.
 
-Insights on your stories will only start being tracked after you opt into tracking insights for your stories. To start tracking insights for your stories, you will need to tap the "Get Started" button when viewing your Insights on the official mobile Instagram app.
+- Insights on your stories will only start being tracked after you opt into tracking insights for your stories. To start tracking insights for your stories, you will need to tap the "Get Started" button when viewing your Insights on the official mobile Instagram app.
 
 ------
