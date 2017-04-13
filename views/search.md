@@ -6,7 +6,7 @@ The Search tab allows you to find specific [Profiles](/views/profile.md), [Locat
 
 <hr />
 
-### Switching Search Modes
+## Switching Search Modes
 
 To switch between Search modes, use the <img src="/views/assets/actions-menu.png" width="20" height="20" /> menu.
 
@@ -14,13 +14,13 @@ To switch between Search modes, use the <img src="/views/assets/actions-menu.png
 
 <hr />
 
-### Search Bookmarks
+## Search Bookmarks
 
 When viewing a [Profile](/views/profile.md), [Location](/views/locations.md), or [Hashtag](/views/hashtags.md), you can add the item as a Bookmark, giving you quick access to it later from the Search view. 
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/bookmarks.png" width="50%" height="50%" /></p>
 
-#### Adding / Removing Search Bookmarks
+### Adding / Removing Search Bookmarks
 
 To toggle an item ([Profile](/views/profile.md), [Location](/views/locations.md), or [Hashtag](/views/hashtags.md)) as a Bookmark, perform one of the following: 
 
@@ -32,20 +32,23 @@ To toggle an item ([Profile](/views/profile.md), [Location](/views/locations.md)
 - Use the <kbd>View > Add / Remove "ITEM" to Bookmarks</kbd> macOS Menu Bar item.
 - When viewing your list of Bookmarks, click the <img src="/views/assets/actions-dismiss.png" width="20" height="20" /> button.
 
+<hr />
 
-#### Sorting Search Bookmarks
+### Sorting Search Bookmarks
 
 By default, Bookmarks are sorted in Date Added order. To change the ordering, use the <kbd>Sort by…</kbd> option under the <img src="/views/assets/settings.png" width="20" height="20" /> button in the title bar.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/bookmarks-sorting.png" width="50%" height="50%" /></p>
 
-#### Importing / Exporting Search Bookmarks
+<hr />
+
+### Importing / Exporting Search Bookmarks
 
 To import or export your Bookmarks, use the <kbd>Import / Export Bookmarks…</kbd> option under the <img src="/views/assets/settings.png" width="20" height="20" /> button in the title bar, or under the <kbd>File > Bookmarks</kbd> macOS menubar item.
 
 <hr />
 
-### Suggested Searches
+## Suggested Searches
 
 If you do not have any [Bookmarks](#bookmarks), the Search view will default to showing you Instagram's suggestions.
 
@@ -53,7 +56,7 @@ We recommend you use Flume's [Bookmarks](#bookmarks) feature to save commonly se
 
 <hr />
 
-### Recent Searches
+## Recent Searches
 
 Your recent searches are populated by Instagram based off your previous searches for that account. We recommend you use Flume's [Bookmarks](#bookmarks) feature to save commonly searched items, as recent searches are limited by Instagram to just a few items.
 
