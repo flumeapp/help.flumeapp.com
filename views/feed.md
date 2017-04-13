@@ -6,13 +6,13 @@ Your Feed is [limited](/misc/limits.md) to the last 200 items. You can use [Sear
 
 <hr />
 
-### View Modes
+## View Modes
 
 The Feed, as well as your [Likes](/views/likes.md) and [Profiles](/views/profile.md) can be viewed in either Column-View or Grid-View mode.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/feed-column.png" width="30%" height="30%" /> <img src="/views/assets/feed-grid.png" width="30%" height="30%" /></p>
 
-#### Switching View Modes
+### Switching View Modes
 
 To adjust your viewing mode preference, you can use:
 
@@ -24,7 +24,7 @@ To adjust your viewing mode preference, you can use:
 
 <hr />
 
-#### Column-View Media Details
+### Column-View Media Details
 
 By default, Flume displays your Feed and Likes in an edge-to-edge format, removing distracting information and leaves you to enjoy the photos and videos as individual works of art. If you would rather view more metadata, Column-View offers 4 different levels, as explained in [Design Preferences](/preferences/design.md#show-media-details).
 
@@ -33,7 +33,7 @@ By default, Flume displays your Feed and Likes in an edge-to-edge format, removi
 
 <hr />
 
-### Feed Ordering
+## Feed Ordering
 
 Posts are ordered based on factors like how recently the post was shared, your interactions with the person who shared it and whether you'll find the post interesting. Posts you're likely to care about most will appear higher in your feed. For more information, please visit [How Feed Works.](https://help.instagram.com/1400877086604710)
 
