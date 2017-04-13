@@ -74,6 +74,8 @@ To download a photo or video shared in a conversation:
 
 You will be asked to choose a download location.
 
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/message-unlike.png" width="50%" height="50%" /></p>
+
 <hr />
 
 ### Liking / Unliking Messages
@@ -96,6 +98,9 @@ To view the time a message was sent:
 
 The time will appear beside the message.
 
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/message-timestamp.png" width="50%" height="50%" /></p>
+
+
 <hr />
 
 ### Translating Messages
@@ -103,6 +108,8 @@ The time will appear beside the message.
 To translate a text message sent in a conversation:
 
 - Right-click the message, then select <kbd>Translate…</kbd> from the contextual menu.
+
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/message-translate.png" width="50%" height="50%" /></p>
 
 _Note: The translation option will only appear if the message contains text. The translation will use your current [language](/preferences/general.md#language) setting._
 
@@ -114,5 +121,7 @@ To unsend a message you sent in a conversation:
 
 - Right-click the message, then select <kbd>Unsend Message…</kbd> from the contextual menu.
 - When selecting a message using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Message > Unsend Message…</kbd> macOS Menu Bar item.
+
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/message-unlike.png" width="50%" height="50%" /></p>
 
 <hr />
