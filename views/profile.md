@@ -63,6 +63,7 @@ If your profile is set to [private](/views/profile/privateprofiles.md), users th
 
 - The Dock icon will be badged (see [Notifications Preferences](/preferences/notifications.md))
 
+### Responding to Friend Requests
 
 To respond to friend requests:
 
