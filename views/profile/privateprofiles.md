@@ -8,14 +8,20 @@ When requesting to [follow a private profile](/getstarted/follow-profile.md), th
 
 If the user accepts your friend request, you will be notified in your [Activity.](/views/activity.md) If they ignore your request, you will not receive any notification.
 
+<hr />
+
 ### Switching to a Private Profile
 
 Do this.
 
 _Note: [Business Profiles](/views/profile/businessprofiles.md) cannot be made private._
 
+<hr />
+
 ### Switching to a Public Profile
 
 Do this.
 
 _Note: All pending [friend requests](/views/profile.md#friend-requests) will be approved when switching to a public profile._
+
+<hr />
