@@ -84,14 +84,14 @@ You have the option of accepting or declining all message requests, or individua
 
 To accept / decline all message requests:
 
-- Click either the accept (<img src="/views/assets/accept.png" width="20" height="20" />) or decline (<img src="/views/assets/decline.png" width="20" height="20" />) icon in the title bar when viewing the list of message requests. You will be asked to confirm your intention.
+- Click either the accept <img src="/views/assets/accept.png" width="20" height="20" /> or decline <img src="/views/assets/decline.png" width="20" height="20" /> icon in the title bar when viewing the list of message requests. You will be asked to confirm your intention.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversations-message-request-respond-all.png" width="50%" height="50%" /></p>
 
 
 To accept / decline an individual message requests:
 
-- Click on a conversation from the list of message requests, then click either the accept (<img src="/views/assets/accept.png" width="20" height="20" />) or decline (<img src="/views/assets/decline.png" width="20" height="20" />) icon in the title bar when viewing the list of message requests. You will be asked to confirm your intention.
+- Click on a conversation from the list of message requests, then click either the accept <img src="/views/assets/accept.png" width="20" height="20" /> or decline <img src="/views/assets/decline.png" width="20" height="20" /> icon in the title bar when viewing the list of message requests. You will be asked to confirm your intention.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversations-message-request-respond-individual.png" width="50%" height="50%" /></p>
 
@@ -118,7 +118,7 @@ Bookmarked conversations appear at the top of all others in the conversations li
 
 To toggle a conversation as a Bookmark, perform one of the following: 
 
-- Click the Bookmarks icon (<img src="/views/assets/bookmark.png" width="20" height="20" />) in the title bar when viewing the details of a Conversation.
+- Click the Bookmarks icon <img src="/views/assets/bookmark.png" width="20" height="20" /> in the title bar when viewing the details of a Conversation.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversation-bookmark-toggle.png" width="50%" height="50%" /></p>
 
