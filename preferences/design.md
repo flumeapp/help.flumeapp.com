@@ -4,7 +4,7 @@
 
 <hr /> 
 
-##### Design
+#### Design
 
 | Option | Explanation |
 |----------------------|
@@ -13,7 +13,7 @@
 
 <hr />
 
-##### Font size
+#### Font size
 
 The font size preference can also be adjusted at any time in Flume via the [keyboard shortcuts](/misc/keyboard-shortcuts.md) <kbd>⌘+</kbd> and <kbd>⌘-</kbd>.
 
@@ -25,7 +25,7 @@ The font size preference can also be adjusted at any time in Flume via the [keyb
 
 <hr />
 
-##### Show the menu
+#### Show the menu
 
 <p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/menu.png" width="60%" height="60%" /></p>
 
@@ -37,7 +37,7 @@ The font size preference can also be adjusted at any time in Flume via the [keyb
 
 <hr />
 
-##### Always show the title bar
+#### Always show the title bar
 
 <p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/titlebar.png" width="60%" height="60%" /></p>
 
@@ -45,7 +45,7 @@ Enables or disables showing the Flume title bar in [Feed](/views/feed.md) and [L
 
 <hr />
 
-##### Show media details
+#### Show media details
 
 Customizes the amount of details to show about media when in Column-View content areas ([Feed](/views/feed.md), [Likes](/views/likes.md) and [Profile.](/views/profile.md)) See [Feed](/views/feed.md) for visual examples.
 
