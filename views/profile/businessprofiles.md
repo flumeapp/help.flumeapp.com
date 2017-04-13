@@ -8,6 +8,8 @@ Additionally, when you convert to a Business Profile, you'll get access to [Insi
 
 You can find more information about Business Profiles at [Facebook's Business Help.](https://www.facebook.com/business/help/897631030335607/)
 
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/convert-business.png" width="50%" height="50%" /></p>
+
 ------
 
 ## Switch to a Business Profile
@@ -15,8 +17,6 @@ You can find more information about Business Profiles at [Facebook's Business He
 Only businesses on Instagram should use Business Profiles. Additionally, to get access, your business must have a [Facebook Page.](https://www.facebook.com/help/pages)
 
 To convert to a Business Profile:
-
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/convert-business.png" width="50%" height="50%" /></p>
 
 1. When viewing your [Profile](/views/profile.md), select the <kbd>Switch to Business Profile…</kbd> item under the [Settings](/views/profile/settings.md) <img src="/views/assets/settings.png" width="20" height="20" /> button in the title bar.
 
