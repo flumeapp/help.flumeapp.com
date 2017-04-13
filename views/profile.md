@@ -55,12 +55,18 @@ If your profile is set to [private](/views/profile/privateprofiles.md), users th
 
 - On your profile, with a badge that appears above your avatar.
 - At the top of your [activity.](/views/activity.md)
+- On the profile of user that sent the friend request, a banner will appear.
 - The Dock icon will be badged (see [Notifications Preferences](/preferences/notifications.md))
 - The Profile tab will show an indicator.
 
 To respond to friend requests:
 
-- Click the Accept <img src="/views/assets/follow.png" width="20" height="20" /> or Decline <img src="/views/assets/decline.png" width="20" height="20" /> button that appears next to each user.
+
+
+- When viewing the list of pending friend requests, click the Accept <img src="/views/assets/follow.png" width="20" height="20" /> or Decline <img src="/views/assets/decline.png" width="20" height="20" /> button that appears next to each user.
+- When viewing the profile of user that has sent you a friend request, click the Accept <img src="/views/assets/follow.png" width="20" height="20" /> or Decline <img src="/views/assets/decline.png" width="20" height="20" /> button that appears below the user's biography.
+
+
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-friend-requests.png" width="30%" height="30%" /></p>
 
