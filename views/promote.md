@@ -49,3 +49,11 @@ To delete a promotion:
 > You can only delete promotions that are currently running.
 
 ------
+
+## Adjusting Payment Methods
+
+To adjust the payment methods for your promotions:
+
+
+
+------
