@@ -4,7 +4,6 @@ Your profile settings can be accessed from your own Profile tab via the <img src
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-settings.png" width="30%" height="30%" /></p>
 
-
 - [Invite Facebook Friends](views/profile/invitefacebook.md)
 - [Follow Facebook Friends](views/profile/followfacebook.md)
 - [Invite Contacts](views/profile/invitecontacts.md)
