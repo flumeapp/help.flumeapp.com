@@ -41,7 +41,7 @@ When viewing your own profile, an extra tab will appear, that allows you to view
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-following.png" width="30%" height="30%" /></p>
 
-To view the followers or followings of a profile, click the "Followers" button. The current relationship status between you and each user is displayed, allowing you to quickly follow or unfollow users from other profiles.
+To view the followers or followings of a profile, click the "Followers" or "Following" button. The current relationship status between you and each user is displayed, allowing you to quickly follow or unfollow users from other profiles.
 
 To follow/unfollow a user: 
 
@@ -58,7 +58,7 @@ If your profile is set to [private](/views/profile/privateprofiles.md), users th
 
 To respond to friend requests:
 
-- Click 
+- Click the Accept <img src="/views/assets/follow.png" width="20" height="20" /> or Decline <img src="/views/assets/decline.png" width="20" height="20" /> button that appears next to each user.
 
 <hr />
 
