@@ -25,6 +25,14 @@ To share a post with a new or existing conversation:
 
 #### Sharing Profiles / Locations / Hashtags
 
+To share a [profile](/views/profile.md), [location](/views/locations.md) or [hashtag](/views/hashtags.md) with a new or existing conversation:
+
+- When viewing the [details](/views/detailview.md) of a post, use the <kbd>Send to…</kbd> option under the Share <img src="/views/assets/share.png" width="20" height="20" /> button.
+- Right-click a post, then select <kbd>Share > Send to…</kbd> from the contextual menu.
+- Use the <kbd>Media > Share > Send to…</kbd> macOS Menu Bar item when selecting a post via the [keyboard arrows](/misc/keyboard-shortcuts.md) or viewing the [details](/views/detailview.md) of a post.
+
+
+
 <hr />
 
 ### Sharing Photos / Videos
