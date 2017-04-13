@@ -1,8 +1,10 @@
 # Insights
 
-Instagram Insights provide information on who your followers are, when they're online and more. You can also view insights for specific posts and stories you've created to see how each performed and how people are engaging with them.
+Instagram Insights provide information on who your followers are, when they're online and more. You can also view insights for specific posts and stories you've created to see how each performed and how people are engaging with them. 
 
-For more informa
+You can find more information about Business Insights, see  [Facebook's Business Resources.](https://www.facebook.com/business/help/897631030335607/)
+
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/insights.png" width="50%" height="50%" /></p>
 
 > **[info]**
 > Once you [convert your personal profile over to a Business Profile](/views/profile/businessprofiles.md), you won't be able to view past insights from before you converted your account.
@@ -52,3 +54,8 @@ If you're viewing insights from a post, you'll be able to see Impressions, Reach
 
 ------
 
+## Exporting Insights
+
+Flume
+
+------
