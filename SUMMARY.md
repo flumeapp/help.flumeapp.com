@@ -2,24 +2,24 @@
 
 ## General
 
-* [Home](README.md)
-  * [Overview](home/overview.md)
-  * [Design](home/design.md)
-  * [Accessibility](home/accessibility.md)
+* [Home](/README.md)
+  * [Overview](/home/overview.md)
+  * [Design](/home/design.md)
+  * [Accessibility](/home/accessibility.md)
 * [What's New in Flume](/whatsnew/README.md)
 
 ## Getting Started
 
-* [How do I login / logout?](getstarted/login.md)
-* [How do I like a photo or video?](getstarted/like-a-post.md)
-* [How do I comment on a photo or video?](getstarted/comment-a-post.md)
-* [How do I reply to a comment?](getstarted/reply-to-a-comment.md)
-* [How do I see the author of posts?](getstarted/see-posts-author.md)
-* [How do I follow / unfollow a profile?](getstarted/follow-profile.md)
-* [How do I block / report a profile?](getstarted/block-profile.md)
-* [How do I message a profile?](getstarted/message-profile.md)
-* [How do I save a photo or video?](getstarted/save-post.md)
-* [How do I upload a photo or video?](getstarted/upload-a-post.md)
+* [How do I login / logout?](/getstarted/login.md)
+* [How do I like a photo or video?](/getstarted/like-a-post.md)
+* [How do I comment on a photo or video?](/getstarted/comment-a-post.md)
+* [How do I reply to a comment?](/getstarted/reply-to-a-comment.md)
+* [How do I see the author of posts?](/getstarted/see-posts-author.md)
+* [How do I follow / unfollow a profile?](/getstarted/follow-profile.md)
+* [How do I block / report a profile?](/getstarted/block-profile.md)
+* [How do I message a profile?](/getstarted/message-profile.md)
+* [How do I save a photo or video?](/getstarted/save-post.md)
+* [How do I upload a photo or video?](/getstarted/upload-a-post.md)
 * [How do I refresh content?](getstarted/refresh.md)
 * [How do I edit a photo or video?](getstarted/edit-a-post.md)
 * [How do I share my photos to Facebook?](getstarted/share-to-facebook.md)
