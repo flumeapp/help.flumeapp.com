@@ -61,10 +61,9 @@ If your profile is set to [private](/views/profile/privateprofiles.md), users th
 
 To respond to friend requests:
 
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-friend-requests.png" width="30%" height="30%" /> <img src="/views/assets/profile-friend-request-profile.png" width="30%" height="30%" /></p>
+- When viewing the list of pending friend requests, click the Accept <img src="/views/assets/follow.png" width="20" height="20" /> or Decline <img src="/views/assets/decline.png" width="20" height="20" /> button that appears next to each user.<br /><br /><p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-friend-requests.png" width="30%" height="30%" /></p>
 
-- When viewing the list of pending friend requests, click the Accept <img src="/views/assets/follow.png" width="20" height="20" /> or Decline <img src="/views/assets/decline.png" width="20" height="20" /> button that appears next to each user.
-- When viewing the profile of user that has sent you a friend request, click the Accept <img src="/views/assets/follow.png" width="20" height="20" /> or Decline <img src="/views/assets/decline.png" width="20" height="20" /> button that appears below the user's biography.
+- When viewing the profile of user that has sent you a friend request, click the Accept <img src="/views/assets/follow.png" width="20" height="20" /> or Decline <img src="/views/assets/decline.png" width="20" height="20" /> button that appears below the user's biography.<br /><br /><p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-friend-request.png" width="30%" height="30%" /></p>
 
 
 _Note: If you [switch your profile to a public profile](/views/profile/privateprofiles.md), all pending friend requests will be accepted._
