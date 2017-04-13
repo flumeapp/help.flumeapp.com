@@ -6,7 +6,7 @@ When you add contact information, a Contact button will appear near the top of y
 
 Additionally, when you convert to a Business Profile, you'll get access to [Insights](/views/profile/insights.md). These insights will help you learn more about your followers and how much your audience engages with your content. 
 
-[Learn more about Instagram Insights.](https://www.facebook.com/business/help/788388387972460)
+You can find more information about Business Profiles at [Facebook's Business Help.](https://www.facebook.com/business/help/897631030335607/)
 
 ------
 
