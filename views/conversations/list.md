@@ -6,13 +6,13 @@ The Conversations List view lists all your current conversations, allows you to 
 
 <hr />
 
-### Create a New Conversation
+### Creating Conversations
 
 To create a new conversation, click the button in the title bar. A list of suggested recipients will appear, and you can search for specific profiles. Selecting more than one recipient will create a group conversation (maximum of 15 recipients).
 
 <hr />
 
-### Delete Conversations
+### Deleting Conversations
 
 Deleting a conversation will only remove the conversation from your own inbox, but will not remove it from the inbox of other recipients. 
 
@@ -26,7 +26,7 @@ You will be asked to confirm the deletion.
 
 <hr />
 
-### Leave a Group Conversation
+### Leaving Group Conversations
 
 Leaving a group conversation will stop you from receiving any further messages in the group, though it will not remove your previous messages sent in the group. The other members of the group conversation will be made aware that you left the group conversation. You can be added back to a group if you have not [blocked the users](/views/profile/blockedusers.md) in the group.
 
@@ -42,7 +42,7 @@ You will be asked to confirm leaving the group.
 
 <hr />
 
-### Mute a Conversation
+### Muting Conversations
 
 Muted conversations will not send [desktop notifications](/preferences/notifications.md) when new messages are received, and also disable push notifications to your mobile devices if enabled.
 
@@ -58,7 +58,7 @@ Muted conversations will display a small icon to indicate their current mute sta
 
 <hr />
 
-### Report / Block a Conversation
+### Reporting / Blocking Conversations
 
 . 
 
@@ -70,7 +70,7 @@ Muted conversations will display a small icon to indicate their current mute sta
 
 <hr />
 
-### Filter Conversations
+### Filtering Conversations
 
 To apply filters to your conversation threads, use the <kbd>Filter</kbd> option under the <img src="/views/assets/settings.png" width="20" height="20" /> button.
 
@@ -78,13 +78,13 @@ To apply filters to your conversation threads, use the <kbd>Filter</kbd> option 
 
 <hr />
 
-### Search Conversations
+### Searching Conversations
 
 If you have lots of conversations, you can quickly filter by author or group chat name using the search field (or use the <kbd>⌘F</kbd> [keyboard shortcut](/misc/keyboard-shortcuts.md)) It is not currently possible to perform a full-text search of messages within each conversation, due to limitations in the Instagram API.
 
 <hr />
 
-### Add / Remove a Conversation Bookmark
+### Adding / Removing Conversation Bookmarks
 
 Bookmarked conversations appear at the top of all others in the conversations list, and provide you with quick access to conversations regardless of the conversation's age.
 
