@@ -1,1 +1,5 @@
 # Payment Methods
+
+.
+
+<hr />

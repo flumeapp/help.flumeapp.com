@@ -51,4 +51,3 @@ It is not possible to remove a user from a group conversation. If necessary, you
 [Learn more](/views/conversations/list.md#leaving-group-conversations) about ways to leave group conversations.
 
 <hr />
-
