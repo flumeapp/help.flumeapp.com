@@ -10,16 +10,17 @@ The Conversation Messages view lists all the messages and activity in a specific
 
 See [Creating Conversations](/views/conversations/list.md#creating-conversations) for creating a new conversation.
 
-To reply to messages:
-
-- Select the conversation from the [conversations list.](/views/conversations/list.md)
-- 
-
 <hr />
 
 ### Sharing Posts / Profiles / Locations / Hashtags
 
-.
+#### Sharing Posts
+
+To share a post with a new or existing conversation:
+
+- 
+
+#### Sharing Profiles / Locations / Hashtags
 
 <hr />
 
