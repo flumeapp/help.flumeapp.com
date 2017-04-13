@@ -90,7 +90,7 @@ To like a message sent in a conversation:
 To view the time a message was sent:
 
 - Click the message.
-- Selecting a message using the [keyboard arrows](/misc/keyboard-shortcuts.md).
+- Select a message using the [keyboard arrows](/misc/keyboard-shortcuts.md).
 
 The time will appear beside the message.
 
