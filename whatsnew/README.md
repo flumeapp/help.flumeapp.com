@@ -133,7 +133,7 @@ Re-release of Flume 2.4.1 with minor adjustments for Setapp release.
 - NEW: You can now switch Facebook sharing options easily and more directly on the Upload window as opposed to the Profile > Settings > Linked Accounts > Facebook menu.
 - NEW: Disable commenting on uploads.
 - NEW: Progress is displayed when compressing videos and uploading photos and videos.
-- NEW: The titlebar now animates leaving more space for buttons on the Detail View.
+- NEW: The title bar now animates leaving more space for buttons on the Detail View.
 - NEW: Export your Insights data.
 - FIXED: Downloading posts is removed for accounts you do not manage, in order to comply with Instagram’s copyright terms.
 - FIXED: A crash when un-liking items in Grid View mode.
@@ -526,7 +526,7 @@ NEW: The new Touch Bar and Flume are a match made in heaven! Comprehensive suppo
 - FIXED: Various issues related to the last line of text getting clipped.
 - FIXED: A crash on login if you had no internet connection, or the initial request failed.
 - FIXED: Scroll-wheel mice did not pre-fetch content and relied on scrolling all the way to the bottom.
-- FIXED: When switching tabs, the wrong titlebar could appear.
+- FIXED: When switching tabs, the wrong title bar could appear.
 - FIXED: Sending a like as the first message of a new conversation did nothing.
 - FIXED: A crash when sending a photo/video as the first message of a new conversation.
 - FIXED: If a user previously had a biography, website, or profile context, and later deleted them, the profile header view did not reflect the latest info.
@@ -612,8 +612,8 @@ NEW: The new Touch Bar and Flume are a match made in heaven! Comprehensive suppo
 - FIXED: Sometimes a blurred image would appear above the content after resizing the window, or new content appearing.
 - FIXED: Loading older content in content tagged with a location or a hashtag would not load more than ~20 items.
 - FIXED: An issue with being unable to scroll profile headers.
-- FIXED: An issue when the wrong titlebar would appear when switching from/away from the Activity tab.
-- FIXED: An issue where the wrong titlebar would appear when switching to the Profile tab.
+- FIXED: An issue when the wrong title bar would appear when switching from/away from the Activity tab.
+- FIXED: An issue where the wrong title bar would appear when switching to the Profile tab.
 - FIXED: An issue that would cause blurry text labels on non-retina displays.
 - FIXED: Focus mode animations are improved, especially with keyboard navigation.
 - FIXED: An issue when saving videos that would assume they were photos.
@@ -633,7 +633,7 @@ NEW: The new Touch Bar and Flume are a match made in heaven! Comprehensive suppo
 - FIXED: An issue with not being able to use the arrow keys to move selection in a text field.
 - FIXED: Switching accounts no longer repositions the window.
 - FIXED: Added a placeholder graphic to help indicate content is still downloading.
-- FIXED: Added a navigation history option to quickly jump to any previous point when pressing and holding down on the back button  in the titlebar.
+- FIXED: Added a navigation history option to quickly jump to any previous point when pressing and holding down on the back button  in the title bar.
 - FIXED: The window could still be dragged when the share menu appeared.
 - FIXED: Show a nicer error message if the Activity tab fails to load.
 - FIXED: An issue that caused the “Authorize” button on login to be un-clickable until scrolling down.
