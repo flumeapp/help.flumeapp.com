@@ -51,7 +51,7 @@ If you would prefer to remain in the group, but disable notifications of new mes
 
 To leave a group conversation:
 
-- Right-click a conversation, then select <kdb>Leave Conversation…</kdb> from the contextual menu.
+- Right-click a conversation, then select <kbd>Leave Conversation…</kbd> from the contextual menu.
 - When selecting a conversation using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Conversation > Leave Conversation…</kbd> macOS Menu Bar item.
 - When viewing the conversation's [messages](/views/conversations/messages.md), use the <kbd>Leave Conversation…</kbd> option under the <img src="/views/assets/actions-menu.png" width="20" height="20" /> button.
 - When viewing the conversation's [info](/views/conversations/info.md), click the Leave <img src="/views/assets/leave.png" width="20" height="20" /> button.
@@ -67,7 +67,7 @@ Muted conversations will not send [desktop notifications](/preferences/notificat
 
 To mute/un-mute a conversation:
 
-- Right-click a conversation, then select <kdb>Mute/Unmute Conversation</kdb> from the contextual menu.
+- Right-click a conversation, then select <kbd>Mute/Unmute Conversation</kbd> from the contextual menu.
 - When selecting a conversation using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Conversation > Mute/Unmute Conversation</kbd> macOS Menu Bar item.
 - When viewing the conversation's [messages](/views/conversations/messages.md), use the <kbd>Mute/Unmute Conversation</kbd> option under the <img src="/views/assets/actions-menu.png" width="20" height="20" /> button.
 - Tap the Mute <img src="/views/assets/mute.png" width="20" height="20" /> or Unmute <img src="/views/assets/mute-active.png" width="20" height="20" /> button in the [Touch Bar.](/misc/touchbar.md)
@@ -82,7 +82,7 @@ Muted conversations will display a small icon to indicate their current mute sta
 
 To report a conversation:
 
-- Right-click a conversation, then select <kdb>Report…</kdb> from the contextual menu.
+- Right-click a conversation, then select <kbd>Report…</kbd> from the contextual menu.
 - When selecting a conversation using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Conversation > Report…</kbd> macOS Menu Bar item.
 - When viewing the conversation's [messages](/views/conversations/messages.md), use the <kbd>Report…</kbd> option under the <img src="/views/assets/actions-menu.png" width="20" height="20" /> button.
 
