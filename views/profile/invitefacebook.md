@@ -1,4 +1,2 @@
-# Profile
-
-## Inviting Facebook Friends
+# Inviting Facebook Friends
 

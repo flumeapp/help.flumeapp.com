@@ -1,3 +1,1 @@
-# Profile
-
-## Follow Facebook Friends
+# Follow Facebook Friends
