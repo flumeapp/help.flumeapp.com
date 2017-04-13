@@ -69,7 +69,7 @@ _Note: When selecting a photo or video file, the usual [photo and video upload s
 
 To download a photo or video shared in a direct conversation:
 
-
+- Right-click
 
 ### Liking / Unliking Messages
 
