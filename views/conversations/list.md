@@ -4,7 +4,7 @@ The Conversations List view lists all your current conversations, allows you to 
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversations.png" width="50%" height="50%" /></p>
 
-<hr />
+ <hr />
 
 ### Creating Conversations
 
