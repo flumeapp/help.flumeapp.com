@@ -12,7 +12,9 @@ There are many ways to begin a conversation with a user, however you should note
 
 To write a message:
 
-- From the [Conversations List](/views/conversations/list.md) view, click the compose <img src="/views/assets/actions-menu.png" width="20" height="20" /> button.
+- From the [Conversations List](/views/conversations/list.md) view, click the compose <img src="/views/assets/compose.png" width="20" height="20" /> button.
+
+
 <hr />
 
 ### Sharing Posts / Profiles / Locations / Hashtags
