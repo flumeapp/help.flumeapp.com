@@ -34,7 +34,7 @@ _Note: You can only add users to existing group conversations. It is not possibl
 
 ### Removing Members to Group Conversations
 
-It is not possible to remove a user from a group conversation. If necessary, you can [block a user](#reporting-blocking-conversation-members).
+It is not possible to remove a user from a group conversation. If necessary, you can [block a user.](/getstarted/block-profile.md)
 
 <hr />
 
