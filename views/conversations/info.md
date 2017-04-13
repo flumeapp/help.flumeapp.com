@@ -18,7 +18,7 @@ You can include up to [15 users](/misc/limits.md) in a group conversation.
 
 To add a new member to a group conversation:
 
-- Click the <kbd>Add People…</kbd> item. Use the search field to find a specific user, or select from the suggestions that appear. To confirm your selections, click the 
+- Click the <kbd>Add People…</kbd> item. Use the search field to find a specific user, or select from the suggestions that appear. To confirm your selections, click the Confirm <img src="/views/assets/confirm.png" width="20" height="20" /> button.
 
 _Note: You can only add users to existing group conversations. It is not possible to add members to a one-on-one conversation._
 
