@@ -1,1 +1,1 @@
-<span style="font-size: 0.4em">[Report a mistake / issue](https://flumeapp.com/support/) with this help document.</span>
+<span style="font-size: 0.7em">[Report a mistake / issue](https://flumeapp.com/support/) with this help document.</span>
