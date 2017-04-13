@@ -41,3 +41,7 @@ To view your current, existing, and expired promotions:
 ### Deleting Promotions
 
 You can only delete promotions that are currently running. 
+
+To delete a current promotion:
+
+
