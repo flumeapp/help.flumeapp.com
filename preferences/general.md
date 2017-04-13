@@ -14,7 +14,7 @@ Note that you will need to restart Flume after changing language in order for it
 
 <hr /> 
 
-### Show icon in
+### Show Icon in
 
 Choose between three options:
 
@@ -32,31 +32,31 @@ Clicking on the status bar icon will toggle the windows front-most status, simil
 
 <hr /> 
 
-### Play sounds
+### Play Sounds
 
 Enable or disable user-interface sounds (such as when refreshing content with the "pull-to-refresh" method, or clicking on buttons).
 
 <hr /> 
 
-### Show labels in Touch Bar
+### Show Labels in Touch Bar
 
 Enable or disable labels for buttons that appear in the [Touch Bar](https://support.apple.com/en-us/HT207055). Disabling this option will allow more buttons to be visible in the Touch Bar. [Learn more.](/misc/touchbar.md)
 
 <hr /> 
 
-### Keep window on top
+### Keep Window on Top
 
 Enable or disable Flume's windows to float above all other windows on the screen. [Large Preview](/views/largepreview.md) windows will display above all other Flume windows regardless of this option.
 
 <hr />
 
-### Open web links in background
+### Open Web Links in Background
 
 When clicking on web links in comments, captions, messages, or using the "Open in browser…" menu item, the default web-browser will open the selected link. When this option is enabled, the web-browser opens the link in the background and Flume does not lose focus.
 
 <hr />
 
-### Global show/hide window
+### Global Show/Hide Window
 
 Allows you to configure a custom [Keyboard Shortcut](/misc/keyboard-shortcuts.md) that can be triggered whenever Flume is open, that will display or hide the Flume main window quickly. If Flume is not currently open, no action will be performed.
 
@@ -64,7 +64,7 @@ When the [Show icon in](#show-icon-in) option is set to "Menu bar only" or "Dock
 
 <hr />
 
-### Local cache
+### Local Cache
 
 Displays the current size of the local database and image cache. This cache is automatically cleared by Flume when it reaches 300MB, when all accounts are logged out, or manually by pressing the "Empty Caches" button.
 
