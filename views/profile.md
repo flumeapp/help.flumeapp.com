@@ -65,7 +65,7 @@ To follow/unfollow a user:
 
 <hr />
 
-## Pending Friend Requests
+## Friend Requests
 
 If your profile is set to [private](/views/profile/privateprofiles.md), users that wish to follow you will require your approval. When there are pending friend requests, they will be visible in various places:
 
