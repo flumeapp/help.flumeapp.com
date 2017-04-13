@@ -6,9 +6,15 @@ The Conversation Info view lists all the members of a conversation and allows yo
 
 <hr />
 
-### Renaming Group Conversations
+### Naming Group Conversations
 
-_Note: One-on-one conversations cannot be named._
+By default, a group conversation will be given the name of every member in the group. 
+
+To rename a group conversation:
+
+- Type a group name where the placeholder "Group name…"
+
+_Note: One-on-one conversations cannot be named, and it is not possible to rename a group that already has a name._
 
 <hr />
 
