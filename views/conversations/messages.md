@@ -18,7 +18,7 @@ See [Creating Conversations](/views/conversations/list.md#creating-conversations
 
 To share a post with a new or existing conversation:
 
-- When viewing the [details](/views/detailview.md) of a post, use the <kbd>Send to…</kbd> option under the Share <img src="/views/assets/share.png" width="20" height="20" /> button.
+- When viewing the [details](/views/detailview.md) of a post, use the <kbd>Send to…</kbd> option under the Share <img src="/views/assets/share.png" width="20" height="20" /> button in the title bar.
 - Right-click a post, then select <kbd>Share > Send to…</kbd> from the contextual menu.
 - Use the <kbd>Media > Share > Send to…</kbd> macOS Menu Bar item when selecting a post via the [keyboard arrows](/misc/keyboard-shortcuts.md) or viewing the [details](/views/detailview.md) of a post.
 
@@ -28,7 +28,7 @@ To share a post with a new or existing conversation:
 
 To share a [profile](/views/profile.md) with a new or existing conversation:
 
-- When viewing the [Profile](/views/profile.md) of a user, use the <kbd>Send to…</kbd> option under the Share <img src="/views/assets/share.png" width="20" height="20" /> button.
+- When viewing the [Profile](/views/profile.md) of a user, use the <kbd>Send to…</kbd> option under the Share <img src="/views/assets/share.png" width="20" height="20" /> button in the title bar.
 - When viewing the [Profile](/views/profile.md) of a user, use the <kbd>User > Share > Send to…</kbd> macOS Menu Bar item.
 
 <hr />
@@ -37,7 +37,7 @@ To share a [profile](/views/profile.md) with a new or existing conversation:
 
 To share a [location](/views/locations.md) with a new or existing conversation:
 
-- When viewing the location's feed, use the <kbd>Send to…</kbd> option under the Share <img src="/views/assets/share.png" width="20" height="20" /> button.
+- When viewing the location's feed, use the <kbd>Send to…</kbd> option under the Share <img src="/views/assets/share.png" width="20" height="20" /> button in the title bar.
 - When viewing the location's feed, use the <kbd>Location > Share > Send to…</kbd> macOS Menu Bar item.
 
 <hr />
@@ -46,7 +46,7 @@ To share a [location](/views/locations.md) with a new or existing conversation:
 
 To share a [hashtag](/views/hashtags.md) with a new or existing conversation:
 
-- When viewing the hashtag's feed, use the <kbd>Send to…</kbd> option under the Share <img src="/views/assets/share.png" width="20" height="20" /> button.
+- When viewing the hashtag's feed, use the <kbd>Send to…</kbd> option under the Share <img src="/views/assets/share.png" width="20" height="20" /> button in the title bar.
 - When viewing the hashtag's feed, use the <kbd>Hashtag > Share > Send to…</kbd> macOS Menu Bar item.
 
 <hr />
