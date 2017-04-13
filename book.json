@@ -7,7 +7,7 @@
         },
         "page-toc-button": {
             "maxTocDepth": 2,
-            "minTocSize": 2
+            "minTocSize": 1
        }
     }
 }
