@@ -1,1 +1,3 @@
-# Linked Accounts
+# Profile
+
+## Linked Accounts
