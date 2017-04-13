@@ -13,17 +13,17 @@ You can find more information about Business Insights, see  [Facebook's Business
 
 ## Viewing Insights
 
-Your Business Insights can be accessed from your own Profile tab via the <img src="/views/assets/viewinsights.png" width="20" height="20" /> button in the title bar.
+To view your Business Insights:
+
+- When viewing your own profile, click the Insights <img src="/views/assets/viewinsights.png" width="20" height="20" /> button in the title bar.
 
 ------
 
 ## Exporting Insights
 
-Flume allows you to export your Insights to a simple .txt format for use in other applications.
+Flume allows you to export your Insights to a simple .txt format for use in other applications. To export your Insights:
 
-To export your Insights:
-
-- Click the ...
+- Click the download <img src="/views/assets/download.png" width="20" height="20" /> button in the title bar. 
 
 > **[info]**
 > The export feature will export the currently visible insights. 
