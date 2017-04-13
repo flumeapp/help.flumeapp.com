@@ -6,7 +6,7 @@ Your profile settings can be accessed from your own Profile tab via the <img src
 
 - [Invite Facebook Friends](views/profile/invitefacebook.md)
 - [Follow Facebook Friends](views/profile/followfacebook.md)
-- [Invite Contacts](views/profile/invitecontacts.md)
+- [Find Contacts](views/profile/invitecontacts.md)
 - [Edit Profile](views/profile/editprofile.md)
 - [Change Password](views/profile/editpassword.md)
 - [Blocked Users](views/profile/blockedusers.md)
