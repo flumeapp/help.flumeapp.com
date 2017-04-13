@@ -14,7 +14,11 @@ To create a new conversation, click the button in the title bar. A list of sugge
 
 ### Delete Conversations
 
-.
+To delete a conversation:
+
+- Right-click a conversation, then select "Delete Conversation…". You will be asked to confirm the deletion.
+- When selecting a conversation using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Conversation > Delete Conversation…</kbd> macOS Menu Bar item.
+- When viewing the conversation's [messages](/views/conversations/messages.md), 
 
 <hr />
 
