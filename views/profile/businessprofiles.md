@@ -14,6 +14,13 @@ Additionally, when you convert to a Business Profile, you'll get access to [Insi
 
 Only businesses on Instagram should use Business Profiles. Additionally, to get access, your business must have a Facebook Page.
 
+To convert to a Business Profile:
+
+1. Go to your profile and tap .
+2. Selet Switch to Business Profile.
+3. On the Connect Your Facebook Page screen, you'll see all of the Facebook Pages you're currently an admin on. Select the Page you'd like to associate with your Business Profile on Instagram. [Learn more about Page roles.](https://www.facebook.com/help/323502271070625)
+4. On the Set Up Your Business Profile page, review your business's contact information, make any changes and tap Done.
+
 > **[info]**
 > You can convert your Business Profile on Instagram back to a personal account at any time.
 
