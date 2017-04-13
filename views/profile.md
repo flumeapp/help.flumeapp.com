@@ -51,11 +51,14 @@ To follow/unfollow a user:
 
 ## Pending Friend Requests
 
-If your profile is set to [private](/views/profile/privateprofiles.md), users that wish to follow you will require your approval.
+If your profile is set to [private](/views/profile/privateprofiles.md), users that wish to follow you will require your approval. When there are pending friend requests, they will be visible:
 
-To respond to a friend request:
+- On your profile, with a badge that appears above your avatar.
+- At the top of your [activity.](/views/activity.md)
 
+To respond to friend requests:
 
+- Click 
 
 <hr />
 
