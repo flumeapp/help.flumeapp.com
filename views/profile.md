@@ -33,8 +33,9 @@ If you would like to disable users from being able to tag you in photos:
 
 - Use the <kbd>Tagging Options…</kbd> option under the actions <img src="/views/assets/share.png" width="20" height="20" /> button that appears above the tagged posts.
 
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-tagging-options.png" width="30%" height="30%" /></p>
 
-If tagging options are set to Add Manually, you will be notified in [Activity](/views/activity.md) when someone tags you in a photo, with the option to remove the tag.
+If set to "Add Manually", you will be notified in [Activity](/views/activity.md) when someone tags you in a photo, with the option to accept or remove the tag.
 
 <hr />
 
