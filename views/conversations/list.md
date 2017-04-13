@@ -19,7 +19,7 @@ A list of suggested recipients will appear, and you can search for specific prof
 
 After making a selection, the confirm button and compose area will appear, allowing you to write your message or [share a photo/video.](/views/conversations/messages.md#sharing-photos-videos)
 
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversation-new.png" width="50%" height="50%" /></p>
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversation-new.png" width="30%" height="30%" /> <img src="/views/assets/conversation-compose-select.png" width="30%" height="30%" /></p>
 
 You can also create conversations directly from the [Profile](/views/profile.md) of a user.
 
