@@ -20,7 +20,7 @@
 * [How do I message a profile?](getstarted/message-profile.md)
 * [How do I save a photo or video?](getstarted/save-post.md)
 * [How do I upload a photo or video?](getstarted/upload-a-post.md)
-* [How do I refresh the Feed?](getstarted/refresh.md)
+* [How do I refresh content?](getstarted/refresh.md)
 * [How do I edit a photo or video?](getstarted/edit-a-post.md)
 * [How do I share my photos to Facebook?](getstarted/share-to-facebook.md)
 * [How do I add another account?](getstarted/add-an-account.md)
