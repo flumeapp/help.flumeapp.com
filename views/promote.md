@@ -38,10 +38,15 @@ To view your current, existing, and expired promotions:
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/view-promotions.png" width="30%" height="30%" /></p>
 
-### Deleting Promotions
+------
 
-You can only delete promotions that are currently running. 
+## Deleting Promotions
 
-To delete a current promotion:
+To delete a promotion:
 
+- When viewing the promotion's details, click the Delete <img src="/views/assets/delete.png" width="20" height="20" /> button in the title bar.
 
+> **[info]**
+> You can only delete promotions that are currently running.
+
+------
