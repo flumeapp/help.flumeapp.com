@@ -2,7 +2,7 @@
 
 Your profile settings can be accessed from your own Profile tab via the <img src="/views/assets/settings.png" width="20" height="20" /> button in the title bar.
 
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-settings.png" width="30%" height="30%" /></p>
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-settings.png" width="50%" height="50%" /></p>
 
 - [Invite Facebook Friends](views/profile/invitefacebook.md)
 - [Follow Facebook Friends](views/profile/followfacebook.md)
