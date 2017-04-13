@@ -8,13 +8,16 @@ The Conversation Info view lists all the members of a conversation and allows yo
 
 ### Renaming Group Conversations
 
-.
+_Note: One-on-one conversations cannot be named._
 
 <hr />
 
-### Managing Group Conversations
+### Adding Members to Group Conversations
 
-.
+To add a new member to a group conversation:
+
+- Click the Add People… item. You 
+_Note: You can only add users to group conversations if they were created as a group conversation. It is not possible to add members to a one-on-one conversation._
 
 <hr />
 
