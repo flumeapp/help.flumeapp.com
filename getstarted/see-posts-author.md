@@ -1,6 +1,7 @@
 # Getting Started
 
-### How do I see the author of posts?
+## How do I see the author of posts?
 
+.
 
-
+<hr />

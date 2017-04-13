@@ -1,6 +1,9 @@
 # Getting Started
 
-### How do I reply to a comment?
+## How do I reply to a comment?
 
+.
+
+<hr />
 
 

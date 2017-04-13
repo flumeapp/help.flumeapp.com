@@ -1,6 +1,8 @@
 # Getting Started
 
-### How do I message a profile?
+## How do I message a profile?
 
+.
 
+<hr />
 

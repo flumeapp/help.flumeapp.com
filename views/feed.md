@@ -38,7 +38,3 @@ By default, Flume displays your Feed and Likes in an edge-to-edge format, removi
 Posts are ordered based on factors like how recently the post was shared, your interactions with the person who shared it and whether you'll find the post interesting. Posts you're likely to care about most will appear higher in your feed. For more information, please visit [How Feed Works.](https://help.instagram.com/1400877086604710)
 
 <hr />
-
-
-
-

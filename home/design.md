@@ -10,3 +10,4 @@ Flume lets you also customize your viewing preferences to your own preferences. 
 <li><figure class="screenshot screenshot-right"></figure></li>
 </ul>
 
+<hr />

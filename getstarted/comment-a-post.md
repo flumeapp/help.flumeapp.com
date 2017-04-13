@@ -1,6 +1,8 @@
 # Getting Started
 
-### How do I comment on a photo or video?
+## How do I comment on a photo or video?
 
+.
 
+<hr />
 

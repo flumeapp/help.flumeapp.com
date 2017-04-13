@@ -1,4 +1,7 @@
 # Getting Started
 
-### How do I login / logout?
+## How do I login / logout?
 
+.
+
+<hr />

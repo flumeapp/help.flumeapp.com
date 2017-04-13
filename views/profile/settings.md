@@ -13,3 +13,5 @@ Your profile settings can be accessed from your own Profile tab via the <img src
 - [Payment Methods](views/profile/paymentmethods.md)
 - [Linked Accounts](views/profile/linkedaccounts.md)
 - [Comments](views/profile/comments.md)
+
+<hr />

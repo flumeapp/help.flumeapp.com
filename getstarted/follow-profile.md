@@ -1,4 +1,7 @@
 # Getting Started
 
-### How do I follow / unfollow a profile?
+## How do I follow / unfollow a profile?
 
+.
+
+<hr />

@@ -8,3 +8,4 @@ To use Flume with VoiceOver, enable VoiceOver from <kbd>System Preferences > Acc
 
 We are constantly improving our Accessibility support - if you're an accessibility user and would like to help or report an issue, [please contact us.](http://support.flumeapp.com/customer/en/portal/articles/2550592-how-can-i-contact-support-)
 
+<hr />

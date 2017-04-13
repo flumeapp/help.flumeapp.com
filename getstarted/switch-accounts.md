@@ -1,6 +1,8 @@
 # Getting Started
 
-### How do I switch between accounts?
+## How do I switch between accounts?
 
+.
 
+<hr />
 

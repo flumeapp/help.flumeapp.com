@@ -1,5 +1,7 @@
 # Getting Started
 
-### How do I add another account?
+## How do I add another account?
 
+.
 
+<hr />

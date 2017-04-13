@@ -1,7 +1,9 @@
 # Getting Started
 
-### How do I refresh content?
+## How do I refresh content?
 
+.
 
+<hr />
 
 

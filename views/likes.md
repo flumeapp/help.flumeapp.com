@@ -7,4 +7,3 @@ Your Likes tab is [limited](/misc/limits.md) to the 300 most recent likes you ha
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/feed-grid.png" width="50%" height="50%" /></p>
 
 <hr />
-

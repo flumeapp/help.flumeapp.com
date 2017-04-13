@@ -60,7 +60,6 @@ We recommend you use Flume's [Bookmarks](#bookmarks) feature to save commonly se
 
 Your recent searches are populated by Instagram based off your previous searches for that account. We recommend you use Flume's [Bookmarks](#bookmarks) feature to save commonly searched items, as recent searches are limited by Instagram to just a few items.
 
-To clear your recent searches, see [Profile.](/views/profile.md)
+To clear your recent searches, see [Profile Settings.](/views/profile/settings.md)
 
-
-
+<hr />
