@@ -2,7 +2,7 @@
 
 Instagram Insights provide information on who your followers are, when they're online and more. You can also view insights for specific posts and stories you've created to see how each performed and how people are engaging with them. 
 
-You can find more information about Business Insights, see  [Facebook's Business Resources.](https://www.facebook.com/business/help/897631030335607/)
+You can find more information about Business Insights at  [Facebook's Business Resources.](https://www.facebook.com/business/help/897631030335607/)
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/insights-1.png" width="30%" height="30%" /> <img src="/views/assets/insights-2.png" width="30%" height="30%" /></p>
 
