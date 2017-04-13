@@ -65,13 +65,13 @@ To follow/unfollow a user:
 
 If your profile is set to [private](/views/profile/privateprofiles.md), users that wish to follow you will require your approval. When there are pending friend requests, they will be visible in various places:
 
-- On your profile, with a badge that appears above your avatar.<br /><br /><p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-friend-requests-avatar.png" width="30%" height="30%" /></p>
+- On your profile, with a badge that appears above your avatar.<br /><br /><p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-friend-requests-avatar.png" width="50%" height="50%" /></p>
 
-- At the top of your [activity.](/views/activity.md)<br /><br /><p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-friend-requests-activity.png" width="30%" height="30%" /></p>
+- At the top of your [activity.](/views/activity.md)<br /><br /><p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-friend-requests-activity.png" width="50%" height="50%" /></p>
 
-- On the profile of user that sent the friend request, a banner will appear.<br /><br /><p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-friend-request.png" width="30%" height="30%" /></p>
+- On the profile of user that sent the friend request, a banner will appear.<br /><br /><p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-friend-request.png" width="50%" height="50%" /></p>
 
-- The Profile tab will show an indicator.<br /><br /><p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-friend-requests-menu.png" width="30%" height="30%" /></p>
+- The Profile tab will show an indicator.<br /><br /><p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-friend-requests-menu.png" width="50%" height="50%" /></p>
 
 - The Dock icon will be badged (see [Notifications Preferences](/preferences/notifications.md))
 
@@ -83,7 +83,7 @@ To respond to friend requests:
 
 - When viewing the profile of user that has sent you a friend request, click the Accept <img src="/views/assets/follow.png" width="20" height="20" /> or Decline <img src="/views/assets/decline.png" width="20" height="20" /> button that appears below the user's biography.
 
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-friend-requests.png" width="30%" height="30%" /></p>
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-friend-requests.png" width="50%" height="50%" /></p>
 
 _Note: If you [switch your profile to a public profile](/views/profile/privateprofiles.md), all pending friend requests will be accepted._
 
