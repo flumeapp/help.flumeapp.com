@@ -8,11 +8,11 @@ Flume has comprehensive support for the Touch Bar, localized into all supported 
 
 <hr />
 
-### Showing Labels
+## Showing Labels
 
 To save space in the Touch Bar, you can toggle the option to display labels next to buttons from [General Preferences.](/preferences/general.md#show-labels-in-touch-bar)
 
-### Customizing the Touch Bar items
+## Customizing the Touch Bar items
 
 Each "view" in Flume will update the options and buttons available in the Touch Bar. To customize the ordering, or to remove default items, use the <kbd>View > Customize Touch Bar…</kbd> macOS Menu Bar item.
 

@@ -16,7 +16,7 @@ Flume for Mac via [Setapp](https://go.setapp.com/stp154) includes Flume Pro as s
 
 <hr /> 
 
-### Upgrading to Flume Pro
+## Upgrading to Flume Pro
 
 To upgrade to Flume Pro, simply open Flume's [Preferences](/preferences/README.md), click on the "Flume Pro" tab, then click on "Upgrade to Pro". The price of Flume Pro will vary based on your App Store region and currency, and will be displayed in the button.
 
@@ -26,12 +26,12 @@ Flume will communicate with the App Store to confirm your Apple ID and purchase.
 
 <hr />
 
-### Restoring Flume Pro
+## Restoring Flume Pro
 
 If you have previously purchased Flume Pro, use the "Restore Purchases" button. Flume will communicate with Apple to discover if the currently logged in Apple ID has previously upgraded to Flume Pro.
 
 <hr />
 
-### Purchase / Restore issues
+## Purchase / Restore issues
 
 If you are having trouble restoring or purchasing Flume Pro, please visit our [Support Portal](http://support.flumeapp.com) to discover up-to-date workarounds and fixes.

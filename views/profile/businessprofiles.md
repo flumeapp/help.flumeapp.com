@@ -10,7 +10,7 @@ Additionally, when you convert to a Business Profile, you'll get access to [Insi
 
 <hr />
 
-### Switch to a Business Profile
+## Switch to a Business Profile
 
 Do this.
 

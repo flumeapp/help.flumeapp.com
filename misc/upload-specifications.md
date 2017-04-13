@@ -1,18 +1,18 @@
 # Photo / Upload Video Specifications
 
-#### Aspect Ratio
+## Aspect Ratio
 Instagram enforces aspect ratio rules for all uploads. All uploads must fit between a 4:5 (vertical) and 1.91:1 (horizontal) aspect ratio. For regular horizontal photos and videos taken with most cameras and smartphones, no cropping is necessary as they fit between these ratios. For portrait photos and videos, or panorama photos, some cropping is required to upload your photo/video.
 
 To choose the cropping region for photos and videos in Flume, simply use the mouse scroll-wheel to pan left/right/up/down, or click-and-drag.
 
-#### Photo Specifications
+## Photo Specifications
 Flume will accept all JPG and PNG files. No other specifications are required, except for the aspect ratio rules above. High DPI images are supported.
 
 Photos will be compressed to a maximum dimension of 1080px before uploading. If you would like to avoid Flume performing compression of high-resolution photos, configure your workflow to export photos with a maximum dimension of 1080px.
 
 For more info on photo specifications and resolutions, please see the [official Instagram support article.](www.facebook.com/help/instagram/1631821640426723)
 
-#### Video Specifications
+## Video Specifications
 Flume will accept all video files with a .mp4, .mov or .m4v container. Note that if you are using a video codec that QuickTime cannot compress, your upload may fail. Duration must be between 3-60 seconds. 
 
 Videos will be compressed to a maximum dimension of 1920px before uploading. If you would like to avoid Flume performing compression of high-resolution videos, configure your workflow to export videos with a maximum dimension of 1920px.

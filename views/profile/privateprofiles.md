@@ -4,7 +4,7 @@ Private profiles allow you to manage who can see your posts. You do not need a p
 
 <hr />
 
-### Following a Private Profile
+## Following a Private Profile
 
 When requesting to [follow a private profile](/getstarted/follow-profile.md), the user will be notified of your [friend request.](/views/profile.md#friend-requests)
 
@@ -12,7 +12,7 @@ If the user accepts your friend request, you will be notified in your [Activity.
 
 <hr />
 
-### Switching to a Private Profile
+## Switching to a Private Profile
 
 Do this.
 
@@ -20,7 +20,7 @@ _Note: [Business Profiles](/views/profile/businessprofiles.md) cannot be made pr
 
 <hr />
 
-### Switching to a Public Profile
+## Switching to a Public Profile
 
 Do this.
 

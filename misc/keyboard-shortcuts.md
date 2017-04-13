@@ -24,7 +24,7 @@ An inbuilt-feature of macOS are keyboard shortcuts assigned to items in menus. F
 
 _Note: Not all menu items are listed below, only those with existing keyboard shortcuts._
 
-#### File Menu Shortcuts
+### File Menu Shortcuts
 
 | Key Combination  | Explanation |
 | ------------- | ------------- |
@@ -33,14 +33,14 @@ _Note: Not all menu items are listed below, only those with existing keyboard sh
 | <kbd>⌘R</kbd> | Refreshes the feed view, your notifications, pending follower requests, and the current view you are looking at, if applicable. |
 | <kbd>⌘W</kbd> | Closes the currently focused window. |
 
-#### Account Menu Shortcuts
+### Account Menu Shortcuts
 
 | Key Combination  | Explanation |
 | ------------- | ------------- |
 | <kbd>⌘⇧L</kbd> | When you use Flume with just a single account, this will logout your account, and delete all cached data and account information, presenting you with the login window.<br /><br />If you use multiple accounts, this action is disabled. |
 | <kbd>⌃[1-9]</kbd> | When using multiple accounts, pressing <kbd>⌃ (CTRL)</kbd> together with a corresponding number from 1..9 will quickly switch accounts. Click the "Accounts" menu to check the corresponding number (accounts are sorted alphabetically). |
 
-#### View Menu Shortcuts
+### View Menu Shortcuts
 
 | Key Combination | Explanation |
 | ------------- | ------------- |
@@ -60,7 +60,7 @@ _Note: Not all menu items are listed below, only those with existing keyboard sh
 | <kbd>⌘-</kbd> | Decreases the font size of the textual user interface elements. |
 | <kbd>⌃⌘F</kbd> | Toggles Full Screen mode. |
 
-#### Media Menu Shortcuts
+### Media Menu Shortcuts
 
 The "Media" menu will appear when a keyboard selection has been made on a Media item, or when in the Detail View of a Media item.
 
@@ -80,7 +80,7 @@ The "Media" menu will appear when a keyboard selection has been made on a Media 
 | <kbd>⌘S</kbd> | Saves the Media item to your chosen location. |
 | <kbd>⌘⌫</kbd> | Deletes the current Media Item (visible only for Media you uploaded) |
 
-#### User Menu Shortcuts
+### User Menu Shortcuts
 
 The "User" menu will appear when a keyboard selection has been made on a Media item, when in the Detail View of a Media item, on a user's Profile, when selecting a Comment, Message, and in all User lists (following/followers, Activity notifications etc)
 
@@ -89,7 +89,7 @@ The "User" menu will appear when a keyboard selection has been made on a Media i
 | <kbd>F</kbd> | Follows the selected User. |
 
 
-#### Comment Menu Shortcuts
+### Comment Menu Shortcuts
 
 The "Comment" menu will appear when a keyboard selection has been made on a Comment in the Detail View of a Media item.
 
@@ -99,7 +99,7 @@ The "Comment" menu will appear when a keyboard selection has been made on a Comm
 | <kbd>⌥A</kbd> | "Pushes" to the Profile of the selected comment's author. |
 
 
-#### Conversation Menu Shortcuts
+### Conversation Menu Shortcuts
 
 The "Conversation" menu will appear when a keyboard selection has been made on a Conversation in the Conversations View.
 
@@ -108,11 +108,11 @@ The "Conversation" menu will appear when a keyboard selection has been made on a
 | <kbd>M</kbd> | Toggles muting the selected conversation. |
 | <kbd>⌘D</kbd> / <kbd>⌥⌘D</kbd> | Toggles adding the Conversation to your Bookmarks. |
 
-#### Message Menu Shortcuts
+### Message Menu Shortcuts
 
 The "Message" menu will appear when a keyboard selection has been made on a Message in a conversation. There are currently no keyboard shortcuts for this menu.
 
-#### Location Menu Shortcuts
+### Location Menu Shortcuts
 
 The "Location" menu will appear when viewing the tagged posts at a Location.
 
@@ -120,7 +120,7 @@ The "Location" menu will appear when viewing the tagged posts at a Location.
 | ------------- | ------------- |
 | <kbd>⌘D</kbd> / <kbd>⌥⌘D</kbd> | Toggles adding the Location to your Bookmarks.
 
-#### Hashtag Menu Shortcuts
+### Hashtag Menu Shortcuts
 
 The "Hashtag" menu will appear when viewing the tagged posts of that Hashtag.
 
@@ -129,7 +129,7 @@ The "Hashtag" menu will appear when viewing the tagged posts of that Hashtag.
 | <kbd>⌘D</kbd> / <kbd>⌥⌘D</kbd> | Toggles adding the Hastag to your Bookmarks. |
 
 
-#### Upload Menu Shortcuts
+### Upload Menu Shortcuts
 
 The "Upload" menu will appear when the Upload window is the front-most window. When a Photo / Video has been selected, the TAB key can switch focus between the Caption text-input, and the other buttons.
 
