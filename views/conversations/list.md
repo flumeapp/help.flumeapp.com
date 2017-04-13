@@ -38,7 +38,7 @@ To leave a group conversation:
 - Right-click a conversation, then select <kdb>Leave Conversation…</kdb> from the contextual menu.
 - When selecting a conversation using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Conversation > Leave Conversation…</kbd> macOS Menu Bar item.
 - When viewing the conversation's [messages](/views/conversations/messages.md), use the <kbd>Leave Conversation…</kbd> option under the <img src="/views/assets/actions-menu.png" width="20" height="20" /> button.
-- Tap the mute/unmute button in the [Touch Bar.](/misc/touchbar.md)
+- Tap the leave conversation button in the [Touch Bar.](/misc/touchbar.md)
 
 You will be asked to confirm leaving the group.
 
