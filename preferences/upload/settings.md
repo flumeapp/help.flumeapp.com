@@ -1,10 +1,10 @@
 # Upload Preferences
 
-### Settings
+## Settings
 
 <p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/upload-settings.png" width="50%" height="50%" /></p>
 
-#### Photo Quality Level
+### Photo Quality Level
 
 Depending on the type of content you post to Instagram, you can speed up upload and download times by adjusting the image compression levels that are applied to your photos prior to upload.
 
