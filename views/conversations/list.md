@@ -78,6 +78,15 @@ When a user that you do not follow sends you a message, their message will not a
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversations-message-requests.png" width="50%" height="50%" /></p>
 
+#### Responding to Message Requests
+
+You have the option of accepting or declining all message requests, or individually.
+
+To accept / decline all message requests:
+
+- Click the accept (<img src="/views/assets/accept.png" width="20" height="20" />) or decline (<img src="/views/assets/decline.png" width="20" height="20" />) icon in the title bar when viewing the list of message requests. You will be asked to confirm your intention.
+
+
 <hr />
 
 ### Filtering Conversations
