@@ -16,7 +16,8 @@ If the user accepts your friend request, you will be notified in your [Activity.
 
 Do this.
 
-_Note: [Business Profiles](/views/profile/businessprofiles.md) cannot be made private._
+> **[info]**
+> [Business Profiles](/views/profile/businessprofiles.md) cannot be made private._
 
 <hr />
 
@@ -24,6 +25,7 @@ _Note: [Business Profiles](/views/profile/businessprofiles.md) cannot be made pr
 
 Do this.
 
-_Note: All pending [friend requests](/views/profile.md#friend-requests) will be approved when switching to a public profile._
+> **[info]**
+> All pending [friend requests](/views/profile.md#friend-requests) will be approved when switching to a public profile._
 
 <hr />
