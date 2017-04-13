@@ -13,9 +13,7 @@ You can find more information about Business Insights, see  [Facebook's Business
 
 ## Viewing Insights
 
-To view your Insights:
-
-- Click the ...
+Your Business Insights can be accessed from your own Profile tab via the <img src="/views/assets/insights.png" width="20" height="20" /> button in the title bar.
 
 ------
 
