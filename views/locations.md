@@ -30,6 +30,6 @@ To view a location preview:
 
 - Long-press on any location name in the [Feed](//views/feed.md), or [Details.](//views/detailview.md)
 
-To close a location preview, press the <kbd>ESC</kbd> key, or click outside of the preview.
+To close a location preview, press the <kbd>⎋ (ESC)</kbd> key, or click outside of the preview.
 
 ------
