@@ -16,8 +16,13 @@ You can apply filters and make adjustments to your photos and videos (macOS 10.1
 To edit a selected photo or video:
 
 - Click the edit <img src="/views/assets/edit.png" width="20" height="20" /> button.
+- Use the <kbd>Upload > Toggle Edit Options</kbd> macOS Menu Bar item.
+- Tap the edit <img src="/views/assets/edit.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
 
-- Tap the edit button in the [Touch Bar.](//misc/touchbar.md)
+To quickly preview your edits:
+
+- Click the preview <img src="/views/assets/preview.png" width="20" height="20" /> button.
+- Tap the preview <img src="/views/assets/preview.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
 
 ### Filters
 
