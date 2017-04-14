@@ -57,6 +57,11 @@ To make adjustments to a photo or video:
 - Click and drag the respective slider to set a new value.
 - Use the <kbd>&uarr; (UP)</kbd> and <kbd>&darr; (DOWN)</kbd> [keyboard arrows](//misc/keyboard-shortcuts.md) to move between adjustments, and <kbd>&larr; (LEFT)</kbd> and <kbd>&rarr; (RIGHT)</kbd> to set their value.
 
+The Color adjustment requires you to first select a color to apply as an overall tint to the photo or video.
+
+The Tilt Shift adjustment requires you to set the two focal points. Click the <kbd>Adjust</kbd> button and follow the prompts to set the points on the photo or video.
+
+
 #### Resetting Adjustments
 
 To reset all adjustments:
