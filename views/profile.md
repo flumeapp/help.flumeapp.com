@@ -125,6 +125,16 @@ To dismiss a suggestion:
 
 ## Profile Previews
 
-.
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-previews.png" width="50%" height="50%" /></p>
+
+Profile previews are a way to quickly inspect a user's profile without leaving your current position. These are similar to the long-press actions or 3D Touch behaviours found on the mobile Instagram apps.
+
+### Viewing a Profile Preview
+
+To view a profile preview:
+
+- Long-press on any profile picture or username
+
+To close a profile preview, press the <kbd>ESC</kbd> key, or click outside of the preview.
 
 ------
