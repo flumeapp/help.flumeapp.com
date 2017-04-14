@@ -71,13 +71,13 @@ To reset all adjustments:
 
 ------
 
-## Locations
+## Tagged Locations
 
 .
 
 ------
 
-## User Tags
+## Tagged Users
 
 .
 
