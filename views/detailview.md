@@ -95,6 +95,8 @@ To translate a comment:
 - Right-click a comment, then select <kbd>Translate…</kbd> from the contextual menu.
 - When selecting a comment using the [keyboard arrows](/misc/keyboard-shortcuts.md), tap the translate <img src="/views/assets/translate.png" width="20" height="20" /> button in the [Touch Bar.](/misc/touchbar.md)
 
+> **[info]**
+> The translation will use your current [language](/preferences/general.md#language) setting.
 
 -----
 
