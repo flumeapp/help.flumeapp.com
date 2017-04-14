@@ -15,7 +15,9 @@ You can apply filters and make adjustments to your photos and videos (macOS 10.1
 
 To edit a selected photo or video:
 
-- Click the edit  button to display the editing options.
+- Click the edit <img src="/views/assets/edit.png" width="20" height="20" /> button.
+
+- Tap the edit button in the [Touch Bar.](//misc/touchbar.md)
 
 ### Filters
 
