@@ -20,7 +20,11 @@ The hashtags view displays all recent media [tagged with a hashtag in the captio
 
 ## Adding / Removing Hashtag Bookmarks
 
-.
+You can add a hashtag as a [Search Bookmark](//views/search.md#search-bookmarks) to quickly access them from the [Search](//views/search.md) view.
+
+To toggle a hashtag as a Search Bookmark:
+
+- Click the bookmark <img src="/views/assets/bookmark.png" width="20" height="20" /> button in the title bar.
 
 ------
 
