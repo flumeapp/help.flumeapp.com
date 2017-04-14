@@ -51,7 +51,7 @@ To reposition a tagged user:
 
 ### Tagged Locations
 
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/edit-location.png" width="30%" height="30%" /></p>
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/edit-location.png" width="50%" height="50%" /></p>
 
 To add a location on a photo or video:
 
