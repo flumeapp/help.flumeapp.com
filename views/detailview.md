@@ -10,7 +10,7 @@ The Details View allows you view all information related to a post, including it
 
 [Carousel posts](https://help.instagram.com/269314186824048) are multiple photos and videos (up to 10) combined into a single post.  
 
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/detail-view-carousel-1.png" width="50%" height="50%" /> <img src="/views/assets/detail-view-carousel-2.png" width="50%" height="50%" /></p>
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/detail-view-carousel-1.png" width="30%" height="30%" /> <img src="/views/assets/detail-view-carousel-2.png" width="30%" height="30%" /></p>
 
 There are multiple methods to view a carousel post:
 
