@@ -30,8 +30,6 @@ The hashtags view displays all recent media [tagged with a hashtag in the captio
 
 Hashtag previews are a way to quickly inspect the recent media tagged with that hashtag without leaving your current view. These are similar to the long-press actions or 3D Touch behaviours found on the mobile Instagram apps.
 
-### Viewing a Hashtag Preview
-
 To view a hashtag preview:
 
 - Long-press on any hashtag found in a [caption](//views/detailview.md), [comment](//views/detailview.md#comments) or [message.](//views/conversations/messages.md)
