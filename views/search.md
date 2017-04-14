@@ -24,7 +24,7 @@ When viewing a [Profile](/views/profile.md), [Location](/views/locations.md), or
 
 To toggle an item ([Profile](/views/profile.md), [Location](/views/locations.md), or [Hashtag](/views/hashtags.md)) as a Bookmark, perform one of the following: 
 
-- Click the Bookmarks icon <img src="/views/assets/bookmark.png" width="20" height="20" /> in the title bar when viewing the details of a [Profile](/views/profile.md), [Location](/views/locations.md), or [Hashtag.](/views/hashtags.md)
+- Click the bookmarks <img src="/views/assets/bookmark.png" width="20" height="20" /> button in the title bar when viewing the details of a [Profile](/views/profile.md), [Location](/views/locations.md), or [Hashtag.](/views/hashtags.md)
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/bookmark-toggle.png" width="50%" height="50%" /></p>
 
