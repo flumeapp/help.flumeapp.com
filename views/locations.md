@@ -8,7 +8,11 @@ The Locations view displays all recent media [tagged at a location.](//views/upl
 
 ## Sharing a Location
 
-.
+To share a location:
+
+1. When viewing the recent posts of the location, select the <kbd>Share > Send to…</kbd> item under the share <img src="/views/assets/actions-menu.png" width="20" height="20" /> button in the title bar, or use the <kbd>Location > Share > Send to…</kbd> macOS Menu Bar item.
+2. Select a conversation or user from the suggested list with the add <img src="/views/assets/add.png" width="20" height="20" /> button, or search for a different user. You can create a new [group conversation](//views/conversations.md) by selecting multiple users.
+
 
 ------
 
