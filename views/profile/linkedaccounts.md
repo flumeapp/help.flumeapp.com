@@ -17,14 +17,6 @@ To connect and start sharing your Instagram posts to another social network:
 
 -----
 
-## Changing Linked Facebook Page
-
-To change where your shared Facebook posts go:
-
-- Do this.
-
------
-
 ## Disconnect a Linked Account
 
 To disconnect and stop sharing your Instagram posts to another social network:
@@ -42,5 +34,13 @@ If you're trying to relink Instagram to a social network, you may have to visit 
 [Tumblr:](https://www.tumblr.com/preferences) See your Preferences and revoke access from the Applications section
 
 [Foursquare:](https://foursquare.com/login?continue=%2Fsettings%2Fconnections) See your connections to other apps
+
+-----
+
+## Changing Linked Facebook Page
+
+To change where your shared Facebook posts go:
+
+- Do this.
 
 -----
