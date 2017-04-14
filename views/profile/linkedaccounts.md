@@ -12,7 +12,11 @@ To learn more, see [Sharing to Social Networks.](https://help.instagram.com/1699
 
 To connect and start sharing your Instagram posts to another social network:
 
-1. When viewing the [Upload](//views/upload.md) window, click the Sharing button.
+1. When viewing the [Upload](//views/upload.md) window, click the Sharing <img src="/views/assets/share.png" width="20" height="20" /> button.
+2. Toggle the social network you wish to link.
+3. Depending on which social network you chose, a login window will appear. Upon successfully logging in, the sharing option will be enabled.
+
+You can also link accounts directly from your [Profile Settings](//views/profile/settings.md), 
 
 > **[info]**
 > Business Profiles cannot be unlinked from Facebook. To link your Instagram account to a different Facebook Page for uploading and sharing, you will need to [convert back to a personal profile.](//views/profile/businessprofiles.md)
