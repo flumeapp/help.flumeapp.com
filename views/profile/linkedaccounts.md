@@ -51,6 +51,7 @@ To change where your posts are shared on Facebook:
 - When viewing the [Upload](//views/upload.md) window, first choose your photo or video to upload, then click the Sharing <img src="/views/assets/share.png" width="20" height="20" /> button, and select the Facebook Page (or Timeline) from the Facebook dropdown.
 - When viewing your [Profile](/views/profile.md), select from the <kbd>Linked Accounts > Facebook > Share to…</kbd> item under the [Settings](/views/profile/settings.md) <img src="/views/assets/settings.png" width="20" height="20" /> button in the title bar.
 
-
+> **[info]**
+> If you have a [Business Profile](//views/profile/businessprofiles.md), it is not possible to change which Facebook Page your posts will share to.
 
 -----
