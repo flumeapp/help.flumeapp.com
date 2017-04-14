@@ -135,7 +135,7 @@ To view a profile preview:
 
 - Long-press on any profile picture or username
 
-To follow a user in a profile preview, click the Follow button.
+To follow a user in a profile preview, click the Follow <img src="/views/assets/follow.png" width="20" height="20" /> button.
 
 To close a profile preview, press the <kbd>ESC</kbd> key, or click outside of the preview.
 
