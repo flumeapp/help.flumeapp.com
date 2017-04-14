@@ -43,13 +43,23 @@ To reset all adjustments:
 
 ### Filters
 
-.
+To apply a filter to a photo or video:
+
+- Click on the filter preview.
+- Tap on the filter preview in the [Touch Bar.](//misc/touchbar.md)
+- Use the left and right [keyboard arrows.](//misc/keyboard-shortcuts.md)
+
+After selecting a filter, you can adjust the its intensity (default 100%).
+
+> **[info]**
+> You can reorder and enable Flume's exclusive filters via [Upload Preferences.](//preferences/upload/filters.md)
 
 ------
 
 ### Adjustments
 
-.
+To make adjustments to a photo or video:
+
 
 ------
 
