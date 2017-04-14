@@ -47,7 +47,7 @@ To apply a filter to a photo or video:
 
 - Click on the filter preview.
 - Tap on the filter preview in the [Touch Bar.](//misc/touchbar.md)
-- Use the left and right [keyboard arrows.](//misc/keyboard-shortcuts.md)
+- Use the <kbd>&larr; (LEFT)</kbd> and <kbd>&rarr; (RIGHT)</kbd> [keyboard arrows.](//misc/keyboard-shortcuts.md)
 
 After selecting a filter, you can adjust the its intensity (default 100%).
 
@@ -59,6 +59,10 @@ After selecting a filter, you can adjust the its intensity (default 100%).
 ### Adjustments
 
 To make adjustments to a photo or video:
+
+- Click and drag the respective slider to set a new value.
+- Use the <kbd>&larr; (UP)</kbd> and <kbd>&rarr; (DOWN)</kbd> [keyboard arrows](//misc/keyboard-shortcuts.md) to move between adjustments, and <kbd>&larr; (LEFT)</kbd> and <kbd>&rarr; (RIGHT)</kbd> to set their value.
+
 
 
 ------
