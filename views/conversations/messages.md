@@ -57,7 +57,7 @@ It is possible to share photos and videos privately in a one-on-one or group con
 
 To share a photo / video:
 
-- In an existing conversation, click the Upload <img src="/views/assets/upload.png" width="20" height="20" /> button in the compose area. You can select from an existing photo or video, or use your web-cam to take a photo.
+- In an existing conversation, click the Upload <img src="/views/assets/message-upload.png" width="20" height="20" /> button in the compose area. You can select from an existing photo or video, or use your web-cam to take a photo.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversation-upload.png" width="50%" height="50%" /></p>
 
