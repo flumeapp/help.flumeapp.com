@@ -19,5 +19,4 @@ To view a large preview:
 - Use the <kbd>Media > Large Preview</kbd> macOS Menu Bar item when selecting a post via the [keyboard arrows](/misc/keyboard-shortcuts.md) or viewing the [details](/views/detailview.md) of a post.
 - When hovering your mouse cursor over a post, use the <kbd>Spacebar</kbd> [Hover Shortcut.](//misc/hover-shortcuts.md)
 
-
 ------
