@@ -1,6 +1,6 @@
 # Blocked Users
 
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-blocked-users.png" width="30%" height="30%" /></p>
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-blocked-users.png" width="50%" height="50%" /></p>
 
 ------
 
