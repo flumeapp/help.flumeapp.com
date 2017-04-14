@@ -62,6 +62,8 @@ An inbuilt-feature of macOS are keyboard shortcuts assigned to items in menus. F
 | <kbd>⌘5</kbd> | Switches to the Activity tab. |
 | <kbd>⌘6</kbd> | Switches to the Conversations tab. |
 | <kbd>⌘7</kbd> | Switches to the Profile tab. |
+| <kbd>⌘]</kbd> | Switches to the next tab. |
+| <kbd>⌘[</kbd> | Switches to the previous tab. |
 | <kbd>⌘U</kbd> | Displays a popover to jump quickly to any user. Use the ESC/Down Arrow key while typing a username to see suggestions. |
 | <kbd>⌥⌘1</kbd> | In the Feed, Likes and Explore tabs, as well as in Profiles, switches the display to display Media in a single Column-View. |
 | <kbd>⌥⌘2</kbd> | In the Feed, Likes and Explore tabs, as well as in Profiles, switches the display to display Media in a 3x3 Grid-View. |
