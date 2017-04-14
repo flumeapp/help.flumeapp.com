@@ -10,7 +10,7 @@ The hashtags view displays all recent media [tagged with a hashtag in the captio
 
 To view hashtags related to the currently viewed hashtag:
 
-
+- Click the actions <img src="/views/assets/actions-menu.png" width="20" height="20" /> button in the title bar, and select a related hashtag.
 
 -----
 
