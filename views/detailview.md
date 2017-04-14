@@ -30,7 +30,7 @@ The comments on a post are displayed by default below the caption (if present).
 To view the comments on a post:
 
 - Click the Comments tab
-- Press the <kbd>TAB</kbd> [keyboard shortcut.](//misc/keyboard-shortcuts.md)
+- Press the <kbd>⇥ (TAB)</kbd> [keyboard shortcut.](//misc/keyboard-shortcuts.md)
 
 > **[info]**
 > If [comments are disabled](#enabling--disabling-comments) on a post, the comments tab will be dimmed and disabled.
@@ -123,6 +123,8 @@ To enable/disable comments on your posts:
 To view the likes on a post:
 
 - Click the Likes tab
+- Press the <kbd>⇥ (TAB)</kbd> [keyboard shortcut.](//misc/keyboard-shortcuts.md)
+
 
 > **[info]**
 > A maximum of the latest 999 likers are displayed.
