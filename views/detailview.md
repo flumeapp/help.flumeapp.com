@@ -103,6 +103,16 @@ To translate a comment:
 
 -----
 
+### Enabling/Disabling Comments
+
+By defaults, comments are permitted on your posts. You can disable commenting on your posts if you prefer.
+
+To enable/disable comments on your posts:
+
+- Do this.
+
+-----
+
 ## Likes
 
 .
