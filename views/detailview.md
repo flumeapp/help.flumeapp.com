@@ -1,6 +1,6 @@
 # Details
 
-The Details view allows you view all information related to a post, including its caption, comments, likes, tagged location, tagged users and more.
+The Details View allows you view all information related to a post, including its caption, comments, likes, tagged location, tagged users and more.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/detail-view.png" width="50%" height="50%" /></p>
 
@@ -18,17 +18,22 @@ There are multiple methods to view a carousel post:
 - Click-and-swipe left or right with the mouse / trackpad.
 - Click the page indicator dot that appears beneath the carousel post.
 
+> **[info]**
+> Each photo in a carousel post can contain different tagged users. See [Tagged Users](#tagged-users) for more.
+
 -----
 
 ## Comments
 
-.
+The comments on a post are displayed by default below the caption (if present).
 
 -----
 
 ### Writing Comments
 
-.
+To write a new comment:
+
+- 
 
 -----
 
