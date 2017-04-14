@@ -109,7 +109,7 @@ By defaults, comments are permitted on your posts. You can disable commenting on
 
 To enable/disable comments on your posts:
 
-- Do this.
+- When viewing one of your own posts, select the <kbd>Turn Commenting On/Off</kbd> item under the actions <img src="/views/assets/actions-menu.png" width="20" height="20" /> button in the title bar.
 
 -----
 
