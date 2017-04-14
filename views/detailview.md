@@ -122,7 +122,9 @@ To enable/disable comments on your posts:
 
 ## Likes
 
-To view the likes on a post:
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/detail-view-likes.png" width="30%" height="30%" /></p>
+
+To view the latest likes on a post:
 
 - Click the Likes tab
 - Press the <kbd>⇥ (TAB)</kbd> [keyboard shortcut.](//misc/keyboard-shortcuts.md)
