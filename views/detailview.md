@@ -18,6 +18,13 @@ The Details view allows you view all information related to a post, including it
 
 -----
 
+### Liking Comments
+
+.
+
+-----
+
+
 ### Deleting Comments
 
 .
