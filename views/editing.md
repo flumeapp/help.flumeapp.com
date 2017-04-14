@@ -18,7 +18,7 @@ To edit a post:
 
 The caption of a post can be edited at any time. When typing a # or @ character, your keyboard input will also search Instagram for matching hashtags and users until you select an item from the popover, press the <kbd>ESC</kbd> key, or press another space.
 
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/edit-caption.png" width="50%" height="50%" /></p>
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/edit-caption.png" width="70%" height="70%" /></p>
 
 > **[info]**
 > [Limits apply](//misc/limits.md) to the length of the caption, the number of hashtags, and mentions.
