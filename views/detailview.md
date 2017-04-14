@@ -135,7 +135,13 @@ To view the likes on a post:
 
 ## Tagged Users
 
-.
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/detail-view-usertags-1.png" width="30%" height="30%" /> <img src="/views/assets/detail-view-usertags-2.png" width="30%" height="30%" /></p>
+
+To view the tagged users in a post:
+
+- Click the tagged users <img src="/views/assets/taggedusers.png" width="20" height="20" /> button which appears when there are tagged users in a photo
+
+
 
 -----
 
