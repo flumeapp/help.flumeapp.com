@@ -29,6 +29,8 @@ The caption of a post can be edited at any time. When typing a # or @ character,
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/edit-tagging-1.png" width="30%" height="30%" /> <img src="/views/assets/edit-tagging-2.png" width="30%" height="30%" /></p>
 
+#### Editing Tagged Users
+
 To edit the tagged users in a photo:
 
 1. Click the tagged users <img src="/views/assets/taggedusers.png" width="20" height="20" /> button.
@@ -36,22 +38,27 @@ To edit the tagged users in a photo:
 3. Type in the search text field to find the relevant user.
 4. Click on a search result to confirm the user tag.
 
+#### Removing Tagged Users
+
 To remove a tagged user:
 
 1. Click the tagged users <img src="/views/assets/taggedusers.png" width="20" height="20" /> button.
 2. Hover the mouse over the user tag you wish to remove and click it once.
+
+#### Repositioning Tagged Users
 
 To reposition a tagged user:
 
 1. Click the tagged users <img src="/views/assets/taggedusers.png" width="20" height="20" /> button.
 2. Hover the mouse over the user tag you wish to remove and click-and-drag it to a new position.
 
-
 ------
 
 ### Tagged Locations
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/edit-location.png" width="50%" height="50%" /></p>
+
+#### Adding Tagged Locations
 
 To add a location on a photo or video:
 
@@ -62,9 +69,13 @@ To add a location on a photo or video:
 > **[info]**
 > If the photo or video contains [geotag](https://en.wikipedia.org/wiki/Geotagging) location information, Flume will automatically search for the GPS coordinates where the photo or video was taken.
 
+#### Editing Tagged Locations
+
 To edit a location on a photo or video:
 
 - Click the name of the location, and select the <kbd>Edit Location</kbd> item.
+
+#### Removing Tagged Locations
 
 To remove an existing location on a photo or video:
 
