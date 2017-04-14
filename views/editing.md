@@ -27,6 +27,7 @@ The caption of a post can be edited at any time. When typing a # or @ character,
 
 ### Tagged Users
 
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/edit-tagging-1.png" width="30%" height="30%" /> <img src="/views/assets/edit-tagging-2.png" width="30%" height="30%" /> <img src="/views/assets/edit-tagging-3.png" width="30%" height="30%" /></p>
 
 To edit the tagged users in a photo:
 
