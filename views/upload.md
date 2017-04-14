@@ -33,12 +33,6 @@ To quickly preview your edits:
 - Click the preview <img src="/views/assets/preview.png" width="20" height="20" /> button.
 - Tap the preview <img src="/views/assets/preview.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
 
-#### Resetting Edits
-
-To reset all adjustments:
-
-- Click the clear <img src="/views/assets/discard.png" width="20" height="20" /> button.
-
 ------
 
 ### Filters
@@ -62,6 +56,12 @@ To make adjustments to a photo or video:
 
 - Click and drag the respective slider to set a new value.
 - Use the <kbd>&uarr; (UP)</kbd> and <kbd>&darr; (DOWN)</kbd> [keyboard arrows](//misc/keyboard-shortcuts.md) to move between adjustments, and <kbd>&larr; (LEFT)</kbd> and <kbd>&rarr; (RIGHT)</kbd> to set their value.
+
+#### Resetting Adjustments
+
+To reset all adjustments:
+
+- Click the clear <img src="/views/assets/discard.png" width="20" height="20" /> button.
 
 ------
 
