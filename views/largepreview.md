@@ -16,8 +16,8 @@ The Large Preview window allows you to zoom in on posts quickly and at their ori
 To view a large preview:
 
 - Long-press on any post, [shared photo or video](//views/conversations/messages.md), or [activity](//views/activity.md) preview.
-- When selecting items with the keyboard arrows 
-
+- When selecting a post using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Spacebar</kbd> keyboard shortcut.
+- When hovering your mouse cursor over a post, use the <kbd>Spacebar</kbd> [Hover Shortcut.](//misc/hover-shortcuts.md)
 
 
 ------
