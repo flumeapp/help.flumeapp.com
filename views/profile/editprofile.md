@@ -4,7 +4,7 @@
 
 ------
 
-## Editing your Profile
+## Editing Your Profile
 
 To edit your profile:
 
@@ -19,7 +19,7 @@ If you have an [Business Profile](//views/profile/businessprofiles.md), addition
 
 ------
 
-## Changing your Profile Picture
+## Changing Your Profile Picture
 
 To change your profile picture:
 
