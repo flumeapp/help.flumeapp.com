@@ -13,6 +13,11 @@ The Large Preview window allows you to zoom in on posts quickly and at their ori
 
 ## Viewing Large Previews
 
+To view a large preview:
+
+- Long-press on any post, [shared photo or video](//views/conversations/messages.md), or [activity](//views/activity.md) preview.
+- When selecting items with the keyboard, 
+
 
 
 ------
