@@ -25,7 +25,10 @@ There are multiple methods to view a carousel post:
 
 ## Comments
 
-The comments on a post are displayed by default below the caption (if present).
+The comments on a post are displayed by default below the caption (if present). You can switch between Comments and Likes with the Details view tabs.
+
+> **[info]**
+> If comments are disabled on a post
 
 -----
 

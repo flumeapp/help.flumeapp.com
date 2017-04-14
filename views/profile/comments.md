@@ -16,6 +16,6 @@ To view your current comments settings:
 
 You can disable commenting on your posts, by toggling the option when [uploading.](/views/upload.md)
 
-You can also toggle commenting from the [detail view](/views/detailview.md) of existing posts.
+You can also toggle commenting from the [detail view](/views/detailview.md#comments) of existing posts.
 
 ------
