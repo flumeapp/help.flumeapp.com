@@ -156,14 +156,9 @@ If a post is tagged at a location, its name will appear above the caption (if pr
 
 ## Browsing Feeds
 
-When viewing the Details View from the [Feed](//views/feed.md), [Likes](//views/likes.md) or [Explore](//views/explore.md) views, additional options are available to quickly browse forwards and backwards through the content.
+When viewing the Details View from the [Feed](//views/feed.md), [Likes](//views/likes.md) or [Explore](//views/explore.md) views, additional options are available to quickly browse through the content without needing to move back-and-forth between the Details View and the previous list of media.
 
-- Click the next <img src="/views/assets/comment.png" width="20" height="20" /> or previous button in the title bar.
-- Use the  <img src="/views/assets/comment.png" width="20" height="20" /> or previous button in the title bar.
-
-
-
-
-
+- Click the previous <img src="/views/assets/item-previous.png" width="20" height="20" /> or next <img src="/views/assets/item-next.png" width="20" height="20" /> in the title bar.
+- Use the <kbd>⌘{</kbd> or <kbd>⌘}</kbd> [keyboard shortcuts.](//misc/keyboard-shortcuts.md)
 
 -----
