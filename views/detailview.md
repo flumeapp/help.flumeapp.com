@@ -163,4 +163,6 @@ When viewing the Details View from the [Feed](//views/feed.md), [Likes](//views/
 - Click the previous <img src="/views/assets/item-previous.png" width="20" height="20" /> or next <img src="/views/assets/item-next.png" width="20" height="20" /> button in the title bar.
 - Use the <kbd>⌘{</kbd> or <kbd>⌘}</kbd> [keyboard shortcuts.](//misc/keyboard-shortcuts.md)
 
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/detail-view-navigation.gif" width="30%" height="30%" /></p>
+
 -----
