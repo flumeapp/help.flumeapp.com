@@ -49,13 +49,12 @@ The comment compose area will appear ready for you to write a comment. To send y
 To reply to a comment:
 
 - Move the mouse to the right area of a comment to reveal the comment actions panel, then click the reply <img src="/views/assets/reply.png" width="20" height="20" /> button.
+
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/comment-actions.png" width="50%" height="50%" /></p>
+
 - Right-click a comment, then select <kbd>Reply to @username</kbd> from the contextual menu.
 - When selecting a comment using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Message > Reply to @username</kbd> macOS Menu Bar item.
 - When selecting a comment using the [keyboard arrows](/misc/keyboard-shortcuts.md), tap the reply <img src="/views/assets/comment.png" width="20" height="20" /> button in the [Touch Bar.](/misc/touchbar.md)
-
-
-
-
 
 
 -----
