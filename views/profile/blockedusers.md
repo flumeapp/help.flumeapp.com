@@ -13,7 +13,5 @@ To view the list of blocked users:
 ## Blocking Users
 
 To block or unblock a user, please see 
-> **[info]**
-> Changing your password will invalidate your logged in sessions elsewhere, such as the Instagram mobile apps or the website. If you change your password via a method other than Flume, the next time Flume connects to Instagram with your account, you will receive a "Session Timed Out" notice and be logged out.
 
 ------
