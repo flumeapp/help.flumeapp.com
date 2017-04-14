@@ -6,13 +6,13 @@ The Locations view displays all recent media [tagged at a location.](//views/upl
 
 ------
 
-## Viewing Related Tags
+## Sharing a Location
 
 .
 
------
+------
 
-## Sharing a Location
+## Adding / Removing Location Bookmarks
 
 .
 
