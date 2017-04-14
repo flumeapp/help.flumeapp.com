@@ -6,11 +6,13 @@ The Large Preview window allows you to zoom in on posts quickly and at their ori
 
 > **[info]**
 > If the photo or video is too large to fit on your display, it is scaled to fit appropriately.
+>
+> The large preview window can be moved to any screen and position, and is saved for future use.
 
 ------
 
 ## Viewing Large Previews
 
-.
+
 
 ------
