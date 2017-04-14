@@ -14,10 +14,9 @@ To share a post:
 - When viewing the [Details](//views/detailview.md) of your own posts, select the <kbd>Share > Send to Linked Account…</kbd> item under the actions <img src="/views/assets/actions-menu.png" width="20" height="20" /> button in the title bar.
 - When viewing the [Details](//views/detailview.md) of your own posts, use the <kbd>Share > Send to Linked Account…</kbd> macOS Menu Bar item.
 
-> **[info]**
-> The <kdb>Send to Linked Account</kbd> item will only appear when you are sharing posts that you own. 
+You can provide a custom description which will accompany the shared item (if you wish to adjust the caption, [see editing](//views/editing.md))
 
 > **[info]**
-> You can provide a custom description which will accompany the shared item (if you wish to adjust the caption, [see editing](//views/editing.md))
+> The <kdb>Send to Linked Account</kbd> item will only appear when you are sharing posts that you own. 
 
 -----
