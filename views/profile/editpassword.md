@@ -1,6 +1,6 @@
 # Change Password
 
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/edit-profile.png" width="30%" height="30%" /></p>
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/change-password.png" width="30%" height="30%" /></p>
 
 ------
 
