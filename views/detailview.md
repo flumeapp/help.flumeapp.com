@@ -137,6 +137,8 @@ To view the likes on a post:
 
 If a photo contains tagged users, the tagged users <img src="/views/assets/taggedusers.png" width="20" height="20" /> button will appear above the post and automatically fades out. 
 
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/detail-view-usertags-1.png" width="30%" height="30%" /> <img src="/views/assets/detail-view-usertags-2.png" width="30%" height="30%" /></p>
+
 To view the tagged users in a post (or [carousel post](#carousel-posts)):
 
 1. Hover over the photo.
