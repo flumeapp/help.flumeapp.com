@@ -12,19 +12,14 @@ To learn more, see [Sharing to Social Networks.](https://help.instagram.com/1699
 
 To connect and start sharing your Instagram posts to another social network:
 
-- When viewing the [Upload](//views/upload.md) window, click the Sharing <img src="/views/assets/share.png" width="20" height="20" /> button.
-- When viewing the [Upload](//views/upload.md) window, click the Sharing <img src="/views/assets/share.png" width="20" height="20" /> button.
-
+- When viewing the [Upload](//views/upload.md) window, first choose your photo or video to upload, then click the Sharing <img src="/views/assets/share.png" width="20" height="20" /> button, or use the <kbd>Upload > Share</kbd> macOS Menu Bar item.
 - When viewing your [Profile](/views/profile.md), select the <kbd>Linked Accounts</kbd> item under the [Settings](/views/profile/settings.md) <img src="/views/assets/settings.png" width="20" height="20" /> button in the title bar.
 
 Toggle the social network you wish to link to and a login window will appear. 
 
 > **[info]**
 > When connecting a linked account from the Upload window, the sharing option will be enabled automatically.
-
-You can also link accounts directly from your [Profile Settings](//views/profile/settings.md), 
-
-> **[info]**
+> 
 > Business Profiles cannot be unlinked from Facebook. To link your Instagram account to a different Facebook Page for uploading and sharing, you will need to [convert back to a personal profile.](//views/profile/businessprofiles.md)
 
 -----
@@ -33,7 +28,7 @@ You can also link accounts directly from your [Profile Settings](//views/profile
 
 To disconnect and stop sharing your Instagram posts to another social network:
 
-- Do this.
+- When viewing your [Profile](/views/profile.md), select the <kbd>Linked Accounts > Social Network > Unlink</kbd> item under the [Settings](/views/profile/settings.md) <img src="/views/assets/settings.png" width="20" height="20" /> button in the title bar.
 
 If you're trying to relink Instagram to a social network, you may have to visit that site's settings to unlink your previous account. 
 
