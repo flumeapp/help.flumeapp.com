@@ -45,7 +45,7 @@ To write a new comment:
 - Tap the comment <img src="/views/assets/comment.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
 - Use the <kbd>Media > Comment on Photo/Video…</kbd> macOS Menu Bar item.
 
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/comment-compose.png" width="50%" height="50%" /></p>
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/comment-compose.png" width="30%" height="30%" /></p>
 
 The comment compose area will appear ready for you to write a comment. To send your comment, press <kbd>ENTER/RETURN</kbd> or click the send <img src="/views/assets/send.png" width="20" height="20" /> button.
 
