@@ -8,20 +8,42 @@ The Details view allows you view all information related to a post, including it
 
 ## Viewing Comments
 
+.
+
+-----
+
+### Replying to Comments
+
+.
+
+-----
+
+### Deleting Comments
+
+.
+
+-----
+
+### Reporting Comments
+
+.
 
 -----
 
 ## Viewing Likes
 
+.
 
 -----
 
 ## Viewing Tagged Users
 
+.
 
 -----
 
 ## Viewing Tagged Location
 
+.
 
 -----
