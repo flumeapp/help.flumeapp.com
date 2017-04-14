@@ -48,6 +48,8 @@ The comment compose area will appear ready for you to write a comment. To send y
 
 To reply to a comment:
 
+- Use the <kbd>Media > Comment on Photo/Video…</kbd> macOS Menu Bar item.
+
 
 
 -----
