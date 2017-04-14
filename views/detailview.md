@@ -33,7 +33,11 @@ The comments on a post are displayed by default below the caption (if present).
 
 To write a new comment:
 
-- 
+- Click the comment <img src="/views/assets/comment.png" width="20" height="20" /> button in the title bar.
+- Tap the comment <img src="/views/assets/comment.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
+
+
+
 
 -----
 
