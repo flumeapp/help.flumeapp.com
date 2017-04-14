@@ -10,4 +10,7 @@ To change your password:
 
 
 
+> **[info]**
+> Changing your password will log you out of all other devices / sessions.
+
 ------
