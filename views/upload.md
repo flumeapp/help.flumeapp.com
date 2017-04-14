@@ -24,6 +24,8 @@ To quickly preview your edits:
 - Click the preview <img src="/views/assets/preview.png" width="20" height="20" /> button.
 - Tap the preview <img src="/views/assets/preview.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
 
+------
+
 ### Filters
 
 .
