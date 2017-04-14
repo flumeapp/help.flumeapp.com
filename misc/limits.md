@@ -45,11 +45,12 @@ The following limits apply to [comments](/views/detailview.md#comments) on posts
 
 See [I get an error when trying to add a comment.](https://help.instagram.com/161863397286564)
 
-## Biography
+## Profile
 
-The following limits apply to your [Profile](/views/profile/editprofile.md) biography:
+The following limits apply to your [Profile](/views/profile/editprofile.md):
 
-- 150 characters
+- 30 characters for usernames
+- 150 characters for biographies
 
 ## Messages
 
