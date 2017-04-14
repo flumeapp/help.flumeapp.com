@@ -13,6 +13,8 @@ The Upload window allows you upload photos and videos, write captions, tag users
 
 You can apply filters and make adjustments to your photos and videos (macOS 10.11+) easily right inside Flume. 
 
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/upload-edit.png" width="50%" height="50%" /></p>
+
 #### Editing Photos/Videos
 
 To edit a selected photo or video:
