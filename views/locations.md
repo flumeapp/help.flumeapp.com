@@ -19,7 +19,11 @@ To share a location:
 
 ## Adding / Removing Location Bookmarks
 
-.
+You can add a location as a [Search Bookmark](//views/search.md#search-bookmarks) to quickly access them from the [Search](//views/search.md) view.
+
+To toggle a location as a Search Bookmark:
+
+- Click the bookmark <img src="/views/assets/bookmark.png" width="20" height="20" /> button in the title bar.
 
 ------
 
