@@ -129,8 +129,6 @@ To dismiss a suggestion:
 
 Profile previews are a way to quickly inspect a user's profile and follow them without leaving your current view. These are similar to the long-press actions or 3D Touch behaviours found on the mobile Instagram apps.
 
-### Viewing a Profile Preview
-
 To view a profile preview:
 
 - Long-press on any profile picture or username
