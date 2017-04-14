@@ -23,3 +23,9 @@ The hashtags view displays all recent media [tagged with a hashtag in the captio
 .
 
 ------
+
+## Hashtag Previews
+
+.
+
+------

@@ -17,3 +17,9 @@ The Locations view displays all recent media [tagged at a location.](//views/upl
 .
 
 ------
+
+## Location Previews
+
+.
+
+------
