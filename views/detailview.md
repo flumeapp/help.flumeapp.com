@@ -158,6 +158,12 @@ If a post is tagged at a location, its name will appear above the caption (if pr
 
 When viewing the Details View from the [Feed](//views/feed.md), [Likes](//views/likes.md) or [Explore](//views/explore.md) views, additional options are available to quickly browse forwards and backwards through the content.
 
-- 
+- Click the next <img src="/views/assets/comment.png" width="20" height="20" /> or previous button in the title bar.
+- Use the  <img src="/views/assets/comment.png" width="20" height="20" /> or previous button in the title bar.
+
+
+
+
+
 
 -----
