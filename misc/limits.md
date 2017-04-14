@@ -49,7 +49,9 @@ See [I get an error when trying to add a comment.](https://help.instagram.com/16
 
 The following limits apply to your [Profile](/views/profile/editprofile.md):
 
+- 30 characters for names
 - 30 characters for usernames
+- Usernames can only contain the alpha-numeric characters, underscores and periods
 - 150 characters for biographies
 - 2000 characters for websites
 
