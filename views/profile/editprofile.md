@@ -13,7 +13,7 @@ To edit your profile:
 If you have an [Business Profile](//views/profile/businessprofiles.md), additional fields will appear allowing you to edit your business contact information. 
 
 > **[info]**
-> [Limits apply](//misc/limits.md) to the length of your name, username, website and biography.
+> [Limits apply](//misc/limits.md) to certain fields on your profile.
 
 > **[info]**
 > If you have a Business Profile, Instagram will use your Facebook Page's category. To change the category that appears on your Business Profile, [update it on your Facebook Page.](https://www.facebook.com/help/222732947737668/)
