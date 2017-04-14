@@ -8,6 +8,8 @@
   * [Accessibility](/home/accessibility.md)
 * [What's New in Flume](/whatsnew/README.md)
 
+<!--
+
 ## Getting Started
 
 * [How do I login / logout?](/getstarted/login.md)
@@ -26,6 +28,8 @@
 * [How do I add another account?](/getstarted/add-an-account.md)
 * [How do I switch between accounts?](/getstarted/switch-accounts.md)
 * [How do I always show the menu?](/getstarted/show-menu.md)
+
+-->
 
 ## Views
 
