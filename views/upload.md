@@ -13,16 +13,22 @@ The Upload window allows you upload photos and videos, write captions, tag users
 
 You can apply filters and make adjustments to your photos and videos (macOS 10.11+) easily right inside Flume. 
 
+#### Editing Photos/Videos
+
 To edit a selected photo or video:
 
 - Click the edit <img src="/views/assets/edit.png" width="20" height="20" /> button.
 - Use the <kbd>Upload > Toggle Edit Options</kbd> macOS Menu Bar item.
 - Tap the edit <img src="/views/assets/edit.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
 
+#### Previewing Edits
+
 To quickly preview your edits:
 
 - Click the preview <img src="/views/assets/preview.png" width="20" height="20" /> button.
 - Tap the preview <img src="/views/assets/preview.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
+
+#### Resetting Edits
 
 To reset all adjustments:
 
