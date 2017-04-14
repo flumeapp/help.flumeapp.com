@@ -127,7 +127,7 @@ To dismiss a suggestion:
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-previews.png" width="50%" height="50%" /></p>
 
-Profile previews are a way to quickly inspect a user's profile without leaving your current position. These are similar to the long-press actions or 3D Touch behaviours found on the mobile Instagram apps.
+Profile previews are a way to quickly inspect a user's profile without leaving your current view. These are similar to the long-press actions or 3D Touch behaviours found on the mobile Instagram apps.
 
 ### Viewing a Profile Preview
 
