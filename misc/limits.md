@@ -51,6 +51,7 @@ The following limits apply to your [Profile](/views/profile/editprofile.md):
 
 - 30 characters for usernames
 - 150 characters for biographies
+- 2000 characters for websites
 
 ## Messages
 
