@@ -61,9 +61,7 @@ After selecting a filter, you can adjust the its intensity (default 100%).
 To make adjustments to a photo or video:
 
 - Click and drag the respective slider to set a new value.
-- Use the <kbd>&larr; (UP)</kbd> and <kbd>&rarr; (DOWN)</kbd> [keyboard arrows](//misc/keyboard-shortcuts.md) to move between adjustments, and <kbd>&larr; (LEFT)</kbd> and <kbd>&rarr; (RIGHT)</kbd> to set their value.
-
-
+- Use the <kbd>&uarr; (UP)</kbd> and <kbd>&darr; (DOWN)</kbd> [keyboard arrows](//misc/keyboard-shortcuts.md) to move between adjustments, and <kbd>&larr; (LEFT)</kbd> and <kbd>&rarr; (RIGHT)</kbd> to set their value.
 
 ------
 
