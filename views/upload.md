@@ -24,9 +24,9 @@ To quickly preview your edits:
 - Click the preview <img src="/views/assets/preview.png" width="20" height="20" /> button.
 - Tap the preview <img src="/views/assets/preview.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
 
-To reset all edits:
+To reset all adjustments:
 
-
+- Click the clear <img src="/views/assets/clear.png" width="20" height="20" /> button.
 
 ------
 
