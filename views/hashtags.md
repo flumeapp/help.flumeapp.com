@@ -26,7 +26,7 @@ The hashtags view displays all recent media [tagged with a hashtag in the captio
 
 ## Hashtag Previews
 
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/hashtag-previews.png" width="50%" height="50%" /></p>
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/hashtag-previews.png" width="30%" height="30%" /></p>
 
 Hashtag previews are a way to quickly inspect the recent media tagged with that hashtag without leaving your current view. These are similar to the long-press actions or 3D Touch behaviours found on the mobile Instagram apps.
 
