@@ -16,7 +16,7 @@ You can apply filters and make adjustments to your photos and videos easily righ
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/upload-edit.png" width="70%" height="70%" /></p>
 
 > **[info]**
-> Video adjustments and filters are not available on macOS Yosemite 10.10
+> Video filters and adjustments are not available on macOS Yosemite 10.10
 
 #### Editing Photos/Videos
 
