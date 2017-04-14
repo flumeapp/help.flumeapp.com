@@ -142,7 +142,7 @@ To view the tagged users in a post (or [carousel post](#carousel-posts)):
 - Click the tagged users <img src="/views/assets/taggedusers.png" width="20" height="20" /> button which appears when there are tagged users in a photo
 
 > **[info]**
-> Only photos contain tagged users.
+> Only photos can contain tagged users.
 
 -----
 
