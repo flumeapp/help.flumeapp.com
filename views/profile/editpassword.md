@@ -6,6 +6,8 @@
 
 ## Changing Your Password
 
+To change your password:
+
 
 
 ------
