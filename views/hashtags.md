@@ -37,7 +37,7 @@ To toggle a hashtag as a Search Bookmark:
 
 ## Hashtag Previews
 
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/hashtag-preview.png" width="70%" height="70%" /></p>
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/hashtag-preview.png" width="50%" height="50%" /></p>
 
 Hashtag previews are a way to quickly inspect the recent media tagged with that hashtag and [bookmarking](#adding--removing-hashtag-bookmarks) them without leaving your current view. These are similar to the long-press actions or 3D Touch behaviours found on the mobile Instagram apps.
 
