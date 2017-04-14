@@ -14,9 +14,10 @@ If you have an [Business Profile](//views/profile/businessprofiles.md), addition
 
 > **[info]**
 > [Limits apply](//misc/limits.md) to certain fields on your profile.
-
-> **[info]**
+>
 > If you have a Business Profile, Instagram will use your Facebook Page's category. To change the category that appears on your Business Profile, [update it on your Facebook Page.](https://www.facebook.com/help/222732947737668/)
+
+------
 
 ## Changing your Profile Picture
 
@@ -28,4 +29,5 @@ To change your profile picture:
 
 You can also remove your profile picture if you previously uploaded one.
 
+------
  
