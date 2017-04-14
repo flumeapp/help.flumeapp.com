@@ -35,9 +35,12 @@ To write a new comment:
 
 - Click the comment <img src="/views/assets/comment.png" width="20" height="20" /> button in the title bar.
 - Tap the comment <img src="/views/assets/comment.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
+- Use the <kbd>Media > Comment on Photo/Video…</kbd> macOS Menu Bar item.
 
+The comment compose area will appear ready for you to write a comment. To send your comment, press <kbd>ENTER/RETURN</kbd> or click the send <img src="/views/assets/send.png" width="20" height="20" /> button.
 
-
+> **[info]**
+> When writing the first comment for one of your own posts, it will be converted automatically into the caption of the post.
 
 -----
 
