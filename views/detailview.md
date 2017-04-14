@@ -46,7 +46,9 @@ The comment compose area will appear ready for you to write a comment. To send y
 
 ### Replying to Comments
 
-.
+To reply to a comment:
+
+
 
 -----
 
