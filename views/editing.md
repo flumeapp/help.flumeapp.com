@@ -10,7 +10,9 @@ The Editing window allows you edit information about a previous post. The user t
 
 To edit a post:
 
-- Right-click on any of your posts, and select 
+- Right-click any of your posts, then select <kbd>Edit Photo/Video…</kbd> from the contextual menu.
+- When viewing the [Details](//views/detailview.md) of your posts, 
+
 
 ### Captions
 
