@@ -26,7 +26,7 @@ To quickly preview your edits:
 
 To reset all adjustments:
 
-- Click the clear <img src="/views/assets/clear.png" width="20" height="20" /> button.
+- Click the clear <img src="/views/assets/discard.png" width="20" height="20" /> button.
 
 ------
 
