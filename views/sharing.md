@@ -1,6 +1,6 @@
 # Sharing
 
-The Sharing window allows you to share your posts to a [linked account](//views/profile/linkedaccounts.md). If you want to share a post in a message, use the sharing feature of conversations.
+The Sharing window allows you to share your posts to a [linked account](//views/profile/linkedaccounts.md). If you want to share a post in a message, use the [sharing feature of conversations.](//views/conversations/messages.md#sharing-posts)
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/sharing.png" width="50%" height="50%" /></p>
 
