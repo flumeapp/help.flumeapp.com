@@ -50,28 +50,51 @@ To reply to a comment:
 
 - Move the mouse to the right area of a comment to reveal the comment actions panel, then click the reply <img src="/views/assets/reply.png" width="20" height="20" /> button.<br /><br /><p style="text-align: center; margin-top: 1em;"><img src="/views/assets/comment-actions.png" width="50%" height="50%" /></p>
 - Right-click a comment, then select <kbd>Reply to @username</kbd> from the contextual menu.
-- When selecting a comment using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Message > Reply to @username</kbd> macOS Menu Bar item.
+- When selecting a comment using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Comment > Reply to @username</kbd> macOS Menu Bar item.
 - When selecting a comment using the [keyboard arrows](/misc/keyboard-shortcuts.md), tap the reply <img src="/views/assets/comment.png" width="20" height="20" /> button in the [Touch Bar.](/misc/touchbar.md)
-
 
 -----
 
 ### Liking Comments
 
-.
+To like / unlike a comment:
+
+- Move the mouse to the right area of a comment to reveal the comment actions panel, then click the like <img src="/views/assets/like.png" width="20" height="20" /> button.<br /><br /><p style="text-align: center; margin-top: 1em;"><img src="/views/assets/comment-actions.png" width="50%" height="50%" /></p>
+- When selecting a comment using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Comment > Like/Unlike Comment</kbd> macOS Menu Bar item.
+- When selecting a comment using the [keyboard arrows](/misc/keyboard-shortcuts.md), tap the like <img src="/views/assets/like.png" width="20" height="20" /> button in the [Touch Bar.](/misc/touchbar.md)
 
 -----
 
-
 ### Deleting Comments
 
-.
+To delete a comment:
+
+- Move the mouse to the right area of a comment to reveal the comment actions panel, then click the delete <img src="/views/assets/delete.png" width="20" height="20" /> button.<br /><br /><p style="text-align: center; margin-top: 1em;"><img src="/views/assets/comment-actions.png" width="50%" height="50%" /></p>
+- Right-click a comment, then select <kbd>Delete Comment…</kbd> from the contextual menu.
+- When selecting a comment using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Comment > Delete Comment…</kbd> macOS Menu Bar item.
+
+> **[info]**
+> You can also delete your own comments you make on others posts.
 
 -----
 
 ### Reporting Comments
 
-.
+To report a comment:
+
+- Move the mouse to the right area of a comment to reveal the comment actions panel, then click the report <img src="/views/assets/report.png" width="20" height="20" /> button.<br /><br /><p style="text-align: center; margin-top: 1em;"><img src="/views/assets/comment-actions.png" width="50%" height="50%" /></p>
+- Right-click a comment, then select <kbd>Report…</kbd> from the contextual menu.
+- When selecting a comment using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Comment > Report…</kbd> macOS Menu Bar item.
+
+-----
+
+### Translating Comments
+
+To translate a comment:
+
+- Right-click a comment, then select <kbd>Translate…</kbd> from the contextual menu.
+- When selecting a comment using the [keyboard arrows](/misc/keyboard-shortcuts.md), tap the translate <img src="/views/assets/translate.png" width="20" height="20" /> button in the [Touch Bar.](/misc/touchbar.md)
+
 
 -----
 
