@@ -1,6 +1,6 @@
 # Editing
 
-The Editing window allows you edit information about a previous post. The user tags (photos-only), location and caption can be edited at any time.
+The Editing window allows you edit information about a previous post. The user tags (photos-only), location and caption can be edited at any time. If you're looking to [make edits to a photo or video](//views/upload.md#editing), you'll need to do that when uploading.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/editing.png" width="50%" height="50%" /></p>
 
