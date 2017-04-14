@@ -17,6 +17,14 @@ To share a location:
 
 ------
 
+## Viewing a Location in Maps
+
+To open the location in Maps:
+
+- Click the location name.
+
+------
+
 ## Adding / Removing Location Bookmarks
 
 You can add a location as a [Search Bookmark](//views/search.md#search-bookmarks) to quickly access them from the [Search](//views/search.md) view.
