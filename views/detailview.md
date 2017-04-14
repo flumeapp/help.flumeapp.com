@@ -6,7 +6,19 @@ The Details view allows you view all information related to a post, including it
 
 ------
 
-## Viewing Comments
+## Carousel Posts
+
+.
+
+-----
+
+## Comments
+
+.
+
+-----
+
+### Writing Comments
 
 .
 
@@ -37,19 +49,25 @@ The Details view allows you view all information related to a post, including it
 
 -----
 
-## Viewing Likes
+## Likes
 
 .
 
 -----
 
-## Viewing Tagged Users
+## Tagged Users
 
 .
 
 -----
 
-## Viewing Tagged Location
+## Tagged Locations
+
+.
+
+-----
+
+## Browsing Feeds
 
 .
 
