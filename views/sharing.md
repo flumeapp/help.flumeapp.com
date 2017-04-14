@@ -12,7 +12,7 @@ To share a post:
 
 - Right-click any of your posts, then select <kbd>Share > Send to Linked Account…</kbd> from the contextual menu.
 - When viewing the [Details](//views/detailview.md) of your own posts, select the <kbd>Share > Send to Linked Account…</kbd> item under the actions <img src="/views/assets/actions-menu.png" width="20" height="20" /> button in the title bar.
-- When viewing the [Details](//views/detailview.md) of your own posts, select the <kbd>Share > Send to Linked Account…</kbd> item under the actions <img src="/views/assets/actions-menu.png" width="20" height="20" /> button in the title bar.
+- When viewing the [Details](//views/detailview.md) of your own posts, select the <kbd>Share > Send to Linked Account…</kbd> item 
 
 
 
