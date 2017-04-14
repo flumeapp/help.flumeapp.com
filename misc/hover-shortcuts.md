@@ -9,7 +9,7 @@ To activate a Hover Shortcut, simply mouse the mouse cursor over a post (in eith
 | L | Likes the media that is directly underneath the mouse cursor. |
 | C | Displays a comment text area for the media that is directly underneath the mouse cursor.  |
 | S | Saves the media that is directly underneath the mouse cursor.  |
-| Space | Opens a large preview for the media that is directly underneath the mouse cursor.  |
+| Spacebar | Opens a large preview for the media that is directly underneath the mouse cursor.  |
 
 ------
 
