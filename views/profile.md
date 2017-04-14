@@ -37,7 +37,7 @@ If you would like to disable users from being able to tag you in photos:
 
 - Use the <kbd>Tagging Options…</kbd> option under the actions <img src="/views/assets/share.png" width="20" height="20" /> button that appears above the tagged posts on your profile.
 
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-tagging-options.png" width="30%" height="30%" /></p>
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-tagging-options.png" width="50%" height="50%" /></p>
 
 If set to "Add Manually", you will be notified in [Activity](/views/activity.md) when someone tags you in a photo, with the option to accept or remove the tag.
 
@@ -55,7 +55,7 @@ To view posts that you have saved:
 
 ## Followers / Following
 
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-following.png" width="30%" height="30%" /></p>
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-following.png" width="50%" height="50%" /></p>
 
 To view the followers or followings of a profile, click the "Followers" or "Following" button. The current relationship status between you and each user is displayed, allowing you to quickly follow or unfollow users from other profiles.
 
@@ -100,7 +100,7 @@ To view similar account suggestions on a profile:
 
 - Click the collapse <img src="/views/assets/profile-suggestions-collapse.png" width="20" height="20" /> button. To scroll the suggestions, use the <img src="/views/assets/previous.png" width="20" height="20" /> and <img src="/views/assets/next.png" width="20" height="20" /> buttons, or view all similar account suggestions by clicking the <img src="/views/assets/columnview.png" width="20" height="20" /> button.
 
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-suggestions.png" width="30%" height="30%" /> <img src="/views/assets/profile-suggestions-list.png" width="30%" height="30%" /></p>
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-suggestions.png" width="40%" height="40%" /> <img src="/views/assets/profile-suggestions-list.png" width="40%" height="40%" /></p>
 
 ------
 
