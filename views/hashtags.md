@@ -34,7 +34,7 @@ Hashtag previews are a way to quickly inspect the recent media tagged with that 
 
 To view a hashtag preview:
 
-- Long-press on any hashtag found in a [caption](//views/upload.md), [comment](//views/detailview.md#comments) or [message.](//views/conversations/messages.md)
+- Long-press on any hashtag found in a [caption](//views/detailview.md), [comment](//views/detailview.md#comments) or [message.](//views/conversations/messages.md)
 
 To close a hashtag preview, press the <kbd>ESC</kbd> key, or click outside of the preview.
 
