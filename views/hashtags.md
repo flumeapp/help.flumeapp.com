@@ -8,7 +8,9 @@ The hashtags view displays all recent media [tagged with a hashtag in the captio
 
 ## Viewing Related Hashtags
 
-.
+To view hashtags related to the currently viewed hashtag:
+
+
 
 -----
 
