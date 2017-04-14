@@ -11,3 +11,6 @@ The Large Preview window allows you to zoom in on posts quickly and at their ori
 
 ## Viewing Large Previews
 
+.
+
+------
