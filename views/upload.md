@@ -39,6 +39,10 @@ To create a draft:
 - Drag-and-drop the draft onto an Upload window.
 - Use the <kbd>File > Open Draft…</kbd> macOS Menu Bar item.
 
+### Previewing Drafts
+
+Flume's drafts support [QuickLook](https://en.wikipedia.org/wiki/Quick_Look) and render previews of the photo or video in Finder.
+
 ------
 
 ## Editing
