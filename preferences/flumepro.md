@@ -10,7 +10,7 @@ Flume Pro is a one-time in-app purchase, our way of sustaining the development o
 &nbsp;
 
 > **[info]**
-> Flume for Mac via [Setapp](https://go.setapp.com/stp154) includes Flume Pro as standard and does not require any additional upgrade purchase, as it is covered by Setapp's monthly subscription fee. 
+> Flume for Mac via [Setapp](http://blog.flumeapp.com/post/156342148286/flume-comes-to-setapp) includes Flume Pro as standard and does not require any additional upgrade purchase, as it is covered by Setapp's monthly subscription fee. 
 
 -----
 
