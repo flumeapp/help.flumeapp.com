@@ -1,5 +1,7 @@
 # Comments
 
+The Comments view allows you to hide comments automatically and set keywords to hide on your posts.
+
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-comments.png" width="50%" height="50%" /></p>
 
 ------
