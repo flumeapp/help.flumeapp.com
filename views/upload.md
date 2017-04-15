@@ -136,14 +136,14 @@ To add a location on a photo or video:
 To edit a location on a photo or video:
 
 - Click the name of the location, and select the <kbd>Edit Location</kbd> item.
-- Tap the edit location button in the [Touch Bar.](//misc/touchbar.md)
+- Tap the edit location <img src="/views/assets/nearbyplaces.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
 
 ### Removing Tagged Locations
 
 To remove an existing location on a photo or video:
 
 - Click the name of the location, and select the <kbd>Remove Location</kbd> item.
-- Tap the remove location button in the [Touch Bar.](//misc/touchbar.md)
+- Tap the remove location <img src="/views/assets/nearbyplaces.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
 
 ------
 
