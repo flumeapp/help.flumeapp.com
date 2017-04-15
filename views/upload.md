@@ -115,6 +115,8 @@ To reposition a tagged user:
 
 ## Tagged Locations
 
+You can tag your photo and video at a location that displays in the [Details View](//views/detailview.md) and links to the [recent media tagged at that location.](//views/locations.md)
+
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/edit-location.png" width="80%" height="80%" /></p>
 
 ### Adding Tagged Locations
