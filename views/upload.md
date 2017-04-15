@@ -172,11 +172,11 @@ Choose at least one social network to share to.
 
 ------
 
-## Options
+## Advanced Settings
 
-To adjust additional options on your post:
+To adjust advanced settings on your post:
 
-- Click the Options <img src="/views/assets/share.png" width="20" height="20" /> button.
+- Click the Settings <img src="/views/assets/settings.png" width="20" height="20" /> button.
 
 > **[info]**
 > You can also [disable comments after posting.](//views/detailview.md#enabling--disabling-comments)
