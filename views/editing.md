@@ -63,7 +63,7 @@ To reposition a tagged user:
 
 To add a location on a photo or video:
 
-1. Click the "Add Location" button.
+1. Click the "Add Location" button, or tap the location <img src="/views/assets/location-add.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
 2. Type to search for the location to tag, or click the Nearby Places <img src="/views/assets/nearbyplaces.png" width="20" height="20" /> button to search locations close to your current position.
 3. Select a location from the search results. If no search results could be found, the results popover will disappear.
 
@@ -75,6 +75,7 @@ To add a location on a photo or video:
 To edit a location on a photo or video:
 
 - Click the name of the location, and select the <kbd>Edit Location</kbd> item.
+
 
 #### Removing Tagged Locations
 
