@@ -150,6 +150,8 @@ To remove an existing location on a photo or video:
 
 When uploading a video, you can choose a custom cover image thumbnail that will be used to represent the video as a still image.
 
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/upload-cover-image.png" width="50%" height="50%" /></p>
+
 To set a cover image:
 
 - Click the edit <img src="/views/assets/coverimage.png" width="20" height="20" /> button.
