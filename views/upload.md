@@ -1,4 +1,4 @@
-# Upload
+# Upload <img src="/preferences/assets/pro.png" width="36" height="20" /> 
 
 The Upload window allows you upload photos and videos, write captions, tag users, set cover frames, crop and resize, share to [linked accounts](//views/profile/linkedaccounts.md) and much more. 
 
