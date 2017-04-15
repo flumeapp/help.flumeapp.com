@@ -15,7 +15,7 @@ The login window will appear, and after successfully logging in, the active acco
 
 ------
 
-## Switching an Account
+## Switching an Account <img src="/preferences/assets/pro.png" width="36" height="20" />
 
 To switch between the active accounts, click on any <img src="/preferences/assets/active.png" width="20" height="20" /> button.
 
