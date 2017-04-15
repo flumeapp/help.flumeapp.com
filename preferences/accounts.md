@@ -2,9 +2,6 @@
 
 <p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/accounts.png" width="60%" height="60%" /></p>
 
-> **[info]**
-> In order to add more than one account at a time, you must upgrade to [Flume Pro.](/preferences/flumepro.md)
-
 ------ 
 
 ## Adding an Account <img src="/preferences/assets/pro.png" width="36" height="20" /> 
@@ -12,6 +9,9 @@
 To add an additional account, click on the <img src="/preferences/assets/add.png" width="20" height="20" /> button.
 
 The login window will appear, and after successfully logging in, the active account will be switched to the new account.
+
+> **[info]**
+> Adding multiple accounts is a [Flume Pro](/preferences/flumepro.md) feature.
 
 ------
 
