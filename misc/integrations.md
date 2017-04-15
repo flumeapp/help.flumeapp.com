@@ -1,7 +1,5 @@
 # Integrations
 
-------
-
 ## Finder
 
 ### System Services
