@@ -72,7 +72,10 @@ To reset all adjustments:
 
 ## Captions
 
-.
+You can add an optional caption to your posts, and make use of [#hashtags](//views/hashtags.md) and 
+
+> **[info]**
+> [Limits apply](//misc/limits.md) to the length of the caption, the number of hashtags, and mentions.
 
 ------
 
