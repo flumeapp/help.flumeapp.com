@@ -168,13 +168,17 @@ To share a post to a linked account:
 Choose at least one social network to share to. 
 
 > **[info]**
-> You can also save your sharing options, so that they are remebered for your next upload.
+> You can also save your sharing options, so that the previously enabled options are remebered for your next upload.
 
 ------
 
 ## Options
 
-.
+To adjust additional options on your post:
+
+- Click the Options <img src="/views/assets/share.png" width="20" height="20" /> button.
+
+Currently you can choose to disabling commenting. You can also [disable comments later.](//views/detailview.md)
 
 ------
 
