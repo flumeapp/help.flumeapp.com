@@ -5,7 +5,7 @@
 Flume Pro is a one-time in-app purchase, our way of sustaining the development of Flume. You can read more about the introduction of Flume Pro on our [blog.](http://blog.flumeapp.com/post/145212126271/introducing-flume-20-and-flume-pro)
 
 > **[warning]**
-> As of April 6th 2017, Flume is no longer available via the Mac App Store. If you purchased Flume Pro via the Mac App Store, please see how to [migrate your purchase.](#migrating-your-mac-app-store-purchase)
+> [As of April 6th 2017, Flume is no longer available via the Mac App Store.](http://support.flumeapp.com/customer/en/portal/articles/2782716-why-is-flume-not-on-the-mac-app-store-) If you purchased Flume Pro via the Mac App Store, please see how to [migrate your purchase.](#migrating-your-mac-app-store-purchase)
 
 Features that are unlocked via Flume Pro display a <img src="/preferences/assets/pro.png" width="36" height="20" /> badge.
 
@@ -17,15 +17,21 @@ Benefits of Flume Pro:
 
 Flume for Mac via [Setapp](https://go.setapp.com/stp154) includes Flume Pro as standard and does not require any additional upgrade purchase, as it is covered by Setapp's monthly subscription fee. 
 
+For more information on Flume Pro, please see the [Flume Pro FAQ.](http://support.flumeapp.com/customer/en/portal/topics/965352-flume-pro---faq/articles)
+
 ------ 
 
 ## Upgrading to Flume Pro
 
 To upgrade to Flume Pro, simply open Flume's [Preferences](/preferences/README.md), click on the "Flume Pro" tab, then click on "Upgrade to Pro". 
 
-Upon a successful purchase, you will be presented with a thank you screen. Your licence code will be emailed to you as well as your purchase receipt.
+Upon a successful purchase, you will be presented with a thank you screen. Your licence code will be emailed to you, as well as your purchase receipt.
 
 If you do not receive your licence code, please check your Spam folders. If you made a mistake with your email address, [please contact us.](https://flumeapp.com/support/)
+
+> **[info]**
+> Licence codes can be activated on up to 5 Macs (personal-use)
+
 
 ## Activating Flume Pro
 
@@ -50,7 +56,7 @@ If you have previously purchased Flume Pro via the Mac App Store, you will need 
 
 To migrate your Mac App Store purchase:
 
-1. Click the options <img src="/views/assets/detail-view-usertags-1.png" width="50%" height="50%" /> button, and select the <kbd>Migrate Mac App Store Purchase</kbd> item.
+1. Click the actions <img src="/views/assets/actions-menu.png" width="36" height="20" /> button, and select the <kbd>Migrate Mac App Store Purchase</kbd> item.
 2. Drag the copy of Flume.app (normally in your /Applications/ folder) on to the Licence Migrator. Your digital receipt will be verified to confirm your Flume Pro purchase.
 
 If you no longer have the Mac App Store version of Flume installed, did not activate Flume Pro in the Mac App Store on your Mac, or have any other issues migrating your purchase, you will need to send proof of your purchase to us. Please contact us with the transaction ID and screenshot from your [iTunes purchase history.](https://support.apple.com/en-us/HT204088)
