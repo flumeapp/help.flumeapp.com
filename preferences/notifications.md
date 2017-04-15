@@ -37,6 +37,6 @@ Whenever a new message in an existing [Conversation](/views/conversations.md) is
 Whenever a new follower request is received, the notification settings will apply. This usually occurs when the [automatic refresh interval](/preferences/feed.md#automatic-refresh-interval) elapses. 
 
 > **[info]**
-> Applies only to [private profiles.](/views/profile/privateprofiles.md)
+> Follower requests are only available if you have a [private profile.](/views/profile/privateprofiles.md)
 
 ------
