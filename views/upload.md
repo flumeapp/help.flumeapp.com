@@ -146,13 +146,15 @@ To remove an existing location on a photo or video:
 
 ------
 
-## Cover Frames
+## Cover Image
 
 When uploading a video, you can choose a custom cover image thumbnail that will be used to represent the video as a still image.
 
 To set a cover image:
 
-
+- Click the edit <img src="/views/assets/coverimage.png" width="20" height="20" /> button.
+- Use the <kbd>Upload > Select a Cover Image…</kbd> macOS Menu Bar item.
+- Tap the cover image <img src="/views/assets/coverimage.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
 
 ------
 
