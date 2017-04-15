@@ -166,9 +166,9 @@ Use the slider to select a position in the video as the cover image.
 
 ### Photos
 
-When you choose a photo that exceeds the [aspect ratio requirements](//misc/upload-specifications.md), you have two options:
+When you select a photo to upload that exceeds the [aspect ratio requirements](//misc/upload-specifications.md), you have two options:
 
-- Scroll the photo's cropping region to an area
+- Scroll the photo's cropping region to a desired area using your mouse/trackpad. The region of the photo not visible will be cropped from the upload.
 - Resizing the photo to fit into a square, with an optional border colour.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/upload-cropping.png" width="50%" height="50%" /></p>
@@ -183,6 +183,12 @@ To crop a photo:
 
 Click-and-drag the resize handles to adjust the cropping region, and click-and-drag the square to adjust the cropping position.
 
+##### Resizing Photos to Fit
+
+If your selected photo exceeds the [aspect ratio requirements](//misc/upload-specifications.md), an extra <kbd>Resize to Fit</kbd> option appears in the image cropping view, with the ability to also choose a custom border color.
+
+This ensures your landscape or portrait photos will not be cropped.
+
 #### Resizing Photos
 
 To resize a photo back to its original dimensions:
@@ -194,7 +200,16 @@ To resize a photo back to its original dimensions:
 
 ### Videos
 
+When you select a video to upload that exceeds the [aspect ratio requirements](//misc/upload-specifications.md), you have two options:
 
+- Scroll the video's cropping region to a desired area using your mouse/trackpad. The region of the video not visible will be cropped from the upload, and the original aspect ratio will be maintained.
+- Resizing the video to fit into a square. Like above, scroll the video's cropping region to a desired area using your mouse/trackpad. The region of the video not visible will be cropped from the upload, and a 1:1 (square) aspect ratio will be maintained.
+
+
+> **[info]**
+> When selecting a video that is already 1:1 (square), the options to crop or resize will be disabled.
+>
+> It is not currently possible to resize videos to fit, unlike photos.
 
 ------
 
