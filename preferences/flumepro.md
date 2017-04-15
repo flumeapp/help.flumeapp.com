@@ -23,7 +23,7 @@ For more information on Flume Pro, please see the [Flume Pro FAQ.](http://suppor
 
 ## Upgrading to Flume Pro
 
-To upgrade to Flume Pro, simply open Flume's [Preferences](/preferences/README.md), click on the "Flume Pro" tab, then click on "Upgrade to Pro". 
+To upgrade to Flume Pro, simply open Flume's [Preferences](/preferences/README.md), click on the "Flume Pro" tab, then click on <kbd>Upgrade to Pro</kbd>. A pop-up window will guide you through the payment process.
 
 Upon a successful purchase, you will be presented with a thank you screen. Your licence code will be emailed to you, as well as your purchase receipt.
 
@@ -32,6 +32,7 @@ If you do not receive your licence code, please check your Spam folders. If you 
 > **[info]**
 > Licence codes can be activated on up to 5 Macs (personal-use)
 
+------
 
 ## Activating Flume Pro
 
@@ -41,12 +42,19 @@ To activate your Flume Pro licence:
 
 <p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/flumepro-success.png" width="60%" height="60%" /></p>
 
+------
+
 ## Deactivating Flume Pro
 
 To deactivate your Flume Pro licence:
 
 - Do this.
 
+------
+
+## Recovering Lost Licence
+
+If you've deleted your licence code email, you can [recover it from our website.](https://flumeapp.com/pro/lost/)
 
 ------
 
