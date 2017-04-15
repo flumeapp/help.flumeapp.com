@@ -79,15 +79,63 @@ You can add an optional caption to your posts. When typing a # or @ character, y
 
 ------
 
-## Tagged Locations
+## Tagged Users
 
-.
+You can include up to 30 users to tag in a photo.
+
+
+
+#### Editing Tagged Users
+
+To edit the tagged users in a photo:
+
+1. Click the tagged users <img src="/views/assets/taggedusers.png" width="20" height="20" /> button.
+2. Click a position in the photo where the user is located.
+3. Type in the search text field to find the relevant user.
+4. Click on a search result to confirm the user tag.
+
+#### Removing Tagged Users
+
+To remove a tagged user:
+
+1. Click the tagged users <img src="/views/assets/taggedusers.png" width="20" height="20" /> button.
+2. Hover the mouse over the user tag you wish to remove and click it once.
+
+#### Repositioning Tagged Users
+
+To reposition a tagged user:
+
+1. Click the tagged users <img src="/views/assets/taggedusers.png" width="20" height="20" /> button.
+2. Hover the mouse over the user tag you wish to remove and click-and-drag it to a new position.
 
 ------
 
-## Tagged Users
+### Tagged Locations
 
-.
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/edit-location.png" width="80%" height="80%" /></p>
+
+#### Adding Tagged Locations
+
+To add a location on a photo or video:
+
+1. Click the "Add Location" button.
+2. Type to search for the location to tag, or click the Nearby Places <img src="/views/assets/nearbyplaces.png" width="20" height="20" /> button to search locations close to your current position.
+3. Select a location from the search results. If no search results could be found, the results popover will disappear.
+
+> **[info]**
+> If the photo or video contains [geotag](https://en.wikipedia.org/wiki/Geotagging) location information, Flume will automatically search for the GPS coordinates where the photo or video was taken.
+
+#### Editing Tagged Locations
+
+To edit a location on a photo or video:
+
+- Click the name of the location, and select the <kbd>Edit Location</kbd> item.
+
+#### Removing Tagged Locations
+
+To remove an existing location on a photo or video:
+
+- Click the name of the location, and select the <kbd>Remove Location</kbd> item.
 
 ------
 
