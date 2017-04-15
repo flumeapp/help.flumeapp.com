@@ -2,7 +2,10 @@
 
 <p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/flumepro.png" width="60%" height="60%" /></p>
 
-Flume Pro is a one-time [In-App Purchase](https://support.apple.com/en-us/HT202023), our way of sustaining the development of Flume. You can read more about the introduction of Flume Pro on our [blog.](http://blog.flumeapp.com/post/145212126271/introducing-flume-20-and-flume-pro)
+Flume Pro is a one-time in-app purchase, our way of sustaining the development of Flume. You can read more about the introduction of Flume Pro on our [blog.](http://blog.flumeapp.com/post/145212126271/introducing-flume-20-and-flume-pro)
+
+> **[warning]**
+> As of April 6th 2017, Flume is no longer available via the Mac App Store. If you purchased Flume Pro via the Mac App Store, please see how to [migrate your purchase.](#migrating-your-mac-app-store-purchase)
 
 Features that are unlocked via Flume Pro display a <img src="/preferences/assets/pro.png" width="36" height="20" /> badge.
 
@@ -18,22 +21,44 @@ Flume for Mac via [Setapp](https://go.setapp.com/stp154) includes Flume Pro as s
 
 ## Upgrading to Flume Pro
 
-To upgrade to Flume Pro, simply open Flume's [Preferences](/preferences/README.md), click on the "Flume Pro" tab, then click on "Upgrade to Pro". The price of Flume Pro will vary based on your App Store region and currency, and will be displayed in the button.
+To upgrade to Flume Pro, simply open Flume's [Preferences](/preferences/README.md), click on the "Flume Pro" tab, then click on "Upgrade to Pro". 
 
-Flume will communicate with the App Store to confirm your Apple ID and purchase. Upon a successful purchase, you will be presented with a thank you screen. All previously locked features such as [uploading](/views/upload.md) and [adding multiple accounts](/preferences/accounts.md) will be unlocked and the <img src="/preferences/assets/pro.png" width="36" height="20" /> badge will disappear.
+Upon a successful purchase, you will be presented with a thank you screen. Your licence code will be emailed to you as well as your purchase receipt.
+
+If you do not receive your licence code, please check your Spam folders. If you made a mistake with your email address, [please contact us.](https://flumeapp.com/support/)
+
+## Activating Flume Pro
+
+To activate your Flume Pro licence:
+
+- Do this.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/flumepro-success.png" width="60%" height="60%" /></p>
 
+## Deactivating Flume Pro
+
+To deactivate your Flume Pro licence:
+
+- Do this.
+
+
 ------
 
-## Restoring Flume Pro
+## Migrating Your Mac App Store Purchase
 
-If you have previously purchased Flume Pro, use the "Restore Purchases" button. Flume will communicate with Apple to discover if the currently logged in Apple ID has previously upgraded to Flume Pro.
+If you have previously purchased Flume Pro via the Mac App Store, you will need to migrate it to a licence code.
+
+To migrate your Mac App Store purchase:
+
+1. Click the options <img src="/views/assets/detail-view-usertags-1.png" width="50%" height="50%" /> button, and select the <kbd>Migrate Mac App Store Purchase</kbd> item.
+2. Drag the copy of Flume.app (normally in your /Applications/ folder) on to the Licence Migrator. Your digital receipt will be verified to confirm your Flume Pro purchase.
+
+If you no longer have the Mac App Store version of Flume installed, did not activate Flume Pro in the Mac App Store on your Mac, or have any other issues migrating your purchase, you will need to send proof of your purchase to us. Please contact us with the transaction ID and screenshot from your [iTunes purchase history.](https://support.apple.com/en-us/HT204088)
 
 ------
 
 ## Purchase / Restore issues
 
-If you are having trouble restoring or purchasing Flume Pro, please visit our [Support Portal](http://support.flumeapp.com) to discover up-to-date workarounds and fixes.
+If you are having trouble purchasing Flume Pro, please visit our [Support Portal](http://support.flumeapp.com) to discover up-to-date workarounds and fixes, or to contact us.
 
 ------
