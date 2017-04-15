@@ -158,7 +158,17 @@ To remove an existing location on a photo or video:
 
 ## Sharing
 
-.
+Sharing allows you to cross-post your upload to a [linked account.](//views/profile/linkedaccounts.md) You can also [share existing posts](//views/sharing.md) at any time.
+
+To share a post to a linked account:
+
+- Click the Share <img src="/views/assets/share.png" width="20" height="20" /> button.
+- Use the <kbd>Upload > Share > Linked Account</kbd> macOS Menu Bar item.
+
+Choose at least one social network to share to. 
+
+> **[info]**
+> You can also save your sharing options, so that they are remebered for your next upload.
 
 ------
 
