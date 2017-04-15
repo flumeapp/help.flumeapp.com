@@ -81,9 +81,10 @@ You can add an optional caption to your posts. When typing a # or @ character, y
 
 ## Tagged Users
 
-You can include up to 30 users to tag in a photo.
+You can include up to 30 users to tag in a photo. The tagged users can be viewed in the [Details View](//views/detailview.md).
 
-
+> **[info]**
+> Only photos can contain tagged users.
 
 #### Editing Tagged Users
 
