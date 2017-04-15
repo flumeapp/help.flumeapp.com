@@ -5,6 +5,8 @@ Flume Pro is a one-time in-app purchase, our way of sustaining the development o
 > **[warning]**
 > [As of April 6th 2017, Flume is no longer available via the Mac App Store.](http://support.flumeapp.com/customer/en/portal/articles/2782716-why-is-flume-not-on-the-mac-app-store-) If you purchased Flume Pro via the Mac App Store, please see how to [migrate your purchase.](#migrating-your-mac-app-store-purchase)
 
+-----
+
 ## Flume Pro Features
 
 Features that are unlocked via Flume Pro display a <img src="/preferences/assets/pro.png" width="36" height="20" /> badge.
