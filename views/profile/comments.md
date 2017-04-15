@@ -1,6 +1,6 @@
 # Comments
 
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-comments.png" width="30%" height="30%" /></p>
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-comments.png" width="50%" height="50%" /></p>
 
 ------
 
