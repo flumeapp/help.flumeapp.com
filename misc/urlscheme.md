@@ -4,6 +4,9 @@ Flume uses the <kbd>flumeapp://</kbd> URL scheme, which allows you to create lin
 
 Additionally, all the shortcuts below can be opened via a HTTP link to our website (eg. <kbd>https://flumeapp.com/?redirect=pro</kbd>)
 
+> **[info]**
+> If you are a Flume Beta user, substitute <kbd>flumeapp://</kbd> with <kbd>flumeapp-beta://</kbd> for all links. There is currently no ability to use the HTTP redirect shortcut to open Flume Beta.
+
 ------
 
 ## General Shortcuts
