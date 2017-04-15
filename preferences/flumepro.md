@@ -1,6 +1,6 @@
 # Flume Pro Preferences
 
-<p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/flumepro.png" width="60%" height="60%" /></p>
+<p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/flume-pro.png" width="60%" height="60%" /></p>
 
 Flume Pro is a one-time in-app purchase, our way of sustaining the development of Flume. You can read more about the introduction of Flume Pro on our [blog.](http://blog.flumeapp.com/post/145212126271/introducing-flume-20-and-flume-pro)
 
@@ -38,7 +38,7 @@ If you do not receive your licence code, please check your Spam folders. If you 
 
 To activate your Flume Pro licence:
 
-- Do this.
+1. Click
 
 <p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/flumepro-success.png" width="60%" height="60%" /></p>
 
