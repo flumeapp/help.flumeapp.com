@@ -171,7 +171,10 @@ When you choose a photo that exceeds the [aspect ratio requirements](//misc/uplo
 - Scroll the photo's cropping region to an area
 - Resizing the photo to fit into a square, with an optional border colour.
 
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/upload-cropping.png" width="50%" height="50%" /></p>
+
 To crop a photo:
+
 
 
 
