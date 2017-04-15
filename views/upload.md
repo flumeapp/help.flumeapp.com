@@ -32,7 +32,7 @@ To create a draft:
 
 ### Opening Drafts
 
-- To open a draft:
+To open a draft:
 
 - Open the draft file in Finder.
 - Drag-and-drop the draft onto Flume's Dock icon.
