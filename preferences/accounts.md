@@ -7,7 +7,7 @@
 
 ------ 
 
-## Adding an Account
+## Adding an Account <img src="/preferences/assets/pro.png" width="36" height="20" /> 
 
 To add an additional account, click on the <img src="/preferences/assets/add.png" width="20" height="20" /> button.
 
