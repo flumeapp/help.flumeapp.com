@@ -183,14 +183,6 @@ To crop a photo:
 
 Click-and-drag the resize handles to adjust the cropping region, and click-and-drag the square to adjust the cropping position.
 
-##### Resizing Photos to Fit
-
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/upload-cropping-resizetofit.png" width="50%" height="50%" /></p>
-
-If your selected photo exceeds the [aspect ratio requirements](//misc/upload-specifications.md), an extra <kbd>Resize to Fit</kbd> option appears in the image cropping view, with the ability to also choose a custom border color.
-
-This ensures your landscape or portrait photos will not be cropped.
-
 #### Resizing Photos
 
 To resize a photo back to its original dimensions:
@@ -199,6 +191,13 @@ To resize a photo back to its original dimensions:
 - Use the <kbd>Upload > Resize to Original</kbd> macOS Menu Bar item.
 - Tap the resize <img src="/views/assets/resize.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
 
+#### Resizing Photos to Fit
+
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/upload-cropping-resizetofit.png" width="50%" height="50%" /></p>
+
+If your selected photo exceeds the [aspect ratio requirements](//misc/upload-specifications.md), an extra <kbd>Resize to Fit</kbd> option appears in the image cropping view, with the ability to also choose a custom border color.
+
+This ensures your landscape or portrait photos will not be cropped.
 
 ### Videos
 
