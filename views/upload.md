@@ -11,7 +11,7 @@ The Upload window allows you upload photos and videos, write captions, tag users
 
 ## Drafts
 
-Flume has support for drafts through it's own file type, ".flume". Drafts save the following information:
+Flume has support for drafts through its own .flume document type. Drafts save the following information:
 
 - The photo or video to post, with all previous [filters](#filters) and [adjustments](#adjustments) applied.
 - The [caption.](#captions)
