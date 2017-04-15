@@ -34,7 +34,7 @@ The caption of a post can be edited at any time. When typing a # or @ character,
 
 To edit the tagged users in a photo:
 
-1. Click the tagged users <img src="/views/assets/taggedusers.png" width="20" height="20" /> button.
+1. Click the tagged users <img src="/views/assets/taggedusers.png" width="20" height="20" /> button on the photo/video, or tap the button in the [Touch Bar.](//misc/touchbar.md)
 2. Click a position in the photo where the user is located.
 3. Type in the search text field to find the relevant user.
 4. Click on a search result to confirm the user tag.
@@ -43,14 +43,14 @@ To edit the tagged users in a photo:
 
 To remove a tagged user:
 
-1. Click the tagged users <img src="/views/assets/taggedusers.png" width="20" height="20" /> button.
+1. Click the tagged users <img src="/views/assets/taggedusers.png" width="20" height="20" /> button on the photo/video, or tap the button in the [Touch Bar.](//misc/touchbar.md)
 2. Hover the mouse over the user tag you wish to remove and click it once.
 
 #### Repositioning Tagged Users
 
 To reposition a tagged user:
 
-1. Click the tagged users <img src="/views/assets/taggedusers.png" width="20" height="20" /> button.
+1. Click the tagged users <img src="/views/assets/taggedusers.png" width="20" height="20" /> button on the photo/video, or tap the button in the [Touch Bar.](//misc/touchbar.md)
 2. Hover the mouse over the user tag you wish to remove and click-and-drag it to a new position.
 
 ------
