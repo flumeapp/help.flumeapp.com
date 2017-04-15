@@ -92,7 +92,7 @@ You can include up to 30 users to tag in a photo. The tagged users can be viewed
 
 To add a tagged user in a photo:
 
-1. Click the tagged users <img src="/views/assets/taggedusers.png" width="20" height="20" /> button.
+1. Click the tagged users <img src="/views/assets/taggedusers.png" width="20" height="20" /> button on the photo/video, or tap the button in the [Touch Bar.](//misc/touchbar.md)
 2. Click a position in the photo where the user is located.
 3. Type in the search text field to find the relevant user.
 4. Click on a search result to confirm the user tag.
@@ -101,14 +101,14 @@ To add a tagged user in a photo:
 
 To remove a tagged user:
 
-1. Click the tagged users <img src="/views/assets/taggedusers.png" width="20" height="20" /> button.
+1. Click the tagged users <img src="/views/assets/taggedusers.png" width="20" height="20" /> button on the photo/video, or tap the button in the [Touch Bar.](//misc/touchbar.md)
 2. Hover the mouse over the user tag you wish to remove and click it once.
 
 ### Repositioning Tagged Users
 
 To reposition a tagged user:
 
-1. Click the tagged users <img src="/views/assets/taggedusers.png" width="20" height="20" /> button.
+1. Click the tagged users <img src="/views/assets/taggedusers.png" width="20" height="20" /> button on the photo/video, or tap the button in the [Touch Bar.](//misc/touchbar.md)
 2. Hover the mouse over the user tag you wish to remove and click-and-drag it to a new position.
 
 ------
@@ -123,7 +123,8 @@ You can tag your photo and video at a location that displays in the [Details Vie
 
 To add a location on a photo or video:
 
-1. Click the "Add Location" button.
+1. Click the "Add Location" button, or tap the location <img src="/views/assets/location.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
+
 2. Type to search for the location to tag, or click the Nearby Places <img src="/views/assets/nearbyplaces.png" width="20" height="20" /> button to search locations close to your current position.
 3. Select a location from the search results. If no search results could be found, the results popover will disappear.
 
@@ -135,18 +136,24 @@ To add a location on a photo or video:
 To edit a location on a photo or video:
 
 - Click the name of the location, and select the <kbd>Edit Location</kbd> item.
+- Tap the edit location button in the [Touch Bar.](//misc/touchbar.md)
 
 ### Removing Tagged Locations
 
 To remove an existing location on a photo or video:
 
 - Click the name of the location, and select the <kbd>Remove Location</kbd> item.
+- Tap the remove location button in the [Touch Bar.](//misc/touchbar.md)
 
 ------
 
 ## Cover Frames
 
-.
+When uploading a video, you can choose a custom cover image thumbnail that will be used to represent the video as a still image.
+
+To set a cover image:
+
+
 
 ------
 
