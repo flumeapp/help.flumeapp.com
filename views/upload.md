@@ -25,7 +25,10 @@ Flume has support for drafts through it's own file type, ".flume". Drafts save t
 
 To create a draft:
 
-- After selecting your photo/video and making all necessary edits, close the upload window.
+- After selecting your photo/video and making all necessary edits, close the upload window. A save dialog will appear to select a location.
+
+> **[info]**
+> If you make edits to a previously opened draft, changes will be saved to the same draft file and no save dialog will appear.
 
 ## Opening Drafts
 
