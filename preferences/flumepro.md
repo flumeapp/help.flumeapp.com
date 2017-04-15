@@ -7,6 +7,9 @@ Flume Pro is a one-time in-app purchase, our way of sustaining the development o
 > **[warning]**
 > [As of April 6th 2017, Flume is no longer available via the Mac App Store.](http://support.flumeapp.com/customer/en/portal/articles/2782716-why-is-flume-not-on-the-mac-app-store-) If you purchased Flume Pro via the Mac App Store, please see how to [migrate your purchase.](#migrating-your-mac-app-store-purchase)
 
+> **[info]**
+> Flume for Mac via [Setapp](https://go.setapp.com/stp154) includes Flume Pro as standard and does not require any additional upgrade purchase, as it is covered by Setapp's monthly subscription fee. 
+
 -----
 
 ## Flume Pro Features
@@ -18,8 +21,6 @@ Benefits of Flume Pro:
 - [Upload photos/videos.](/views/upload.md)
 - [Add multiple accounts.](/preferences/accounts.md) You can add and easily switch between as many accounts as you like.
 - A good feeling :)
-
-Flume for Mac via [Setapp](https://go.setapp.com/stp154) includes Flume Pro as standard and does not require any additional upgrade purchase, as it is covered by Setapp's monthly subscription fee. 
 
 For more information on Flume Pro, please see the [Flume Pro FAQ.](http://support.flumeapp.com/customer/en/portal/topics/965352-flume-pro---faq/articles)
 
