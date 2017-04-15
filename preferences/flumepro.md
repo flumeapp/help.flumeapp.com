@@ -42,7 +42,7 @@ If you do not receive your licence code, please check your Spam folders. If you 
 
 To activate your Flume Pro licence:
 
-1. Click the actions <img src="/views/assets/actions-menu.png" width="36" height="20" /> button, and select the <kbd>Enter Licence Code…</kbd> item.
+1. Click the actions <img src="/views/assets/actions-menu.png" width="20" height="20" /> button, and select the <kbd>Enter Licence Code…</kbd> item.
 2. Enter your licence code that you received via email.<br /><br /><img src="/preferences/assets/flume-pro-enter-licence.png" width="70%" height="70%" />
 3. Click <kbd>Verify</kbd>. If your licence has not exhausted all its activations, your name and email address will appear.<br /><br /><img src="/preferences/assets/flume-pro-verify.png" width="70%" height="70%" />
 4. Click <kbd>Activate</kbd><br /><br /><img src="/preferences/assets/flume-pro-activated.png" width="70%" height="70%" />
