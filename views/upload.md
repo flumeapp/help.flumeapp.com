@@ -175,7 +175,9 @@ When you choose a photo that exceeds the [aspect ratio requirements](//misc/uplo
 
 To crop a photo:
 
-
+- Click the crop <img src="/views/assets/crop.png" width="20" height="20" /> button.
+- Use the <kbd>Upload > Crop…</kbd> macOS Menu Bar item.
+- Tap the crop <img src="/views/assets/crop.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
 
 
 ### Videos
