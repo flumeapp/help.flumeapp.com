@@ -72,7 +72,7 @@ To reset all adjustments:
 
 ## Captions
 
-You can add an optional caption to your posts, and make use of [#hashtags](//views/hashtags.md) and 
+You can add an optional caption to your posts. When typing a # or @ character, your keyboard input will also search Instagram for matching hashtags and users until you select an item from the popover, press the <kbd>ESC</kbd> key, or press another space.
 
 > **[info]**
 > [Limits apply](//misc/limits.md) to the length of the caption, the number of hashtags, and mentions.
