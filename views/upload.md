@@ -164,7 +164,19 @@ Use the slider to select a position in the video as the cover image.
 
 ## Cropping / Resizing
 
-.
+### Photos
+
+When you choose a photo that exceeds the [aspect ratio requirements](//misc/upload-specifications.md), you have two options:
+
+- Scroll the photo's cropping region to an area
+- Resizing the photo to fit into a square, with an optional border colour.
+
+To crop a photo:
+
+
+
+### Videos
+
 
 ------
 
