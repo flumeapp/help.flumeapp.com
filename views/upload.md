@@ -21,7 +21,7 @@ Flume has support for drafts through it's own file type, ".flume". Drafts save t
 - The [advanced settings.](#advanced-settings)
 - The [account](//preferences/accounts.md) to post to.
 
-## Creating Drafts
+### Creating Drafts
 
 To create a draft:
 
@@ -30,7 +30,7 @@ To create a draft:
 > **[info]**
 > If you make edits to a previously opened draft, changes will be saved to the same draft file and no save dialog will appear.
 
-## Opening Drafts
+### Opening Drafts
 
 - To open a draft:
 
@@ -288,5 +288,14 @@ To adjust advanced settings on your post:
 
 > **[info]**
 > You can also [disable comments after posting.](//views/detailview.md#enabling--disabling-comments)
+
+------
+
+## Switching Accounts
+
+To switch the account to post with:
+
+- Long-press on the profile picture and select an account.
+- Use the <kbd>Accounts</kbd> macOS Menu Bar item.
 
 ------
