@@ -47,7 +47,6 @@ To activate your Flume Pro licence:
 3. Click <kbd>Verify</kbd>. If your licence has not exhausted all its activations, your name and email address will appear.<br /><br /><img src="/preferences/assets/flume-pro-verify.png" width="70%" height="70%" />
 4. Click <kbd>Activate</kbd><br /><br /><img src="/preferences/assets/flume-pro-activated.png" width="70%" height="70%" />
 
-
 ------
 
 ## Deactivating Flume Pro
