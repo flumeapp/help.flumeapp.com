@@ -17,13 +17,21 @@ Flume has support for drafts through it's own file type, ".flume". Drafts can be
 - The [caption.](#captions)
 - The [tagged users.](#tagged-users)
 - The [tagged location.](#tagged-locations)
+- The [sharing options.](#sharing)
+- The [advanced settings.](#advanced-settings)
+- The [account](//preferences/accounts.md) to post to.
 
-
-
+## Creating Drafts
 
 To create a draft:
 
-- After selecting your photo/video and making all necessary 
+- After selecting your photo/video and making all necessary edits, close the upload window.
+
+## Opening Drafts
+
+- To open a draft:
+
+
 
 ------
 
