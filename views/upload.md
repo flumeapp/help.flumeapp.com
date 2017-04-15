@@ -83,6 +83,8 @@ You can add an optional caption to your posts. When typing a # or @ character, y
 
 You can include up to 30 users to tag in a photo. The tagged users can be viewed in the [Details View](//views/detailview.md).
 
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/detail-view-usertags-1.png" width="50%" height="50%" /></p>
+
 > **[info]**
 > Only photos can contain tagged users.
 
