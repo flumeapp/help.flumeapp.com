@@ -113,11 +113,11 @@ To reposition a tagged user:
 
 ------
 
-### Tagged Locations
+## Tagged Locations
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/edit-location.png" width="80%" height="80%" /></p>
 
-#### Adding Tagged Locations
+### Adding Tagged Locations
 
 To add a location on a photo or video:
 
@@ -128,13 +128,13 @@ To add a location on a photo or video:
 > **[info]**
 > If the photo or video contains [geotag](https://en.wikipedia.org/wiki/Geotagging) location information, Flume will automatically search for the GPS coordinates where the photo or video was taken.
 
-#### Editing Tagged Locations
+### Editing Tagged Locations
 
 To edit a location on a photo or video:
 
 - Click the name of the location, and select the <kbd>Edit Location</kbd> item.
 
-#### Removing Tagged Locations
+### Removing Tagged Locations
 
 To remove an existing location on a photo or video:
 
