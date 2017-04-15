@@ -179,6 +179,12 @@ To crop a photo:
 - Use the <kbd>Upload > Crop…</kbd> macOS Menu Bar item.
 - Tap the crop <img src="/views/assets/crop.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
 
+To resize a photo back to its original dimensions:
+
+- Click the resize <img src="/views/assets/resize.png" width="20" height="20" /> button.
+- Use the <kbd>Upload > Resize to Original</kbd> macOS Menu Bar item.
+- Tap the resize <img src="/views/assets/resize.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
+
 
 ### Videos
 
