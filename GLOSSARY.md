@@ -1,3 +1,8 @@
+---
+search: false
+---
+
+
 # Glossary
 
 ## macOS Menu Bar
