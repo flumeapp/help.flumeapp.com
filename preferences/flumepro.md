@@ -85,8 +85,8 @@ To migrate your Mac App Store purchase:
 
 ------
 
-## Purchasing / Licencing Issues
+## Need Help?
 
-If you are having trouble purchasing Flume Pro, please visit our [Support Portal](http://support.flumeapp.com) to discover up-to-date workarounds and fixes, or to contact us.
+If you are having trouble purchasing or activating Flume Pro, please visit our [Support Portal](http://support.flumeapp.com) to contact us.
 
 ------
