@@ -1,7 +1,5 @@
 # Flume Pro Preferences
 
-<p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/flume-pro.png" width="60%" height="60%" /></p>
-
 Flume Pro is a one-time in-app purchase, our way of sustaining the development of Flume. You can read more about the introduction of Flume Pro on our [blog.](http://blog.flumeapp.com/post/145212126271/introducing-flume-20-and-flume-pro)
 
 > **[warning]**
@@ -18,6 +16,8 @@ Benefits of Flume Pro:
 Flume for Mac via [Setapp](https://go.setapp.com/stp154) includes Flume Pro as standard and does not require any additional upgrade purchase, as it is covered by Setapp's monthly subscription fee. 
 
 For more information on Flume Pro, please see the [Flume Pro FAQ.](http://support.flumeapp.com/customer/en/portal/topics/965352-flume-pro---faq/articles)
+
+<p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/flume-pro.png" width="60%" height="60%" /></p>
 
 ------ 
 
@@ -68,6 +68,8 @@ To migrate your Mac App Store purchase:
 
 1. Click the actions <img src="/views/assets/actions-menu.png" width="36" height="20" /> button, and select the <kbd>Migrate Mac App Store Purchase</kbd> item.
 2. Drag the copy of Flume.app (normally in your /Applications/ folder) on to the Licence Migrator. Your digital receipt will be verified to confirm your Flume Pro purchase.
+
+<p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/flume-pro-migrate.png" width="60%" height="60%" /></p>
 
 If you no longer have the Mac App Store version of Flume installed, did not activate Flume Pro in the Mac App Store on your Mac, or have any other issues migrating your purchase, you will need to send proof of your purchase to us. Please [contact us](mailto:support@flumeapp.com?subject=Mac%20App%20Store%20Migration&body=Please%20help%20me%20migrate%20my%20Mac%20App%20Store%20purchase.%20My%20proof%20of%20purchase%20is%20attached.) with the transaction ID and screenshot from your [iTunes purchase history.](https://support.apple.com/en-us/HT204088)
 
