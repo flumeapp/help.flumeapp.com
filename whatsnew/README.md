@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # What's New in Flume
 
 
