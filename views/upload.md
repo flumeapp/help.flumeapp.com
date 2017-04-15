@@ -185,6 +185,8 @@ Click-and-drag the resize handles to adjust the cropping region, and click-and-d
 
 ##### Resizing Photos to Fit
 
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/upload-cropping-resizetofit.png" width="50%" height="50%" /></p>
+
 If your selected photo exceeds the [aspect ratio requirements](//misc/upload-specifications.md), an extra <kbd>Resize to Fit</kbd> option appears in the image cropping view, with the ability to also choose a custom border color.
 
 This ensures your landscape or portrait photos will not be cropped.
