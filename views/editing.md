@@ -28,7 +28,9 @@ The caption of a post can be edited at any time. When typing a # or @ character,
 
 ### Tagged Users
 
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/edit-tagging-1.png" width="40%" height="40%" /> <img src="/views/assets/edit-tagging-2.png" width="40%" height="40%" /></p>
+You can include up to 30 users to tag in a photo. The tagged users can be viewed in the [Details View](//views/detailview.md).
+
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/detail-view-usertags-1.png" width="30%" height="30%" /> <img src="/views/assets/detail-view-usertags-2.png" width="30%" height="30%" /></p>
 
 > **[info]**
 > Only photos can contain tagged users.
