@@ -205,7 +205,7 @@ Use the video scrubber in the cover image view or [Touch Bar](//misc/touchbar.md
 When you select a photo to upload that exceeds the [aspect ratio requirements](//misc/upload-specifications.md), you have two options:
 
 - Scroll the photo's cropping region to a desired area using your mouse/trackpad. The region of the photo not visible will be cropped from the upload.
-- Resizing the photo to fit into a square, with an optional border colour.
+- [Resizing the photo to fit into a square](#resizing-photos-to-fit), with an optional border colour.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/upload-cropping.png" width="50%" height="50%" /></p>
 
