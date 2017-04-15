@@ -10,7 +10,7 @@
             "minTocSize": 2
        },
        "anchorjs": {
-          "placement": "right",
+          "placement": "right"
         }
     }
 }
