@@ -178,7 +178,8 @@ To adjust additional options on your post:
 
 - Click the Options <img src="/views/assets/share.png" width="20" height="20" /> button.
 
-Currently you can choose to disabling commenting. You can also [disable comments later.](//views/detailview.md)
+> **[info]**
+> You can also [disable comments after posting.](//views/detailview.md#enabling--disabling-comments)
 
 ------
 
