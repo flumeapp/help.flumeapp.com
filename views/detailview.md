@@ -110,7 +110,7 @@ To translate a comment:
 
 -----
 
-### Enabling/Disabling Comments
+### Enabling / Disabling Comments
 
 By defaults, comments are permitted on your posts. You can disable commenting on your posts if you prefer.
 
