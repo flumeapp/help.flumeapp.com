@@ -86,23 +86,23 @@ You can include up to 30 users to tag in a photo. The tagged users can be viewed
 > **[info]**
 > Only photos can contain tagged users.
 
-#### Editing Tagged Users
+### Adding Tagged Users
 
-To edit the tagged users in a photo:
+To add a tagged user in a photo:
 
 1. Click the tagged users <img src="/views/assets/taggedusers.png" width="20" height="20" /> button.
 2. Click a position in the photo where the user is located.
 3. Type in the search text field to find the relevant user.
 4. Click on a search result to confirm the user tag.
 
-#### Removing Tagged Users
+### Removing Tagged Users
 
 To remove a tagged user:
 
 1. Click the tagged users <img src="/views/assets/taggedusers.png" width="20" height="20" /> button.
 2. Hover the mouse over the user tag you wish to remove and click it once.
 
-#### Repositioning Tagged Users
+### Repositioning Tagged Users
 
 To reposition a tagged user:
 
