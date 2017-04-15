@@ -199,6 +199,8 @@ If your selected photo exceeds the [aspect ratio requirements](//misc/upload-spe
 
 This ensures your landscape or portrait photos will not be cropped.
 
+------
+
 ### Videos
 
 When you select a video to upload that exceeds the [aspect ratio requirements](//misc/upload-specifications.md), you have two options:
