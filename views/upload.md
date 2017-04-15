@@ -194,7 +194,7 @@ To set a cover image:
 - Use the <kbd>Upload > Select a Cover Image…</kbd> macOS Menu Bar item.
 - Tap the cover image <img src="/views/assets/coverimage.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
 
-Use the slider to select a position in the video as the cover image.
+Use the video scrubber in the cover image view or [Touch Bar](//misc/touchbar.md) to select a position in the video as the cover image.
 
 ------
 
