@@ -53,7 +53,7 @@ To activate your Flume Pro licence:
 
 To deactivate your Flume Pro licence:
 
-- Click the actions <img src="/views/assets/actions-menu.png" width="36" height="20" /> button, and select the <kbd>Deactivate</kbd> item.
+- Click the actions <img src="/views/assets/actions-menu.png" width="20" height="20" /> button, and select the <kbd>Deactivate</kbd> item.
 
 ------
 
