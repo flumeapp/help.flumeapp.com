@@ -13,10 +13,10 @@ The Upload window allows you upload photos and videos, write captions, tag users
 
 Flume has support for drafts through it's own file type, ".flume". Drafts can be opened in Finder, dragged onto Flume's Dock icon, or dragged onto the Upload window. Drafts save the following information:
 
-- The photo or video to post.
+- The photo or video to post, with all previous [filters](#filters) and [adjustments](#adjustments) applied.
 - The [caption.](#captions)
 - The [tagged users.](#tagged-users)
-- The [tagged users.](#tagged-users)
+- The [tagged location.](#tagged-locations)
 
 
 
