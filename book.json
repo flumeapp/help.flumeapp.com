@@ -1,5 +1,5 @@
 {
-    "plugins": ["back-to-top-button", "header", "custom-favicon", "toggle-headers", "toggle-chapters", "ungrey", "localized-footer", "alerts", "page-toc"],
+    "plugins": ["back-to-top-button", "header", "custom-favicon", "toggle-headers", "toggle-chapters", "ungrey", "localized-footer", "alerts", "page-toc", "anchorjs"],
     "pluginsConfig": {
         "favicon": "/assets/favicon.png",
         "layout": {
@@ -8,6 +8,9 @@
         "page-toc-button": {
             "maxTocDepth": 2,
             "minTocSize": 2
-       }
+       },
+       "anchorjs": {
+          "placement": "right",
+        }
     }
 }
