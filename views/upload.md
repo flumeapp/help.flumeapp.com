@@ -209,7 +209,23 @@ When you select a video to upload that exceeds the [aspect ratio requirements](/
 > **[info]**
 > When selecting a video that is already 1:1 (square), the options to crop or resize will be disabled.
 >
-> It is not currently possible to resize videos to fit, unlike photos.
+> It is not currently possible to resize videos to fit, [unlike photos.](#resizing-photos-to-fit)
+
+#### Cropping Videos
+
+To crop a video:
+
+- Click the crop <img src="/views/assets/crop.png" width="20" height="20" /> button.
+- Use the <kbd>Upload > Crop…</kbd> macOS Menu Bar item.
+- Tap the crop <img src="/views/assets/crop.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
+
+#### Resizing Videos
+
+To resize a video back to its original dimensions:
+
+- Click the resize <img src="/views/assets/resize.png" width="20" height="20" /> button.
+- Use the <kbd>Upload > Resize to Original</kbd> macOS Menu Bar item.
+- Tap the resize <img src="/views/assets/resize.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
 
 ------
 
