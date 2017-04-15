@@ -173,11 +173,17 @@ When you choose a photo that exceeds the [aspect ratio requirements](//misc/uplo
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/upload-cropping.png" width="50%" height="50%" /></p>
 
+#### Cropping Photos
+
 To crop a photo:
 
 - Click the crop <img src="/views/assets/crop.png" width="20" height="20" /> button.
 - Use the <kbd>Upload > Crop…</kbd> macOS Menu Bar item.
 - Tap the crop <img src="/views/assets/crop.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
+
+Click-and-drag the resize handles to adjust the cropping region, and click-and-drag the square to adjust the cropping position.
+
+#### Resizing Photos
 
 To resize a photo back to its original dimensions:
 
@@ -187,6 +193,7 @@ To resize a photo back to its original dimensions:
 
 
 ### Videos
+
 
 
 ------
