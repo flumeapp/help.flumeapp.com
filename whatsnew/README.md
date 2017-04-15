@@ -4,26 +4,6 @@ search: false
 
 # What's New in Flume
 
-
-## Jump to a previous release
-
-- [2.5](#flume-25)
-- [2.4.2](#flume-242)
-- [2.4.1](#flume-241)
-- [2.4](#flume-24)
-- [2.3](#flume-23)
-- [2.2.1](#flume-221)
-- [2.2](#flume-22)
-- [2.1](#flume-21)
-- [2.0](#flume-20)
-- [1.2.2](#flume-122)
-- [1.2.1](#flume-121)
-- [1.2](#flume-12)
-- [1.1](#flume-11)
-- [1.0](#flume-10)
-
-------
-
 ## Flume 2.5
 
 [_Release Date: March 31st, 2017 (Setapp)._](http://blog.flumeapp.com/post/158945007616/flume-for-mac-25)
