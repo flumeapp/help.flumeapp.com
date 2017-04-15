@@ -1,5 +1,7 @@
 # Flume Pro Preferences
 
+<p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/flume-pro.png" width="60%" height="60%" /></p>
+
 Flume Pro is a one-time in-app purchase, our way of sustaining the development of Flume. You can read more about the introduction of Flume Pro on our [blog.](http://blog.flumeapp.com/post/145212126271/introducing-flume-20-and-flume-pro)
 
 > **[warning]**
@@ -20,8 +22,6 @@ Benefits of Flume Pro:
 Flume for Mac via [Setapp](https://go.setapp.com/stp154) includes Flume Pro as standard and does not require any additional upgrade purchase, as it is covered by Setapp's monthly subscription fee. 
 
 For more information on Flume Pro, please see the [Flume Pro FAQ.](http://support.flumeapp.com/customer/en/portal/topics/965352-flume-pro---faq/articles)
-
-<p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/flume-pro.png" width="60%" height="60%" /></p>
 
 ------ 
 
