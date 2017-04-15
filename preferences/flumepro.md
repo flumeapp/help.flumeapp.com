@@ -69,7 +69,7 @@ To migrate your Mac App Store purchase:
 1. Click the actions <img src="/views/assets/actions-menu.png" width="36" height="20" /> button, and select the <kbd>Migrate Mac App Store Purchase</kbd> item.
 2. Drag the copy of Flume.app (normally in your /Applications/ folder) on to the Licence Migrator. Your digital receipt will be verified to confirm your Flume Pro purchase.
 
-<p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/flume-pro-migrate.png" width="60%" height="60%" /></p>
+<p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/flume-pro-migrate.png" width="30%" height="30%" /></p>
 
 If you no longer have the Mac App Store version of Flume installed, did not activate Flume Pro in the Mac App Store on your Mac, or have any other issues migrating your purchase, you will need to send proof of your purchase to us. Please [contact us](mailto:support@flumeapp.com?subject=Mac%20App%20Store%20Migration&body=Please%20help%20me%20migrate%20my%20Mac%20App%20Store%20purchase.%20My%20proof%20of%20purchase%20is%20attached.) with the transaction ID and screenshot from your [iTunes purchase history.](https://support.apple.com/en-us/HT204088)
 
