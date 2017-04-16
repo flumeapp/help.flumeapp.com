@@ -159,6 +159,17 @@ If a post is tagged at a location, its name will appear above the caption (if pr
 
 -----
 
+### Translating Captions
+
+To translate a caption:
+
+- Right-click the caption, then select <kbd>Translate…</kbd> from the contextual menu.
+
+> **[info]**
+> The translation will use your current [language](/preferences/general.md#language) setting.
+
+-----
+
 ## Browsing Feeds
 
 When viewing the Details View from the [Feed](//views/feed.md), [Likes](//views/likes.md) or [Explore](//views/explore.md) views, additional options are available to quickly browse through the content without needing to move back-and-forth between the Details View and the previous list of media.
