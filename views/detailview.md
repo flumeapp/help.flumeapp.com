@@ -159,7 +159,7 @@ If a post is tagged at a location, its name will appear above the caption (if pr
 
 -----
 
-### Translating Captions
+## Translating Captions
 
 To translate a caption:
 
