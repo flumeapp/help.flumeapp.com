@@ -4,6 +4,24 @@ search: false
 
 # What's New in Flume
 
+## Flume 2.6
+
+[_Release Date: April 17th, 2017._](http://blog.flumeapp.com/post/159654069151/goodbye-mac-app-store-hello-flume-26)
+
+- NEW: Flume is no [longer distributed via the Mac App Store.](http://blog.flumeapp.com/post/159273138716/flume-leaves-the-mac-app-store)
+- NEW: Added a new Flume Pro section, with licence verification, activation/deactivation, and a Mac App Store Licence Migrator (direct version only)
+- NEW: An improved help documentation viewer, and all new extensive help documentation. Also available at https://help.flumeapp.com
+- NEW: Edited captions will indicate they've been edited.
+- NEW: Added support for opening directories (with photos and videos inside). Max limit of 10 files within.
+- NEW: You can resize to fit any non-square photo, not just those that were beyond the aspect ratio requirements.
+- FIXED: Improved the translation support and right-click behaviour for captions, comments and messages.
+- FIXED: Added a 20 character group name limit.
+- FIXED: An issue that could cause invalid user tags to be added to uploads, causing upload errors.
+- FIXED: Improved hashtag/user/location search popover behaviour.
+- FIXED: Appearance of buttons and dropdown buttons in popovers was greyed-out.
+- FIXED: Clipped text on the two-factor authorisation explanation label when using the largest font size.
+- FIXED: Contextual-menu issues when right-clicking bookmarked conversations.
+
 ## Flume 2.5
 
 [_Release Date: March 31st, 2017 (Setapp)._](http://blog.flumeapp.com/post/158945007616/flume-for-mac-25)
