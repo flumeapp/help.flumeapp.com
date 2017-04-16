@@ -109,6 +109,8 @@ The time will appear beside the message.
 To translate a text message sent in a conversation:
 
 - Right-click the message, then select <kbd>Translate…</kbd> from the contextual menu.
+- When selecting a message using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Message > Translate…</kbd> macOS Menu Bar item.
+
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/message-translate.png" width="50%" height="50%" /></p>
 
