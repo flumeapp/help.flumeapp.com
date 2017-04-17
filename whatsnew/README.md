@@ -6,7 +6,7 @@ search: false
 
 ## Flume 2.6
 
-[_Release Date: April 17th, 2017._](http://blog.flumeapp.com/post/159654069151/goodbye-mac-app-store-hello-flume-26)
+[_Release Date: April 17th, 2017._](http://blog.flumeapp.com/post/159654069151/flume-for-mac-26)
 
 - NEW: Flume is no [longer distributed via the Mac App Store.](http://blog.flumeapp.com/post/159273138716/flume-leaves-the-mac-app-store)
 - NEW: Added a new Flume Pro section, with licence verification, activation/deactivation, and a Mac App Store Licence Migrator (direct version only)
