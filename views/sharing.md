@@ -17,6 +17,6 @@ To share a post:
 You can provide a custom description which will accompany the shared item (if you wish to adjust the caption, [see editing](//views/editing.md#captions)). Choose at least one social network to share to, and click <kbd>Share</kbd>.
 
 > **[info]**
-> The <kdb>Send to Linked Account</kbd> item will only appear when you are sharing posts that you own. 
+> The <kbd>Send to Linked Account</kbd> item will only appear when you are sharing posts that you own. 
 
 -----
