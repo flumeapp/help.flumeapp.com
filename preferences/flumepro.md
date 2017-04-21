@@ -81,7 +81,7 @@ To migrate your Mac App Store purchase:
 <p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/flume-pro-migrate.png" width="30%" height="30%" /></p>
 
 > **[info]** 
-> If you no longer have the Mac App Store version of Flume installed, you will need to download it from the Mac App Store again before performing the steps above. See [https://support.apple.com/en-us/HT202161](https://support.apple.com/en-us/HT202161) to learn how.
+> If you no longer have the Mac App Store version of Flume installed, you will need to download it from the Mac App Store again, and then "Restore Purchases" before performing the steps above. See [https://support.apple.com/en-us/HT202161](https://support.apple.com/en-us/HT202161) to learn how to re-download Flume from the Mac App Store, and [https://support.apple.com/en-us/HT204530](https://support.apple.com/en-us/HT204530) on how to restore your in-app purchase of Flume Pro.
 
 ------
 
