@@ -14,6 +14,9 @@ To view the list of blocked users:
 
 ## Blocking / Unblocking Users
 
-To block or unblock a user, please see [How do I block / report a user?](/getstarted/block-profile.md)
+To block or unblock a user: 
+
+- Use the <kbd>User > Block…/Report…</kbd> macOS Menu Bar item when viewing a [Profile](/views/profile.md) or selecting a message, post, or user in a list using the [keyboard arrows.](/misc/keyboard-shortcuts.md).
+
 
 ------
