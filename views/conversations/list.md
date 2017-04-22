@@ -8,7 +8,7 @@ The Conversations List view lists all your current conversations, allows you to 
 
 ## Creating Conversations
 
-There are many ways to begin a conversation with a user, however you should note that if the recipient of a message does not [follow](/getstarted/follow-profile.md) you, your message will not appear in their inbox directly but as a [message request](#message-requests) that they must approve or decline.
+There are many ways to begin a conversation with a user, however you should note that if the recipient of a message does not follow you, your message will not appear in their inbox directly but as a [message request](#message-requests) that they must approve or decline.
 
 To create a new conversation from the conversations list: 
 
