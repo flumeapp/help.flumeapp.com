@@ -10,7 +10,7 @@ Conversely, private profiles that you do not follow will not display any informa
 
 ## Following a Private Profile
 
-When requesting to [follow a private profile](/getstarted/follow-profile.md), the user will be notified of your [friend request.](/views/profile.md#friend-requests)
+When requesting to follow a private profile, the user will be notified of your [friend request.](/views/profile.md#friend-requests)
 
 If the user accepts your friend request, you will be notified in your [Activity.](/views/activity.md) If they ignore your request, you will not receive any notification.
 
