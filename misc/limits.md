@@ -24,7 +24,7 @@ The following limits apply to [captions](/views/upload.md#caption) on posts:
 
 ## Relationships
 
-The following limits apply to [following / unfollowing](/getstarted/follow-profile.md) profiles:
+The following limits apply to following / unfollowing profiles:
 
 - 160 follows / unfollowers per hour
 
