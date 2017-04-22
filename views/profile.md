@@ -45,7 +45,7 @@ If set to "Add Manually", you will be notified in [Activity](/views/activity.md)
 
 ## Saved Posts
 
-When viewing your own profile, an extra tab will appear, that allows you to view all the posts you have [saved.](/getstarted/save-post.md) Only you can see this tab, and the posts you have saved.
+When viewing your own profile, an extra tab will appear, that allows you to view all the posts you have [saved.](https://help.instagram.com/1744643532522513) Only you can see this tab, and the posts you have saved.
 
 To view posts that you have saved:
 
