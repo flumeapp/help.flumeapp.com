@@ -31,6 +31,21 @@
 
 -->
 
+## Preferences
+
+* [Accessing Preferences](/preferences/README.md)
+* [General Preferences](/preferences/general.md)
+* [Design Preferences](/preferences/design.md)
+* [Accounts Preferences](/preferences/accounts.md)
+* [Feed Preferences](/preferences/feed.md)
+* [Upload Preferences](/preferences/upload.md)
+  * [Filters](/preferences/upload/filters.md)
+  * [Adjustments](/preferences/upload/adjustments.md)
+  * [Settings](/preferences/upload/settings.md)
+* [Notifications Preferences](/preferences/notifications.md)
+* [Flume Pro Preferences](/preferences/flumepro.md)
+
+
 ## Views
 
 * [Login](/views/login.md)
@@ -64,20 +79,6 @@
 * [Locations](/views/locations.md)
 * [Hashtags](/views/hashtags.md)
 * [Large Preview](/views/largepreview.md)
-
-## Preferences
-
-* [Accessing Preferences](/preferences/README.md)
-* [General Preferences](/preferences/general.md)
-* [Design Preferences](/preferences/design.md)
-* [Accounts Preferences](/preferences/accounts.md)
-* [Feed Preferences](/preferences/feed.md)
-* [Upload Preferences](/preferences/upload.md)
-  * [Filters](/preferences/upload/filters.md)
-  * [Adjustments](/preferences/upload/adjustments.md)
-  * [Settings](/preferences/upload/settings.md)
-* [Notifications Preferences](/preferences/notifications.md)
-* [Flume Pro Preferences](/preferences/flumepro.md)
 
 ## Misc
 
