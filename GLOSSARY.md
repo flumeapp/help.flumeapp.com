@@ -10,7 +10,7 @@ The [macOS Menu Bar](https://en.wikipedia.org/wiki/Menu_bar#Macintosh) is a stri
 
 <p style="text-align: center; margin-top: 1em;"><img src="/assets/menubar.png" width="50%" height="50%" /></p>
 
-## macOS Dock
+## Dock
 The [macOS Dock](https://en.wikipedia.org/wiki/Dock_(macOS)) is a strip of icons that appears by default at the bottom of your screen at all times. 
 
 <p style="text-align: center; margin-top: 1em;"><img src="/assets/dock.png" width="50%" height="50%" /></p>
