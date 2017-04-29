@@ -13,7 +13,7 @@ The [macOS Menu Bar](https://en.wikipedia.org/wiki/Menu_bar#Macintosh) is a stri
 ## Dock
 The [macOS Dock](https://en.wikipedia.org/wiki/Dock_\(macOS\)) is a strip of icons that appears by default at the bottom of your screen at all times. 
 
-<p style="text-align: center; margin-top: 1em;"><img src="/assets/dock.png" width="50%" height="50%" /></p>
+<p style="text-align: center; margin-top: 1em;"><img src="/assets/dock.png" width="70%" height="70%" /></p>
 
 ## Finder
 The [Finder](https://support.apple.com/en-us/HT201732) is the first thing that you see when your Mac finishes starting up. It opens automatically and stays open as you use other apps. It includes the Finder menu bar at the top of the screen and the desktop below that. It uses windows and icons to show you the contents of your Mac, and other storage devices. It's called the Finder because it helps you to find and organize your files.
