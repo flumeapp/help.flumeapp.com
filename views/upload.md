@@ -16,13 +16,13 @@ The Upload window allows you upload photos and videos, write captions, tag users
 
 To begin creating a new post:
 
-- Click the upload <img src="/views/assets/uploadicon.png" width="24" height="24" /> button in [Flume's toolbar menu.](//preferences/design.md#show-the-menu)
+- Click the upload <img src="/views/assets/uploadicon.png" width="24" height="24" /> button in [Flume's toolbar menu.](//preferences/design.md#show-the-menu)<br /><br /><img src="/views/prefernces/design.png" width="70%" height="70%" />
 - Use the <kbd>File > New Post…</kbd> macOS Menu Bar item.
 - Use the <kbd>View > Upload</kbd> macOS Menu Bar item.
 - Tap the upload <img src="/views/assets/uploadicon.png" width="24" height="24" /> button in the [Touch Bar.](//misc/touchbar.md)
 - Right-click on Flume's Dock icon and select the <kbd>Upload</kbd> item.
 - Drag a photo/video directly onto Flume's Dock icon.
-- Right-click a photo or video in [Finder](https://en.wikipedia.org/wiki/Finder_(software)) and select the <kbd>Open with… > Flume</kdb> menu item.
+- Right-click a photo or video in [Finder](https://en.wikipedia.org/wiki/Finder_(software)) and select the <kbd>Open with… > Flume</kbd> menu item.
 
 ## Drafts
 
