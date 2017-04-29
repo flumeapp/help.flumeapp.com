@@ -17,8 +17,8 @@ The Upload window allows you upload photos and videos, write captions, tag users
 To begin creating a new post:
 
 - Click the upload <img src="/views/assets/uploadicon.png" width="24" height="24" /> button in [Flume's toolbar menu.](//preferences/design.md#show-the-menu)<br /><br /><img src="/preferences/assets/menu.png" width="30%" height="30%" />
-- Use the <kbd>File > New Post…</kbd> macOS Menu Bar item.
-- Use the <kbd>View > Upload</kbd> macOS Menu Bar item.
+- Use the <kbd>File > New Post…</kbd> Menu Bar item.
+- Use the <kbd>View > Upload</kbd> Menu Bar item.
 - Tap the upload <img src="/views/assets/uploadicon.png" width="24" height="24" /> button in the [Touch Bar.](//misc/touchbar.md)
 - Right-click on Flume's Dock icon and select the <kbd>Upload</kbd> item.
 - Drag a photo/video directly onto Flume's Dock icon.
@@ -52,7 +52,7 @@ To open a draft:
 - Open the draft file in Finder.
 - Drag-and-drop the draft onto Flume's Dock icon.
 - Drag-and-drop the draft onto an Upload window.
-- Use the <kbd>File > Open Draft…</kbd> macOS Menu Bar item.
+- Use the <kbd>File > Open Draft…</kbd> Menu Bar item.
 
 ### Previewing Drafts
 
@@ -74,7 +74,7 @@ You can apply filters and make adjustments to your photos and videos easily righ
 To edit a selected photo or video:
 
 - Click the edit <img src="/views/assets/edit.png" width="20" height="20" /> button.
-- Use the <kbd>Upload > Toggle Edit Options</kbd> macOS Menu Bar item.
+- Use the <kbd>Upload > Toggle Edit Options</kbd> Menu Bar item.
 - Tap the edit <img src="/views/assets/edit.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
 
 #### Previewing Edits
@@ -206,7 +206,7 @@ When uploading a video, you can choose a custom cover image thumbnail that will 
 To set a cover image:
 
 - Click the cover image <img src="/views/assets/coverimage.png" width="20" height="20" /> button.
-- Use the <kbd>Upload > Select a Cover Image…</kbd> macOS Menu Bar item.
+- Use the <kbd>Upload > Select a Cover Image…</kbd> Menu Bar item.
 - Tap the cover image <img src="/views/assets/coverimage.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
 
 Use the video scrubber in the cover image view or [Touch Bar](//misc/touchbar.md) to select a position in the video as the cover image.
@@ -229,7 +229,7 @@ When you select a photo to upload that exceeds the [aspect ratio requirements](/
 To crop a photo:
 
 - Click the crop <img src="/views/assets/crop.png" width="20" height="20" /> button.
-- Use the <kbd>Upload > Crop…</kbd> macOS Menu Bar item.
+- Use the <kbd>Upload > Crop…</kbd> Menu Bar item.
 - Tap the crop <img src="/views/assets/crop.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
 
 Click-and-drag the resize handles to adjust the cropping region, and click-and-drag the square to adjust the cropping position.
@@ -239,7 +239,7 @@ Click-and-drag the resize handles to adjust the cropping region, and click-and-d
 To resize a photo back to its original dimensions:
 
 - Click the resize <img src="/views/assets/resize.png" width="20" height="20" /> button.
-- Use the <kbd>Upload > Resize to Original</kbd> macOS Menu Bar item.
+- Use the <kbd>Upload > Resize to Original</kbd> Menu Bar item.
 - Tap the resize <img src="/views/assets/resize.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
 
 #### Resizing Photos to Fit
@@ -270,7 +270,7 @@ When you select a video to upload that exceeds the [aspect ratio requirements](/
 To crop a video:
 
 - Click the crop <img src="/views/assets/crop.png" width="20" height="20" /> button.
-- Use the <kbd>Upload > Crop…</kbd> macOS Menu Bar item.
+- Use the <kbd>Upload > Crop…</kbd> Menu Bar item.
 - Tap the crop <img src="/views/assets/crop.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
 
 #### Resizing Videos
@@ -278,7 +278,7 @@ To crop a video:
 To resize a video back to its original dimensions:
 
 - Click the resize <img src="/views/assets/resize.png" width="20" height="20" /> button.
-- Use the <kbd>Upload > Resize to Original</kbd> macOS Menu Bar item.
+- Use the <kbd>Upload > Resize to Original</kbd> Menu Bar item.
 - Tap the resize <img src="/views/assets/resize.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
 
 ------
@@ -290,7 +290,7 @@ Sharing allows you to cross-post your upload to a [linked account.](//views/prof
 To share a post to a linked account:
 
 - Click the Share <img src="/views/assets/share.png" width="20" height="20" /> button.
-- Use the <kbd>Upload > Share > Linked Account</kbd> macOS Menu Bar item.
+- Use the <kbd>Upload > Share > Linked Account</kbd> Menu Bar item.
 
 Choose at least one social network to share to. 
 
@@ -315,6 +315,6 @@ To adjust advanced settings on your post:
 To switch the account to post with:
 
 - Long-press on the profile picture and select an account.
-- Use the <kbd>Accounts</kbd> macOS Menu Bar item.
+- Use the <kbd>Accounts</kbd> Menu Bar item.
 
 ------

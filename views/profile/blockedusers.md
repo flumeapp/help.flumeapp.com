@@ -16,7 +16,7 @@ To view the list of blocked users:
 
 To block or unblock a user: 
 
-- Use the <kbd>User > Block…/Report…</kbd> macOS Menu Bar item when viewing a [Profile](/views/profile.md) or selecting a [message](//views/conversations/messages.md), [post](//views/detailview.md), or user in a list using the [keyboard arrows.](/misc/keyboard-shortcuts.md)
+- Use the <kbd>User > Block…/Report…</kbd> Menu Bar item when viewing a [Profile](/views/profile.md) or selecting a [message](//views/conversations/messages.md), [post](//views/detailview.md), or user in a list using the [keyboard arrows.](/misc/keyboard-shortcuts.md)
 
 
 ------

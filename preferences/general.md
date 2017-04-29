@@ -22,12 +22,12 @@ Choose between three options:
 | Option | Explanation |
 |----------------------|
 | Dock only | The Flume icon will be displayed in the macOS Dock when running. |
-| Dock and menu bar | The Flume icon will be displayed in the macOS Dock when running, and in the macOS menu bar's status item area. |
-| Menu bar only | The Flume icon will be displayed only in the macOS Menu Bar's status item area.<br /><br />If set to "Menu bar only", it is a macOS feature that the macOS Menu Bar will not update when Flume is in focus.** |
+| Dock and menu bar | The Flume icon will be displayed in the macOS Dock when running, and in the Menu Bar's status item area. |
+| Menu bar only | The Flume icon will be displayed only in the Menu Bar's status item area.<br /><br />If set to "Menu bar only", it is a macOS feature that the Menu Bar will not update when Flume is in focus.** |
 
 Clicking on the status bar icon will toggle the windows front-most status, similar to [Global show/hide window](#global-showhide-window) keyboard shortcut.
 
-** To access Flume's preferences in "Menu bar only", right-click on Flume's icon in the macOS Menu Bar.
+** To access Flume's preferences in "Menu bar only", right-click on Flume's icon in the Menu Bar.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/menubar.png" width="30%" height="30%" /></p>
 

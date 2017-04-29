@@ -12,7 +12,7 @@ To learn more, see [Sharing to Social Networks.](https://help.instagram.com/1699
 
 To connect and start sharing your Instagram posts to another social network:
 
-- When viewing the [Upload](//views/upload.md) window, first choose your photo or video to upload, then click the Sharing <img src="/views/assets/share.png" width="20" height="20" /> button, or use the <kbd>Upload > Share</kbd> macOS Menu Bar item.
+- When viewing the [Upload](//views/upload.md) window, first choose your photo or video to upload, then click the Sharing <img src="/views/assets/share.png" width="20" height="20" /> button, or use the <kbd>Upload > Share</kbd> Menu Bar item.
 - When viewing your [Profile](/views/profile.md), select the <kbd>Linked Accounts</kbd> item under the [Settings](/views/profile/settings.md) <img src="/views/assets/settings.png" width="20" height="20" /> button in the title bar.
 
 Toggle the social network you wish to link to and a login window will appear. 

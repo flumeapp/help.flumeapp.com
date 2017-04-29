@@ -95,7 +95,7 @@ search: false
 - FIXED: An incorrect label in menu’s for saving videos.
 - FIXED: An issue that didn’t keep all windows on top when the option was enabled.
 - FIXED: Flume will now report “unseen” and “seen” content to Instagram.
-- FIXED: The Share panel will pop-up when using the macOS menubar to initiate sharing on an upload.
+- FIXED: The Share panel will pop-up when using the Menu Bar to initiate sharing on an upload.
 - FIXED: Removed click-and-drag for cropping photos that go beyond Instagram’s approved aspect ratio. You can still use mouse scrolling to position the cropping area.
 - FIXED: The contextual “Copy” menu item didn’t do anything since the last change to enable the macOS Edit > Copy menu item.
 - FIXED: Various issues related to carousel posts display.

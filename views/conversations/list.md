@@ -37,7 +37,7 @@ Deleting a conversation will only remove the conversation from your own inbox, b
 To delete a conversation:
 
 - Right-click a conversation, then select <kbd>Delete Conversation…</kbd> from the contextual menu.
-- When selecting a conversation using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Conversation > Delete Conversation…</kbd> macOS Menu Bar item.
+- When selecting a conversation using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Conversation > Delete Conversation…</kbd> Menu Bar item.
 - When viewing the conversation's [messages](/views/conversations/messages.md), use the <kbd>Delete Conversation…</kbd> option under the <img src="/views/assets/actions-menu.png" width="20" height="20" /> button.
 - Tap the Delete <img src="/views/assets/delete.png" width="20" height="20" /> button in the [Touch Bar.](/misc/touchbar.md)
 
@@ -54,7 +54,7 @@ If you would prefer to remain in the group, but disable notifications of new mes
 To leave a group conversation:
 
 - Right-click a conversation, then select <kbd>Leave Conversation…</kbd> from the contextual menu.
-- When selecting a conversation using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Conversation > Leave Conversation…</kbd> macOS Menu Bar item.
+- When selecting a conversation using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Conversation > Leave Conversation…</kbd> Menu Bar item.
 - When viewing the conversation's [messages](/views/conversations/messages.md), use the <kbd>Leave Conversation…</kbd> option under the <img src="/views/assets/actions-menu.png" width="20" height="20" /> button.
 - When viewing the conversation's [info](/views/conversations/info.md), click the Leave <img src="/views/assets/leave.png" width="20" height="20" /> button in the title bar.
 - Tap the Leave <img src="/views/assets/leave.png" width="20" height="20" /> button in the [Touch Bar.](/misc/touchbar.md)
@@ -70,7 +70,7 @@ Muted conversations will not send [desktop notifications](/preferences/notificat
 To mute/un-mute a conversation:
 
 - Right-click a conversation, then select <kbd>Mute/Unmute Conversation</kbd> from the contextual menu.
-- When selecting a conversation using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Conversation > Mute/Unmute Conversation</kbd> macOS Menu Bar item.
+- When selecting a conversation using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Conversation > Mute/Unmute Conversation</kbd> Menu Bar item.
 - When viewing the conversation's [messages](/views/conversations/messages.md), use the <kbd>Mute/Unmute Conversation</kbd> option under the <img src="/views/assets/actions-menu.png" width="20" height="20" /> button in the title bar.
 - Tap the Mute <img src="/views/assets/mute.png" width="20" height="20" /> or Unmute <img src="/views/assets/mute-active.png" width="20" height="20" /> button in the [Touch Bar.](/misc/touchbar.md)
 
@@ -85,7 +85,7 @@ Muted conversations will display a small icon to indicate their current mute sta
 To report a conversation:
 
 - Right-click a conversation, then select <kbd>Report…</kbd> from the contextual menu.
-- When selecting a conversation using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Conversation > Report…</kbd> macOS Menu Bar item.
+- When selecting a conversation using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Conversation > Report…</kbd> Menu Bar item.
 - When viewing the conversation's [messages](/views/conversations/messages.md), use the <kbd>Report…</kbd> option under the <img src="/views/assets/actions-menu.png" width="20" height="20" /> button in the title bar.
 
 You will be asked to confirm reporting the conversation (user).
@@ -145,6 +145,6 @@ To toggle a conversation as a Bookmark, perform one of the following:
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/conversation-bookmark-toggle.png" width="50%" height="50%" /></p>
 
-- Use the <kbd>View > Add/Remove "Conversation Name" to Bookmarks</kbd> macOS Menu Bar item.
+- Use the <kbd>View > Add/Remove "Conversation Name" to Bookmarks</kbd> Menu Bar item.
 
 ------

@@ -18,7 +18,7 @@ To view hashtags related to the currently viewed hashtag:
 
 To share a hashtag:
 
-1. When viewing the recent posts of the hashtag, select the <kbd>Share > Send to…</kbd> item under the share <img src="/views/assets/actions-menu.png" width="20" height="20" /> button in the title bar, or use the <kbd>Hashtag > Share > Send to…</kbd> macOS Menu Bar item.
+1. When viewing the recent posts of the hashtag, select the <kbd>Share > Send to…</kbd> item under the share <img src="/views/assets/actions-menu.png" width="20" height="20" /> button in the title bar, or use the <kbd>Hashtag > Share > Send to…</kbd> Menu Bar item.
 2. Select a conversation or user from the suggested list with the select <img src="/views/assets/select.png" width="20" height="20" /> button, or search for a different user. You can create a new [group conversation](//views/conversations.md) by selecting multiple users.
 3. Type an optional message to accompany the shared hashtag.
 4. Share the hashtag by clicking the confirm <img src="/views/assets/accept.png" width="20" height="20" /> button in the title bar.
