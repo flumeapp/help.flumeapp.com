@@ -15,6 +15,11 @@ The [macOS Dock](https://en.wikipedia.org/wiki/Dock_(macOS)) is a strip of icons
 
 <p style="text-align: center; margin-top: 1em;"><img src="/assets/dock.png" width="50%" height="50%" /></p>
 
+## Finder
+The [Finder](https://en.wikipedia.org/wiki/Finder_(software) is the default file manager and graphical user interface shell used on all Macintosh operating systems.
+
+<p style="text-align: center; margin-top: 1em;"><img src="/assets/finder.png" width="50%" height="50%" /></p>
+
 
 ## Contextual Menu
 A [contextual menu](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/OSXHIGuidelines/ContextualMenus.html) provides convenient access to frequently used commands associated with an item. From the user’s perspective, a contextual menu is a shortcut to a small set of commands that make sense in the context of the current task. If you have a two-buttoned mouse or trackpad, the contextual menu appears when using the right-mouse button. It is also possible to open contextual menus on macOS by holding down the <kbd>^ (CTRL)</kbd> key and clicking with the left-mouse button.
