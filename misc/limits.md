@@ -26,7 +26,7 @@ The following limits apply to [captions](/views/upload.md#caption) on posts:
 
 The following limits apply to following / unfollowing profiles:
 
-- 160 follows / unfollowers per hour
+- 160 follows / unfollow per hour
 
 ## Likes
 
