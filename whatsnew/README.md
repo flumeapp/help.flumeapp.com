@@ -6,7 +6,7 @@ search: false
 
 ## Flume 2.6.1
 
-[_Release Date: June 17th, 2017._](http://blog.flumeapp.com/post/159654069151/flume-for-mac-261)
+[_Release Date: June 17th, 2017._](http://blog.flumeapp.com/post/161925446846/flume-for-mac-261)
 
 - FIXED: A launch crash due to Instagram switching off their previous real-time messaging servers.
 - FIXED: An issue that did not correctly refresh all feed sources when the automatic refresh timer triggered.
