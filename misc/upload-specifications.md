@@ -8,7 +8,7 @@ To choose the cropping region for photos and videos in Flume, simply use the mou
 ## Photo Specifications
 Flume will accept all JPG and PNG files. No other specifications are required, except for the aspect ratio rules above. High DPI images are supported.
 
-Photos will be compressed to a maximum dimension of 1080px before uploading. If you would like to avoid Flume performing compression of high-resolution photos, configure your workflow to export photos with a maximum dimension of 1080px.
+Photos will be compressed to a maximum dimension of 1080px before uploading. If you would like to avoid Flume performing compression of high-resolution photos, or to avoid issues with color profiles, configure your workflow to export photos with a maximum dimension of 1080px.
 
 For more info on photo specifications and resolutions, please see the [official Instagram support article.](www.facebook.com/help/instagram/1631821640426723)
 
