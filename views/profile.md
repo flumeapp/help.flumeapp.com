@@ -63,8 +63,9 @@ To view posts that you have archived:
 
 To archive or unarchive a post:
 
-- Right click a post and choose the <kbd>Archive</kbd> or <kbd>Unarchive</kbd> menu item.
-- Use 
+- Right click a post and choose the <kbd>Archive Photo/Video</kbd> or <kbd>Show on Profile</kbd> menu item.
+- When viewing the [details](/views/detailview.md) of one of your posts, use the <kbd>Archive Photo/Video</kbd> or <kbd>Show on Profile</kbd> option in the Menu Bar.
+
 
 ------
 
