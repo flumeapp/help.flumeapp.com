@@ -1,6 +1,6 @@
 # Reposting
 
-The Reposting feature allows you to share existing posts (from you or others profiles) by ensuring the original source is attributed. 
+The Reposting feature allows you to [upload](//views/upload.md) existing posts (from you or other profiles) by ensuring the original source is attributed. 
 
 Please respect author's copyrights. See [Instagram's Help](https://help.instagram.com/126382350847838) for more information regarding copyright.
 
