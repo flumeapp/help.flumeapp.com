@@ -24,6 +24,12 @@ Additionally, the following may display:
 - A link to view the performance of your [Promotions](/views/promote.md) (if an Instagram Business Profile)
 - A link to view open follower requests (if set to a [Private Profile](/views/profile/privateprofiles.md)).
 
+### Responding to Comments
+
+An additional feature exists when new comments are received on your posts, with quick actions to reply, report or delete comments, directly from the Activity tab.
+
+
+
 ### Filtering Activity
 
 By default, all notification types are displayed. To apply filters to the notifications, use the <kbd>Filter</kbd> option under the <img src="/views/assets/settings.png" width="20" height="20" /> button in the title bar.
