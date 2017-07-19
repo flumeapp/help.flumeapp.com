@@ -30,7 +30,7 @@ An additional feature exists when new comments are received on your posts, with 
 
 To perform an action (such as reply) on a comment notification:
 
-- Move the mouse to the right area of a comment notification to reveal the comment actions panel, and choose the appropriate action.<br /><br /><img src="/views/assets/comment-activity-actions.png" width="50%" height="50%" />
+- Move the mouse to the right area of a comment notification to reveal the comment actions panel, and choose the appropriate action.
 
 
 ### Filtering Activity
