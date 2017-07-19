@@ -4,15 +4,68 @@ search: false
 
 # What's New in Flume
 
-## Flume 2.6.1
+## 2.7
+
+[_Release Date: June 25th, 2017._](http://blog.flumeapp.com/post/flume-for-mac-27)
+
+- NEW: Carousel (multi-post) uploads! Additions to the Touch Bar, drafts, as well as opening multiple files/folders to support carousel posts.
+- NEW: Saved collections! You can long-click the save button to quickly save posts to a new or existing saved collection, as well as via the Touch Bar.
+- NEW: Two-factor authentication settings. Enable/disable two-factor authentication and retrieve backup codes.
+- NEW: Archived posts.
+- NEW: A new "PRO" macOS Menu Bar item with quick access to Flume Pro licence features.
+- NEW: Login via email and phone number is now supported.
+- NEW: New comment activity now includes an actions menu, for quick access to reply/delete/report new comments.
+- NEW: The top likers on posts are displayed when using "All" for the "Media Details" preference setting.
+- NEW: A "Copy to Clipboard" option added to the Share menus.
+- NEW: Added a subscribe to mailing-list option.
+- FIXED: In-progress video exporting, video compressing, and uploads, can now be cancelled.
+- FIXED: Video upload reliability improved.
+- FIXED: Multiple edit and share windows can be opened at the same time.
+- FIXED: Reliability improvements to automatic background refreshes.
+- FIXED: A crash that could occur during mouse swipe gestures.
+- FIXED: An issue that could cause profiles to hide or quickly refresh content.
+- FIXED: Improved the speed of opening and closing Large Preview windows.
+- FIXED: The search indicator and icon didn't always reflect the search status when searching for locations to tag.
+- FIXED: The image cropping window would not fit on low resolution displays.
+- FIXED: The Flume Pro preferences panel now displays the licence code button outside of the actions menu.
+- FIXED: An issue with an incorrect user tagging window size on uploads.
+- FIXED: User tags on carousel posts correctly updated.
+- FIXED: Slide animations when navigating carousel posts improved.
+- FIXED: An issue that could make the "Username" text-field not clickable.
+- FIXED: The typing speed in the upload / edit windows is improved.
+- FIXED: Messages that contain newlines no longer display "\n".
+- FIXED: Messages that contain links correctly include and display link previews.
+- FIXED: An issue with cropping videos.
+- FIXED: An issue that could cause video previews in upload windows to continue playing with no ability to stop/pause.
+- FIXED: Multiple issues related to reliability of non-realtime messaging in Instagram Direct.
+- FIXED: Updated placeholders and empty content styles.
+- FIXED: Empty upload windows are re-used, when dragging files onto Flume's Dock icon or using the Open command.
+- FIXED: A memory-leak related to pop-up "sheets".
+- FIXED: Carousel posts now indicate the current "page" briefly.
+- FIXED: An issue with detecting certain email addresses as clickable links.
+- FIXED: Corrupt/invalid Flume draft files will now display errors.
+- FIXED: Improved filter chooser for Touch Bar.
+- FIXED: Improvements to location searching display when no results are found.
+- FIXED: Display and handle errors when temporary blocked by Instagram for performing too many actions too quickly.
+- FIXED: Upload caches are removed on launch/quit.
+- FIXED: The App Store Licence Migrator Tool will no longer create a backup of Flume on the desktop.
+- FIXED: Purchasing a Flume Pro licence will now open the default browser instead of the in-app window.
+- FIXED: A potential fix for rare crashes related to text input.
+- FIXED: Reduced the scrolling threshold to trigger a "pull-down-to-refresh".
+- FIXED: New version notifications won't appear the next launch after you reset Flume.
+
+------
+
+## 2.6.1
 
 [_Release Date: June 17th, 2017._](http://blog.flumeapp.com/post/161925446846/flume-for-mac-261)
 
 - FIXED: A launch crash due to Instagram switching off their previous real-time messaging servers.
 - FIXED: An issue that did not correctly refresh all feed sources when the automatic refresh timer triggered.
 
+------
 
-## Flume 2.6
+## 2.6
 
 [_Release Date: April 17th, 2017._](http://blog.flumeapp.com/post/159654069151/flume-for-mac-26)
 
@@ -30,7 +83,9 @@ search: false
 - FIXED: Clipped text on the two-factor authorisation explanation label when using the largest font size.
 - FIXED: Contextual-menu issues when right-clicking bookmarked conversations.
 
-## Flume 2.5
+------
+
+## 2.5
 
 [_Release Date: March 31st, 2017 (Setapp)._](http://blog.flumeapp.com/post/158945007616/flume-for-mac-25)
 
@@ -125,7 +180,7 @@ search: false
 
 ------
 
-## Flume 2.4.2
+## 2.4.2
 
 [_Release Date: January 21st, 2017_](http://blog.flumeapp.com/post/156030916356/flume-for-mac-241)
 
@@ -133,7 +188,7 @@ Re-release of Flume 2.4.1 with minor adjustments for Setapp release.
 
 ------
 
-## Flume 2.4.1
+## 2.4.1
 
 [_Release Date: January 22nd, 2017_](http://blog.flumeapp.com/post/156030916356/flume-for-mac-241)
 
@@ -202,7 +257,7 @@ Re-release of Flume 2.4.1 with minor adjustments for Setapp release.
 
 ------
 
-## Flume 2.4
+## 2.4
 
 [_Release Date: December 24th, 2016_](http://blog.flumeapp.com/post/154810435611/flume-for-mac-24-update)
 
@@ -317,7 +372,7 @@ NEW: The new Touch Bar and Flume are a match made in heaven! Comprehensive suppo
 
 ------
 
-## Flume 2.3
+## 2.3
 
 [_Release Date: September 15th, 2016_](http://blog.flumeapp.com/post/150462881826/flume-for-mac-23-update)
 
@@ -387,7 +442,7 @@ NEW: The new Touch Bar and Flume are a match made in heaven! Comprehensive suppo
 
 ------
 
-## Flume 2.2.1
+## 2.2.1
 
 [_Release Date: Unreleased, was merged with the Flume 2.3 update_](https://flumeapp.tumblr.com/post/149716825616/flume-for-mac-221-update)
 
@@ -419,7 +474,7 @@ NEW: The new Touch Bar and Flume are a match made in heaven! Comprehensive suppo
 
 ------
 
-## Flume 2.2
+## 2.2
 
 [_Release Date: August 27th, 2016_](http://blog.flumeapp.com/post/149339016961/flume-for-mac-22-update)
 
@@ -496,7 +551,7 @@ NEW: The new Touch Bar and Flume are a match made in heaven! Comprehensive suppo
 
 ------
 
-## Flume 2.1
+## 2.1
 
 [_Release Date: July 6th, 2016_](http://blog.flumeapp.com/post/146894777981/flume-for-mac-21-update)
 
@@ -545,7 +600,7 @@ NEW: The new Touch Bar and Flume are a match made in heaven! Comprehensive suppo
 
 ------
 
-## Flume 2.0
+## 2.0
 
 [_Release Date: June 1st, 2016_](http://blog.flumeapp.com/post/145212126271/introducing-flume-20-and-flume-pro)
 
@@ -557,7 +612,7 @@ NEW: The new Touch Bar and Flume are a match made in heaven! Comprehensive suppo
 
 ------
 
-## Flume 1.2.2
+## 1.2.2
 
 [_Release Date: December 22nd, 2015_](http://blog.flumeapp.com/post/135435777181/flume-122-changelog)
 
@@ -569,7 +624,7 @@ NEW: The new Touch Bar and Flume are a match made in heaven! Comprehensive suppo
 
 ------
 
-## Flume 1.2.1
+## 1.2.1
 
 [_Release Date: December 3rd, 2015_](http://blog.flumeapp.com/post/134286761751/flume-121-changelog)
 
@@ -584,7 +639,7 @@ NEW: The new Touch Bar and Flume are a match made in heaven! Comprehensive suppo
 
 ------
 
-## Flume 1.2
+## 1.2
 
 [_Release Date: November 25th, 2015_](http://blog.flumeapp.com/post/133540475551/flume-12-changelog)
 
@@ -599,7 +654,7 @@ NEW: The new Touch Bar and Flume are a match made in heaven! Comprehensive suppo
 
 ------
 
-## Flume 1.1
+## 1.1
 
 [_Release Date: November 15th, 2015_](http://blog.flumeapp.com/post/132692260871/flume-for-mac-11-update)
 
@@ -656,7 +711,7 @@ NEW: The new Touch Bar and Flume are a match made in heaven! Comprehensive suppo
 
 ------
 
-## Flume 1.0
+## 1.0
 
 [_Release Date: October 12th, 2015_](http://blog.flumeapp.com/image/131027923266)
 
