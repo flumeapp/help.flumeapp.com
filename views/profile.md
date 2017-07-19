@@ -53,6 +53,20 @@ To view posts that you have saved:
 
 ------
 
+## Archived Posts
+
+When viewing your own profile, you can view all the posts you have archived. Only you can see these posts.
+
+To view posts that you have archived:
+
+- Click the Archived <img src="/views/assets/archived.png" width="20" height="20" /> button in the profile title bar.
+
+To archive or unarchive a post:
+
+- Right click a post and choose "Archive" or "Una
+
+------
+
 ## Followers / Following
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-following.png" width="50%" height="50%" /></p>
