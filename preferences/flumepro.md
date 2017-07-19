@@ -59,7 +59,8 @@ To activate your Flume Pro licence manually:
 
 To deactivate your Flume Pro licence:
 
-- Click the actions <img src="/views/assets/actions-menu.png" width="20" height="20" /> button, and select the <kbd>Deactivate</kbd> item.
+1. Open the <kbd>Preferences > Flume Pro</kbd> panel.
+2. Click the actions <img src="/views/assets/actions-menu.png" width="20" height="20" /> button, and select the <kbd>Deactivate</kbd> item.
 
 ------
 
@@ -73,15 +74,9 @@ If you've deleted your licence code email, you can [recover it from our website.
 
 If you have previously purchased Flume Pro via the Mac App Store, you will need to migrate it to a licence code.
 
-To migrate your Mac App Store purchase:
-
-1. Click the actions <img src="/views/assets/actions-menu.png" width="20" height="20" /> button, and select the <kbd>Migrate Mac App Store Purchase</kbd> item.
-2. Drag the copy of Flume.app (normally in your /Applications/ folder) on to the Licence Migrator. Your digital receipt will be verified to confirm your Flume Pro purchase.
+To migrate your Mac App Store purchase, [please follow our instructions on our Support Portal.](https://flumeapp.com/appstore/)
 
 <p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/flume-pro-migrate.png" width="30%" height="30%" /></p>
-
-> **[info]** 
-> If you no longer have the Mac App Store version of Flume installed, you will need to download it from the Mac App Store again, and then "Restore Purchases" before performing the steps above. See [https://support.apple.com/en-us/HT202161](https://support.apple.com/en-us/HT202161) to learn how to re-download Flume from the Mac App Store, and [https://support.apple.com/en-us/HT204530](https://support.apple.com/en-us/HT204530) on how to restore your in-app purchase of Flume Pro.
 
 ------
 
