@@ -60,6 +60,7 @@
   * [Messages](/views/conversations/messages.md)
   * [Info](/views/conversations/info.md)
 * [Profile](/views/profile.md)
+  * [Saved Collections](/views/profile/savedcollections.md)
   * [Business Profiles](/views/profile/businessprofiles.md)
     * [Insights](/views/profile/insights.md)
     * [Promoting](/views/promote.md)
