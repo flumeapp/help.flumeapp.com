@@ -63,7 +63,8 @@ To view posts that you have archived:
 
 To archive or unarchive a post:
 
-- Right click a post and choose "Archive" or "Una
+- Right click a post and choose the <kbd>Archive</kbd> or <kbd>Unarchive</kbd> menu item.
+- Use 
 
 ------
 
