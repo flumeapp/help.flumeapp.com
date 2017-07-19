@@ -76,6 +76,7 @@
 * [Details](/views/detailview.md)
 * [Editing](/views/editing.md)
 * [Sharing](/views/sharing.md)
+* [Reposting](/views/reposting.md)
 * [Locations](/views/locations.md)
 * [Hashtags](/views/hashtags.md)
 * [Large Preview](/views/largepreview.md)
