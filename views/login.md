@@ -10,7 +10,7 @@ Click "Let's Go" to get started and enter your Instagram username and password t
 If you have [1Password](https://1password.com) installed on your Mac, the 1Password logo will appear next to the Password field allowing you quicker access to copy and paste your password securely.
 
 > **[info]**
-> Use your username and not your email address to login. Your username should also not include the "@" symbol.
+> As of [Flume 2.7](//whatsnew/README.md), you can also login with your email address or phone number (if applicable).
 
 ------
 
