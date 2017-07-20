@@ -61,7 +61,7 @@ Flume's drafts support [QuickLook](https://en.wikipedia.org/wiki/Quick_Look) and
 
 ## Carousel Posts
 
-You can select up to 10 photos and videos into a single post, otherwise known as a carousel or multi-post. 
+You can select up to 10 photos and videos into a single post, otherwise known as a carousel or multi-post. See 
 
 To toggle between an individual and carousel post:
 
