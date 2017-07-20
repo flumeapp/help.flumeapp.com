@@ -4,10 +4,9 @@ search: false
 
 # What's New in Flume
 
-<!-- 
 ## 2.7
 
-[_Release Date: June 25th, 2017._](http://blog.flumeapp.com/post/flume-for-mac-27)
+[_Release Date: June 26th, 2017._](http://blog.flumeapp.com/post/flume-for-mac-27)
 
 - NEW: Carousel (multi-post) uploads! Additions to the Touch Bar, drafts, as well as opening multiple files/folders to support carousel posts.
 - NEW: Saved collections! You can long-click the save button to quickly save posts to a new or existing saved collection, as well as via the Touch Bar.
@@ -56,7 +55,6 @@ search: false
 - FIXED: New version notifications won't appear the next launch after you reset Flume.
 
 ------
--->
 
 ## 2.6.1
 
