@@ -4,6 +4,7 @@ search: false
 
 # What's New in Flume
 
+<!-- 
 ## 2.7
 
 [_Release Date: June 25th, 2017._](http://blog.flumeapp.com/post/flume-for-mac-27)
@@ -55,6 +56,7 @@ search: false
 - FIXED: New version notifications won't appear the next launch after you reset Flume.
 
 ------
+-->
 
 ## 2.6.1
 
