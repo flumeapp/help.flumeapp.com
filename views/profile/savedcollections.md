@@ -38,8 +38,22 @@ To remove posts in a collection:
 
 -----
 
+## Renaming a Collection
+
+To rename a collection:
+
+- When viewing the saved posts in a collection, select the <kbd>Edit Collection…</kbd> item under the actions <img src="/views/assets/actions-menu.png" width="20" height="20" /> button in the title bar.
+- Right-click a collection, then select <kbd>Edit Collection…</kbd> item from the contextual menu.
+- When selecting the a collection via the [keyboard](//misc/keyboard-shortcuts.md), use the <kbd>Collection > Edit Collection…</kbd> Menu Bar item.
+
+------
+
 ## Deleting a Collection
 
 To delete a collection:
 
-------
+- When viewing the saved posts in a collection, select the <kbd>Edit Collection…</kbd> item under the actions <img src="/views/assets/actions-menu.png" width="20" height="20" /> button in the title bar, then click <kbd>Delete Collection</kbd> from the editing options view.
+- Right-click a collection, then select <kbd>Delete Collection…</kbd> item from the contextual menu.
+- When selecting a collection via the [keyboard](//misc/keyboard-shortcuts.md), use the <kbd>Collection > Delete Collection…</kbd> Menu Bar item.
+
+-----
