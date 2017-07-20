@@ -26,6 +26,7 @@ To save a new post to a saved collection:
 - Right-click any post, then select <kbd>Save > Save to Collection…</kbd> from the contextual menu.
 - When viewing the [Details](//views/detailview.md) of a post, use the <kbd>Save > Save to Collection…</kbd> Menu Bar item.
 
+-----
 
 ## Adding to a Collection
 
@@ -34,6 +35,8 @@ To add posts you have previously saved to a Saved Collection:
 - When viewing the saved posts in a Saved Collection, select the <kbd>Add to Collection…</kbd> item under the actions <img src="/views/assets/actions-menu.png" width="20" height="20" /> button in the title bar.
 - Right-click a Saved Collection, then select <kbd>Add to Collection…</kbd> from the contextual menu.
 - When selecting the a Saved Collection via the [keyboard](//misc/keyboard-shortcuts.md), use the <kbd>Collection > Add to Collection…</kbd> Menu Bar item.
+
+-----
 
 ## Removing posts from a Saved Collection
 
