@@ -58,6 +58,20 @@ To open a draft:
 
 Flume's drafts support [QuickLook](https://en.wikipedia.org/wiki/Quick_Look) and render previews of the photo or video in Finder.
 
+
+## Carousel Posts
+
+You can select up to 10 photos and videos into a single post, otherwise known as a carousel or multi-post. 
+
+To toggle between an individual and carousel post:
+
+- Click the carousel <img src="/views/assets/carousel.png" width="20" height="20" /> button.
+- Use the <kbd>Upload > Toggle Carousel Post</kbd> Menu Bar item.
+- Tap the carousel <img src="/views/assets/carousel.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
+
+> **[info]**
+> Carousel posts can only be uploaded in square (1:1) aspect ratio. Flume will force this ratio when toggling to a carousel post, however the cropping region can still be adjusted. [See Cropping / Resizing.](#cropping---resizing)
+
 ------
 
 ## Editing
