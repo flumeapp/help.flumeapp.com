@@ -26,14 +26,9 @@ To save a new post to a collection:
 
 To add posts you have previously saved to a collection:
 
-- Long-press the save <img src="/views/assets/saved.png" width="20" height="20" /> button wherever it appears next to a post, to display the Saved Collections popover.
+- When viewing the saved posts in a collection, select the <kbd>Add to Collection…</kbd> item under the actions <img src="/views/assets/actions-menu.png" width="20" height="20" /> button in the title bar.
 - Right-click a collection, then select <kbd>Add to Collection…</kbd> from the contextual menu.
 - When selecting the a collection via the [keyboard](//misc/keyboard-shortcuts.md), use the <kbd>Collection > Add to Collection…</kbd> Menu Bar item.
-
-
-
-
-
 
 -----
 
