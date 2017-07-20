@@ -1,8 +1,8 @@
 # Saved Collections
 
-The Sharing window allows you to share your posts to a [linked account](//views/profile/linkedaccounts.md). If you want to share a post in a message, use the [sharing feature of conversations.](//views/conversations/messages.md#sharing-posts)
+Saved Collections allow you to group your [Saved posts](//views/profile.md#saved-posts).
 
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/savedcollections.png" width="50%" height="50%" /></p>
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/savedcollections-1.png" width="50%" height="50%" /></p>
 
 ------
 
