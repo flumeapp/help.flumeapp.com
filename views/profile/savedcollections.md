@@ -50,6 +50,8 @@ To rename a collection:
 
 ## Deleting a Collection
 
+When deleting a collection, the saved posts will still remain saved.
+
 To delete a collection:
 
 - When viewing the saved posts in a collection, select the <kbd>Edit Collection…</kbd> item under the actions <img src="/views/assets/actions-menu.png" width="20" height="20" /> button in the title bar, then click <kbd>Delete Collection</kbd> from the editing options view.
