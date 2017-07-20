@@ -28,7 +28,8 @@ To begin creating a new post:
 
 Flume has support for drafts through its own .flume document type. Drafts save the following information:
 
-- The photo or video to post, with all previous [filters](#filters) and [adjustments](#adjustments) applied.
+- The photos or videos to post
+- All [filters](#filters) and [adjustments.](#adjustments)
 - The [caption.](#captions)
 - The [tagged users.](#tagged-users)
 - The [tagged location.](#tagged-locations)
