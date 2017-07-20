@@ -30,6 +30,13 @@ To add posts you have previously saved to a collection:
 - Right-click a collection, then select <kbd>Add to Collection…</kbd> from the contextual menu.
 - When selecting the a collection via the [keyboard](//misc/keyboard-shortcuts.md), use the <kbd>Collection > Add to Collection…</kbd> Menu Bar item.
 
+## Removing posts from a Collection
+
+To remove posts in a collection:
+
+- Press the save <img src="/views/assets/saved.png" width="20" height="20" /> button wherever it appears next to a previously saved collection post. A confirmation dialog will ask if whether you would like to remove the saved post from the collection or all saved posts.
+
+
 -----
 
 ## Deleting a Collection
