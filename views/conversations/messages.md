@@ -20,7 +20,7 @@ To share a post with a new or existing conversation:
 
 - When viewing the [details](/views/detailview.md) of a post, use the <kbd>Send to…</kbd> option under the Share <img src="/views/assets/share.png" width="20" height="20" /> button in the title bar.
 - Right-click a post, then select <kbd>Share > Send to…</kbd> from the contextual menu.
-- Use the <kbd>Media > Share > Send to…</kbd> Menu Bar item when selecting a post via the [keyboard arrows](/misc/keyboard-shortcuts.md) or viewing the [details](/views/detailview.md) of a post.
+- Use the <kbd>Post > Share > Send to…</kbd> Menu Bar item when selecting a post via the [keyboard arrows](/misc/keyboard-shortcuts.md) or viewing the [details](/views/detailview.md) of a post.
 
 ------
 

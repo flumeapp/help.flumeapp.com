@@ -15,6 +15,6 @@ To repost a post:
 
 - Right-click any post, then select <kbd>Repost Photo/Video…</kbd> from the contextual menu.
 - When viewing the [Details](//views/detailview.md) of a post, select the <kbd>Repost Photo/Video…</kbd> item under the actions <img src="/views/assets/actions-menu.png" width="20" height="20" /> button in the title bar.
-- Use the <kbd>Media > Repost Photo/Video…</kbd> Menu Bar item when selecting a post via the [keyboard arrows](/misc/keyboard-shortcuts.md) or viewing the [details](/views/detailview.md) of a post.
+- Use the <kbd>Post > Repost Photo/Video…</kbd> Menu Bar item when selecting a post via the [keyboard arrows](/misc/keyboard-shortcuts.md) or viewing the [details](/views/detailview.md) of a post.
 
 -----

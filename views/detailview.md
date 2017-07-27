@@ -43,7 +43,7 @@ To write a new comment:
 
 - Click the comment <img src="/views/assets/comment.png" width="20" height="20" /> button in the title bar.
 - Tap the comment <img src="/views/assets/comment.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
-- Use the <kbd>Media > Comment on Photo/Video…</kbd> Menu Bar item.
+- Use the <kbd>Post > Comment on Photo/Video…</kbd> Menu Bar item.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/comment-compose.png" width="30%" height="30%" /></p>
 
