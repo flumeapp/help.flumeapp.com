@@ -6,7 +6,7 @@ search: false
 
 ## 2.7
 
-[_Release Date: June 26th, 2017._](http://blog.flumeapp.com/post/flume-for-mac-27)
+[_Release Date: June 27th, 2017._](http://blog.flumeapp.com/post/flume-for-mac-27)
 
 - NEW: Carousel (multi-post) uploads! Additions to the Touch Bar, drafts, as well as opening multiple files/folders to support carousel posts.
 - NEW: Saved collections! You can long-click the save button to quickly save posts to a new or existing saved collection, as well as via the Touch Bar.
@@ -29,6 +29,14 @@ search: false
 - FIXED: The image cropping window would not fit on low resolution displays.
 - FIXED: The Flume Pro preferences panel now displays the licence code button outside of the actions menu.
 - FIXED: An issue with an incorrect user tagging window size on uploads.
+- FIXED: The photo cropping tool can now crop freely and not just 1:1 (holding shift while resizing will a force 1:1 aspect ratio cropping region).
+- FIXED: The upload window title will display draft filenames if opened.
+- FIXED: Cmd+S and File > Save Draft… support for uploads.
+- FIXED: An issue with dimmed feed items when using Page Up/Down keys.
+- FIXED: Support for carousel items that have multiple captions (ads).
+- FIXED: Movie playback issue when moving quickly between feed and detail views.
+- FIXED: Don't show the follow button for posts when all media details are display.
+- FIXED: "Media" is now referred to as "Post/s".
 - FIXED: User tags on carousel posts correctly updated.
 - FIXED: Slide animations when navigating carousel posts improved.
 - FIXED: An issue that could make the "Username" text-field not clickable.
