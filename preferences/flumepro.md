@@ -33,7 +33,7 @@ For more information on Flume Pro, please see the [Flume Pro FAQ.](http://suppor
 To upgrade to Flume Pro:
 
 1. Click on the <img src="/preferences/assets/pro.png" width="36" height="20" /> button in the Menu Bar and select <kbd>Purchase a Flume Pro Licence…</kbd>
-2. Click on the "Flume Pro" tab (if not selected), then click on <kbd>Upgrade to Pro</kbd>. 
+2. Click on the "Flume Pro" tab (if not selected), then click on <kbd>Upgrade to Pro</kbd>
 
 You can also purchase Flume Pro by [visiting our website](https://flumeapp.com) and clicking on the "Upgrade" button.
 
