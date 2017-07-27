@@ -30,7 +30,12 @@ For more information on Flume Pro, please see the [Flume Pro FAQ.](http://suppor
 
 ## Upgrading to Flume Pro
 
-To upgrade to Flume Pro, simply open Flume's [Preferences](/preferences/README.md), click on the "Flume Pro" tab, then click on <kbd>Upgrade to Pro</kbd>. A pop-up window will guide you through the payment process.
+To upgrade to Flume Pro:
+
+1. Click on the <img src="/preferences/assets/pro.png" width="36" height="20" /> button in the Menu Bar and select <kbd>Purchase a Flume Pro licence…</kbd>
+2. Click on the "Flume Pro" tab (if not selected), then click on <kbd>Upgrade to Pro</kbd>. 
+
+You can also purchase Flume Pro by [visiting our website](https://flumeapp.com) and clicking on the "Upgrade" button.
 
 Upon a successful purchase, you will be presented with a thank you screen. Your licence code will be emailed to you, as well as your purchase receipt.
 
@@ -47,11 +52,12 @@ In your Flume Pro Licence email, a unique activation link is included. Click thi
 
 To activate your Flume Pro licence manually:
 
-1. Open the <kbd>Preferences > Flume Pro</kbd> panel.
-2. Click the <kbd>Enter Licence Code…</kbd> button.
-3. Enter your licence code that you received via email.<br /><br /><img src="/preferences/assets/flume-pro-enter-licence.png" width="70%" height="70%" />
-4. Click <kbd>Verify</kbd>. If your licence has not exhausted all its activations, your name and email address will appear.<br /><br /><img src="/preferences/assets/flume-pro-verify.png" width="70%" height="70%" />
-5. Click <kbd>Activate</kbd><br /><br /><img src="/preferences/assets/flume-pro-activated.png" width="70%" height="70%" />
+1. Click on the <img src="/preferences/assets/pro.png" width="36" height="20" /> button in the Menu Bar and select <kbd>Purchase a Flume Pro licence…</kbd>
+2. Click on the "Flume Pro" tab (if not selected).
+3. Click the <kbd>Enter Licence Code…</kbd> button.
+4. Enter your licence code that you received via email.<br /><br /><img src="/preferences/assets/flume-pro-enter-licence.png" width="70%" height="70%" />
+5. Click <kbd>Verify</kbd>. If your licence has not exhausted all its activations, your name and email address will appear.<br /><br /><img src="/preferences/assets/flume-pro-verify.png" width="70%" height="70%" />
+6. Click <kbd>Activate</kbd><br /><br /><img src="/preferences/assets/flume-pro-activated.png" width="70%" height="70%" />
 
 ------
 
@@ -59,8 +65,10 @@ To activate your Flume Pro licence manually:
 
 To deactivate your Flume Pro licence:
 
-1. Open the <kbd>Preferences > Flume Pro</kbd> panel.
-2. Click the actions <img src="/views/assets/actions-menu.png" width="20" height="20" /> button, and select the <kbd>Deactivate</kbd> item.
+1. Click on the <img src="/preferences/assets/pro.png" width="36" height="20" /> button in the Menu Bar and select <kbd>Purchase a Flume Pro licence…</kbd>
+2. Click on the "Flume Pro" tab (if not selected).
+3. Click the <kbd>Deactivate Licence</kbd> button.
+
 
 ------
 
@@ -75,6 +83,11 @@ If you've deleted your licence code email, you can [recover it from our website.
 If you have previously purchased Flume Pro via the Mac App Store, you will need to migrate it to a licence code.
 
 To migrate your Mac App Store purchase, [please follow our instructions on our Support Portal.](https://flumeapp.com/appstore/)
+
+To manually open the Licence Migrator Tool:
+
+1. Click on the <img src="/preferences/assets/pro.png" width="36" height="20" /> button in the Menu Bar and select <kbd>Migrate Mac App Store Purchase</kbd>
+2. Drag the App Store version of Flume onto the Licence Migrator Tool window and follow the prompts.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/flume-pro-migrate.png" width="30%" height="30%" /></p>
 
