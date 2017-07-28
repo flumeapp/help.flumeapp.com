@@ -52,7 +52,7 @@ In your Flume Pro Licence email, a unique activation link is included. Click thi
 
 To activate your Flume Pro licence manually:
 
-1. Click on the <img src="/preferences/assets/pro.png" width="36" height="20" /> button in the Menu Bar and select <kbd>Purchase a Flume Pro licence…</kbd>
+1. Click on the <img src="/preferences/assets/pro.png" width="36" height="20" /> button in the Menu Bar and select <kbd>Activate Licence…</kbd>
 2. Click on the "Flume Pro" tab (if not selected).
 3. Click the <kbd>Enter Licence Code…</kbd> button.
 4. Enter your licence code that you received via email.<br /><br /><img src="/preferences/assets/flume-pro-enter-licence.png" width="70%" height="70%" />
@@ -65,7 +65,7 @@ To activate your Flume Pro licence manually:
 
 To deactivate your Flume Pro licence:
 
-1. Click on the <img src="/preferences/assets/pro.png" width="36" height="20" /> button in the Menu Bar and select <kbd>Purchase a Flume Pro licence…</kbd>
+1. Click on the <img src="/preferences/assets/pro.png" width="36" height="20" /> button in the Menu Bar and select <kbd>Deactivate Licence…</kbd>
 2. Click on the "Flume Pro" tab (if not selected).
 3. Click the <kbd>Deactivate Licence</kbd> button.
 
