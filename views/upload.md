@@ -250,7 +250,7 @@ To crop a photo:
 Click-and-drag the resize handles to adjust the cropping region, and click-and-drag the rectangle to adjust the cropping position.
 
 > **[info]**
-> If you wish to constrain the cropping region to 1:1 aspect ratio, hold down the <kdb>SHIFT</kbd> key while click-and-dragging.
+> If you wish to constrain the cropping region to 1:1 aspect ratio, hold down the <kbd>SHIFT</kbd> key while click-and-dragging.
 
 #### Resizing Photos
 
