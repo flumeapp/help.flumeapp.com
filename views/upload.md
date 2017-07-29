@@ -247,7 +247,10 @@ To crop a photo:
 - Use the <kbd>Upload > Crop…</kbd> Menu Bar item.
 - Tap the crop <img src="/views/assets/crop.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
 
-Click-and-drag the resize handles to adjust the cropping region, and click-and-drag the square to adjust the cropping position.
+Click-and-drag the resize handles to adjust the cropping region, and click-and-drag the rectangle to adjust the cropping position.
+
+> **[info]**
+> If you wish to constrain the cropping region to 1:1 aspect ratio, hold down the <kdb>SHIFT</kbd> key while click-and-dragging.
 
 #### Resizing Photos
 
