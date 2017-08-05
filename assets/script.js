@@ -6,4 +6,4 @@ setTimeout(function()
 		location.hash = "";
 		location.hash = hash;
 	}
-}, 100);
+}, 500);
