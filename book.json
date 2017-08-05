@@ -1,5 +1,5 @@
 {
-    "plugins": ["custom-favicon", "toggle-chapters", "ungrey", "alerts", "page-toc", "anchorjs", "ga", "localized-footer", "scripts"],
+    "plugins": ["back-to-top-button", "custom-favicon", "toggle-chapters", "ungrey", "alerts", "page-toc", "anchorjs", "ga", "localized-footer", "scripts"],
     "pluginsConfig": {
         "favicon": "/assets/favicon.png",
         "localized-footer": {
