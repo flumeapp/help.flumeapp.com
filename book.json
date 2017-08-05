@@ -19,7 +19,7 @@
         },
         "scripts": {
             "files": [
-                "/assets/script.js"
+                "./assets/script.js"
             ]
         }
     }
