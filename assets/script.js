@@ -1,12 +1,7 @@
 setTimeout(function() 
 {
-    var hash = window.location.hash;
-    
-    console.log(hash);
-    
+    var hash = window.location.hash;    
     $('html, body').animate({
         scrollTop: $(hash).offset().top
     }, 2000);
-
-    console.log("page loaded");
 }, 2000);
