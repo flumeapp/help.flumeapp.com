@@ -11,8 +11,7 @@
             "minTocSize": 2
        },
        "anchorjs": {
-          "placement": "right",
-          "visible": "always"
+          "placement": "right"
         },
         "ga": {
             "token": "UA-3131051-4"
