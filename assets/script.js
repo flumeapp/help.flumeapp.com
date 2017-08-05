@@ -12,7 +12,7 @@ if (hash.length)
 	setTimeout(function() 
 	{
 		var tag = $(location.hash);
-		$('html,body').animate({scrollTop: aTag.offset().top}, '2000');
+		$('html,body').animate({scrollTop: tag.offset().top}, '2000');
 		// location.hash = hash;
 	}, 500);
 }
