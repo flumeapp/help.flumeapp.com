@@ -11,7 +11,9 @@ if (hash.length)
 	window.scrollTo(0, 0);
 	setTimeout(function() 
 	{
-		var tag = $(location.hash);
+		var tag = $(""+hash+"");
+		console.log(tag);
+		console.log(hash);
 		$('html,body').animate({scrollTop: tag.offset().top}, '2000');
 		// location.hash = hash;
 	}, 500);
