@@ -19,7 +19,6 @@
         },
         "scripts": {
             "files": [
-                "./assets/jquery.min.js",
                 "./assets/script.js"
             ]
         }
