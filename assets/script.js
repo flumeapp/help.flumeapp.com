@@ -10,7 +10,7 @@ if (hash.length)
 	location.hash = "";
 	window.scrollTo(0, 0);
 
-	$("document").ready(function()
+	$(document).on('ready', function()	
 	// setTimeout(function() 
 	{
 		var tag = $(""+hash+"");		
