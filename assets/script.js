@@ -1,5 +1,5 @@
-$(window).load(function()
-{
+//$(window).load(function()
+//{
     var hash = window.location.hash;
     
     console.log(hash);
@@ -9,5 +9,4 @@ $(window).load(function()
     }, 2000);
 
     console.log("page loaded");
-});
-
+//});
