@@ -7,5 +7,5 @@ if (hash.length)
 	setTimeout(function() 
 	{
 		location.hash = hash;
-	}, 500);	
+	}, 250);	
 }
