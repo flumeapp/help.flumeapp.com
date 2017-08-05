@@ -9,10 +9,13 @@ if (hash.length)
 {
 	location.hash = "";
 	window.scrollTo(0, 0);
-	setTimeout(function() 
+
+	$("document").ready(function()
+	// setTimeout(function() 
 	{
 		var tag = $(""+hash+"");		
-		$(window).animate({scrollTop: tag.offset().top}, '2000');
+		$('html, body').animate({scrollTop: tag.offset().top}, '2000');
 		// location.hash = hash;
-	}, 500);
+	// }, 500);
+	});
 }
