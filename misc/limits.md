@@ -16,7 +16,7 @@ You can [upload](/views/upload.md) up to 100 posts in a 24 hour period. Posting 
 
 ## Captions
 
-The following limits apply to [captions](/views/upload.md#caption) on posts:
+The following limits apply to [captions](/views/upload.md#captions) on posts:
 
 - 2200 characters
 - Include up to 30 hashtags
