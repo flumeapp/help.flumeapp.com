@@ -16,7 +16,7 @@ If Flume is not currently open, it will open and present you with an [Upload](/v
 
 ### Drag to Dock
 
-Flume handles photos and videos dragged to its Dock icon, as well as entire folders (though a limit of 10 files is applied). You will be asked if each file is a separate [upload](//views/upload.md) or if you wish to create a single [carousel post.](//views/upload.md#carousel-posts)
+Flume handles photos and videos dragged to its Dock icon, as well as entire folders (a limit of 10 files is applied). You will be asked if each file is a separate [upload](//views/upload.md) or if you wish to create a single [carousel post.](//views/upload.md#carousel-posts)
 
 ------
 
