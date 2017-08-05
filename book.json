@@ -2,9 +2,10 @@
     "plugins": ["back-to-top-button", "header", "custom-favicon", "toggle-chapters", "ungrey", "alerts", "page-toc", "anchorjs", "ga", "localized-footer", "scripts"],
     "pluginsConfig": {
         "favicon": "/assets/favicon.png",
-        "layout": {
-          "footerPath" : "/layouts/footer.html"
-        },
+        "localized-footer": {
+             "hline": true,
+             "filename": "/FOOTER.md"
+       },
         "page-toc-button": {
             "maxTocDepth": 2,
             "minTocSize": 2
