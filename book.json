@@ -1,5 +1,5 @@
 {
-    "plugins": ["back-to-top-button", "header", "custom-favicon", "toggle-chapters", "ungrey", "localized-footer", "alerts", "page-toc", "anchorjs"],
+    "plugins": ["back-to-top-button", "header", "custom-favicon", "toggle-chapters", "ungrey", "localized-footer", "alerts", "page-toc", "anchorjs", "ga"],
     "pluginsConfig": {
         "favicon": "/assets/favicon.png",
         "layout": {
@@ -11,6 +11,9 @@
        },
        "anchorjs": {
           "placement": "right"
+        },
+        "ga": {
+            "token": "UA-3131051-4"
         }
     }
 }
