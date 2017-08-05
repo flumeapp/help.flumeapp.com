@@ -1,9 +1,10 @@
-setTimeout(function() 
+var hash = window.location.hash;
+if (hash.length)
 {
-	var hash = window.location.hash;
-	if (hash.length)
-	{
-		location.hash = "";
-		location.hash = hash;
-	}
-}, 500);
+   location.hash = "";
+   window.scrollTo(0, 0);
+   setTimeout(function() 
+   {
+      location.hash = hash;
+   }, 500);
+}
