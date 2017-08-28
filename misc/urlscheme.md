@@ -20,6 +20,7 @@ Additionally, all the shortcuts below can be opened via a HTTP link to our websi
 | <kbd>flumeapp://location/:id</kbd> | Jumps to the tagged posts at the location with the corresponding ID. If the ID is invalid or does not exist, the Flume window will shake. |
 | <kbd>flumeapp://tag/:tagname</kbd> | Jumps to the posts tagged with the corresponding hashtag. If the hashtag is invalid or does not exist, the Flume window will shake. |
 | <kbd>flumeapp://feed</kbd> | Switches to the Feed view. |
+| <kbd>flumeapp://activity</kbd> | Switches to the Activity view. |
 | <kbd>flumeapp://pending_conversations</kbd> | Displays the current pending conversations. |
 | <kbd>flumeapp://pro</kbd> | Displays the Pro tab of the Preferences window. |
 | <kbd>flumeapp://log</kbd> | Displays the debugging log. |
