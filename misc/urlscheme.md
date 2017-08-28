@@ -22,7 +22,7 @@ Additionally, all the shortcuts below can be opened via a HTTP link to our websi
 | <kbd>flumeapp://feed</kbd> | Switches to the [Feed](//views/feed.md) view. |
 | <kbd>flumeapp://activity</kbd> | Switches to the [Activity](//views/activity.md) view. |
 | <kbd>flumeapp://pending_conversations</kbd> | Displays the current [pending conversations](//views/conversations.md). |
-| <kbd>flumeapp://pro</kbd> | Displays the [Pro](//preferences/flumepro.md) tab of the Preferences window. |
+| <kbd>flumeapp://pro</kbd> | Displays the [Flume Pro](//preferences/flumepro.md) tab of the Preferences window. |
 | <kbd>flumeapp://log</kbd> | Displays the debugging log. |
 | <kbd>flumeapp://logfile</kbd> | Opens Finder to the current debugging log file. |
 
@@ -39,6 +39,6 @@ Additionally, all the shortcuts below can be opened via a HTTP link to our websi
 | <kbd>flumeapp://preferences/feed/</kbd> | Opens the Preferences window to the [Feed](//preferences/feed.md) tab. |
 | <kbd>flumeapp://preferences/upload/</kbd> | Opens the Preferences window to the [Upload](//preferences/upload.md) tab. |
 | <kbd>flumeapp://preferences/notifications/</kbd> | Opens the Preferences window to the [Notifications](//preferences/notifications.md) tab. |
-| <kbd>flumeapp://preferences/pro/</kbd> | Opens the Preferences window to the [Pro](//preferences/flumepro.md) tab. |
+| <kbd>flumeapp://preferences/pro/</kbd> | Opens the Preferences window to the [Flume Pro](//preferences/flumepro.md) tab. |
 
 ------
