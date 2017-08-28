@@ -14,9 +14,9 @@ Additionally, all the shortcuts below can be opened via a HTTP link to our websi
 | URI | Explanation |
 |-------------------|
 | <kbd>flumeapp://media/:id</kbd> | Jumps to the [Detail View](//views/detailview.md) of the media with the corresponding ID. If the ID is invalid or does not exist, the Flume window will shake. |
-| <kbd>flumeapp://shortcode/:shortcode</kbd> | Jumps to the [Detail View](//views/detailview.md) of the media with the corresponding short code. A "shortcode" is the series of numbers and letters found on the Instagram website eg. in the URL https://www.instagram.com/p/-Bw_YOEcrW, the shortcode is ```-Bw_YOEcrW```. If the short code is invalid or does not exist, the Flume window will shake (available in [Flume 2.5](//whatsnew/README.md) and above). |
+| <kbd>flumeapp://shortcode/:shortcode</kbd> | Jumps to the [Detail View](//views/detailview.md) of the media with the corresponding short code. A "shortcode" is the series of numbers and letters found on the Instagram website eg. in the URL https://www.instagram.com/p/-Bw_YOEcrW, the shortcode is ```-Bw_YOEcrW```. If the short code is invalid or does not exist, the Flume window will shake. |
 | <kbd>flumeapp://user/:username</kbd> | Jumps to the [Profile](//views/profile.md) of the user with the corresponding username. If the username is invalid or does not exist, the Flume window will shake. |
-| <kbd>flumeapp://userid/:id</kbd> | Jumps to the [Profile](//views/profile.md) of the user with the corresponding user ID. If the user ID is invalid or does not exist, the Flume window will shake (available in [Flume 2.5](//whatsnew/README.md) and above). |
+| <kbd>flumeapp://userid/:id</kbd> | Jumps to the [Profile](//views/profile.md) of the user with the corresponding user ID. If the user ID is invalid or does not exist, the Flume window will shake. |
 | <kbd>flumeapp://location/:id</kbd> | Jumps to the [Location view](//views/locations.md) view at the location with the corresponding ID. If the ID is invalid or does not exist, the Flume window will shake. |
 | <kbd>flumeapp://tag/:tagname</kbd> | Jumps to the [Hashtag view](//views/hashtags.md) with the corresponding hashtag. If the hashtag is invalid or does not exist, the Flume window will shake. |
 | <kbd>flumeapp://feed</kbd> | Switches to the [Feed](//views/feed.md) view. |
