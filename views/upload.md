@@ -214,7 +214,7 @@ To remove an existing location on a photo or video:
 
 ## Cover Image
 
-When uploading a video, you can choose a custom cover image thumbnail that will be used to represent the video as a still image.
+When uploading a video, you can choose a custom cover image that will be used to represent your video's thumbnail image.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/upload-cover-image.png" width="50%" height="50%" /></p>
 
@@ -225,6 +225,9 @@ To set a cover image:
 - Tap the cover image <img src="/views/assets/coverimage.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
 
 Use the video scrubber in the cover image view or [Touch Bar](//misc/touchbar.md) to select a position in the video as the cover image.
+
+> **[info]**
+> By default, Flume will use the frame at 0.5 seconds into your video as your cover image. If your video contains a solid colour fade-in transition, your cover image will be the solid colour. To avoid this, set a custom cover image.
 
 ------
 
