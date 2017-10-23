@@ -68,7 +68,7 @@ You can select up to 10 photos and videos into a single post, otherwise known as
 
 To create a carousel post directly:
 
-- Select more than one photo/video in the macOS open panel that appears after choosing <kbd>Select Photo/Video/Draft…<kbd> in the Upload window.
+- Select more than one photo/video in the macOS open panel that appears after choosing <kbd>Select Photo/Video/Draft…</kbd> in the Upload window.
 - Drag more than one photo/video directly onto an empty Upload window.
 - Drag more than one photo/video (or a folder) directly onto Flume's Dock icon.
 - Right-click more than one photo/video in Finder and select the <kbd>Open with… > Flume</kbd> menu item.
