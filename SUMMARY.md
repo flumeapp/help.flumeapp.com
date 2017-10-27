@@ -15,6 +15,8 @@
 * [Design Preferences](/preferences/design.md)
 * [Accounts Preferences](/preferences/accounts.md)
 * [Feed Preferences](/preferences/feed.md)
+  * [Settings](/preferences/feed/settings.md)
+  * [Hidden Users](/preferences/feed/hiddenusers.md)
 * [Upload Preferences](/preferences/upload.md)
   * [Filters](/preferences/upload/filters.md)
   * [Adjustments](/preferences/upload/adjustments.md)
