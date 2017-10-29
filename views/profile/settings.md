@@ -9,6 +9,7 @@ Your profile settings can be accessed from your own Profile tab via the <img src
 - [Invite Facebook Friends](/views/profile/invitefacebook.md)
 - [Follow Facebook Friends](/views/profile/followfacebook.md)
 - [Find Contacts](/views/profile/invitecontacts.md)
+- [Edit Close Friends List](/views/profile/favorites.md)
 - [Edit Profile](/views/profile/editprofile.md)
 - [Change Password](/views/profile/editpassword.md)
 - [Two-Factor Authentication](/views/profile/twofactor.md)
