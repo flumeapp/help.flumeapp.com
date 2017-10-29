@@ -1,3 +1,5 @@
-# Business Profiles
+# Profile
 
-## Branded Content Approvals
+## Business Profiles
+
+### Branded Content Approvals
