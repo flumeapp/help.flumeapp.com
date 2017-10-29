@@ -6,6 +6,8 @@ As of Flume 2.8, support for macOS [Sharing Extensions](https://support.apple.co
 
 In order to use Flume's Share Extension, it must be enabled from <kbd>System Preferences > Extensions</kbd> before it will appear in Share menus.
 
+<p style="text-align: center; margin-top: 1em;"><img src="/misc/assets/share-extension.png" width="70%" height="70%" /> </p>
+
 
 ## Finder
 
