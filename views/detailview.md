@@ -86,9 +86,17 @@ To view the likes on a specific comment:
 
 -----
 
+### Bulk Deleting Comments
+
+On your own posts, you can quickly delete multiple comments at once rather than one at a time.
+
+To bulk delete comments:
+
+- 
+
 ### Deleting Comments
 
-To delete a comment:
+To delete a single comment:
 
 - Move the mouse to the right area of a comment to reveal the comment actions panel, then click the delete <img src="/views/assets/delete.png" width="20" height="20" /> button.<br /><br /><p style="text-align: center; margin-top: 1em;"><img src="/views/assets/comment-actions.png" width="50%" height="50%" /></p>
 - Right-click a comment, then select <kbd>Delete Comment…</kbd> from the contextual menu.
