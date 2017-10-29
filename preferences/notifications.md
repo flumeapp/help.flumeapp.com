@@ -22,13 +22,22 @@ Whenever the Flume window is not front-most, and new content in the [Feed](/view
 
 ## New Activity
 
-Whenever there is new content on the [Activity](/views/activity.md) tab, the selected notification settings will apply. New activity types include new likes and comments on your posts, mentions of your username in comments, updated spam reports from Instagram, new friends/contacts that have joined Instagram, copyright breaches and potentially future notification types that Instagram may add in the future. This usually occurs when the [automatic refresh interval](/preferences/feed.md#automatic-refresh-interval) elapses.
+Whenever there is new content on the [Activity](/views/activity.md) tab, the selected notification settings will apply. New activity types include new likes, updated spam reports from Instagram, new friends/contacts that have joined Instagram, copyright breaches and potentially future notification types that Instagram may add in the future. This usually occurs when the [automatic refresh interval](/preferences/feed.md#automatic-refresh-interval) elapses.
+
+>**[info]**
+> New activity notifications for new comments, mentions in comments, and replies to your comments, your settings under [New Comments](#new-comments) will apply.
 
 ------
 
 ## New Messages
 
 Whenever a new message in an existing [Conversation](/views/conversations.md) is received, or a user you follow messages you for the first time, the notification settings will apply. Messages are received in real-time and thus do not depend on the [automatic refresh interval](/preferences/feed.md#automatic-refresh-interval) setting.
+
+------
+
+## New Comments
+
+Whenever there is new content on the [Activity](/views/activity.md) tab that relates to a new comment, a new mention, or a reply to your comments, the selected notification settings will apply. 
 
 ------
 
