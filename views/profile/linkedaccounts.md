@@ -38,11 +38,7 @@ If you're trying to relink Instagram to a social network, you may have to visit 
 
 [Twitter:](https://twitter.com/settings/applications) See your authorized apps
 
-[Flickr:](http://www.flickr.com/services/auth/list.gne?from=extend) See your authorized services
-
 [Tumblr:](https://www.tumblr.com/preferences) See your Preferences and revoke access from the Applications section
-
-[Foursquare:](https://foursquare.com/login?continue=%2Fsettings%2Fconnections) See your connections to other apps
 
 -----
 
