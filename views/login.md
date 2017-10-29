@@ -14,6 +14,12 @@ If you have [1Password](https://1password.com) installed on your Mac, the 1Passw
 
 ------
 
+## One-Click Login
+
+When logging out of an account, you have the option for Flume to remember your login information. 
+
+------
+
 ## Login Errors
 
 If login fails, a visible error alert will appear describing the issue. If your account has been disabled for violating Instagram's Community Guidelines, please consult [Instagram Support](https://help.instagram.com/366993040048856) for more info.
