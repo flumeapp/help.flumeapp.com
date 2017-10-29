@@ -1,6 +1,8 @@
-# Business Profiles
+# Profile
 
-## Payments
+## Business Profiles
+
+### Payments
 
 To adjust the payment methods for your [promotions](//views/promote.md):
 
