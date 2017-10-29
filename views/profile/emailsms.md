@@ -1,3 +1,7 @@
-# Profile Settings
+# Profile
 
-## Email and SMS Notification Settings
+## Profile Settings
+
+### Email and SMS Notification Settings
+
+Etc
