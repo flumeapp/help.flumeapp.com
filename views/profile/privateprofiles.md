@@ -1,4 +1,6 @@
-# Private Profiles
+# Profile
+
+## Private Profiles
 
 Private profiles allow you to manage who can see your posts. You do not need a private profile in order to manage who can message you, as all messages from users you do not follow appear as [message requests.](/views/conversations.md#message-requests)
 
@@ -8,7 +10,7 @@ Conversely, private profiles that you do not follow will not display any informa
 
 ------
 
-## Following a Private Profile
+### Following a Private Profile
 
 When requesting to follow a private profile, the user will be notified of your [friend request.](/views/profile.md#friend-requests)
 
@@ -16,7 +18,7 @@ If the user accepts your friend request, you will be notified in your [Activity.
 
 ------
 
-## Switching to a Private Profile
+### Switching to a Private Profile
 
 To switch to a private profile:
 
@@ -27,7 +29,7 @@ To switch to a private profile:
 
 ------
 
-## Switching to a Public Profile
+### Switching to a Public Profile
 
 To switch back to a public profile:
 
