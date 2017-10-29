@@ -1,8 +1,4 @@
 # Profile
 
-## Suggested Users
-
-
-
-
+## Discover Users
 
