@@ -11,7 +11,7 @@ Your profile settings can be accessed from your own Profile tab via the <img src
 - [Find Contacts](/views/profile/invitecontacts.md)
 - [Edit Close Friends List](/views/profile/favorites.md)
 - [Saved](/views/profile.md#saved-posts)
-- [Photos of You](/views/profile.md#tagged-photos)
+- [Photos of You](/views/profile.md#tagged-posts)
 - [Edit Profile](/views/profile/editprofile.md)
 - [Change Password](/views/profile/editpassword.md)
 - [Two-Factor Authentication](/views/profile/twofactor.md)
