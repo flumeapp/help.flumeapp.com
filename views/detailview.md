@@ -92,7 +92,9 @@ On your own posts, you can quickly delete multiple comments at once rather than 
 
 To bulk delete comments:
 
-- 
+1. When viewing one of your own posts, select the <kbd>Delete Comments…</kbd> item under the actions <img src="/views/assets/actions-menu.png" width="20" height="20" /> button in the title bar.
+2. Select the comments you wish to delete.
+3. Confirm your selection by clicking the 
 
 ### Deleting Comments
 
