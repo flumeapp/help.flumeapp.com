@@ -27,9 +27,9 @@ Note that you can also switch accounts much faster by using the "Accounts" Menu 
 
 ## Removing an Account
 
-To remove an account, simply log-out of the account.
+To remove an account, simply log out of the account.
 
-- Use the <kbd>Log Out…</kbd> Menu Bar item when logged in with the account you wish to remove.
+- Use the <kbd>Log Out…</kbd> Menu Bar item when logged in with the account you wish to remove. If you are logged in with multiple accounts, use the <kbd>Log Out of @username</kbd> Menu Bar item instead.
 
 To remove all accounts:
 
