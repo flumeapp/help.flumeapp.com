@@ -49,7 +49,7 @@
     * [Insights](/views/profile/insights.md)
     * [Payments](/views/profile/payments.md)
     * [Branded Content Approvals](/views/profile/brandedcontent.md)
-    * [Promoting](/views/promote.md)
+    * [Promotions](/views/promote.md)
   * [Private Profiles](/views/profile/privateprofiles.md)
   * [Profile Settings](/views/profile/settings.md)
     * [Invite Facebook Friends](/views/profile/invitefacebook.md)
