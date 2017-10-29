@@ -24,6 +24,8 @@ To begin creating a new post:
 - Drag a photo/video directly onto Flume's Dock icon.
 - Right-click a photo or video in Finder and select the <kbd>Open with… > Flume</kbd> menu item.
 
+------
+
 ## Drafts
 
 Flume has support for drafts through its own .flume document type. Drafts save the following information:
@@ -37,6 +39,8 @@ Flume has support for drafts through its own .flume document type. Drafts save t
 - The [advanced settings.](#advanced-settings)
 - The [account](//preferences/accounts.md) to post to.
 
+------
+
 ### Creating Drafts
 
 To create/save a draft:
@@ -45,6 +49,8 @@ To create/save a draft:
 
 > **[info]**
 > If you make edits to a previously opened draft, changes will be saved to the same draft file and no save dialog will appear.
+
+------
 
 ### Opening Drafts
 
@@ -55,10 +61,13 @@ To open a draft:
 - Drag-and-drop the draft onto an Upload window.
 - Use the <kbd>File > Open Draft…</kbd> Menu Bar item.
 
+------
+
 ### Previewing Drafts
 
 Flume's drafts support [QuickLook](https://en.wikipedia.org/wiki/Quick_Look) and render previews of the photo or video in Finder.
 
+------
 
 ## Carousel Posts
 
@@ -69,6 +78,8 @@ Carousel posts can be either all square items, all horizontal, or all vertical. 
 >**[info]**
 >When dragging multiple files to create a Carousel Post, Flume will sort the files by filename to ascertain the order. As the first item in your Carousel Post determines the kind of Carousel Post (square / horizontal / vertical) Flume will create, ensure your filenames are named correctly (eg. "1.jpg", "2.jpg", "3.jpg"). Alternatively, select your first item for Upload manually, then add the remaining items after toggling from a [Single Post to a Carousel Post.](#converting-single-posts-to-carousel-posts)
 
+------
+
 ### Creating Carousel Posts
 
 To create a Carousel Post directly:
@@ -78,6 +89,7 @@ To create a Carousel Post directly:
 - Drag more than one photo/video (or a folder) directly onto Flume's Dock icon.
 - Right-click more than one photo/video in Finder and select the <kbd>Open with… > Flume</kbd> menu item.
 
+------
 
 ### Converting Single Posts to Carousel Posts
 
@@ -101,6 +113,8 @@ You can apply filters and make adjustments to your photos and videos easily righ
 > **[info]**
 > The Scale adjustment is only available on photos.
 
+------
+
 #### Editing Photos/Videos
 
 To edit a selected photo or video:
@@ -108,6 +122,8 @@ To edit a selected photo or video:
 - Click the edit <img src="/views/assets/edit.png" width="20" height="20" /> button.
 - Use the <kbd>Upload > Toggle Edit Options</kbd> Menu Bar item.
 - Tap the edit <img src="/views/assets/edit.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
+
+------
 
 #### Previewing Edits
 
@@ -144,6 +160,7 @@ The Color adjustment requires you to first select a color to apply as an overall
 
 The Tilt Shift adjustment requires you to set the two focal points. Click the <kbd>Adjust</kbd> button and follow the prompts to set the points on the photo or video.
 
+------
 
 #### Resetting Adjustments
 
@@ -171,6 +188,8 @@ You can include up to 30 users to tag in a photo. The tagged users can be viewed
 > **[info]**
 > Only photos can contain tagged users.
 
+------
+
 ### Adding Tagged Users
 
 To add a tagged user in a photo:
@@ -180,12 +199,16 @@ To add a tagged user in a photo:
 3. Type in the search text field to find the relevant user.
 4. Click on a search result to confirm the user tag.
 
+------
+
 ### Removing Tagged Users
 
 To remove a tagged user:
 
 1. Click the tagged users <img src="/views/assets/taggedusers.png" width="20" height="20" /> button on the photo, or tap the button in the [Touch Bar.](//misc/touchbar.md)
 2. Hover the mouse over the user tag you wish to remove and click it once.
+
+------
 
 ### Repositioning Tagged Users
 
@@ -202,6 +225,8 @@ You can tag your photo and video at a location that displays in the [Details Vie
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/edit-location.png" width="80%" height="80%" /></p>
 
+------
+
 ### Adding Tagged Locations
 
 To add a location on a photo or video:
@@ -213,12 +238,16 @@ To add a location on a photo or video:
 > **[info]**
 > If the photo or video contains [geotag](https://en.wikipedia.org/wiki/Geotagging) location information, Flume will automatically search for the GPS coordinates where the photo or video was taken.
 
+------
+
 ### Editing Tagged Locations
 
 To edit a location on a photo or video:
 
 - Click the name of the location, and select the <kbd>Edit Location</kbd> item.
 - Tap the edit location <img src="/views/assets/location-add.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
+
+------
 
 ### Removing Tagged Locations
 
@@ -260,6 +289,8 @@ When you select a photo to upload that exceeds the [aspect ratio requirements](/
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/upload-cropping.png" width="50%" height="50%" /></p>
 
+------
+
 #### Cropping Photos
 
 To crop a photo:
@@ -273,6 +304,8 @@ Click-and-drag the resize handles to adjust the cropping region, and click-and-d
 > **[info]**
 > If you wish to constrain the cropping region to 1:1 aspect ratio, hold down the <kbd>SHIFT</kbd> key while click-and-dragging.
 
+------
+
 #### Resizing Photos
 
 To resize a photo back to its original dimensions:
@@ -280,6 +313,8 @@ To resize a photo back to its original dimensions:
 - Click the resize <img src="/views/assets/resize.png" width="20" height="20" /> button.
 - Use the <kbd>Upload > Resize to Original</kbd> Menu Bar item.
 - Tap the resize <img src="/views/assets/resize.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
+
+------
 
 #### Resizing Photos to Fit
 
@@ -304,6 +339,8 @@ When you select a video to upload that exceeds the [aspect ratio requirements](/
 >
 > It is not currently possible to resize videos to fit, [unlike photos.](#resizing-photos-to-fit)
 
+------
+
 #### Cropping Videos
 
 To crop a video:
@@ -311,6 +348,8 @@ To crop a video:
 - Click the crop <img src="/views/assets/crop.png" width="20" height="20" /> button.
 - Use the <kbd>Upload > Crop…</kbd> Menu Bar item.
 - Tap the crop <img src="/views/assets/crop.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
+
+------
 
 #### Resizing Videos
 
