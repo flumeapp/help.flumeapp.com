@@ -94,7 +94,11 @@ To bulk delete comments:
 
 1. When viewing one of your own posts, select the <kbd>Delete Comments…</kbd> item under the actions <img src="/views/assets/actions-menu.png" width="20" height="20" /> button in the title bar.
 2. Select the comments you wish to delete.
-3. Confirm your selection by clicking the confirm <img src="/views/assets/actions-menu.png" width="20" height="20" /> button in the title bar or in the Touch Bar.
+3. Confirm your selection by clicking the confirm <img src="/views/assets/accept.png" width="20" height="20" /> button in the title bar or in the Touch Bar.
+
+You can also [disable commenting](#enabling--disabling-comments) on your post, which will hide all previous comments automatically.
+
+-----
 
 ### Deleting Comments
 
