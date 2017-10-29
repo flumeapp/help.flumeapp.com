@@ -1,5 +1,12 @@
 # Integrations
 
+## Share Extension
+
+As of Flume 2.8, support for macOS [Sharing Extensions](https://support.apple.com/kb/PH18826) has been added. This allows you to share from any place in macOS, and in macOS apps that support Share Extensions.
+
+In order to use Flume's Share Extension, it must be enabled from <kbd>System Preferences > Extensions</kbd> before it will appear in Share menus.
+
+
 ## Finder
 
 ### System Services
@@ -22,9 +29,12 @@ Flume handles photos and videos dragged to its Dock icon, as well as entire fold
 
 ## Photos
 
-Starting with macOS Yosemite 10.10.3, Apple ships all Macs with [Photos](https://support.apple.com/photos) (the successor to iPhoto). Flume does not currently support [Sharing Extensions](https://support.apple.com/kb/PH18826) or [Photo Editor Extensions.](https://support.apple.com/en-us/HT205245)
+Starting with macOS Yosemite 10.10.3, Apple ships all Macs with [Photos](https://support.apple.com/photos) (the successor to iPhoto). 
 
-We recommend the use of a third-party extension, [External Editors for Photos](http://externaleditorsforphotos.tumblr.com). This extension will allow you to open any content from [Photos](https://support.apple.com/photos) directly into Flume, as it will be considered an "editor". 
+To share from Photos to Flume, either use the [Share Extension](#share-extension), or drag-and-drop photos and videos directly on to the Flume upload window.
+
+>**[info]**
+> It is not possible to drag-and-drop photos and videos from Photos onto the Flume Dock icon. Drop the items onto an empty [Upload](//views/upload.md) window, or use the [Share Extension](#share-extension) _(recommended)_.
 
 ------
 
