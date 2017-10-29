@@ -16,7 +16,7 @@ If using Flume with [multiple accounts](/preferences/accounts.md#adding-an-accou
 
 ## Hide
 
-Enable or disable displaying videos in Flume. When enabled, all videos will be filtered from the [Feed](/views/feed.md), [Likes](/views/likes.md) and [Explore](/views/explore.md) views. Videos will be displayed on [Profiles.](/views/profile.md)
+Enable or disable displaying photos or videos in Flume. When enabled, all photos or videos will be filtered from the [Feed](/views/feed.md), [Likes](/views/likes.md) and [Explore](/views/explore.md) views. Photo or videos will still be displayed on [Profiles.](/views/profile.md)
 
 ------
 
