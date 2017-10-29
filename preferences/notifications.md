@@ -4,6 +4,12 @@
 
 ------ 
 
+## Push Notification Mode
+
+Flume can receive Push Notification from Instagram so that you're alerted instantly to new activity. These behave identically to Push Notifications that you receive on your mobile devices.
+
+------ 
+
 Notifications in Flume can occur in the following ways:
 
 ** Badge the Dock icon ** - A red indicator will display on the Dock icon.
