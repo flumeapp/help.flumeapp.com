@@ -77,6 +77,6 @@ To search locations that are near to you:
 
 - Click the <kbd>Places</kbd> search type tab.
 - If you have previously searched for a term, press the clear <img src="/views/assets/clear.png" width="20" height="20" /> button to remove the current search term.
-- Click the "Nearby Locations" row in the list of results.
+- Click the "Nearby Places" row in the list of results.
 
 ------
