@@ -64,6 +64,11 @@ Flume's drafts support [QuickLook](https://en.wikipedia.org/wiki/Quick_Look) and
 
 You can select up to 10 photos and videos into a single post, otherwise known as a [carousel or multi-post.](//views/detailview.md#carousel-posts) 
 
+Carousel posts can be either all square items, all horizontal, or all vertical. It is not possible to mix-and-match square items with horizontal or vertical items. **Flume will use the aspect ratio of your first item in the Carousel Post, in order to force cropping of all subsequent items to the same aspect ratio.** If you wish to create a square Carousel Post from a photo or video that is not originally in square aspect ratio, you should first [crop the photo/video](#cropping---resizing) before toggling the Carousel Post option. If you drag-and-drop multiple files to create a Carousel Post, Flume will automatically display the cropping window for you for the first item.
+
+>**[info]**
+>When dragging multiple files to create a Carousel Post, Flume will sort the files by filename to ascertain the order. As the first item in your Carousel Post determines the kind of Carousel Post (square / horizontal / vertical) Flume will create, ensure your filenames are named correctly (eg. "1.jpg", "2.jpg", "3.jpg"). Alternatively, select your first item for Upload manually, then add the remaining items after toggling from a [Single Post to a Carousel Post.](#converting-single-posts-to-carousel-posts)
+
 ### Creating Carousel Posts
 
 To create a carousel post directly:
@@ -81,9 +86,6 @@ To toggle between an individual and carousel post:
 - Click the carousel <img src="/views/assets/carousel.png" width="20" height="20" /> button.
 - Use the <kbd>Upload > Toggle Carousel Post</kbd> Menu Bar item.
 - Tap the carousel <img src="/views/assets/carousel.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
-
-> **[info]**
-> Carousel posts can only be uploaded in square (1:1) aspect ratio currently. Flume will force this ratio when toggling to a carousel post, however the [cropping region can still be adjusted.](#cropping---resizing)
 
 ------
 
