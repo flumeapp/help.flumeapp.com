@@ -19,7 +19,7 @@ There are multiple methods to view a carousel post:
 - Click the page indicator dot that appears beneath the carousel post.
 
 > **[info]**
-> Each photo in a carousel post can contain different tagged users. See [Tagged Users](#tagged-users) for more.
+> Each photo in a carousel post can contain different tagged users. See [Tagged Users](#tagged-users) for more. Videos cannot contain any tagged users.
 
 -----
 
@@ -33,7 +33,7 @@ To view the comments on a post:
 - Press the <kbd>⇥ (TAB)</kbd> [keyboard shortcut.](//misc/keyboard-shortcuts.md)
 
 > **[info]**
-> If [comments are disabled](#enabling--disabling-comments) on a post, the comments tab will be dimmed and disabled.
+> If [comments are disabled](#enabling--disabling-comments) on a post, the comments tab will be dimmed and disabled. If comments are [restricted](#restricting-comments) and you do not fit the permitted commenters, you will only be able to view comments and not add or reply to existing comments.
 
 -----
 
