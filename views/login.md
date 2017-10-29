@@ -18,6 +18,10 @@ If you have [1Password](https://1password.com) installed on your Mac, the 1Passw
 
 When logging out of an account, you have the option for Flume to remember your login information. 
 
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/logout-oneclick.png" width="50%" height="50%" /></p>
+
+When enabling this option, an additional 
+
 ------
 
 ## Login Errors
