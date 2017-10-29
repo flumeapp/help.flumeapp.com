@@ -2,7 +2,9 @@
 
 ## Settings
 
+<p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/menu-settings.png" width="50%" height="50%" /></p>
 
+------ 
 
 ## Show the menu
 
