@@ -1,4 +1,6 @@
-# Business Profiles
+# Profile
+
+## Business Profiles
 
 A Business Profile on Instagram will help your customers connect to your business. When converting to a Business Profile, you'll be able to include additional information about your business on your profile. For example, you'll be able to add a phone number, an email address and your business's physical address. Keep in mind that you must include at least 1 contact option.
 
@@ -12,7 +14,7 @@ You can find more information about Business Profiles at [Facebook's Business He
 
 ------
 
-## Switch to a Business Profile
+### Switch to a Business Profile
 
 Only businesses on Instagram should use Business Profiles. Additionally, to get access, your business must have a [Facebook Page.](https://www.facebook.com/help/pages)
 
@@ -31,7 +33,7 @@ To switch to a Business Profile:
 
 ------
 
-## Switch Back to a Personal Account
+### Switch Back to a Personal Account
 
 To switch a Business Profile back to a personal account:
 
