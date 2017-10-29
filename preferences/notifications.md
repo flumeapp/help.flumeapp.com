@@ -26,7 +26,7 @@ You can configure which types of Push Notifications you receive, by clicking <kb
 
 You can be alerted to new notifications in Flume in the following ways:
 
-** Badge the Dock icon ** - A red indicator will display on the Dock icon. The Status Bar item will also highlight if it is visible.
+** Badge the Dock icon ** - A red indicator will display on the Dock icon. The [Status Bar](//preferences/general.md#show-icon-in) item will also highlight if it is visible.
 
 ** Show a desktop notification ** - A macOS desktop notification will appear, with actionable items (eg. to reply to a new message, or to view a new activity notification).
 
