@@ -86,8 +86,10 @@ To export a conversation:
 
 - Right-click a conversation, then select <kbd>Export Conversation…</kbd> from the contextual menu.
 - When selecting a conversation using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Conversation > Export Conversation…</kbd> Menu Bar item.
-- When viewing the conversation's [messages](/views/conversations/messages.md), use the <kbd>Export…</kbd> option under the <img src="/views/assets/export.png" width="20" height="20" /> button in the title bar.
+- When viewing the conversation's [messages](/views/conversations/messages.md), use the <kbd>Export…</kbd> option under the <img src="/views/assets/download.png" width="20" height="20" /> button in the title bar.
 
+>**[info]**
+> Exporting a conversation will only export the messages that Flume has downloaded locally. To ensure all messages in a conversation are exported, click to view the specific conversation and scroll up until all messages are displayed in Flume. 
 
 ------
 
