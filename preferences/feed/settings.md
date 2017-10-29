@@ -2,7 +2,7 @@
 
 ## Settings
 
-<p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/feed.png" width="60%" height="60%" /></p>
+<p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/feed-settings.png" width="60%" height="60%" /></p>
 
 ------ 
 
