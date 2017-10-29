@@ -43,7 +43,8 @@ By default, all notification types are displayed. To apply filters to the notifi
 
 To hide a specific activity notification:
 
-
+- Right-click on an activity notification and select <kbd>Hide Activity</kbd> from the contextual menu.
+- Selc
 
 ------
 
