@@ -81,3 +81,6 @@ Displays the current size of the local database and image cache. This cache is a
 ## Show Flume Pro item in Menu Bar
 
 Toggles the visibility of the <img src="/preferences/assets/pro.png" width="36" height="20" /> menu item in the macOS Menu Bar.
+
+------
+
