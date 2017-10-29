@@ -73,10 +73,15 @@ To clear your recent searches, see [Profile Settings.](/views/profile/settings.m
 
 ## Nearby Location Searches
 
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/search-nearby.png" width="50%" height="50%" /></p>
+
 To search locations that are near to you:
 
 - Click the <kbd>Places</kbd> search type tab.
 - If you have previously searched for a term, press the clear <img src="/views/assets/clear.png" width="20" height="20" /> button to remove the current search term.
 - Click the "Nearby Places" row in the list of results.
+
+>**[info]**
+>You must allow Flume access to your location if you wish to use this feature. If you have previously disabled access, you can enable Location Services access via <kbd>System Preferences > Security Privacy > Privacy > Location Services.</kbd>
 
 ------
