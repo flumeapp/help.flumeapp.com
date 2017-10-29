@@ -3,7 +3,7 @@
 ## Aspect Ratio
 Instagram enforces aspect ratio rules for all uploads. All uploads must fit between a 4:5 (vertical) and 1.91:1 (horizontal) aspect ratio. For regular horizontal photos and videos taken with most cameras and smartphones, no cropping is necessary as they fit between these ratios. For portrait photos and videos, or panorama photos, some cropping is required to upload your photo/video.
 
-[Carousel posts](//views/upload.md#carousel-posts) have different requirements, and must fit within a 1:1 (square) aspect ratio. Flume will enforce this restriction when toggling a regular post into a carousel post.
+[Carousel posts](//views/upload.md#carousel-posts) have different requirements enforced. All items must either be resized to square, all horizontal, or all vertical aspect ratios. Flume will enforce this restriction when toggling a regular post into a carousel post, and lock cropping regions to the aspect ratio of the first item in your Carousel Post.
 
 To choose the cropping region for photos and videos in Flume, simply use the mouse scroll-wheel to pan left/right/up/down.
 
