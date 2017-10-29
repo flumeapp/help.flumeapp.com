@@ -42,6 +42,8 @@
   * [Messages](/views/conversations/messages.md)
   * [Info](/views/conversations/info.md)
 * [Profile](/views/profile.md)
+  * [Favorites](/views/profile/favorites.md)
+  * [Suggested Users](/views/profile/suggestedusers.md)
   * [Saved Collections](/views/profile/savedcollections.md)
   * [Business Profiles](/views/profile/businessprofiles.md)
     * [Insights](/views/profile/insights.md)
