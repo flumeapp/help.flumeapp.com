@@ -50,6 +50,7 @@ When viewing your own profile, an extra tab will appear, that allows you to view
 To view posts that you have saved:
 
 - Click the Saved <img src="/views/assets/saved.png" width="20" height="20" /> button in the title bar.
+- When viewing your [Profile](/views/profile.md), select the <kbd>Saved…</kbd> item under the [Settings](/views/profile/settings.md) <img src="/views/assets/settings.png" width="20" height="20" /> button in the title bar.
 
 ------
 
