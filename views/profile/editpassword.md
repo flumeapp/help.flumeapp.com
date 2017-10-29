@@ -1,12 +1,14 @@
-# Profile Settings
+# Profile
 
-## Change Password
+## Profile Settings
+
+### Change Password
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-password.png" width="50%" height="50%" /></p>
 
 ------
 
-### Changing Your Password
+#### Changing Your Password
 
 To change your password:
 
