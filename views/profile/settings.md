@@ -9,7 +9,7 @@ Your profile settings can be accessed from your own Profile tab via the <img src
 - [Find Contacts](/views/profile/invitecontacts.md)
 - [Edit Profile](/views/profile/editprofile.md)
 - [Change Password](/views/profile/editpassword.md)
-- [Blocked Users](/views/profile/twofactor.md)
+- [Two-Factor Authentication](/views/profile/twofactor.md)
 - [Blocked Users](/views/profile/blockedusers.md)
 - [Linked Accounts](/views/profile/linkedaccounts.md)
 - [Comments](/views/profile/comments.md)
