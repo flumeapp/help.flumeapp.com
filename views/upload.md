@@ -324,6 +324,20 @@ To resize a video back to its original dimensions:
 
 ## Sharing
 
+### Sharing to Your Favorites/Close Friends
+
+To share a post to your [Favorites](//views/profile/favorites.md) / close friends:
+
+- Click the Share to Favorites <img src="/views/assets/sharefavorites.png" width="20" height="20" /> button.
+- Use the <kbd>Upload > Share > Share to Favorites</kbd> Menu Bar item.
+
+>**[info]**
+> If you enable sharing to your Favorites, [sharing to a Linked Account](#sharing-to-linked-accounts) is disabled.
+
+------
+
+### Sharing to Linked Accounts
+
 Sharing allows you to cross-post your upload to a [linked account.](//views/profile/linkedaccounts.md) You can also [share existing posts](//views/sharing.md) at any time.
 
 To share a post to a linked account:
