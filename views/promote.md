@@ -51,11 +51,3 @@ To delete a promotion:
 > You can only delete promotions that are currently running.
 
 ------
-
-### Adjusting Payment Methods
-
-To adjust the payment methods for your promotions:
-
-- When viewing your [Profile](/views/profile.md), select the <kbd>Payment Methods</kbd> item under the [Settings](/views/profile/settings.md) <img src="/views/assets/settings.png" width="20" height="20" /> button in the title bar.
-
-------
