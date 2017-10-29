@@ -20,7 +20,7 @@ If you have [1Password](https://1password.com) installed on your Mac, the 1Passw
 
 When logging out of an account, you have the option for Flume to remember your login information. 
 
-When enabling this option, a saved accounts <img src="/views/assets/login-oneclick.png" width="32" height="32" />  button appears allowing you to log quickly back into previously saved accounts with just one click.
+When enabling this option, a saved accounts <img src="/views/assets/oneclick-login.png" width="32" height="32" />  button appears allowing you to log quickly back into previously saved accounts with just one click.
 
 ------
 
