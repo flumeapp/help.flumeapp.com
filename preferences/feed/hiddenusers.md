@@ -14,10 +14,13 @@ To hide a user's posts:
 
 - When viewing the post of a user in your [Feed](//views/feed.md), right-click their post, then select the <kbd>Hide posts from @username</kbd> from the contextual menu.
 
+------ 
 
 ## Removing a Hidden User
 
 To unhide a user:
 
-- 
+- Click the delete <img src="/views/assets/delete.png" width="20" height="20" /> button next to the user you wish to unhide.
+
+------ 
 
