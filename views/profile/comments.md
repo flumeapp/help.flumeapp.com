@@ -1,4 +1,6 @@
-# Comments
+# Profile Settings
+
+## Comments
 
 The Comments view allows you to hide comments automatically and set keywords to hide on your posts, as well as restricting who can comment on your posts.
 
@@ -6,7 +8,7 @@ The Comments view allows you to hide comments automatically and set keywords to 
 
 ------
 
-## Viewing Comments Options
+### Viewing Comments Options
 
 To view your current comments settings:
 
@@ -14,7 +16,7 @@ To view your current comments settings:
 
 ------
 
-## Enabling / Disabling Comments on Posts
+### Enabling / Disabling Comments on Posts
 
 You can disable commenting on your posts, by toggling the option when [uploading.](/views/upload.md)
 
