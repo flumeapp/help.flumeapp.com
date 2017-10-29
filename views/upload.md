@@ -406,7 +406,7 @@ To adjust advanced settings on your post:
 
 To switch the account to post with:
 
-- Long-press on the profile picture and select an account.
+- Click on the profile picture and select an account.
 - Use the <kbd>Accounts</kbd> Menu Bar item.
 
 ------
