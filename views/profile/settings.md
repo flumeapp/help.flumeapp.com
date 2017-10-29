@@ -12,5 +12,7 @@ Your profile settings can be accessed from your own Profile tab via the <img src
 - [Blocked Users](/views/profile/blockedusers.md)
 - [Linked Accounts](/views/profile/linkedaccounts.md)
 - [Comments](/views/profile/comments.md)
+- [Push Notification Settings](/views/profile/pushnotifications.md)
+- [Email and SMS Notification Settings](/views/profile/emailsms.md)
 
 ------
