@@ -8,7 +8,7 @@ The Activity tab shows you the latest notifications for your account. You can re
 
 ## You
 
-The You tab lists the latest 50 notifications that relate to the current account. These include:
+The You tab lists the latest notifications that relate to the current account. These include:
 
 - Likes on your posts
 - New followers (if not set to a [Private Profile](/views/profile/privateprofiles.md))
@@ -39,11 +39,17 @@ By default, all notification types are displayed. To apply filters to the notifi
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/activity-filtering.png" width="50%" height="50%" /></p>
 
+### Hiding Activity
+
+To hide a specific activity notification:
+
+
+
 ------
 
 ## Following
 
-The Following tab lists the latest 200 notifications that relate to activity made by users you follow. These include:
+The Following tab lists the latest notifications that relate to activity made by users you follow. These include:
 
 - When users you follow like other posts
 - When users you follow start following other users
