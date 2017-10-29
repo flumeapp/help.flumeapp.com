@@ -10,6 +10,8 @@ Flume can receive Push Notification from Instagram so that you're alerted instan
 
 You can configure which types of Push Notifications you receive, by clicking <kbd>Configure Push Settings</kbd> to edit your [Push Notification Settings.](/profile/pushnotifications.md) 
 
+Your connection status to receive Push Notifications from Instagram is displayed via the coloured indicator. 
+
 >**[info]**
 > Note that configuring your Push Notification Settings applies to all your mobile devices. It is not possible to receive certain Push Notifications on your Mac with Flume, while receiving other types only on your mobile devices through the Instagram app.
 
