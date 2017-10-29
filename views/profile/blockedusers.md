@@ -1,10 +1,12 @@
-# Blocked Users
+# Profile Settings
+
+## Blocked Users
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-blocked-users.png" width="50%" height="50%" /></p>
 
 ------
 
-## Viewing Blocked Users
+### Viewing Blocked Users
 
 To view the list of blocked users:
 
@@ -12,7 +14,7 @@ To view the list of blocked users:
 
 ------
 
-## Blocking / Unblocking Users
+### Blocking / Unblocking Users
 
 To block or unblock a user: 
 
