@@ -6,7 +6,7 @@
 
 ------ 
 
-## Automatically refresh
+## Automatically Refresh
 
 Choose a refresh interval to automatically refresh your [Feed](/views/feed.md), [Activity](/views/activity.md), [Conversations](/views/conversations.md) and [Notifications](/preferences/notifications.md) badge when Flume is open. Note that the Flume window does not need to be visible, but you must be [logged in](/views/login.md) to an account.
 
@@ -20,19 +20,19 @@ Enable or disable displaying photos or videos in Flume. When enabled, all photos
 
 ------
 
-## Use relative dates
+## Use Relative Dates
 
 Will toggle the display of dates for posts between relative (```2 hours ago```), or absolute (```Saturday, April 1st, 2017 13:37```). The exact format of absolute dates will depend on your [macOS Language & Region](https://support.apple.com/kb/PH18445) preferences.
 
 ------
 
-## Automatically scroll to top
+## Automatically Scroll to Top
 
 Enable or disable fixing the scroll position to the first item (top) whenever an [automatic refresh](#automatically-refresh) triggers, or when [manually refreshing.](/misc/keyboard-shortcuts.md). This option only applies when viewing the [Feed](/views/feed.md) in Column-View mode.
 
 ------
 
-## Selecting posts in feed
+## Selecting Posts in Feed
 
 Customize the action that will occur when clicking on posts in the [Feed.](/views/Feed.md)
 
