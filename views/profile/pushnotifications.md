@@ -1,4 +1,7 @@
-# Profile Settings
+# Profile
 
-## Push Notification Settings
+## Profile Settings
 
+### Push Notification Settings
+
+Etc.
