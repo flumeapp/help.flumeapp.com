@@ -1,10 +1,12 @@
-# Edit Profile
+# Profile Settings
+
+## Edit Profile
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/profile-edit.png" width="50%" height="50%" /></p>
 
 ------
 
-## Editing Your Profile
+### Editing Your Profile
 
 To edit your profile:
 
@@ -19,7 +21,7 @@ If you have an [Business Profile](//views/profile/businessprofiles.md), addition
 
 ------
 
-## Changing Your Profile Picture
+### Changing Your Profile Picture
 
 To change your profile picture:
 

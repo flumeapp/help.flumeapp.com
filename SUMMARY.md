@@ -47,6 +47,8 @@
   * [Saved Collections](/views/profile/savedcollections.md)
   * [Business Profiles](/views/profile/businessprofiles.md)
     * [Insights](/views/profile/insights.md)
+    * [Payments](/views/profile/payments.md)
+    * [Branded Content Approvals](/views/profile/brandedcontent.md)
     * [Promoting](/views/promote.md)
   * [Private Profiles](/views/profile/privateprofiles.md)
   * [Profile Settings](/views/profile/settings.md)
