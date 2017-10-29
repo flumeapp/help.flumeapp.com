@@ -56,7 +56,8 @@ We recommend you use Flume's [Bookmarks](#bookmarks) feature to save commonly se
 
 To remove a suggested search:
 
-- Click the 
+- Click the delete <img src="/views/assets/delete.png" width="20" height="20" /> button next to the user you wish to remove.
+- Right-click
 
 ------
 
