@@ -72,6 +72,8 @@ To clear your recent searches, see [Profile Settings.](/views/profile/settings.m
 
 To search locations that are near to you:
 
--
+- Click the <kbd>Places</kbd> search tab.
+- If you have previously searched for a term, press the clear button.
+- Click the "Nearby Locations" item.
 
 ------
