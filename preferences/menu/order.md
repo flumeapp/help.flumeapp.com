@@ -8,7 +8,12 @@
 
 ### Toggling Menu Items
 
-To show/hide menu items, click the 
+To enable or disable a menu item, click on any <img src="/preferences/assets/active.png" width="20" height="20" /> button.
+
+
+<p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/menu.png" width="60%" height="60%" /></p>
+
+
 
 ------
 
