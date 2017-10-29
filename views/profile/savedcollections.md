@@ -1,4 +1,6 @@
-# Saved Collections
+# Profile
+
+## Saved Collections
 
 Saved Collections allow you to group your [Saved posts](//views/profile.md#saved-posts).
 
@@ -6,7 +8,7 @@ Saved Collections allow you to group your [Saved posts](//views/profile.md#saved
 
 ------
 
-## Creating a Collection
+### Creating a Saved Collection
 
 To create a new Saved Collection:
 
@@ -18,7 +20,7 @@ When the Saved Collection popover appears, click the create <img src="/views/ass
 
 ------
 
-## Saving to a Collection
+### Saving to a Saved Collection
 
 To save a new post to a saved collection:
 
@@ -28,7 +30,7 @@ To save a new post to a saved collection:
 
 -----
 
-## Adding to a Collection
+### Adding to a Saved Collection
 
 To add posts you have previously saved to a Saved Collection:
 
@@ -38,7 +40,7 @@ To add posts you have previously saved to a Saved Collection:
 
 -----
 
-## Removing posts from a Saved Collection
+### Removing posts from a Saved Collection
 
 To remove posts in a Saved Collection:
 
@@ -46,7 +48,7 @@ To remove posts in a Saved Collection:
 
 -----
 
-## Renaming a Saved Collection
+### Renaming a Saved Collection
 
 To rename a Saved Collection:
 
@@ -56,7 +58,7 @@ To rename a Saved Collection:
 
 ------
 
-## Deleting a Saved Collection
+### Deleting a Saved Collection
 
 When deleting a Saved Collection, the saved posts will still remain saved.
 
