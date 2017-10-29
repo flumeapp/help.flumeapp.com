@@ -4,6 +4,13 @@
 
 ------ 
 
+## Launch Flume at login
+
+Allows you to ensure Flume launches every time you restart your Mac or log-in to your user account.
+
+------ 
+
+
 ## Language
 
 Flume supports the following languages: Arabic, Chinese (Simplified), Chinese (Traditional), Czech, Danish, Dutch, English, French, German, Greek, Indonesian, Italian, Japanese, Korean, Malay, Norwegian, Polish, Portuguese, Portuguese (Brazilian), Russian, Spanish, Swedish, Thai, Turkish, Ukrainian and Vietnamese.
@@ -74,6 +81,3 @@ Displays the current size of the local database and image cache. This cache is a
 ## Show Flume Pro item in Menu Bar
 
 Toggles the visibility of the <img src="/preferences/assets/pro.png" width="36" height="20" /> menu item in the macOS Menu Bar.
-
-
-
