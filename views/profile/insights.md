@@ -1,4 +1,6 @@
-# Insights
+# Business Profiles
+
+## Insights
 
 Instagram Insights provide information on who your followers are, when they're online and more. You can also view insights for specific posts and stories you've created to see how each performed and how people are engaging with them. 
 
@@ -11,7 +13,7 @@ You can find more information about Business Insights at  [Facebook's Business R
 
 ------
 
-## Viewing Insights
+### Viewing Insights
 
 To view your Business Insights:
 
@@ -19,7 +21,7 @@ To view your Business Insights:
 
 ------
 
-## Exporting Insights
+### Exporting Insights
 
 Flume allows you to export your Insights to a simple .txt format for use in other applications. To export your Insights:
 
@@ -30,9 +32,9 @@ Flume allows you to export your Insights to a simple .txt format for use in othe
 
 ------
 
-## Available Insights
+### Available Insights
 
-### Insights for Posts and Stories
+#### Insights for Posts and Stories
 
 **Impressions:** Total number of times your post or story was seen
 
@@ -54,7 +56,7 @@ Flume allows you to export your Insights to a simple .txt format for use in othe
 
 ------
 
-### Insights Specific to Stories
+#### Insights Specific to Stories
 
 **Replies:** Number of times people send messages through the Send Message option on your story
 
@@ -66,13 +68,13 @@ Flume allows you to export your Insights to a simple .txt format for use in othe
 
 ------
 
-### Insights for Live Content
+#### Insights for Live Content
 
 Instagram doesn't offer insights for live content.
 
 ------
 
-## Notes
+### Notes
 - Keep in mind that impressions and reach are different. Impressions are the total number of times your post was seen. A single individual may see your post 5 times. Each time they see it, you'll get an impression. Reach is based on the number of unique people who view your post. Each unique individual will only be counted once, even if they view your post multiple times.
 
 - You'll also see the following insights about your followers, including gender, age and location information.
