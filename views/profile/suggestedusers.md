@@ -11,3 +11,6 @@ The Discover People view allows you to view suggestions for new accounts to foll
 ### Ignoring Suggestions
 
 If you'd like to ignore a suggestion, click the ignore <img src="/views/assets/actions-dismiss.png" width="20" height="20" /> button next to each suggestion.
+
+------
+
