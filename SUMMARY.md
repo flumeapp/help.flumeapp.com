@@ -58,6 +58,8 @@
     * [Blocked Users](/views/profile/blockedusers.md)
     * [Linked Accounts](/views/profile/linkedaccounts.md)
     * [Comments](/views/profile/comments.md)
+    * [Push Notification Settings](/views/profile/pushnotifications.md)
+    * [Email and SMS Notification Settings](/views/profile/emailsms.md)
 * [Details](/views/detailview.md)
 * [Editing](/views/editing.md)
 * [Sharing](/views/sharing.md)
