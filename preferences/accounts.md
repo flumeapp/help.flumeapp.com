@@ -27,6 +27,8 @@ Note that you can also switch accounts much faster by using the "Accounts" Menu 
 
 ## Removing an Account
 
-To remove an account, first select the row in the list, then click on the <img src="/preferences/assets/delete.png" width="20" height="20" /> icon.
+To remove an account you must log-out of the account.
+
+- 
 
 ------
