@@ -1,4 +1,5 @@
-# Promote
+
+# Promotions
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/promoting.png" width="50%" height="50%" /></p>
 
