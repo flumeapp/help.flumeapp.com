@@ -71,7 +71,7 @@ Carousel posts can be either all square items, all horizontal, or all vertical. 
 
 ### Creating Carousel Posts
 
-To create a carousel post directly:
+To create a Carousel Post directly:
 
 - Select more than one photo/video in the macOS open panel that appears after choosing <kbd>Select Photo/Video/Draft…</kbd> in the Upload window.
 - Drag more than one photo/video directly onto an empty Upload window.
@@ -81,7 +81,7 @@ To create a carousel post directly:
 
 ### Converting Single Posts to Carousel Posts
 
-To toggle between an individual and carousel post:
+To toggle between an individual and Carousel Post:
 
 - Click the carousel <img src="/views/assets/carousel.png" width="20" height="20" /> button.
 - Use the <kbd>Upload > Toggle Carousel Post</kbd> Menu Bar item.
@@ -97,6 +97,9 @@ You can apply filters and make adjustments to your photos and videos easily righ
 
 > **[info]**
 > Video filters and adjustments are not available on macOS Yosemite 10.10
+
+> **[info]**
+> The Scale adjustment is only available on photos.
 
 #### Editing Photos/Videos
 
