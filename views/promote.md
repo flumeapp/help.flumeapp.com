@@ -1,5 +1,6 @@
+# Business Profiles
 
-# Promotions
+## Promotions
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/promoting.png" width="50%" height="50%" /></p>
 
@@ -7,7 +8,7 @@ You can find more information about promoting posts at [Facebook's Business Reso
 
 ------
 
-## Requirements
+### Requirements
 
 - You'll need to [switch to a Business Profile.](/views/profile/businessprofiles.md). 
 - You'll also need to be an [admin of the Facebook Page](https://www.facebook.com/business/help/218638451837962) associated with the Business Profile. 
@@ -15,7 +16,7 @@ You can find more information about promoting posts at [Facebook's Business Reso
 
 ------
 
-## Promoting a Post
+### Promoting a Post
 
 To promote a post:
 
@@ -30,7 +31,7 @@ Once you've confirmed your promotion, it will be reviewed to ensure it meets [Fa
 
 ------
 
-## Viewing Promotions
+### Viewing Promotions
 
 To view your current, existing, and expired promotions:
 
@@ -40,7 +41,7 @@ To view your current, existing, and expired promotions:
 
 ------
 
-## Deleting Promotions
+### Deleting Promotions
 
 To delete a promotion:
 
@@ -51,7 +52,7 @@ To delete a promotion:
 
 ------
 
-## Adjusting Payment Methods
+### Adjusting Payment Methods
 
 To adjust the payment methods for your promotions:
 
