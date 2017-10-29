@@ -1,4 +1,6 @@
-# Profile Settings
+# Profile
+
+## Profile Settings
 
 ## Find Contacts
 
