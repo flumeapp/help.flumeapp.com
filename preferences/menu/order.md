@@ -11,8 +11,6 @@
 To enable or disable a menu item, click on any <img src="/preferences/assets/active.png" width="20" height="20" /> button.
 
 
-<p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/menu.png" width="60%" height="60%" /></p>
-
 > **[info]**
 > The Upload menu item cannot be disabled or moved and will always remain visible and in the first position.
 
