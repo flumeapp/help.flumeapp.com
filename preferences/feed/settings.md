@@ -20,21 +20,21 @@ Enable or disable displaying photos or videos in Flume. When enabled, all photos
 
 ------
 
-## Use Relative Dates
+## Use relative dates
 
 Will toggle the display of dates for posts between relative (```2 hours ago```), or absolute (```Saturday, April 1st, 2017 13:37```). The exact format of absolute dates will depend on your [macOS Language & Region](https://support.apple.com/kb/PH18445) preferences.
 
 ------
 
-## Automatically Scroll to Top
+## Automatically scroll to top
 
 Enable or disable fixing the scroll position to the first item (top) whenever an [automatic refresh](#automatically-refresh) triggers, or when [manually refreshing.](/misc/keyboard-shortcuts.md). This option only applies when viewing the [Feed](/views/feed.md) in Column-View mode.
 
 ------
 
-## Selecting Media in Feed
+## Selecting posts in feed
 
-Customize the action that will occur when clicking on items in the [feed.](/views/Feed.md)
+Customize the action that will occur when clicking on posts in the [Feed.](/views/Feed.md)
 
 | Option | Explanation |
 |----------------------|
