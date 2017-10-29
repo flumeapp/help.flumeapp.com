@@ -1,6 +1,8 @@
-# Profile Settings
+# Profile
 
-## Linked Accounts
+## Profile Settings
+
+### Linked Accounts
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/linked-accounts.png" width="60%" height="60%" /></p>
 
@@ -10,7 +12,7 @@ To learn more, see [Sharing to Social Networks.](https://help.instagram.com/1699
 
 ------
 
-### Connect a Linked Account
+#### Connect a Linked Account
 
 To connect and start sharing your Instagram posts to another social network:
 
@@ -26,7 +28,7 @@ Toggle the social network you wish to link to and a login window will appear.
 
 -----
 
-### Disconnect a Linked Account
+#### Disconnect a Linked Account
 
 To disconnect and stop sharing your Instagram posts to another social network:
 
@@ -42,7 +44,7 @@ If you're trying to relink Instagram to a social network, you may have to visit 
 
 -----
 
-### Changing Facebook Sharing Options
+#### Changing Facebook Sharing Options
 
 To change where your posts are shared on Facebook:
 
