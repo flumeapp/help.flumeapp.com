@@ -55,13 +55,16 @@ The comment compose area will appear ready for you to write a comment. To send y
 -----
 
 ### Replying to Comments
-
+ 
 To reply to a comment:
 
-- Move the mouse to the right area of a comment to reveal the comment actions panel, then click the reply <img src="/views/assets/reply.png" width="20" height="20" /> button.<br /><br /><img src="/views/assets/comment-actions.png" width="50%" height="50%" />
+- Move the mouse to the left area of a comment to reveal the comment actions panel, then click the reply <img src="/views/assets/reply.png" width="20" height="20" /> button.<br /><br /><img src="/views/assets/comment-actions.png" width="50%" height="50%" />
 - Right-click a comment, then select <kbd>Reply to @username</kbd> from the contextual menu.
 - When selecting a comment using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Comment > Reply to @username</kbd> Menu Bar item.
 - When selecting a comment using the [keyboard arrows](/misc/keyboard-shortcuts.md), tap the reply <img src="/views/assets/comment.png" width="20" height="20" /> button in the [Touch Bar.](/misc/touchbar.md)
+
+>**[info]**
+> When replying to a comment, replies are indented in order to support comment threading. If manually typing the username to reply to, the comment will not be considered a reply to a specific comment. It is recommended you always use the methods listed above to reply to a specific comment.
 
 -----
 
@@ -72,6 +75,14 @@ To like / unlike a comment:
 - Move the mouse to the right area of a comment to reveal the comment actions panel, then click the like <img src="/views/assets/like.png" width="20" height="20" /> button.<br /><br /><p style="text-align: center; margin-top: 1em;"><img src="/views/assets/comment-actions.png" width="50%" height="50%" /></p>
 - When selecting a comment using the [keyboard arrows](/misc/keyboard-shortcuts.md), use the <kbd>Comment > Like/Unlike Comment</kbd> Menu Bar item.
 - When selecting a comment using the [keyboard arrows](/misc/keyboard-shortcuts.md), tap the like <img src="/views/assets/like.png" width="20" height="20" /> button in the [Touch Bar.](/misc/touchbar.md)
+
+-----
+
+### Viewing Comment Likes
+
+To view the likes on a specific comment:
+
+- Click the <kbd>X likes</kdb> button that appears when a comment has at least 1 like.
 
 -----
 
