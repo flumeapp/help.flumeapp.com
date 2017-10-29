@@ -57,6 +57,7 @@
     * [Find Contacts](/views/profile/invitecontacts.md)
     * [Edit Profile](/views/profile/editprofile.md)
     * [Change Password](/views/profile/editpassword.md)
+    * [Two-Factor Authentication](/views/profile/twofactor.md)
     * [Blocked Users](/views/profile/blockedusers.md)
     * [Linked Accounts](/views/profile/linkedaccounts.md)
     * [Comments](/views/profile/comments.md)
