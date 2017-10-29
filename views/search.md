@@ -59,7 +59,7 @@ We recommend you use Flume's [Bookmarks](#bookmarks) feature to save commonly se
 To remove a suggested search:
 
 - Click the delete <img src="/views/assets/delete.png" width="20" height="20" /> button next to the suggested user, hashtag, or place you wish to remove.
-- Right-click on a suggested user, hashtag, or place and select "Hide" from the contextual menu.
+- Right-click on a suggested user, hashtag, or place and select <kbd>Hide</kbd> from the contextual menu.
 
 ------
 
@@ -79,7 +79,7 @@ To search locations that are near to you:
 
 - Click the <kbd>Places</kbd> search type tab.
 - If you have previously searched for a term, press the clear <img src="/views/assets/clear.png" width="20" height="20" /> button to remove the current search term.
-- Click the "Nearby Places" row in the list of results.
+- Click the <kbd>Nearby Places</kbd> row in the list of results.
 
 >**[info]**
 >You must allow Flume access to your location if you wish to use this feature. If you have previously disabled access, you can enable Location Services access via <kbd>System Preferences > Security Privacy > Privacy > Location Services.</kbd>
