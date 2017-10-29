@@ -13,7 +13,7 @@
 
 ------
 
-## Font size
+## Font Size
 
 The font size preference can also be adjusted at any time in Flume via the [keyboard shortcuts](/misc/keyboard-shortcuts.md) <kbd>⌘+</kbd> and <kbd>⌘-</kbd>.
 
@@ -25,7 +25,7 @@ The font size preference can also be adjusted at any time in Flume via the [keyb
 
 ------
 
-## Always show the title bar
+## Always Show the Title Bar
 
 <p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/titlebar.png" width="60%" height="60%" /></p>
 
@@ -33,7 +33,7 @@ Enables or disables showing the Flume title bar in [Feed](/views/feed.md) and [L
 
 ------
 
-## Show media details
+## Show Post Details
 
 Customizes the amount of details to show about media when in Column-View content areas ([Feed](/views/feed.md), [Likes](/views/likes.md) and [Profile.](/views/profile.md)) See [Feed](/views/feed.md) for visual examples.
 

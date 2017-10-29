@@ -4,7 +4,7 @@
 
 ------ 
 
-## Launch Flume at login
+## Launch Flume at Login
 
 Allows you to ensure Flume launches every time you restart your Mac or log-in to your user account.
 
@@ -78,7 +78,7 @@ Displays the current size of the local database and image cache. This cache is a
 
 ------
 
-## Show Flume Pro item in Menu Bar
+## Show Flume Pro Item in Menu Bar
 
 Toggles the visibility of the <img src="/preferences/assets/pro.png" width="36" height="20" /> menu item in the macOS Menu Bar.
 
