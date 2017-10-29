@@ -54,6 +54,10 @@ If you do not have any [Bookmarks](#bookmarks), the Search view will default to 
 
 We recommend you use Flume's [Bookmarks](#bookmarks) feature to save commonly searched items, as suggested searches can change at any time based off various account-factors.
 
+To remove a suggested search:
+
+- Click the 
+
 ------
 
 ## Recent Searches
@@ -61,5 +65,13 @@ We recommend you use Flume's [Bookmarks](#bookmarks) feature to save commonly se
 Your recent searches are populated by Instagram based off your previous searches for that account. We recommend you use Flume's [Bookmarks](#bookmarks) feature to save commonly searched items, as recent searches are limited by Instagram to just a few items.
 
 To clear your recent searches, see [Profile Settings.](/views/profile/settings.md)
+
+------
+
+## Nearby Location Searches
+
+To search locations that are near to you:
+
+-
 
 ------
