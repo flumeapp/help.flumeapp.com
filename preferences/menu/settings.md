@@ -1,3 +1,9 @@
+# Menu Preferences
+
+## Settings
+
+
+
 ## Show the menu
 
 <p style="text-align: center; margin-top: 1em;"><img src="/preferences/assets/menu.png" width="60%" height="60%" /></p>
