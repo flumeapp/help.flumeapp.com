@@ -6,9 +6,11 @@ The Search tab allows you to find specific [Profiles](/views/profile.md), [Locat
 
 ------
 
-## Switching Search Modes
+## Switching Search Modes/Types
 
-To switch between Search modes, use the <img src="/views/assets/actions-menu.png" width="20" height="20" /> menu.
+To switch between Search types, simply click on the tab <kdb>Top</kbd>, <kdb>People</kbd>, <kdb>#Tags</kbd>, or <kdb>Places</kbd> button.
+
+To switch between Search modes, use the <img src="/views/assets/actions-menu.png" width="20" height="20" /> menu when viewing the <kdb>Top</kbd> or <kdb>People</kbd> search types.
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/search-modes.png" width="50%" height="50%" /></p>
 
@@ -56,8 +58,8 @@ We recommend you use Flume's [Bookmarks](#bookmarks) feature to save commonly se
 
 To remove a suggested search:
 
-- Click the delete <img src="/views/assets/delete.png" width="20" height="20" /> button next to the user you wish to remove.
-- Right-click
+- Click the delete <img src="/views/assets/delete.png" width="20" height="20" /> button next to the suggested user, hashtag, or place you wish to remove.
+- Right-click on a suggested user, hashtag, or place and select "Hide" from the contextual menu.
 
 ------
 
@@ -73,7 +75,7 @@ To clear your recent searches, see [Profile Settings.](/views/profile/settings.m
 
 To search locations that are near to you:
 
-- Click the <kbd>Places</kbd> search tab.
+- Click the <kbd>Places</kbd> search type tab.
 - If you have previously searched for a term, press the clear button.
 - Click the "Nearby Locations" item.
 
