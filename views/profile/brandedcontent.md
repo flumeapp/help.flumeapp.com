@@ -9,8 +9,8 @@ If you have an Instagram [Business Profile](//views/profile/businessprofiles.md)
 <p style="text-align: center; margin-top: 1em;"> <img src="/views/assets/profile-brandedcontent.png" width="50%" height="50%" /></p>
 
 
-#### Business Partner Tagging Approvals
+#### Adjust Business Partner Tagging
 
-To adjust your branded content settings:
+To adjust your branded content tagging settings:
 
 - When viewing your [Profile](/views/profile.md), select the <kbd>Branded Content Approvals</kbd> item under the [Settings](/views/profile/settings.md) <img src="/views/assets/settings.png" width="20" height="20" /> button in the title bar.
