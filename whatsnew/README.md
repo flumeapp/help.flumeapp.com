@@ -4,6 +4,139 @@ search: false
 
 # What's New in Flume
 
+## 2.8
+
+[_Release Date: October 31st, 2017._](http://blog.flumeapp.com/post/flume-for-mac-28)
+
+**Important: This update of Flume moves to the secure macOS Sandbox. As a result, all previous data from Flume 2.7 will become inaccessible. If you wish to keep your bookmarks, please export your bookmarks (File > Bookmarks > Export Bookmarks…) before updating.**
+
+- NEW: Push Notifications (opt-in).
+- NEW: Real-time conversations and messages.
+- NEW: Comment threads.
+- NEW: Favourites.
+- NEW: Support for non-square carousel posts.
+- NEW: Upload directly from Photos, Finder, and other apps that support the macOS Share menu (must be enabled manually from System Preferences > Sharing).
+- NEW: Bulk-delete comments.
+- NEW: Customisable Flume main menu.
+- NEW: Push Notification settings.
+- NEW: Email and SMS notification settings.
+- NEW: Launch Flume at login preference.
+- NEW: View comment likes.
+- NEW: Promotable media feed.
+- NEW: Support for the updated "Discover Users" feeds.
+- NEW: Shared photos/videos in pending conversations are now concealed by default to avoid unwanted content.
+- NEW: A notifications badge will now appear when there are new activity notifications, listing the counts of new likes, comments, followers, tagged posts, and more.
+- NEW: Support for blocked commenters.
+- NEW: Support for commenting controls.
+- NEW: Branded Content Approvals (Business Profiles only)
+- NEW: Business Partners tagging (select Business Profiles only).
+- NEW: Support for hiding activity notifications.
+- NEW: One-click login.
+- NEW: Hide (mute) users in your Feed without unfollowing them.
+- NEW: Bulk-allow/decline pending conversations.
+- NEW: Export conversations.
+- NEW: Scale adjustment and custom border colour (for photos only).
+- NEW: Repost Carousel posts.
+- NEW: Download your own Carousel posts (to a folder).
+- NEW: Editing user tags on Carousel posts.
+- NEW: Inline commenting, via the "C" Hover Shortcut, contextual-menus, or Touch Bar.
+- NEW: Hide photos from the Feed.
+- NEW: Search nearby locations.
+- NEW: Hide suggested searches.
+- IMPROVED: Conversation searching now uses a remote instead of local search.
+- IMPROVED: Switching accounts on the upload window is much easier.
+- IMPROVED: Account data is locally encrypted for additional security.
+- IMPROVED: Newly added comments are momentarily highlighted.
+- IMPROVED: Readability of messages on non-retina displays.
+- IMPROVED: Branded content (paid partnerships) are now displayed.
+- IMPROVED: Large Emoji messages.
+- IMPROVED: Sending multiple messages in a conversation no longer requires waiting for the previous message to be successfully sent.
+- IMPROVED: Sent comments now display as they are pending and can be re-sent in case of failure.
+- IMPROVED: Paste support for uploads.
+- IMPROVED: Captions and profile biographies can now be translated directly.
+- IMPROVED: Added an option to hide the "PRO" menu item.
+- IMPROVED: Updated to latest media insights.
+- IMPROVED: Photos with IPTC caption data will now pre-fill the caption.
+- IMPROVED: When a post is not promotable, a reason is now provided.
+- IMPROVED: Added Touch Bar support for cancel/approve actions.
+- IMPROVED: Switching accounts / quitting is cancelled if there are existing uploads in progress.
+- IMPROVED: Logging can now be configured dynamically (for troubleshooting).
+- IMPROVED: Typing while searching is much faster.
+- IMPROVED: More search results can now be viewed when scrolling to the end of the list.
+- IMPROVED: Text legibility on non-retina displays.
+- IMPROVED: All locations are displayed when tagging a post, allowing easier selection.
+- IMPROVED: Tagged location feeds will zoom in, to help give context to the geographic location.
+- IMPROVED: Added an actions menu to the upload window (replicates the "Upload" menu bar menu).
+- IMPROVED: Added an actions button to the Feed view.
+- IMPROVED: Added an option to resend a 2FA code on the login window.
+- IMPROVED: Downloads of your own posts are now performed in the background.
+- IMPROVED: Pending conversations list is reloaded after allowing/cancelling a conversation.
+- IMPROVED: Unread messages while viewing a conversation will now show avatar indicators that new messages are available and not force scrolling to the latest messages.
+- IMPROVED: Switching design mode now animates smoothly.
+- IMPROVED: Tagged business partners can remove themselves from tagged posts.
+- FIXED: Quitting while upload windows are visible will no longer cancel termination.
+- FIXED: Uploads and shared photos in conversations will no longer remove ICC color profile information.
+- FIXED: Re-activations of Flume Pro licences on the same Mac no longer decrease the remaining activations.
+- FIXED: Multiple issues related to Facebook login.
+- FIXED: Recently used hashtags are correctly displayed as soon as the "#" character is typed in captions and comments.
+- FIXED: When switching accounts and upload windows were visible, the pre-existing sharing options were not cleared.
+- FIXED: When logging in to an Instagram Business Profile account with a Facebook account that doesn't have the right permissions to share to the Instagram account's linked Facebook Page, a permissions error is now displayed.
+- FIXED: Profile previews didn't display carousel post thumbnails, or indicate private profiles.
+- FIXED: Profile, hashtag, and location previews did not scale thumbnails correctly.
+- FIXED: Performance improvements after prolonged use of Flume.
+- FIXED: "challenge_required" login / upload errors are now handled.
+- FIXED: Uploads would fail if captions were pasted with a TAB character.
+- FIXED: The Flume Pro preferences panel wasn't always selected from the "PRO" menu bar item.
+- FIXED: "Liked by" didn't update when changing the design mode.
+- FIXED: Holding down the SHIFT key in the image cropper will update the drag-handles to indicate square aspect-ratio cropping is active.
+- FIXED: The width of messages containing links would appear incorrect if the link was short.
+- FIXED: Display issues when viewing the Feed in "Compact" post details mode.
+- FIXED: Desktop notifications will no longer repeat, if Instagram still considers it a "New" notification and the activity feed refreshes.
+- FIXED: The logged in user's avatar could switch to a play button momentarily when a specific activity notification was viewed.
+- FIXED: A crash when trying to crop an image that is corrupt or missing.
+- FIXED: Timestamps no longer display negative amounts.
+- FIXED: You can now indicate you would like to opt-in for Stories Insights (Business Profiles only).
+- FIXED: A crash when saving drafts on macOS Yosemite and El Capitan.
+- FIXED: A crash when selecting consecutive  carousel posts in the Feed.
+- FIXED: Tooltips now correctly appear on all accessible items.
+- FIXED: An issue with readability of text buttons during hover.
+- FIXED: A crash related to carousel posts with multiple videos.
+- FIXED: Removed deprecated Flickr, Swarm, Sina Weibo and Mixi sharing options.
+- FIXED: Added the Facebook Page terms link to the business profile convert flow and improved the behaviour of the continue button.
+- FIXED: An issue with the height of edit / share windows on small resolution displays.
+- FIXED: Non-square carousel posts no longer display stretched.
+- FIXED: The Facebook Invite/Follow friends view did not appear after connecting with Facebook.
+- FIXED: Added information regarding "sentry_block" bans.
+- FIXED: "Sent messages" are now sent to conversation recipients only when the message has been scrolled into view.
+- FIXED: You can now login with the @ symbol in the username.
+- FIXED: 8-digit backup 2FA codes can now be used.
+- FIXED: Pasting of 2FA codes with spaces now strips the spaces out.
+- FIXED: Various issues related to closing the large preview window.
+- FIXED: The large preview window will ensure it's not displayed off-screen.
+- FIXED: Improved re-selection of media in feed view after pop. 
+- FIXED: Improved copying of text in comments. 
+- FIXED: Timestamps no longer display on sponsored posts.
+- FIXED: Removed the ability to report your own comments/messages/posts.
+- FIXED: The login window can no longer be closed while login is in progress.
+- FIXED: A crash when cancelling a video upload, or the network connection fails during upload.
+- FIXED: Session timed out errors when trying to log-in to another account while an upload or refresh was in progress.
+- FIXED: Comments can be disabled on promoted posts.
+- FIXED: Messages related to Story mentions are correctly displayed.
+- FIXED: Saved sharing options are not re-used between different accounts.
+- FIXED: Logging in with a Facebook account that didn't have permission to share to the Instagram Business Profile now displays an error.
+- FIXED: "Pull down to refresh" could be triggered on empty feeds.
+- FIXED: Drag-and-drop from Photos is now supported.
+- FIXED: Square-carousel posts did not crop videos correctly.
+- FIXED: Large portrait photos/videos could display off-screen when cropping.
+- FIXED: An issue that could result in a "blank" Flume Pro preference panel.
+- FIXED: The Explore feed no longer refreshes twice after your location is determined.
+- FIXED: Release notes on new versions will also appear if not logged in when updating.
+- FIXED: The J/K keyboard shortcuts would interfere with a Dvorak keyboard layout.
+- FIXED: Misc fixes related to keyboard/mouse selections and menu items.
+- FIXED: Hundreds of other bits and bytes.
+
+------
+
 ## 2.7
 
 [_Release Date: July 27th, 2017._](http://blog.flumeapp.com/post/flume-for-mac-27)
