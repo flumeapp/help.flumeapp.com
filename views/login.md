@@ -16,7 +16,7 @@ If you have [1Password](https://1password.com) installed on your Mac, the 1Passw
 
 ## One-Click Login
 
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/logout-oneclick.png" width="50%" height="50%" /> <img src="/views/assets/login-oneclick.png" width="50%" height="50%" /></p>
+<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/logout-oneclick.png" width="30%" height="30%" /> <img src="/views/assets/login-oneclick.png" width="30%" height="30%" /></p>
 
 When logging out of an account, you have the option for Flume to remember your login information. 
 
