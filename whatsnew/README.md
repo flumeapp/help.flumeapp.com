@@ -6,7 +6,7 @@ search: false
 
 ## 2.8.1
 
-[_Release Date: November 6th, 2017._](http://blog.flumeapp.com/post/flume-for-mac-281)
+[_Release Date: November 6th, 2017._](http://blog.flumeapp.com/post/167202986591/flume-for-mac-281)
 
 - FIXED: A database corruption issue due to accounts that aren’t switched to the new activity notification API. 
 - FIXED: Push Notifications about Live are not displayed, since they can’t be viewed in Flume yet.
