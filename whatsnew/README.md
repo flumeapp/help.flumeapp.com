@@ -4,11 +4,40 @@ search: false
 
 # What's New in Flume
 
+## 2.8.1
+
+[_Release Date: November 6th, 2017._](http://blog.flumeapp.com/post/flume-for-mac-281)
+
+- FIXED: A database corruption issue due to accounts that aren’t switched to the new activity notification API. 
+- FIXED: Push Notifications about Live are not displayed, since they can’t be viewed in Flume yet.
+- FIXED: More Push Notification types are displayed.
+- FIXED: Push Notifications encoding issue for non-latin languages.
+- FIXED: An edge-case crash when trying to enable launch at login.
+- FIXED: A bunch of rare misc. crashes
+- FIXED: Pasting of captions which contained tab characters failed. They’re now stripped from the paste.
+- FIXED: Clicking on desktop notifications didn’t do anything except for new messages.
+- FIXED: The „@„ sign is permitted on the login window username field again.
+- FIXED: When popping back, the table could scroll to the first item in the grid-view list.
+- FIXED: Some Macs have invalid serial numbers (logic board replacements etc). Activating licences on these Macs will no longer cause a crash.
+- FIXED: A hanging issue when editing large images (20MP, 300DPI etc).
+- FIXED: Re-selection issues in some instances (eg. after deleting a conversation).
+- FIXED: The „Liked By“ label was clipped on Yosemite sometimes.
+- FIXED: An edge-case crash when logging out after having a corrupted database.
+- FIXED: When cropping a photo then trying to edit, the crop was lost.
+- FIXED: When typing multiple messages, the text field would clear when a pending message was successfully sent.
+- FIXED: The initial GPS EXIF location wasn’t correctly displayed on the upload location window.
+- FIXED: A crash could occur when the coordinates of a location are invalid.
+- FIXED: The video cover image and camera windows have been redesigned to remove the overlapping controls.
+- FIXED: When clicking Flume Pro activation links, the „benefits“ info didn’t disappear even though the licence code had been verified.
+- FIXED: A few small memory leaks.
+
+------
+
 ## 2.8
 
 [_Release Date: October 31st, 2017._](http://blog.flumeapp.com/post/flume-for-mac-28)
 
-**Important: This update of Flume moves to the secure macOS Sandbox. As a result, all previous data from Flume 2.7 will become inaccessible. If you wish to keep your bookmarks, please export your bookmarks (File > Bookmarks > Export Bookmarks…) before updating.**
+**Important: This update of Flume moves to the secure macOS Sandbox. Please see the [Support Portal](http://support.flumeapp.com/customer/en/portal/articles/2892460-flume-2-8-update-removed-my-accounts-data) on what this means to your previous data.**
 
 - NEW: Push Notifications (opt-in).
 - NEW: Real-time conversations and messages.
