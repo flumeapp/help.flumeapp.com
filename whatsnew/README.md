@@ -4,6 +4,18 @@ search: false
 
 # What's New in Flume
 
+## 2.8.2
+
+[_Release Date: November 7th, 2017._](http://blog.flumeapp.com/post/167249881366/flume-for-mac-282)
+
+- FIXED: Sharing to Facebook Pages when you are an admin of multiple Pages could result in sharing to the wrong Facebook Page.
+- FIXED: When scrolling through the feed, the order of items could rearrange as more content was loaded.
+- FIXED: The "Logout all accounts" menu item in the Profile menu triggered performed the wrong action.
+- FIXED: The overlay when liking items with Post Details set to "All" was slightly incorrect.
+- FIXED: The version label in the About window was clipped when using larger font sizes.
+
+------
+
 ## 2.8.1
 
 [_Release Date: November 6th, 2017._](http://blog.flumeapp.com/post/167202986591/flume-for-mac-281)
