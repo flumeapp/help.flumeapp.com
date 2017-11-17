@@ -4,6 +4,30 @@ search: false
 
 # What's New in Flume
 
+## 2.8.3
+
+[_Release Date: November 17th, 2017._](http://blog.flumeapp.com/post/167593354386/flume-for-mac-283)
+
+* NEW: Support for RAW, ARW, DNG, RAF, ORF and MRW photo files.
+* IMPROVED: If there’s a database corruption, a visible alert will now be displayed to warn the user.
+* IMPROVED: Activity shows multiple avatars for activity with multiple users.
+* IMPROVED: Sharing options are now saved per user-account.
+* IMPROVED: Sponsored posts will use the respective colour chosen by the author for the ad link.
+* FIXED: Extra padding for „liked by“ labels in the feed view (when Post Details set to „All“)
+* FIXED: Received pushed notifications are only logged when set to ‚Debug‘ level.
+* FIXED: A crash when photos have invalid GPS coordinates.
+* FIXED: An edge-case crash when selecting an invalid recipient.
+* FIXED: Messages with no image previews for links are now displayed as regular text messages.
+* FIXED: Search locations for non-latin characters.
+* FIXED: Sharing to wrote Facebook Pages should be finally resolved.
+* FIXED: Portrait photos / videos were resized to 1080px max height instead of 1080px max width.
+* FIXED: The security checkpoint did not appear when having to confirm your last login.
+* FIXED: Long-press large previews on activity fields didn’t download the correct resolution image.
+* FIXED: Cancelling a download did not remove the activity indicator from the main window.
+* FIXED: An issue which could cause the pull-down-to-refresh to be disabled if you selected the first item in the feed with your keyboard, then scrolled to deselect.
+
+---
+
 ## 2.8.2
 
 [_Release Date: November 7th, 2017._](http://blog.flumeapp.com/post/167249881366/flume-for-mac-282)
