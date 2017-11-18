@@ -19,7 +19,7 @@ The login window will appear, and after successfully logging in, the active acco
 
 To switch between logged in accounts:
 
-- Select the account from the <kbd>Accounts</kbd> Menu Bar menu or use the corresponding [keyboard shortcut](/misc/keyboard-shortcuts.md)
+- Select the account from the <kbd>Accounts</kbd> Menu Bar menu or use the corresponding [keyboard shortcut.](/misc/keyboard-shortcuts.md)
 - Long-press/click on your avatar in the Flume main menu.
 - Click or long-press/click on your avatar on the [Upload](//views/upload.md) window.
 
