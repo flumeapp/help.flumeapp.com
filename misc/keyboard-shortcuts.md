@@ -76,31 +76,31 @@ An inbuilt-feature of macOS are keyboard shortcuts assigned to items in menus. F
 
 ------
 
-### Media Menu Shortcuts
+### Post Menu Shortcuts
 
-The "Media" menu will appear when a keyboard selection has been made on a Media item, or when in the Detail View of a Media item.
+The "Post" menu will appear when a keyboard selection has been made on a post, or when in the [Detail View](//views/detailview.md) of a post.
 
 | Key Combination | Explanation |
 | ------------- | ------------- |
-| <kbd>Space</kbd> | Opens the Larger Preview window. | 
-| <kbd>D</kbd> | "Pushes" to the Detail View. |
-| <kbd>A</kbd> | "Pushes" to the Profile View of the Media's author. |
-| <kbd>T</kbd> | "Pushes" to the location that the Media is tagged at. |
+| <kbd>Space</kbd> | Opens the [Larger Preview](//views/largepreview.md) window. | 
+| <kbd>D</kbd> | "Pushes" to the [Detail View.](//views/detailview.md) |
+| <kbd>A</kbd> | "Pushes" to the [Profile View](//views/profile.md) of the post's author. |
+| <kbd>T</kbd> | "Pushes" to the [location](//views/locations.md) that the post is tagged at. |
 | <kbd>L</kbd> | Likes the Photo/Video.|
 | <kbd>U</kbd> | Unlikes the Photo/Video. |
-| <kbd>C</kbd> | "Pushes" to the Detail View and sets the focus on the Add Comment text-field. |
-| <kbd>⌥⌘C</kbd> | Copies the URL of the Media item to the system clipboard. |
-| <kbd>⌥⌘B</kbd> | Opens the URL of the Media item in your web-browser. |
-| <kbd>⌥⌘U</kbd> | Opens the Profile URL of the Media item's author in your web-browser. |
-| <kbd>⌘E</kbd> | Opens the Edit Window for the Media (visible only for Media you uploaded). |
-| <kbd>⌘S</kbd> | Saves the Media item to your chosen location. |
-| <kbd>⌘⌫</kbd> | Deletes the current Media Item (visible only for Media you uploaded) |
+| <kbd>C</kbd> | "Pushes" to the [Detail View](//views/detailview.md) and sets the focus on the Add Comment text-field. |
+| <kbd>⌥⌘C</kbd> | Copies the URL of the post to the system clipboard. |
+| <kbd>⌥⌘B</kbd> | Opens the URL of the post in your web-browser. |
+| <kbd>⌥⌘U</kbd> | Opens the Profile URL of the post's author in your web-browser. |
+| <kbd>⌘E</kbd> | Opens the [Edit Window](//views/editing.md) for the post (visible only for posts you uploaded). |
+| <kbd>⌘S</kbd> | Saves the post to your chosen location. |
+| <kbd>⌘⌫</kbd> | Deletes the current post (visible only for posts you uploaded) |
 
 ------
 
 ### User Menu Shortcuts
 
-The "User" menu will appear when a keyboard selection has been made on a Media item, when in the Detail View of a Media item, on a user's Profile, when selecting a Comment, Message, and in all User lists (following/followers, Activity notifications etc)
+The "User" menu will appear when a keyboard selection has been made on a post, when in the Detail View of a post, on a user's Profile, when selecting a Comment, Message, and in all User lists (following/followers, [Activity](//views/activity.md) notifications etc)
 
 |Key Combination | Explanation |
 | ------------- | ------------- |
@@ -109,7 +109,7 @@ The "User" menu will appear when a keyboard selection has been made on a Media i
 
 ### Comment Menu Shortcuts
 
-The "Comment" menu will appear when a keyboard selection has been made on a Comment in the Detail View of a Media item.
+The "Comment" menu will appear when a keyboard selection has been made on a Comment in the [Detail View](//views/detailview.md) of a post.
 
 |Key Combination | Explanation |
 | ------------- | ------------- |
@@ -120,7 +120,7 @@ The "Comment" menu will appear when a keyboard selection has been made on a Comm
 
 ### Conversation Menu Shortcuts
 
-The "Conversation" menu will appear when a keyboard selection has been made on a Conversation in the Conversations View.
+The "Conversation" menu will appear when a keyboard selection has been made on a Conversation in the [Conversations View.](//views/conversations.md)
 
 |Key Combination | Explanation |
 | ------------- | ------------- |
