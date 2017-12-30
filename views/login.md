@@ -7,6 +7,9 @@ Upon launching Flume, you will be presented with the Login Window. This window w
 
 Click "Let's Go" to get started and enter your Instagram username and password to login. 
 
+> **[warning]**
+> Do not enter your Flume Pro licence code as your password. You activate Flume Pro from your licence code email, or manually in [Flume Pro preferences.](//preferences/flumepro.md)
+
 If you have [1Password](https://1password.com) installed on your Mac, the 1Password logo will appear next to the Password field allowing you quicker access to copy and paste your password securely.
 
 > **[info]**
