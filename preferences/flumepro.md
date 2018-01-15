@@ -5,7 +5,7 @@
 Flume Pro is a one-time in-app purchase, our way of sustaining the development of Flume. You can read more about the introduction of Flume Pro on our [blog.](http://blog.flumeapp.com/post/145212126271/introducing-flume-20-and-flume-pro)
 
 > **[warning]**
-> [As of April 6th 2017, Flume is no longer available via the Mac App Store.](http://support.flumeapp.com/customer/en/portal/articles/2782716-why-is-flume-not-on-the-mac-app-store-) If you purchased Flume Pro via the Mac App Store, please see how to [migrate your purchase.](#migrating-your-mac-app-store-purchase)
+> [As of April 6th 2017, Flume is no longer available via the Mac App Store.](https://support.flumeapp.com/article/16-why-is-flume-not-on-the-mac-app-store) If you purchased Flume Pro via the Mac App Store, please see how to [migrate your purchase.](#migrating-your-mac-app-store-purchase)
 
 &nbsp;
 
@@ -24,7 +24,7 @@ Benefits of Flume Pro:
 - [Add multiple accounts.](/preferences/accounts.md) You can add and easily switch between as many accounts as you like.
 - A good feeling :)
 
-For more information on Flume Pro, please see the [Flume Pro FAQ.](http://support.flumeapp.com/customer/en/portal/topics/965352-flume-pro---faq/articles)
+For more information on Flume Pro, please see the [Flume Pro FAQ.](https://support.flumeapp.com/section/10-flume-pro)
 
 ------ 
 
