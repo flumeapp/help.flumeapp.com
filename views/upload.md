@@ -328,9 +328,10 @@ This ensures your landscape or portrait photos will not be cropped.
 
 ### Videos
 
-When you select a video to upload that exceeds the [aspect ratio requirements](//misc/upload-specifications.md), you have two options:
+When you select a video to upload that exceeds the [aspect ratio requirements](//misc/upload-specifications.md), you have three options:
 
 - Scroll the video's cropping region to a desired area using your mouse/trackpad. The region of the video not visible will be cropped from the upload, and the original aspect ratio will be maintained.
+- [Crop a region of the video](#cropping-videos) so that it falls within the aspect ratio requirements.
 - Resizing the video to fit into a square. Like above, scroll the video's cropping region to a desired area using your mouse/trackpad. The region of the video not visible will be cropped from the upload, and a 1:1 (square) aspect ratio will be maintained.
 
 
@@ -348,6 +349,11 @@ To crop a video:
 - Click the crop <img src="/views/assets/crop.png" width="20" height="20" /> button.
 - Use the <kbd>Upload > Crop…</kbd> Menu Bar item.
 - Tap the crop <img src="/views/assets/crop.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
+
+Click-and-drag the resize handles to adjust the cropping region, and click-and-drag the rectangle to adjust the cropping position.
+
+> **[info]**
+> If you wish to constrain the cropping region to 1:1 aspect ratio, hold down the <kbd>SHIFT</kbd> key while click-and-dragging.
 
 ------
 
