@@ -46,6 +46,12 @@ Enable or disable user-interface sounds (such as when refreshing content with th
 
 ------ 
 
+## Automatic Spell Checking
+
+Enable or disable automatic spell checking corrections while typing captions, messages, and captions.
+
+------ 
+
 ## Show Labels in Touch Bar
 
 Enable or disable labels for buttons that appear in the [Touch Bar](https://support.apple.com/en-us/HT207055). Disabling this option will allow more buttons to be visible in the Touch Bar. [Learn more.](/misc/touchbar.md)
