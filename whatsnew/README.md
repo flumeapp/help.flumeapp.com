@@ -4,6 +4,15 @@ search: false
 
 # What's New in Flume
 
+## 2.8.4
+
+[_Release Date: January 24th, 2018._](http://blog.flumeapp.com/post/170072215851/flume-for-mac-284)
+
+* FIXED: A remote change by Instagram would cause video uploads to time-out and fail during the transcode process. 
+
+---
+
+
 ## 2.8.3
 
 [_Release Date: November 17th, 2017._](http://blog.flumeapp.com/post/167593354386/flume-for-mac-283)
