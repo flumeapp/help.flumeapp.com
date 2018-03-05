@@ -110,6 +110,8 @@ You can apply filters and make adjustments to your photos and videos easily righ
 > **[info]**
 > Video filters and adjustments are not available on macOS Yosemite 10.10
 
+&nbsp;
+
 > **[info]**
 > The Scale adjustment is only available on photos.
 
