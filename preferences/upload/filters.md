@@ -10,7 +10,7 @@
 
 To enable or disable a filter, click on any <img src="/preferences/assets/active.png" width="20" height="20" /> button.
 
-You can also quickly enable or disable filters using the <img src="/preferences/assets/settings.png" width="20" height="20" /> settings menu.
+You can also quickly enable or disable filters using the <img src="/views/assets/settings.png" width="20" height="20" /> settings menu.
 
 ------
 
