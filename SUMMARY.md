@@ -78,7 +78,7 @@
 * [Mouse Shortcuts](/misc/mouse-shortcuts.md)
 * [Hover Shortcuts](/misc/hover-shortcuts.md)
 * [Touch Bar](/misc/touchbar.md)
-* Split-View Mode
+* [Split-View Mode](/misc/split-view.md)
 * [URL Scheme](/misc/urlscheme.md)
 * [Integrations](/misc/integrations.md)
 * [Reset Flume](/misc/reset.md)
