@@ -27,7 +27,6 @@
 * [Notifications Preferences](/preferences/notifications.md)
 * [Flume Pro Preferences](/preferences/flumepro.md)
 
-
 ## Views
 
 * [Login](/views/login.md)
@@ -79,6 +78,7 @@
 * [Mouse Shortcuts](/misc/mouse-shortcuts.md)
 * [Hover Shortcuts](/misc/hover-shortcuts.md)
 * [Touch Bar](/misc/touchbar.md)
+* Split-View Mode
 * [URL Scheme](/misc/urlscheme.md)
 * [Integrations](/misc/integrations.md)
 * [Reset Flume](/misc/reset.md)
@@ -87,4 +87,6 @@
 ## External Links
 
 * [Links](/misc/links.md)
+
+
 
