@@ -5,7 +5,7 @@ Flume does not offer a full-screen view for various reasons. You may however use
 <p style="text-align: center; margin-top: 1em;"><img src="/misc/assets/split-view.png" width="70%" height="70%" /> </p> 
 
 
-## Activating Split-View
+### Activating Split-View
 
 To activate Split View mode:
 
