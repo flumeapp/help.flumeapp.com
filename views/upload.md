@@ -304,7 +304,7 @@ To crop a photo:
 Click-and-drag the resize handles to adjust the cropping region, and click-and-drag the rectangle to adjust the cropping position.
 
 > **[info]**
-> If you wish to constrain the cropping region to 1:1 aspect ratio, hold down the <kbd>SHIFT</kbd> key while click-and-dragging.
+> You can toggle between forcing a square or freeform cropping region by clicking the the <kbd>1:1</kbd> button.
 
 ------
 
@@ -322,7 +322,7 @@ To resize a photo back to its original dimensions:
 
 <p style="text-align: center; margin-top: 1em;"><img src="/views/assets/upload-cropping-resizetofit.png" width="50%" height="50%" /></p>
 
-If your selected photo exceeds the [aspect ratio requirements](//misc/upload-specifications.md), an extra <kbd>Resize to Fit</kbd> option appears in the image cropping view, with the ability to also choose a custom border color.
+If your selected photo exceeds the [aspect ratio requirements](//misc/upload-specifications.md), you can use the <kbd>Resize to Fit</kbd> option to resize the entire photo to fit inside a square, with the ability to also choose a custom border color.
 
 This ensures your landscape or portrait photos will not be cropped.
 
