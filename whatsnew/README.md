@@ -6,9 +6,9 @@ search: false
 
 ## 2.8.4.1
 
-[_Release Date: April 22nd, 2018._](http://blog.flumeapp.com/post/170072215851/flume-for-mac-2841)
+[_Release Date: April 22nd, 2018._](http://blog.flumeapp.com/post/173191884271/flume-for-mac-2841)
 
-* FIXED: A remote change by Instagram would cause Flume to crash if an account has 1 pending message request.
+* FIXED: A remote change by Instagram would cause Flume to crash if an account has 1 pending message request. 
 
 ---
 
