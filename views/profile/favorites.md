@@ -4,7 +4,7 @@
 
 Flume provides complete support for viewing and sharing with your  Favorites, otherwise known as "Close Friends". 
 
-Posts that are only visible by Favorites are indicated by a <kbd>Close Friends<kbd> label.
+Posts that are only visible by Favorites are indicated by a <kbd>Close Friends</kbd> label.
 
 >**[info]**
 > Favorites is currently being tested by Instagram and is not yet available on all accounts. As a result, you may not find the features described below. Flume will automatically enable the features when Instagram rolls the feature out to your account.
