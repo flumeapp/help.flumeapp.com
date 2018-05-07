@@ -4,6 +4,14 @@ search: false
 
 # What's New in Flume
 
+## 2.8.4.2
+
+[_Release Date: May 7th, 2018._](http://blog.flumeapp.com/post/173682359281/flume-for-mac-2842)
+
+* FIXED: A remote change by Instagram would cause Flume to crash if your feed contained a specific type of sponsored post.
+
+---
+
 ## 2.8.4.1
 
 [_Release Date: April 22nd, 2018._](http://blog.flumeapp.com/post/173191884271/flume-for-mac-2841)
