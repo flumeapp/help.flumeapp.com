@@ -4,6 +4,22 @@ search: false
 
 # What's New in Flume
 
+## 2.8.4.2
+
+[_Release Date: May 7th, 2018._](http://blog.flumeapp.com/post/173682359281/flume-for-mac-2842)
+
+* FIXED: A remote change by Instagram would cause Flume to crash if your feed contained a specific type of sponsored post.
+
+---
+
+## 2.8.4.1
+
+[_Release Date: April 22nd, 2018._](http://blog.flumeapp.com/post/173191884271/flume-for-mac-2841)
+
+* FIXED: A remote change by Instagram would cause Flume to crash if an account has 1 pending message request. 
+
+---
+
 ## 2.8.4
 
 [_Release Date: January 24th, 2018._](http://blog.flumeapp.com/post/170072215851/flume-for-mac-284)
@@ -11,7 +27,6 @@ search: false
 * FIXED: A remote change by Instagram would cause video uploads to time-out and fail during the transcode process. 
 
 ---
-
 
 ## 2.8.3
 
@@ -22,7 +37,7 @@ search: false
 * IMPROVED: Activity shows multiple avatars for activity with multiple users.
 * IMPROVED: Sharing options are now saved per user-account.
 * IMPROVED: Sponsored posts will use the respective colour chosen by the author for the ad link.
-* FIXED: Extra padding for „liked by“ labels in the feed view (when Post Details set to „All“)
+* FIXED: Extra padding for „liked by“ labels in the feed view \(when Post Details set to „All“\)
 * FIXED: Received pushed notifications are only logged when set to ‚Debug‘ level.
 * FIXED: A crash when photos have invalid GPS coordinates.
 * FIXED: An edge-case crash when selecting an invalid recipient.

@@ -17,4 +17,7 @@ To repost a post:
 - When viewing the [Details](//views/detailview.md) of a post, select the <kbd>Repost Photo/Video/Carousel Post…</kbd> item under the actions <img src="/views/assets/actions-menu.png" width="20" height="20" /> button in the title bar.
 - Use the <kbd>Post > Repost Photo/Video/Carousel Post…</kbd> Menu Bar item when selecting a post via the [keyboard arrows](/misc/keyboard-shortcuts.md) or viewing the [details](/views/detailview.md) of a post.
 
+> **[info]**
+> You cannot repost items if the author has their profile marked as private. The repost menu items will not appear if this is the case.
+
 -----
