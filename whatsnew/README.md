@@ -4,6 +4,35 @@ search: false
 
 # What's New in Flume
 
+## 2.8.5.1
+
+[_Release Date: July 31st, 2018._](http://blog.flumeapp.com/post/176480119491/flume-for-mac-2851)
+
+* NEW: Added an ability to "sync" currently open upload windows, copying the caption, location, user tags, sharing settings, and advanced settings between other open windows.
+* NEW: Added preferences in Upload Preferences to toggle pre-filling of caption from IPTC info.
+* FIXED: A crash when saving user tagging edits.
+* FIXED: The height of the user tagging window on the edit window wasn’t adapting to the actual image/video size.
+* FIXED: The user tagging button was missing on carousel post editing.
+* FIXED: Menu items didn’t work immediately after switching user accounts.
+* FIXED: Restored clicking on avatar buttons to load the profile in the web browser.
+* FIXED: Added the share icon to the top of profiles title bars when viewing your own profile.
+* FIXED: Added link highlighting in the share window (hashtags/usernames/urls)
+* FIXED: A crash when trying to show the error alert after getting a session time out.
+* FIXED: When using the resize to fit button, the image preview in the upload window could have appeared blurry (on the first try).
+* FIXED: An issue cropping secondary items in a carousel post that needed to be locked to a certain aspect-ratio.
+* FIXED: Allow captions, bios, comments, messages to be selectable again.
+* FIXED: Right-click menus on captions, bios, comments, messages, now include the custom menu items (which is why selection was disabled in the first place).
+* FIXED: The private profile indicator wasn’t showing on profile previews immediately.
+* FIXED: The translate menu item doesn’t appear if there’s a translation available from Instagram (for captions and biographies)
+* FIXED: The Flume main window won’t force itself to reappear if you wake from sleep and it was closed or minimized before sleeping.
+* FIXED: The actions button was missing on sponsored posts in the feed.
+* FIXED: Loads of workarounds and potential fixes for some really rare and odd crashes on older macOS versions.
+* FIXED: An edge-case where the existing user tags might not appear on first appearance.
+* FIXED: An issue when reposting carousel videos that would get stuck if a transcode timeout occurred.
+* FIXED: An issue with the titlebars when using the Cmd+Shift+F "global" Flume shortcut to jump to the search field.
+
+---
+
 ## 2.8.5
 
 [_Release Date: July 24th, 2018._](http://blog.flumeapp.com/post/176228638006/flume-for-mac-285)
