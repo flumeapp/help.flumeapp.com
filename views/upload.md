@@ -418,3 +418,28 @@ To switch the account to post with:
 - Use the <kbd>Accounts</kbd> Menu Bar item.
 
 ------
+
+## Export Edits
+
+If you are a [Flume Pro](/preferences/flumepro.md) user, you can use Flume to edit your photos and videos, adding filters and fine-tuning with adjustments, but export the items for use elsewhere without uploading to Instagram.
+
+To export your edited items:
+
+- Click on the actions <img src="/views/assets/actions-menu.png" width="20" height="20" /> button in the titlebar area of the Upload window, and select the <kbd>Export Edits…</kbd> menu item.
+- Use the <kbd>Upload > Export Edits…</kbd> Menu Bar item.
+
+A dialog will appear asking you to choose the location to export your items.
+
+------
+
+## Sync All Upload Windows
+
+If you need to post some items in a series, such as 3 photos in a row with the same theme, you can make use of the unique sync all upload windows feature, which will copy and replace the caption, location, tagged users, sharing settings, and advanced settings to all currently open upload windows. This allows you to write and set the caption and location once, and apply it to all the other open upload windows instantly.
+
+To sync all upload windows:
+
+- Click on the actions <img src="/views/assets/actions-menu.png" width="20" height="20" /> button in the titlebar area of the Upload window, and select the <kbd>Sync All Upload Windows…</kbd> menu item.
+- Use the <kbd>Upload > Sync All Upload Windows…</kbd> Menu Bar item.
+
+------
+
