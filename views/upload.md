@@ -434,7 +434,7 @@ A dialog will appear asking you to choose the location to export your items.
 
 ## Sync All Upload Windows
 
-If you need to post some items in a series, such as 3 photos in a row with the same theme, you can make use of the unique sync all upload windows feature, which will copy and replace the caption, location, tagged users, sharing settings, and advanced settings to all currently open upload windows. This allows you to write and set the caption and location once, and apply it to all the other open upload windows instantly.
+If you need to post some items in a series, such as 3 photos in a row with the same theme, you can make use of the unique sync all upload windows feature, which will copy and replace the caption, location, tagged users, sharing settings, and advanced settings to all currently open upload windows. This allows you to write and set the details once, and apply it to all the other open upload windows instantly.
 
 To sync all upload windows:
 
