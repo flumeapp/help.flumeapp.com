@@ -72,7 +72,6 @@ An inbuilt-feature of macOS are keyboard shortcuts assigned to items in menus. F
 | <kbd>⌘D</kbd> / <kbd>⌥⌘D</kbd> | Toggles the currently selected or viewed Profile, Hashtag or Location as a Bookmark. These Bookmarks are visible from the Search tab. |
 | <kbd>⌘+</kbd> | Increases the font size of the textual user interface elements. |
 | <kbd>⌘-</kbd> | Decreases the font size of the textual user interface elements. |
-| <kbd>⌃⌘F</kbd> | Toggles Full Screen mode. |
 
 ------
 
