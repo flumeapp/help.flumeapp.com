@@ -4,6 +4,78 @@ search: false
 
 # What's New in Flume
 
+## 2.8.5.2
+
+[_Release Date: September 9th, 2018._](http://blog.flumeapp.com/post/177901500771/flume-for-mac-2852)
+
+* NEW: Added an option to autoplay videos on hover (in column view).
+* NEW: Support for adhering to system appearance on 10.14 Mojave.
+* NEW: Likes will no longer default to be enabled in the main Flume menu, and can be found in the Profile area settings.
+* IMPROVED: Huge improvements to scrolling stutter and performance during reloading.
+* IMPROVED: Faster launching by performing database cleanup duty on app termination.
+* IMPROVED: Animations of buttons and the Flume logo in the titlebar are smoother.
+* IMPROVED: Reposts now set the location if there was one.
+* IMPROVED: When reposting your own posts, the "#repost" prefix text is no longer added to the caption.
+* IMPROVED: Text substitution / smart-dash / spell checking preferences have all been simplified and are saved automatically.
+* IMPROVED: Multiple improvements to VoiceOver on checkbox buttons.
+* IMPROVED: Shared images fade-in in conversations.
+* IMPROVED: Emptying the caches will now wipe all caches, including cached media from conversations, avatars, etc.
+* IMPROVED: Faster performance displaying the cache size in preferences.
+* FIXED: A potential crash when adding user tags on the upload window.
+* FIXED: Disabled option+ENTER when searching to tag users on uploads from entering a newline.
+* FIXED: Improved some incorrect Italian translations.
+* FIXED: A crash if you tried to send a photo/video in a DM that was below 160x160px.
+* FIXED: Potential fix for merged conversation history when searching for a user to compose a new DM.
+* FIXED: When using filters on items in a carousel post upload, clicking on the thumbnails in the list could end up applying the wrong filter.
+* FIXED: When toggling enabled filters in Preferences, the upload window wouldn't always immediately reflect the correct selections.
+* FIXED: "New Post" notifications weren't working correctly if there was 1 new post between automatic feed refreshes.
+* FIXED: A potential fix for getting stuck with the preloader when reposting items.
+* FIXED: An issue getting stuck on login when receiving Instagram security checkpoints on the login window.
+* FIXED: Rewrite of internal database saving to resolve extremely odd/rare database inconsistency issues.
+* FIXED: An error uploading / updating posts if you tagged a location that contains a quote character in its address.
+* FIXED: A rare edge-case where it becomes impossible to log out of an account if Flume crashed during a session time out and left the database in an inconsistent state.
+* FIXED: A potential fix for an issue with the large preview window not being destroyed correctly.
+* FIXED: An issue when using the scale adjustment on photos that exceed the IG aspect ratio requirements.
+* FIXED: The headers in activity and profiles didn't appear correctly in Split-View mode.
+* FIXED: Menus from buttons in the titlebar area would not appear in the correct position when in Split-View.
+* FIXED: An edge-case where two titlebars could appear together when you clicked to push new content, but at the same time clicked a tab button in the menu to switch to a new view.
+* FIXED: The conversation title bar would flicker when sending messages.
+* FIXED: Improved performance when pruning / empty caches.
+* FIXED: An issue where the titlebars could not show after pruning / emptying caches.
+* FIXED: Improved some visual issues with headers losing their blurred backgrounds when push/popping.
+* FIXED: A bug in profiles that made it impossible to click content towards the top when the header was collapsed.
+* FIXED: An issue that caused erratic behaviour when popping back for the first time (eg. scrolling to top of the profile)
+* FIXED: Drag-and-drop support of posts for macOS 10.14 Mojave.
+* FIXED: The header on the pending conversations list wasn't aligned correctly.
+* FIXED: The remove search bookmark button didn't appear for saved profiles.
+* FIXED: A memory leak that could occur when logging out / session time outs.
+* FIXED: The actions button on the pending conversations list won't appear if there are 0 pending conversations.
+* FIXED: The save, URL and share options now adjust correctly for your archived posts to match the behaviour on the mobile apps (you cannot view them in your browser or save them, though you can share them in a DM).
+* FIXED: Visual improvements to title bar borders, especially when changing design mode.
+* FIXED: An issue where avatars could appear dimmed in the conversation headers.
+* FIXED: A visual issue where the previous titlebar is hidden during the pop-back animation.
+* FIXED: The translate bio button didn't hide when showing the suggested users drop-down.
+* FIXED: The activity spinner could appear when showing the suggested users drop-down again.
+* FIXED: The loading indicator could appear on the detail view for carousel posts even when the images/videos were downloaded already.
+* FIXED: A concurrency issue when fetching the feed.
+* FIXED: When an activity notification contained a link to the same user more than once (eg. "username commented on a post that username tagged you in", it didn't highlight all the appearances.
+* FIXED: The borders on the saved collection buttons didn't update when changing the design mode.
+* FIXED: Ignored parsing of comments for ads and carousel ads (this will remove "expected NSDictionary but receive NSArray" errors you would have seen in Flume's log file).
+* FIXED: The alignment and size of the follower/following search icons.
+* FIXED: The view as grid/column menu items could appear even when on the login window.
+* FIXED: An issue where all the liked posts didn't appear in column-view mode if you had less than 18 likes (this is the default amount Instagram displays you on initial appearance).
+* FIXED: Long group chats with that weren't renamed would not clip in the conversation header.
+* FIXED: Tilt-shift adjustment wasn't working correctly, and would also crash on Mojave if you tried to set the level down to < 1.0.
+* FIXED: A crash issue that could occur when updating the menu while switching between carousel posts.
+* FIXED: The "pop" sound wouldn't always play when pull-down-to-refreshing.
+* FIXED: An issue with messages being clipped if they included an emoji at the end of the sentence.
+* FIXED: The older likes on a post didn't load due to Instagram API changes.
+* FIXED: The search text could be clipped in the Go to User… search window when using the largest font size.
+* FIXED: An issue where desktop notifications might not have appeared for newly received messages.
+* FIXED: Multiple various miscellaneous crash fixes.
+
+---
+
 ## 2.8.5.1
 
 [_Release Date: July 31st, 2018._](http://blog.flumeapp.com/post/176480119491/flume-for-mac-2851)
