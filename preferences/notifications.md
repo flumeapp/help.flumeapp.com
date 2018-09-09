@@ -8,7 +8,7 @@
 
 Flume can receive Push Notification from Instagram so that you're alerted instantly to new activity. These behave identically to Push Notifications that you receive on your mobile devices.
 
-You can configure which types of Push Notifications you receive, by clicking <kbd>Configure Push Settings</kbd> to edit your [Push Notification Settings.](/profile/pushnotifications.md) 
+You can configure which types of Push Notifications you receive, by clicking <kbd>Configure Push Settings</kbd> to edit your [Push Notification Settings.](/views/profile/pushnotifications.html) 
 
 Your connection status to receive Push Notifications from Instagram is displayed via the coloured indicator. 
 
