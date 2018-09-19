@@ -6,10 +6,10 @@ search: false
 
 ## 2.8.5.2
 
-[_Release Date: September 9th, 2018._](http://blog.flumeapp.com/post/177901500771/flume-for-mac-2852)
+[_Release Date: September 19th, 2018._](http://blog.flumeapp.com/post/177901500771/flume-for-mac-2852)
 
 * NEW: Added an option to autoplay videos on hover (in column view).
-* NEW: Support for adhering to system appearance on 10.14 Mojave.
+* NEW: Support for adhering to system appearance on 10.14 Mojave. When using the "System Appearance" design mode, all controls will adjust to use the selected "accent colour".
 * NEW: Likes will no longer default to be enabled in the main Flume menu, and can be found in the Profile area settings.
 * IMPROVED: Huge improvements to scrolling stutter and performance during reloading.
 * IMPROVED: Faster launching by performing database cleanup duty on app termination.
@@ -21,6 +21,12 @@ search: false
 * IMPROVED: Shared images fade-in in conversations.
 * IMPROVED: Emptying the caches will now wipe all caches, including cached media from conversations, avatars, etc.
 * IMPROVED: Faster performance displaying the cache size in preferences.
+* IMPROVED: Since Instagram sends incredibly low thumbnail images for videos, we’ll now create them manually using the higher resolution still image. This results in better quality video thumbnails in grid-view.
+* IMPROVED: The Touch bar buttons will now highlight to indicate any adjustments you've made on uploads.
+* IMPROVED: The Touch bar now uses system-designed red/green/blue colours, and the upload button will also respect the accent colour on macOS 10.14 Mojave.
+* IMPROVED: Unread "dots" will now use the accent control colour on macOS 10.14 Mojave.
+* IMPROVED: When using the "resize to fit" function or scale adjustment on uploads, the previous background color is saved and automatically set.
+* FIXED: When changing the accent colour on macOS 10.14 Mojave, any adjustments/filters made on any currently open upload windows appeared as if they had been reset.
 * FIXED: A potential crash when adding user tags on the upload window.
 * FIXED: Disabled option+ENTER when searching to tag users on uploads from entering a newline.
 * FIXED: Improved some incorrect Italian translations.
@@ -72,6 +78,20 @@ search: false
 * FIXED: The older likes on a post didn't load due to Instagram API changes.
 * FIXED: The search text could be clipped in the Go to User… search window when using the largest font size.
 * FIXED: An issue where desktop notifications might not have appeared for newly received messages.
+* FIXED: Clicking URLs on profiles would open the URL twice.
+* FIXED: A bizarre issue with sound effects not playing on macOS Mojave if they are mono and less than a certain ms duration.
+* FIXED: When searching conversations/participants, the „requested“ label would show erroneously for profiles you had requested to follow.
+* FIXED: When playing videos in column view on a carousel post, clicking next/previous would make the play button reappear in the center.
+* FIXED: Added error alerts and proper usage of the camera APIs on 10.14 Mojave.
+* FIXED: Added error alerts when location services are disabled or access for Flume is denied.
+* FIXED: Enabled the "hardened runtime", a new feature of 10.14 Mojave to verify software is free of malware.
+* FIXED: When processing multiple video or invalid items in a carousel post, failure behaviour is much better and will ignore invalid items while continuing to process valid items.
+* FIXED: If a video contained different length audio/video tracks, cropping that video might have shown an error during compression/rendering.
+* FIXED: When opening multiple files in the upload window via the "Select" dialog, selected files were sorted in reverse alphabetical order.
+* FIXED: When adding more videos to an existing carousel post in creation, the progress label did not factor in the previously added items into the progress count label eg. "3/2".
+* FIXED: Emptying the cache is much faster than before, and much more reliable.
+* FIXED: An edge-case issue where you wouldn't see the high resolution images after emptying the cache, because of some Instagram changes to URLs.
+* FIXED: An edge-case issue where the content could be inset from the bottom even when the menu is set to appear on hover and is not visible.
 * FIXED: Multiple various miscellaneous crash fixes.
 
 ---
