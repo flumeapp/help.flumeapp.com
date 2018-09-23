@@ -96,6 +96,7 @@ search: false
 * FIXED: Emptying the cache is much faster than before, and much more reliable.
 * FIXED: An edge-case issue where you wouldn't see the high resolution images after emptying the cache, because of some Instagram changes to URLs.
 * FIXED: An edge-case issue where the content could be inset from the bottom even when the menu is set to appear on hover and is not visible.
+* FIXED: When using the contextual menu to edit / share / repost a video (or a carousel post that included a video) from a grid-view (eg. your profile), and the high resolution still image had never been downloaded, the edit / share / repost window would show an empty preview image as it wouldn’t check it had been downloaded before opening the new window.
 * FIXED: Multiple various miscellaneous crash fixes.
 
 ---
