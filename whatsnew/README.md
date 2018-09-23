@@ -26,6 +26,7 @@ search: false
 * IMPROVED: The Touch bar now uses system-designed red/green/blue colours, and the upload button will also respect the accent colour on macOS 10.14 Mojave.
 * IMPROVED: Unread "dots" will now use the accent control colour on macOS 10.14 Mojave.
 * IMPROVED: When using the "resize to fit" function or scale adjustment on uploads, the previous background color is saved and automatically set.
+* IMPROVED: Updated the suggestions button image in the profile header to make it look less like the following button image.
 * FIXED: When changing the accent colour on macOS 10.14 Mojave, any adjustments/filters made on any currently open upload windows appeared as if they had been reset.
 * FIXED: A potential crash when adding user tags on the upload window.
 * FIXED: Disabled option+ENTER when searching to tag users on uploads from entering a newline.
@@ -38,6 +39,9 @@ search: false
 * FIXED: A potential fix for getting stuck with the preloader when reposting items.
 * FIXED: An issue getting stuck on login when receiving Instagram security checkpoints on the login window.
 * FIXED: Rewrite of internal database saving to resolve extremely odd/rare database inconsistency issues.
+* FIXED: Multiple issues with editing tags on existing media.
+* FIXED: Fixed updating media tags when they are only moved in position.
+* FIXED: Touch bar buttons were not highlighting when user tags / sharing / disabling comments.
 * FIXED: An error uploading / updating posts if you tagged a location that contains a quote character in its address.
 * FIXED: A rare edge-case where it becomes impossible to log out of an account if Flume crashed during a session time out and left the database in an inconsistent state.
 * FIXED: A potential fix for an issue with the large preview window not being destroyed correctly.
