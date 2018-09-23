@@ -6,7 +6,7 @@ search: false
 
 ## 2.8.5.2
 
-[_Release Date: September 19th, 2018._](http://blog.flumeapp.com/post/177901500771/flume-for-mac-2852)
+[_Release Date: September 23rd, 2018._](http://blog.flumeapp.com/post/177901500771/flume-for-mac-2852)
 
 * NEW: Added an option to autoplay videos on hover (in column view).
 * NEW: Support for adhering to system appearance on 10.14 Mojave. When using the "System Appearance" design mode, all controls will adjust to use the selected "accent colour".
