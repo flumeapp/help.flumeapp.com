@@ -20,7 +20,12 @@ Additionally, all the shortcuts below can be opened via a HTTP link to our websi
 | <kbd>flumeapp://location/:id</kbd> | Jumps to the [Location view](//views/locations.md) view at the location with the corresponding ID. If the ID is invalid or does not exist, the Flume window will shake. |
 | <kbd>flumeapp://tag/:tagname</kbd> | Jumps to the [Hashtag view](//views/hashtags.md) with the corresponding hashtag. If the hashtag is invalid or does not exist, the Flume window will shake. |
 | <kbd>flumeapp://feed</kbd> | Switches to the [Feed](//views/feed.md) view. |
+| <kbd>flumeapp://likes</kbd> | Switches to the [Likes](//views/likes.md) view. |
+| <kbd>flumeapp://explore</kbd> | Switches to the [Explore](//views/explore.md) view. |
+| <kbd>flumeapp://search</kbd> | Switches to the [Search](//views/search.md) view. |
 | <kbd>flumeapp://activity</kbd> | Switches to the [Activity](//views/activity.md) view. |
+| <kbd>flumeapp://conversations</kbd> | Switches to the [Conversations](//views/conversations.md) view. |
+| <kbd>flumeapp://profile</kbd> | Switches to the [Profile](//views/profile.md) view. |
 | <kbd>flumeapp://pending_conversations</kbd> | Displays the current [pending conversations](//views/conversations.md). |
 | <kbd>flumeapp://pro</kbd> | Displays the [Flume Pro](//preferences/flumepro.md) tab of the Preferences window. |
 | <kbd>flumeapp://log</kbd> | Displays the debugging log. |
