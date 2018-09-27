@@ -12,5 +12,5 @@ If you have an Instagram [Business Profile](./), you can control which accounts 
 
 To adjust your branded content tagging settings:
 
-* When viewing your [Profile](../), select the Branded Content Approvals item under the [Settings](../settings/) ![](../../../.gitbook/assets/settings.png) button in the title bar.
+* When viewing your [Profile](../), select the `Branded Content Approvals` item under the [Settings](../settings/) ![](../../../.gitbook/assets/settings.png) button in the [title bar.](../../../misc/glossary.md#title-bar)
 

@@ -6,10 +6,10 @@ The Locations view displays all recent media [tagged at a location.](upload.md#l
 
 To share a location:
 
-1. When viewing the recent posts of the location, select the Share &gt; Send to… item under the share ![](../.gitbook/assets/actions-menu.png) button in the title bar, or use the Location &gt; Share &gt; Send to… Menu Bar item.
+1. When viewing the recent posts of the location, select the `Share > Send to…` item under the share ![](../.gitbook/assets/actions-menu.png) button in the [title bar](../misc/glossary.md#title-bar), or use the `Location > Share > Send to…` [Menu Bar](../misc/glossary.md#menu-bar) item.
 2. Select a conversation or user from the suggested list with the select ![](../.gitbook/assets/select.png) button, or search for a different user. You can create a new [group conversation](conversations/) by selecting multiple users.
 3. Type an optional message to accompany the shared location.
-4. Share the location by clicking the confirm ![](../.gitbook/assets/accept.png) button in the title bar.
+4. Share the location by clicking the confirm ![](../.gitbook/assets/accept.png) button in the [title bar.](../misc/glossary.md#title-bar)
 
 ## Viewing a Location in Maps
 
@@ -23,7 +23,7 @@ You can add a location as a [Search Bookmark](search.md#search-bookmarks) to qui
 
 To toggle a location as a Search Bookmark:
 
-* Click the bookmark ![](../.gitbook/assets/bookmark.png) button in the title bar.
+* Click the bookmark ![](../.gitbook/assets/bookmark.png) button in the [title bar.](../misc/glossary.md#title-bar)
 
 ## Location Previews
 
@@ -33,5 +33,5 @@ To view a location preview:
 
 * Long-press on any location name in the [Feed](feed.md), or [Details.](detailview.md)
 
-To close a location preview, press the ⎋ \(ESC\) key, or click outside of the preview.
+To close a location preview, press the `⎋ (ESC)` key, or click outside of the preview.
 

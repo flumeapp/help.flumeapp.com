@@ -10,7 +10,18 @@ To choose the cropping region for photos and videos in Flume, simply use the mou
 
 ## Photo Specifications
 
-Flume accepts the current photo file formats: JPG, PNG, RAW, ARW \(Sony RAW\), RAF \(Fuji RAW\), MRW \(Sony Minolta RAW\), DNG \(Digital Negative\), ORF \(Olympus RAW\). No other specifications are required, except for the aspect ratio rules above. High DPI images are supported.
+Flume accepts the current photo file formats:
+
+* JPG
+* PNG
+* RAW
+* ARW \(Sony RAW\)
+* RAF \(Fuji RAW\)
+* MRW \(Sony Minolta RAW\)
+* DNG \(Digital Negative\)
+* ORF \(Olympus RAW\). 
+
+No other specifications are required, except for the aspect ratio rules above. High DPI images are supported.
 
 Photos will be compressed to a maximum dimension of 1080px before uploading. If you would like to avoid Flume performing compression of high-resolution photos, or to avoid issues with color profiles, configure your workflow to export photos with a maximum dimension of 1080px.
 
@@ -18,7 +29,7 @@ For more info on photo specifications and resolutions, please see the [official 
 
 ## Video Specifications
 
-Flume will accept all video files with a .mp4, .mov or .m4v container. Note that if you are using a video codec that QuickTime cannot compress, your upload may fail. Duration must be between 3-60 seconds.
+Flume will accept all video files with a `.mp4`, `.mov` or `.m4v` container. Note that if you are using a video codec that QuickTime cannot compress, your upload may fail. Duration must be between 3-60 seconds.
 
 Videos will be compressed to a maximum dimension of 1920px before uploading. If you would like to avoid Flume performing compression of high-resolution videos, configure your workflow to export videos with a maximum dimension of 1920px.
 

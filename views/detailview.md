@@ -24,8 +24,8 @@ The comments on a post are displayed by default below the caption \(if present\)
 
 To view the comments on a post:
 
-* Click the Comments tab
-* Press the ⇥ \(TAB\) [keyboard shortcut.](../misc/keyboard-shortcuts.md)
+* Click the `Comments` tab
+* Press the `⇥ (TAB)` [keyboard shortcut.](../misc/keyboard-shortcuts.md)
 
 {% hint style="info" %}
 If [comments are disabled](detailview.md#enabling--disabling-comments) on a post, the comments tab will be dimmed and disabled. If comments are [restricted](detailview.md#restricting-comments) and you do not fit the permitted commenters, you will only be able to view comments and not add or reply to existing comments.
@@ -35,21 +35,23 @@ If [comments are disabled](detailview.md#enabling--disabling-comments) on a post
 
 To write a new comment:
 
-* Click the comment ![](../.gitbook/assets/comment%20%282%29.png) button in the title bar.
+* Click the comment ![](../.gitbook/assets/comment%20%282%29.png) button in the [title bar.](../misc/glossary.md#title-bar)
 * Tap the comment ![](../.gitbook/assets/comment%20%281%29.png) button in the [Touch Bar.](../misc/touchbar.md)
-* Use the Post &gt; Comment on Photo/Video… Menu Bar item.
+* Use the `Post > Comment on Photo/Video…` [Menu Bar](../misc/glossary.md#menu-bar) item.
 
-The comment compose area will appear ready for you to write a comment. To send your comment, press ENTER/RETURN or click the send ![](../.gitbook/assets/send.png) button.
+The comment compose area will appear ready for you to write a comment. To send your comment, press `↩ ENTER/RETURN` or click the send ![](../.gitbook/assets/send.png) button.
 
-> **\[info\]** When writing the first comment for one of your own posts, it will be converted automatically into the caption of the post.
+{% hint style="info" %}
+When writing the first comment for one of your own posts, it will be converted automatically into the caption of the post.
+{% endhint %}
 
 ### Replying to Comments
 
 To reply to a comment:
 
 * Move the mouse to the left area of a comment to reveal the comment actions panel, then click the reply ![](../.gitbook/assets/reply.png) button.  ![](../.gitbook/assets/comment-actions.png)
-* Right-click a comment, then select Reply to @username from the contextual menu.
-* When selecting a comment using the [keyboard arrows](../misc/keyboard-shortcuts.md), use the Comment &gt; Reply to @username Menu Bar item.
+* Right-click a comment, then select `Reply to @username` from the [contextual menu.](../misc/glossary.md#contextual-menu)
+* When selecting a comment using the [keyboard arrows](../misc/keyboard-shortcuts.md), use the `Comment > Reply to @username` [Menu Bar](../misc/glossary.md#menu-bar) item.
 * When selecting a comment using the [keyboard arrows](../misc/keyboard-shortcuts.md), tap the reply ![](../.gitbook/assets/comment.png) button in the [Touch Bar.](../misc/touchbar.md)
 
 {% hint style="info" %}
@@ -61,14 +63,14 @@ When replying to a comment, replies are indented in order to support comment thr
 To like / unlike a comment:
 
 * Move the mouse to the right area of a comment to reveal the comment actions panel, then click the like ![](../.gitbook/assets/like.png) button.  ![](../.gitbook/assets/comment-actions%20%282%29.png)
-* When selecting a comment using the [keyboard arrows](../misc/keyboard-shortcuts.md), use the Comment &gt; Like/Unlike Comment Menu Bar item.
+* When selecting a comment using the [keyboard arrows](../misc/keyboard-shortcuts.md), use the `Comment > Like/Unlike Comment` [Menu Bar](../misc/glossary.md#menu-bar) item.
 * When selecting a comment using the [keyboard arrows](../misc/keyboard-shortcuts.md), tap the like ![](../.gitbook/assets/like%20%281%29.png) button in the [Touch Bar.](../misc/touchbar.md)
 
 ### Viewing Comment Likes
 
 To view the likes on a specific comment:
 
-* Click the X likes&lt;/kdb&gt; button that appears when a comment has at least 1 like.
+* Click the `X likes` button that appears when a comment has at least 1 like.
 
 ### Bulk Deleting Comments
 
@@ -76,9 +78,9 @@ On your own posts, you can quickly delete multiple comments at once rather than 
 
 To bulk delete comments:
 
-1. When viewing one of your own posts, select the Delete Comments… item under the actions ![](../.gitbook/assets/actions-menu.png) button in the title bar.
+1. When viewing one of your own posts, select the `Delete Comments…` item under the actions ![](../.gitbook/assets/actions-menu.png) button in the [title bar.](../misc/glossary.md#title-bar)
 2. Select the comments you wish to delete.
-3. Confirm your selection by clicking the confirm ![](../.gitbook/assets/accept.png) button in the title bar or in the Touch Bar.
+3. Confirm your selection by clicking the confirm ![](../.gitbook/assets/accept.png) button in the [title bar](../misc/glossary.md#title-bar) or in the [Touch Bar.](../misc/touchbar.md)
 
 You can also [disable commenting](detailview.md#enabling--disabling-comments) on your post, which will hide all previous comments automatically.
 
@@ -87,8 +89,8 @@ You can also [disable commenting](detailview.md#enabling--disabling-comments) on
 To delete a single comment:
 
 * Move the mouse to the right area of a comment to reveal the comment actions panel, then click the delete ![](../.gitbook/assets/delete.png) button.  ![](../.gitbook/assets/comment-actions%20%283%29.png)
-* Right-click a comment, then select Delete Comment… from the contextual menu.
-* When selecting a comment using the [keyboard arrows](../misc/keyboard-shortcuts.md), use the Comment &gt; Delete Comment… Menu Bar item.
+* Right-click a comment, then select `Delete Comment…` from the [contextual menu.](../misc/glossary.md#contextual-menu)
+* When selecting a comment using the [keyboard arrows](../misc/keyboard-shortcuts.md), use the `Comment > Delete Comment…` [Menu Bar](../misc/glossary.md#menu-bar) item.
 
 {% hint style="info" %}
 You can also delete your own comments you make on others posts.
@@ -99,16 +101,16 @@ You can also delete your own comments you make on others posts.
 To report a comment:
 
 * Move the mouse to the right area of a comment to reveal the comment actions panel, then click the report ![](../.gitbook/assets/report.png) button.  ![](../.gitbook/assets/comment-actions%20%281%29.png)
-* Right-click a comment, then select Report… from the contextual menu.
-* When selecting a comment using the [keyboard arrows](../misc/keyboard-shortcuts.md), use the Comment &gt; Report… Menu Bar item.
+* Right-click a comment, then select `Report…` from the [contextual menu.](../misc/glossary.md#contextual-menu)
+* When selecting a comment using the [keyboard arrows](../misc/keyboard-shortcuts.md), use the `Comment > Report…` [Menu Bar](../misc/glossary.md#menu-bar) item.
 
 ### Translating Comments
 
 To translate a comment:
 
-* Right-click a comment, then select Translate… from the contextual menu.
-* When selecting a comment using the [keyboard arrows](../misc/keyboard-shortcuts.md), use the Comment &gt; Translate… Menu Bar item.
-* When selecting a comment using the [keyboard arrows](../misc/keyboard-shortcuts.md), tap the translate ![](../.gitbook/assets/translate.png) button in the [Touch Bar.](../misc/touchbar.md)
+* Right-click a comment, then select `Translate…` from the [contextual menu.](../misc/glossary.md#contextual-menu)
+* When selecting a comment using the [keyboard arrows](../misc/keyboard-shortcuts.md), use the `Comment > Translate…` [Menu Bar](../misc/glossary.md#menu-bar) item.
+* When selecting a comment using the [keyboard arrows](../misc/keyboard-shortcuts.md), tap the Translate ![](../.gitbook/assets/translate.png) button in the [Touch Bar.](../misc/touchbar.md)
 
 {% hint style="info" %}
 The translation will use your current [language](../preferences/general.md#language) setting.
@@ -120,14 +122,14 @@ By defaults, comments are permitted on your posts. You can disable commenting on
 
 To enable/disable comments on your posts:
 
-* When viewing one of your own posts, select the Turn Commenting On/Off item under the actions ![](../.gitbook/assets/actions-menu.png) button in the title bar.
+* When viewing one of your own posts, select the `Turn Commenting On/Off` item under the actions ![](../.gitbook/assets/actions-menu.png) button in the [title bar.](../misc/glossary.md#title-bar)
 
 ## Likes
 
 To view the latest likes on a post:
 
-* Click the Likes tab
-* Press the ⇥ \(TAB\) [keyboard shortcut.](../misc/keyboard-shortcuts.md)
+* Click the `Likes` tab
+* Press the `⇥ (TAB)` [keyboard shortcut.](../misc/keyboard-shortcuts.md)
 
 {% hint style="info" %}
 A maximum of the latest 999 likers are displayed.
@@ -157,7 +159,7 @@ If a post is tagged at a location, its name will appear above the caption \(if p
 
 To translate a caption:
 
-* Right-click the caption, then select Translate… from the contextual menu.
+* Right-click the caption, then select `Translate…` from the [contextual menu.](../misc/glossary.md#contextual-menu)
 
 {% hint style="info" %}
 The translation will use your current [language](../preferences/general.md#language) setting.
@@ -167,8 +169,8 @@ The translation will use your current [language](../preferences/general.md#langu
 
 When viewing the Details View from the [Feed](feed.md), [Likes](likes.md) or [Explore](explore.md) views, additional options are available to quickly browse through the content without needing to move back-and-forth between the Details View and the previous list of media.
 
-* Click the previous ![](../.gitbook/assets/item-previous.png) or next ![](../.gitbook/assets/item-next.png) button in the title bar.
-* Use the ⌘{ or ⌘} [keyboard shortcuts.](../misc/keyboard-shortcuts.md)
+* Click the previous ![](../.gitbook/assets/item-previous.png) or next ![](../.gitbook/assets/item-next.png) button in the [title bar.](../misc/glossary.md#title-bar)
+* Use the `⌘{` or `⌘}` [keyboard shortcuts.](../misc/keyboard-shortcuts.md)
 
 
 

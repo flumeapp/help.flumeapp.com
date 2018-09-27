@@ -6,7 +6,34 @@ Allows you to ensure Flume launches every time you restart your Mac or log-in to
 
 ## Language
 
-Flume supports the following languages: Arabic, Chinese \(Simplified\), Chinese \(Traditional\), Czech, Danish, Dutch, English, French, German, Greek, Indonesian, Italian, Japanese, Korean, Malay, Norwegian, Polish, Portuguese, Portuguese \(Brazilian\), Russian, Spanish, Swedish, Thai, Turkish, Ukrainian and Vietnamese.
+Flume supports the following languages: 
+
+* Arabic
+* Chinese \(Simplified\)
+* Chinese \(Traditional\)
+*  Czech
+* Danish
+* Dutch
+* English
+* French
+* German
+* Greek
+* Indonesian
+* Italian
+* Japanese
+* Korean
+* Malay
+* Norwegian
+* Polish
+* Portuguese
+* Portuguese \(Brazilian\)
+* Russian
+* Spanish
+* Swedish
+* Thai
+* Turkish
+* Ukrainian
+* Vietnamese
 
 Adjusting the language will adjust all user-interface elements, as well as content that is returned from Instagram directly, such as the language of [activity notifications](../views/activity.md), and error messages.
 
@@ -20,19 +47,17 @@ Choose between three options:
 
 | Option | Explanation |
 | :--- | :--- |
-| Dock only | The Flume icon will be displayed in the macOS Dock when running. |
-| Dock and menu bar | The Flume icon will be displayed in the macOS Dock when running, and in the Menu Bar's status item area. |
-| Menu bar only | The Flume icon will be displayed only in the Menu Bar's status item area.  If set to "Menu bar only", it is a macOS feature that the Menu Bar will not update when Flume is in focus.\*\* |
+| `Dock only` | The Flume icon will be displayed in the [macOS Dock](../misc/glossary.md#dock) when running. |
+| `Dock and menu bar` | The Flume icon will be displayed in the [macOS Dock](../misc/glossary.md#dock) when running, and in the Menu Bar's status item area. |
+| `Menu bar only` | The Flume icon will be displayed only in the [Menu Bar's](../misc/glossary.md#menu-bar) status item area.  If set to "Menu bar only", it is a macOS feature that the [Menu Bar](../misc/glossary.md#menu-bar) will not update when Flume is in focus.\*\* |
 
 Clicking on the status bar icon will toggle the windows front-most status, similar to [Global show/hide window](general.md#global-showhide-window) keyboard shortcut.
 
-\*\* To access Flume's preferences in "Menu bar only", right-click on Flume's icon in the Menu Bar.
+\*\* To access Flume's preferences in "Menu bar only" mode, right-click on Flume's icon in the [Menu Bar.](../misc/glossary.md#menu-bar)
 
 ## Play Sounds
 
 Enable or disable user-interface sounds \(such as when refreshing content with the "pull-to-refresh" method, or clicking on buttons\).
-
-## Automatic Spell Checking
 
 Enable or disable automatic spell checking corrections while typing captions, messages, and captions.
 
@@ -46,19 +71,19 @@ Enable or disable Flume's windows to float above all other windows on the screen
 
 ## Open Web Links in Background
 
-When clicking on web links in comments, captions, messages, or using the "Open in browser…" menu item, the default web-browser will open the selected link. When this option is enabled, the web-browser opens the link in the background and Flume does not lose focus.
+When clicking on web links in comments, captions, messages, or using the `Open in browser…` menu item, the default web-browser will open the selected link. When this option is enabled, the web-browser opens the link in the background and Flume does not lose focus.
 
 ## Global Show/Hide Window
 
 Allows you to configure a custom [Keyboard Shortcut](../misc/keyboard-shortcuts.md) that can be triggered whenever Flume is open, that will display or hide the Flume main window quickly. If Flume is not currently open, no action will be performed.
 
-When the [Show icon in](general.md#show-icon-in) option is set to "Menu bar only" or "Dock and menu bar", clicking on the status bar icon will also toggle the windows front-most status.
+When the [Show icon in](general.md#show-icon-in) option is set to `Menu bar only` or `Dock and menu bar`, clicking on the status bar icon will also toggle the windows front-most status.
 
 ## Local Cache
 
-Displays the current size of the local database and image cache. This cache is automatically cleared by Flume when it reaches 300MB, when all accounts are logged out, or manually by pressing the "Empty Caches" button.
+Displays the current size of the local database and image cache. This cache is automatically cleared by Flume when it reaches 300MB, when all accounts are logged out, or manually by pressing the `Empty Caches` button.
 
 ## Show Flume Pro Item in Menu Bar
 
-Toggles the visibility of the ![](../.gitbook/assets/pro.png) menu item in the macOS Menu Bar.
+Toggles the visibility of the ![](../.gitbook/assets/pro.png) menu item in the macOS [Menu Bar.](../misc/glossary.md#menu-bar)
 

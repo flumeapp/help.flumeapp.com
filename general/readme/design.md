@@ -8,4 +8,3 @@ The saying goes that a picture is worth a thousand words, and one of Flume's uni
 
 Flume lets you also customize your viewing preferences to your own preferences. Learn more in [Design Preferences.](../../preferences/design.md)
 
-* * * 

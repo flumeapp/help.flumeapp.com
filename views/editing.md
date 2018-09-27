@@ -6,12 +6,12 @@ The Editing window allows you edit information about a previous post. The user t
 
 To edit a post:
 
-* Right-click any of your posts, then select Edit Photo/Video… from the contextual menu.
-* When viewing the [Details](detailview.md) of your own posts, select the Edit Photo/Video… item under the actions ![](../.gitbook/assets/actions-menu.png) button in the title bar.
+* Right-click any of your posts, then select `Edit Photo/Video…` from the [contextual menu.](../misc/glossary.md#contextual-menu)
+* When viewing the [Details](detailview.md) of your own posts, select the `Edit Photo/Video…` item under the actions ![](../.gitbook/assets/actions-menu.png) button in the [title bar.](../misc/glossary.md#title-bar)
 
 ### Captions
 
-The caption of a post can be edited at any time. When typing a \# or @ character, your keyboard input will also search Instagram for matching hashtags and users until you select an item from the popover, press the ESC key, or press another space.
+The caption of a post can be edited at any time. When typing a `#` or `@` character, your keyboard input will also search Instagram for matching hashtags and users until you select an item from the popover, press the `⎋ (ESC)` key, or press another space.
 
 {% hint style="info" %}
 [Limits apply](../misc/limits.md) to the length of the caption, the number of hashtags, and mentions.
@@ -56,25 +56,25 @@ To reposition a tagged user:
 
 To add a location on a photo or video:
 
-1. Click the "Add Location" button, or tap the location ![](../.gitbook/assets/location-add.png) button in the [Touch Bar.](../misc/touchbar.md)
+1. Click the `Add Location` button, or tap the location ![](../.gitbook/assets/location-add.png) button in the [Touch Bar.](../misc/touchbar.md)
 2. Type to search for the location to tag, or click the Nearby Places ![](../.gitbook/assets/nearbyplaces.png) button to search locations close to your current position.
 3. Select a location from the search results. If no search results could be found, the results popover will disappear.
 
 {% hint style="info" %}
-If the photo or video contains [geotag](https://en.wikipedia.org/wiki/Geotagging) location information, Flume will automatically search for the GPS coordinates where the photo or video was taken.
+If the photo or video contains [geotag](https://en.wikipedia.org/wiki/Geotagging) location information, Flume will automatically search for the GPS coordinates where the photo or video was taken. You cannot tag exact GPS coordinates on Instagram, and all tagged locations must exist as Facebook Places. To add new locations, see [Instagram's Help Center.](https://help.instagram.com/1618893218361276)
 {% endhint %}
 
 #### Editing Tagged Locations
 
 To edit a location on a photo or video:
 
-* Click the name of the location, and select the Edit Location item.
+* Click the name of the location, and select the `Edit Location` item.
 * Tap the edit location ![](../.gitbook/assets/location-add%20%281%29.png) button in the [Touch Bar.](../misc/touchbar.md)
 
 #### Removing Tagged Locations
 
 To remove an existing location on a photo or video:
 
-* Click the name of the location, and select the Remove Location item.
+* Click the name of the location, and select the `Remove Location` item.
 * Tap the edit location ![](../.gitbook/assets/location-remove.png) button in the [Touch Bar.](../misc/touchbar.md)
 

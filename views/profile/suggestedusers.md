@@ -10,7 +10,7 @@ The Discover People view allows you to view suggestions for new accounts to foll
 
 To view your follower suggestions:
 
-* When viewing your [Profile](./), select the Find Contacts… item under the [Settings](settings/) ![](../../.gitbook/assets/settings.png) button in the title bar.
+* When viewing your [Profile](./), select the Find Contacts… item under the [Settings](settings/) ![](../../.gitbook/assets/settings.png) button in the [title bar.](../../misc/glossary.md#title-bar)
 
 ### Ignoring Suggestions
 

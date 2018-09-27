@@ -4,13 +4,13 @@ Upon launching Flume, you will be presented with the Login Window. This window w
 
 ![](../.gitbook/assets/login.png) ![](../.gitbook/assets/login-form.png)
 
-Click "Let's Go" to get started and enter your Instagram username and password to login.
+Click `Let's Go!` to get started and enter your Instagram username and password to login.
+
+If you have [1Password](https://1password.com) installed on your Mac, the 1Password logo will appear next to the Password field allowing you quicker access to copy and paste your password securely.
 
 {% hint style="warning" %}
 Do not enter your Flume Pro licence code as your password. You activate Flume Pro from your licence code email, or manually in [Flume Pro preferences.](../preferences/flumepro.md)
 {% endhint %}
-
-If you have [1Password](https://1password.com) installed on your Mac, the 1Password logo will appear next to the Password field allowing you quicker access to copy and paste your password securely.
 
 {% hint style="info" %}
 As of [Flume 2.7](../general/whatsnew.md), you can also login with your email address or phone number \(if applicable\).
@@ -30,13 +30,13 @@ If login fails, a visible error alert will appear describing the issue. If your 
 
 ## Facebook Login
 
-If you normally use Facebook to login to Instagram, click on the "Help!" button and select the "I want to log-in with my Facebook account" option.
+If you normally use Facebook to login to Instagram, click on the `Help!` button and select the `I want to log-in with my Facebook account` option.
 
 ## Forgotten Password
 
 To reset your password:
 
-* Click on the "Help!" button and select the "I forgot my password, or don't have one" option.
+* Click on the `Help!` button and select the `I forgot my password, or don't have one` option.
 * Visit [Instagram's password reset form](https://www.instagram.com/accounts/password/reset/) directly.
 
 ## Registering an Instagram account
@@ -45,6 +45,6 @@ Flume does not currently support registration of Instagram accounts.
 
 To register a new Instagram account:
 
-* Click on the "Help!" button and select the "I don't have an Instagram account" option.
+* Click on the `Help!` button and select the `I don't have an Instagram account` option.
 * Visit [Instagram's website](https://instagram.com) directly.
 

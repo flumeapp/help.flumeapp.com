@@ -16,7 +16,7 @@ You can find more information about promoting posts at [Facebook's Business Reso
 
 To promote a post:
 
-* Right-click any post of yours, then select Promote… from the contextual menu.
+* Right-click any post of yours, then select `Promote…` from the contextual menu.
 
 The Promote window will appear with your chosen post ready to configure.
 
@@ -30,13 +30,13 @@ It is not possible to promote [carousel posts](../../detailview.md#carousel-post
 
 To view your current, existing, and expired promotions:
 
-* Click the "Promotions" item that appears at the top of your [Activity.](../../activity.md)
+* Click the `Promotions` item that appears at the top of your [Activity.](../../activity.md)
 
 #### Deleting Promotions
 
 To delete a promotion:
 
-* When viewing the promotion's details, click the Delete ![](../../../.gitbook/assets/delete.png) button in the title bar.
+* When viewing the promotion's details, click the Delete ![](../../../.gitbook/assets/delete.png) button in the [title bar.](../../../misc/glossary.md#title-bar)
 
 {% hint style="info" %}
 You can only delete promotions that are currently running.

@@ -23,17 +23,17 @@ When viewing the tagged posts on your own profile, you can also remove tags from
 
 To remove yourself from posts you have been tagged in:
 
-* Use the Hide Photos… option under the actions ![](../../.gitbook/assets/settings.png) button that appears above the tagged posts on your profile. Make your selections, and confirm them by clicking the confirm ![](../../.gitbook/assets/accept.png) button in the title bar. You can cancel the selections using the ![](../../.gitbook/assets/decline.png) cancel button.
-* When viewing the [details](../detailview.md) of a post you are tagged in, use the Remove me from Photo/Video… option under the actions ![](../../.gitbook/assets/settings.png) button in the title bar.
-* When viewing the [details](../detailview.md) of a post you are tagged in, use the Remove me from Photo/Video… option in the Menu Bar.
+* Use the `Hide Photos…` option under the actions ![](../../.gitbook/assets/settings.png) button that appears above the tagged posts on your profile. Make your selections, and confirm them by clicking the confirm ![](../../.gitbook/assets/accept.png) button in the [title bar.](../../misc/glossary.md#title-bar) You can cancel the selections using the ![](../../.gitbook/assets/decline.png) cancel button.
+* When viewing the [details](../detailview.md) of a post you are tagged in, use the `Remove me from Photo/Video…` option under the actions ![](../../.gitbook/assets/settings.png) button in the [title bar.](../../misc/glossary.md#title-bar)
+* When viewing the [details](../detailview.md) of a post you are tagged in, use the `Remove me from Photo/Video…` option in the [Menu Bar.](../../misc/glossary.md#menu-bar)
 
 ### Changing Tagging Options
 
 If you would like to disable users from being able to tag you in photos:
 
-* Use the Tagging Options… option under the actions ![](../../.gitbook/assets/settings.png) button that appears above the tagged posts on your profile.
+* Use the `Tagging Options…` option under the actions ![](../../.gitbook/assets/settings.png) button that appears above the tagged posts on your profile.
 
-If set to "Add Manually", you will be notified in [Activity](../activity.md) when someone tags you in a photo, with the option to accept or remove the tag.
+If set to `Add Manually`, you will be notified in [Activity](../activity.md) when someone tags you in a photo, with the option to keep or remove the tag.
 
 ## Saved Posts
 
@@ -41,8 +41,8 @@ When viewing your own profile, an extra tab will appear, that allows you to view
 
 To view posts that you have saved:
 
-* Click the Saved ![](../../.gitbook/assets/saved.png) button in the title bar.
-* When viewing your [Profile](./), select the Saved… item under the [Settings](settings/) ![](../../.gitbook/assets/settings.png) button in the title bar.
+* Click the Saved ![](../../.gitbook/assets/saved.png) button in the [title bar.](../../misc/glossary.md#title-bar)
+* When viewing your [Profile](./), select the `Saved…` item under the [Settings](settings/) ![](../../.gitbook/assets/settings.png) button in the [title bar.](../../misc/glossary.md#title-bar)
 
 ## Archived Posts
 
@@ -50,16 +50,16 @@ When viewing your own profile, you can view all the posts you have archived. Onl
 
 To view posts that you have archived:
 
-* Click the Archived ![](../../.gitbook/assets/archived.png) button in the profile title bar.
+* Click the Archived ![](../../.gitbook/assets/archived.png) button in the profile [title bar.](../../misc/glossary.md#title-bar)
 
 To archive or unarchive a post:
 
-* Right click a post and choose the Archive Photo/Video or Show on Profile menu item.
-* When viewing the [details](../detailview.md) of one of your posts, use the Archive Photo/Video or Show on Profile option in the Menu Bar.
+* Right click a post and choose the `Archive Photo/Video` or `Show on Profile` menu item.
+* When viewing the [details](../detailview.md) of one of your posts, use the `Archive Photo/Video` or `Show on Profile option` in the [Menu Bar.](../../misc/glossary.md#menu-bar)
 
 ## Followers / Following
 
-To view the followers or followings of a profile, click the "Followers" or "Following" button. The current relationship status between you and each user is displayed, allowing you to quickly follow or unfollow users from other profiles.
+To view the followers or followings of a profile, click the `Followers` or `Following` button. The current relationship status between you and each user is displayed, allowing you to quickly follow or unfollow users from other profiles.
 
 To follow/unfollow a user:
 
@@ -73,7 +73,7 @@ If your profile is set to [private](privateprofiles.md), users that wish to foll
 * At the top of your [activity.](../activity.md)  ![](../../.gitbook/assets/profile-friend-requests-activity.png)
 * On the profile of user that sent the friend request, a banner will appear.  ![](../../.gitbook/assets/profile-friend-request.png)
 * The Profile tab in the Flume menu will show an indicator.  ![](../../.gitbook/assets/profile-friend-requests-menu.png)
-* The Dock icon will be badged \(see [Notifications Preferences](../../preferences/notifications.md)\)
+* The [Dock](../../misc/glossary.md#dock) icon will be badged \(see [Notifications Preferences](../../preferences/notifications.md)\)
 
 ### Responding to Friend Requests
 
@@ -120,5 +120,5 @@ To view a profile preview:
 
 To follow a user in a profile preview, click the Follow ![](../../.gitbook/assets/follow%20%281%29.png) button.
 
-To close a profile preview, press the ⎋ \(ESC\) key, or click outside of the preview.
+To close a profile preview, press the `⎋ (ESC)` key, or click outside of the preview.
 

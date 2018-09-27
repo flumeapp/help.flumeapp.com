@@ -4,7 +4,7 @@ The Activity tab shows you the latest notifications for your account. You can re
 
 ## You
 
-The You tab lists the latest notifications that relate to the current account. These include:
+The `You` tab lists the latest notifications that relate to the current account. These include:
 
 * Likes on your posts
 * New followers \(if not set to a [Private Profile](profile/privateprofiles.md)\)
@@ -22,7 +22,7 @@ Additionally, the following may display:
 
 ### Responding to Comments
 
-An additional feature exists when new comments are received on your posts, with quick actions to reply, report or delete comments, directly from the Activity tab.
+An additional feature exists when new comments are received on your posts, with quick actions to reply, report or delete comments, directly from the Activity view.
 
 To perform an action \(such as reply\) on a comment notification:
 
@@ -30,18 +30,18 @@ To perform an action \(such as reply\) on a comment notification:
 
 ### Filtering Activity
 
-By default, all notification types are displayed. To apply filters to the notifications, use the Filter option under the ![](../.gitbook/assets/settings.png) button in the title bar.
+By default, all notification types are displayed. To apply filters to the notifications, use the `Filter` option under the ![](../.gitbook/assets/settings.png) button in the [title bar.](../misc/glossary.md#title-bar)
 
 ### Hiding Activity
 
 To hide a specific activity notification:
 
-* Right-click on an activity notification and select Hide Activity from the contextual menu.
-* When selecting a activity notification using the [keyboard arrows](../misc/keyboard-shortcuts.md), use the Activity &gt; Hide Activity Menu Bar item.
+* Right-click on an activity notification and select `Hide Activity` from the [contextual menu.](../misc/glossary.md#contextual-menu)
+* When selecting a activity notification using the [keyboard arrows](../misc/keyboard-shortcuts.md), use the `Activity > Hide Activity` [Menu Bar](../misc/glossary.md#menu-bar) item.
 
 ## Following
 
-The Following tab lists the latest notifications that relate to activity made by users you follow. These include:
+The `Following` tab lists the latest notifications that relate to activity made by users you follow. These include:
 
 * When users you follow like other posts
 * When users you follow start following other users

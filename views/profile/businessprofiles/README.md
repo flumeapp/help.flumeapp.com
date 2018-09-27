@@ -20,7 +20,7 @@ Only businesses on Instagram should use Business Profiles. Additionally, to get 
 
 To switch to a Business Profile:
 
-1. When viewing your [Profile](../), select the `Switch to Business Profile…` item under the [Settings](../settings/) ![](../../../.gitbook/assets/settings.png) button in the title bar.
+1. When viewing your [Profile](../), select the `Switch to Business Profile…` item under the [Settings](../settings/) ![](../../../.gitbook/assets/settings.png) button in the [title bar.](../../../misc/glossary.md#title-bar)
 2. On the `Log-in With Facebook` screen, you'll see all of the Facebook Pages you're currently an admin on. Select the Page you'd like to associate with your Business Profile on Instagram. [Learn more about Page roles.](https://www.facebook.com/help/323502271070625)
 3. On the Set Up Your Business Profile page, review your business's contact information, make any changes and click Done.
 
@@ -32,7 +32,7 @@ Once you've linked a Facebook Page to your Business Profile, you'll only be able
 
 To switch a Business Profile back to a personal account:
 
-* When viewing your [Profile](../), select the `Switch Back to Personal Account…` item under the [Settings](../settings/) ![](../../../.gitbook/assets/settings.png) button in the title bar.
+* When viewing your [Profile](../), select the `Switch Back to Personal Account…` item under the [Settings](../settings/) ![](../../../.gitbook/assets/settings.png) button in the [title bar.](../../../misc/glossary.md#title-bar)
 
 {% hint style="info" %}
 You can convert your Business Profile on Instagram back to a personal account at any time although you will lose access to Business Profile features such as [Insights](insights.md) and [promoting posts.](promote.md)

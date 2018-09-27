@@ -15,7 +15,7 @@ Adding multiple accounts is a [Flume Pro](flumepro.md) feature.
 To switch between logged in accounts:
 
 * Select the account from the `Accounts` Menu Bar menu or use the corresponding [keyboard shortcut.](../misc/keyboard-shortcuts.md)
-* Long-press/click on your avatar in the Flume main menu.
+* Long-press/click on your avatar in the [Flume main menu.](menu/)
 * Click or long-press/click on your avatar on the [Upload](../views/upload.md) window.
 
 ## Removing an Account

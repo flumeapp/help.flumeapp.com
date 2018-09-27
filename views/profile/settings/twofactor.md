@@ -12,7 +12,7 @@ To protect your account, Flume provides full support for Instagram's [Two-Factor
 
 To enable/disable Two-Factor Authentication:
 
-* When viewing your [Profile](../), select the Two-Factor Authentication item under the [Settings](./) ![](../../../.gitbook/assets/settings.png) button in the title bar. Click the enable ![](../../../.gitbook/assets/active.png) button and follow the prompts to verify your phone number.
+* When viewing your [Profile](../), select the `Two-Factor Authentication` item under the [Settings](./) ![](../../../.gitbook/assets/settings.png) button in the [title bar.](../../../misc/glossary.md#title-bar) Click the enable ![](../../../.gitbook/assets/active.png) button and follow the prompts to verify your phone number.
 
 #### Request Backup Codes
 
@@ -20,5 +20,5 @@ If you are unable to access your phone, or receive SMS verification codes, you c
 
 To request your backup codes:
 
-* When viewing your [Profile](../), select the Two-Factor Authentication item under the [Settings](./) ![](../../../.gitbook/assets/settings.png) button in the title bar. Click Get Backup Codes to see your backup codes. These codes can be copied and pasted into a secure document.
+* When viewing your [Profile](../), select the `Two-Factor Authentication` item under the [Settings](./) ![](../../../.gitbook/assets/settings.png) button in the title bar. Click `Get Backup Codes` to see your backup codes. These codes can be copied and pasted into a secure document.
 

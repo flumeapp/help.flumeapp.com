@@ -16,13 +16,13 @@ The [IPTC Photo Metadata Standard](https://iptc.org/standards/photo-metadata/ipt
 
 ### Pre-fill "Description" as Caption
 
-If a "Description" tag is found in the photo's IPTC metadata, Flume will pre-fill the caption text of a new upload with this value.
+If a `Description` tag is found in the photo's IPTC metadata, Flume will pre-fill the caption text of a new upload with this value.
 
 ### Pre-fill "Keywords" as Hashtags
 
-If a "Keywords" tag is found in the photo's IPTC metadata, Flume will append the keywords at the end of the caption and prepend a \# character to turn the keywords into hashtags.
+If a `Keywords` tag is found in the photo's IPTC metadata, Flume will append the keywords at the end of the caption and prepend a \# character to turn the keywords into hashtags.
 
 ### Pre-fill "PersonInImage" as Mentions
 
-If a "PersonInImage" tag is found in the photo's IPTC metadata, Flume will append the name at the end of the caption and prepend a @ character to turn the text into an Instagram mention. Tagging the user in the photo automatically is not possible, as that requires prior knowledge of the Instagram username, and the desired tagging location in the photo.
+If a `PersonInImage` tag is found in the photo's IPTC metadata, Flume will append the name at the end of the caption and prepend a @ character to turn the text into an Instagram mention. Tagging the user in the photo automatically is not possible, as that requires prior knowledge of the Instagram username, and the desired tagging location in the photo.
 

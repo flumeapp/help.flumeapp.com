@@ -17,7 +17,7 @@ When viewing a [Profile](profile/), [Location](locations.md), or [Hashtag](hasht
 To toggle an item \([Profile](profile/), [Location](locations.md), or [Hashtag](hashtags.md)\) as a Bookmark, perform one of the following:
 
 * Click the bookmarks ![](../.gitbook/assets/bookmark.png) button in the title bar when viewing the details of a [Profile](profile/), [Location](locations.md), or [Hashtag.](hashtags.md)
-* Use the `View > Add / Remove "X" to Bookmarks` Menu Bar item.
+* Use the `View > Add / Remove "X" to Bookmarks` [Menu Bar](../misc/glossary.md#menu-bar) item.
 * When viewing your list of Bookmarks, click the ![](../.gitbook/assets/actions-dismiss.png) button.
 
 ### Sorting Search Bookmarks
@@ -26,7 +26,7 @@ By default, Bookmarks are sorted in Date Added order. To change the ordering, us
 
 ### Importing / Exporting Search Bookmarks
 
-To import or export your Bookmarks, use the `Import / Export Bookmarks…` option under the ![](../.gitbook/assets/settings.png) button in the title bar, or under the `File > Bookmarks` Menu Bar item.
+To import or export your Bookmarks, use the `Import / Export Bookmarks…` option under the ![](../.gitbook/assets/settings.png) button in the title bar, or under the `File > Bookmarks` `Menu Bar` item.
 
 ## Suggested Searches
 
@@ -37,7 +37,7 @@ We recommend you use Flume's [Bookmarks](search.md#bookmarks) feature to save co
 To remove a suggested search:
 
 * Click the delete ![](../.gitbook/assets/delete.png) button next to the suggested user, hashtag, or place you wish to remove.
-* Right-click on a suggested user, hashtag, or place and select Hide from the contextual menu.
+* Right-click on a suggested user, hashtag, or place and select `Hide` from the [contextual menu.](../misc/glossary.md#contextual-menu)
 
 ## Recent Searches
 

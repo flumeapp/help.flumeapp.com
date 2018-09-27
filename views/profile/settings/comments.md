@@ -10,7 +10,7 @@ The Comments view allows you to hide comments automatically and set keywords to 
 
 To view your current comments settings:
 
-* When viewing your [Profile](../), select the Comments… item under the [Settings](./) ![](../../../.gitbook/assets/settings.png) button in the title bar.
+* When viewing your [Profile](../), select the `Comments…` item under the [Settings](./) ![](../../../.gitbook/assets/settings.png) button in the [title bar.](../../../misc/glossary.md#title-bar)
 
 #### Enabling / Disabling Comments on Posts
 

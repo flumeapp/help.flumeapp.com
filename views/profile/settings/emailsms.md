@@ -8,5 +8,5 @@
 
 To adjust your Email and SMS notification settings:
 
-* When viewing your [Profile](../), select the Email and SMS Notification Settings item under the [Settings](./) ![](../../../.gitbook/assets/settings.png) button in the title bar.
+* When viewing your [Profile](../), select the `Email and SMS Notification Settings` item under the [Settings](./) ![](../../../.gitbook/assets/settings.png) button in the title bar.
 

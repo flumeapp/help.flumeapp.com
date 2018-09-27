@@ -15,8 +15,8 @@ The Feed, as well as your [Likes](likes.md) and [Profiles](profile/) can be view
 To adjust your viewing mode preference, you can use:
 
 * The View-Mode Switcher in the title bar. If the title bar is not visible, hover near the top of the main Flume window and it will appear. You can adjust your [Design Preferences](../preferences/design.md#always-show-the-title-bar) to have the title bar appear at all times.
-* The Menu Bar under View &gt; Column/Grid View.
-* The [keyboard shortcuts](../misc/keyboard-shortcuts.md) ⌥⌘1 or ⌥⌘2.
+* The [Menu Bar](../misc/glossary.md#menu-bar) under `View > Column/Grid` View.
+* The [keyboard shortcuts](../misc/keyboard-shortcuts.md) `⌥⌘1` or `⌥⌘2`.
 * The View-Mode Switcher in the [Touch Bar.](../misc/touchbar.md)
 
 ### Column-View Media Details

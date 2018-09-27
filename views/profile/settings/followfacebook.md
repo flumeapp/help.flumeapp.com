@@ -8,7 +8,7 @@ If you [link](linkedaccounts.md) your account with Facebook, you can follow your
 
 To follow your Facebook friends on Instagram:
 
-* When viewing your [Profile](../), select the Follow Facebook Friends… item under the [Settings](./) ![](../../../.gitbook/assets/settings.png) button in the title bar.
+* When viewing your [Profile](../), select the `Follow Facebook Friends…` item under the [Settings](./) ![](../../../.gitbook/assets/settings.png) button in the [title bar.](../../../misc/glossary.md#title-bar)
 
 If your account is not linked to Facebook, a Facebook login window will appear.
 

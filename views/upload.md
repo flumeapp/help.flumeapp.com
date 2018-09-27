@@ -15,11 +15,11 @@ Photos and videos must fit within certain [specifications](../misc/upload-specif
 To begin creating a new post:
 
 * Click the upload ![](../.gitbook/assets/uploadicon%20%281%29.png) button in [Flume's toolbar menu.](../preferences/design.md#show-the-menu)  ![](../.gitbook/assets/menu.png)
-* Use the `File > New Post…` Menu Bar item.
-* Use the `View > Upload` Menu Bar item.
+* Use the `File > New Post…` [Menu Bar](../misc/glossary.md#menu-bar) item.
+* Use the `View > Upload` [Menu Bar](../misc/glossary.md#menu-bar) item.
 * Tap the upload ![](../.gitbook/assets/uploadicon.png) button in the [Touch Bar.](../misc/touchbar.md)
-* Right-click on Flume's Dock icon and select the `Upload` item.
-* Drag a photo/video directly onto Flume's Dock icon.
+* Right-click on Flume's [Dock](../misc/glossary.md#dock) icon and select the `Upload` item.
+* Drag a photo/video directly onto Flume's [Dock](../misc/glossary.md#dock) icon.
 * Right-click a photo or video in Finder and select the `Open with… > Flume` menu item.
 
 ## Drafts
@@ -39,7 +39,7 @@ Flume has support for drafts through its own `.flume` document type. Drafts save
 
 To create/save a draft:
 
-* After selecting your photo/video and making all necessary edits, close the upload window, or use the `File > Save Draft…` Menu Bar item. A save dialog will appear to select a save location and filename.
+* After selecting your photo/video and making all necessary edits, close the upload window, or use the `File > Save Draft…` [Menu Bar](../misc/glossary.md#menu-bar) item. A save dialog will appear to select a save location and filename.
 
 {% hint style="info" %}
 If you make edits to a previously opened draft, changes will be saved to the same draft file and no save dialog will appear.
@@ -50,9 +50,9 @@ If you make edits to a previously opened draft, changes will be saved to the sam
 To open a draft:
 
 * Open the draft file in Finder.
-* Drag-and-drop the draft onto Flume's Dock icon.
+* Drag-and-drop the draft onto Flume's [Dock](../misc/glossary.md#dock) icon.
 * Drag-and-drop the draft onto an Upload window.
-* Use the `File > Open Draft…` Menu Bar item.
+* Use the `File > Open Draft…` [Menu Bar](../misc/glossary.md#menu-bar) item.
 
 ### Previewing Drafts
 
@@ -74,7 +74,7 @@ To create a Carousel Post directly:
 
 * Select more than one photo/video in the macOS open panel that appears after choosing `Select Photo/Video/Draft…` in the Upload window.
 * Drag more than one photo/video directly onto an empty Upload window.
-* Drag more than one photo/video \(or a folder\) directly onto Flume's Dock icon.
+* Drag more than one photo/video \(or a folder\) directly onto Flume's [Dock](../misc/glossary.md#dock) icon.
 * Right-click more than one photo/video in Finder and select the `Open with… > Flume` menu item.
 
 ### Converting Single Posts to Carousel Posts
@@ -82,7 +82,7 @@ To create a Carousel Post directly:
 To toggle between an individual and Carousel Post:
 
 * Click the carousel ![](../.gitbook/assets/carousel%20%281%29.png) button.
-* Use the `Upload > Toggle Carousel Post` Menu Bar item.
+* Use the `Upload > Toggle Carousel Post` [Menu Bar](../misc/glossary.md#menu-bar) item.
 * Tap the carousel ![](../.gitbook/assets/carousel.png) button in the [Touch Bar.](../misc/touchbar.md)
 
 ## Editing
@@ -102,7 +102,7 @@ The Scale adjustment is only available on photos.
 To edit a selected photo or video:
 
 * Click the edit ![](../.gitbook/assets/edit%20%281%29.png) button.
-* Use the `Upload > Toggle Edit Options` Menu Bar item.
+* Use the `Upload > Toggle Edit Options` [Menu Bar](../misc/glossary.md#menu-bar) item.
 * Tap the edit ![](../.gitbook/assets/edit.png) button in the [Touch Bar.](../misc/touchbar.md)
 
 #### Previewing Edits
@@ -118,7 +118,7 @@ To apply a filter to a photo or video:
 
 * Click on the filter preview.
 * Tap on the filter preview in the [Touch Bar.](../misc/touchbar.md)
-* Use the ← \(LEFT\) and → \(RIGHT\) [keyboard arrows.](../misc/keyboard-shortcuts.md)
+* Use the `←` \(LEFT\) and `→` \(RIGHT\) [keyboard arrows.](../misc/keyboard-shortcuts.md)
 
 After selecting a filter, you can adjust the its intensity \(default 100%\).
 
@@ -131,11 +131,11 @@ You can reorder and enable Flume's exclusive filters via [Upload Preferences.](.
 To make adjustments to a photo or video:
 
 * Click and drag the respective slider to set a new value.
-* Use the ↑ \(UP\) and ↓ \(DOWN\) [keyboard arrows](../misc/keyboard-shortcuts.md) to move between adjustments, and ← \(LEFT\) and → \(RIGHT\) to set their value.
+* Use the `↑` \(UP\) and `↓` \(DOWN\) [keyboard arrows](../misc/keyboard-shortcuts.md) to move between adjustments, and `←` \(LEFT\) and `→` \(RIGHT\) to set their value.
 
 The Color adjustment requires you to first select a color to apply as an overall tint to the photo or video.
 
-The Tilt Shift adjustment requires you to set the two focal points. Click the Adjust button and follow the prompts to set the points on the photo or video.
+The Tilt Shift adjustment requires you to set the two focal points. Click the `Adjust` button and follow the prompts to set the points on the photo or video.
 
 #### Resetting Adjustments
 
@@ -221,7 +221,7 @@ When uploading a video, you can choose a custom cover image that will be used to
 To set a cover image:
 
 * Click the cover image ![](../.gitbook/assets/coverimage.png) button.
-* Use the `Upload > Select a Cover Image…` Menu Bar item.
+* Use the `Upload > Select a Cover Image…` [Menu Bar](../misc/glossary.md#menu-bar) item.
 * Tap the cover image ![](../.gitbook/assets/coverimage%20%281%29.png) button in the [Touch Bar.](../misc/touchbar.md)
 
 Use the video scrubber in the cover image view or [Touch Bar](../misc/touchbar.md) to select a position in the video as the cover image.
@@ -245,13 +245,13 @@ When you select a photo to upload that exceeds the [aspect ratio requirements](.
 To crop a photo:
 
 * Click the crop ![](../.gitbook/assets/crop%20%282%29.png) button.
-* Use the `Upload > Crop…` Menu Bar item.
+* Use the `Upload > Crop…` [Menu Bar](../misc/glossary.md#menu-bar) item.
 * Tap the crop ![](../.gitbook/assets/crop%20%281%29.png) button in the [Touch Bar.](../misc/touchbar.md)
 
 Click-and-drag the resize handles to adjust the cropping region, and click-and-drag the rectangle to adjust the cropping position.
 
 {% hint style="info" %}
-You can toggle between forcing a square or freeform cropping region by clicking the the 1:1 button.
+You can toggle between forcing a square or freeform cropping region by clicking the the `1:1` button.
 {% endhint %}
 
 #### Resizing Photos
@@ -259,12 +259,12 @@ You can toggle between forcing a square or freeform cropping region by clicking 
 To resize a photo back to its original dimensions:
 
 * Click the resize ![](../.gitbook/assets/resize%20%282%29.png) button.
-* Use the `Upload > Resize to Original` Menu Bar item.
+* Use the `Upload > Resize to Original` [Menu Bar](../misc/glossary.md#menu-bar) item.
 * Tap the resize ![](../.gitbook/assets/resize%20%283%29.png) button in the [Touch Bar.](../misc/touchbar.md)
 
 #### Resizing Photos to Fit
 
-If your selected photo exceeds the [aspect ratio requirements](../misc/upload-specifications.md), you can use the Resize to Fit option to resize the entire photo to fit inside a square, with the ability to also choose a custom border color.
+If your selected photo exceeds the [aspect ratio requirements](../misc/upload-specifications.md), you can use the `Resize to Fit` option to resize the entire photo to fit inside a square, with the ability to also choose a custom border color.
 
 This ensures your landscape or portrait photos will not be cropped.
 
@@ -287,13 +287,13 @@ It is not currently possible to resize videos to fit, [unlike photos.](upload.md
 To crop a video:
 
 * Click the crop ![](../.gitbook/assets/crop.png) button.
-* Use the `Upload > Crop…` Menu Bar item.
+* Use the `Upload > Crop…` [Menu Bar](../misc/glossary.md#menu-bar) item.
 * Tap the crop ![](../.gitbook/assets/crop%20%283%29.png) button in the [Touch Bar.](../misc/touchbar.md)
 
 Click-and-drag the resize handles to adjust the cropping region, and click-and-drag the rectangle to adjust the cropping position.
 
 {% hint style="info" %}
-If you wish to constrain the cropping region to 1:1 aspect ratio, hold down the SHIFT key while click-and-dragging.
+You can toggle between forcing a square or freeform cropping region by clicking the the `1:1` button.
 {% endhint %}
 
 #### Resizing Videos
@@ -301,7 +301,7 @@ If you wish to constrain the cropping region to 1:1 aspect ratio, hold down the 
 To resize a video back to its original dimensions:
 
 * Click the resize ![](../.gitbook/assets/resize%20%281%29.png) button.
-* Use the `Upload > Resize to Original` Menu Bar item.
+* Use the `Upload > Resize to Original` [Menu Bar](../misc/glossary.md#menu-bar) item.
 * Tap the resize ![](../.gitbook/assets/resize.png) button in the [Touch Bar.](../misc/touchbar.md)
 
 ## Sharing
@@ -311,7 +311,7 @@ To resize a video back to its original dimensions:
 To share a post to your [Favorites](profile/favorites.md) / close friends:
 
 * Click the Share to Favorites ![](../.gitbook/assets/sharefavorites.png) button.
-* Use the `Upload > Share > Share to Favorites` Menu Bar item.
+* Use the `Upload > Share > Share to Favorites` [Menu Bar](../misc/glossary.md#menu-bar) item.
 
 {% hint style="info" %}
 If you enable sharing to your Favorites, [sharing to a Linked Account](upload.md#sharing-to-linked-accounts) is disabled.
@@ -323,8 +323,8 @@ Sharing allows you to cross-post your upload to a [linked account.](profile/sett
 
 To share a post to a linked account:
 
-* Click the Share ![](../.gitbook/assets/share.png) button.
-* Use the `Upload > Share > Linked Account` Menu Bar item.
+* Click the `Share` ![](../.gitbook/assets/share.png) button.
+* Use the `Upload > Share > Linked Account` [Menu Bar](../misc/glossary.md#menu-bar) item.
 
 Choose at least one social network to share to.
 
@@ -336,7 +336,7 @@ You can also save your sharing options, so that the previously enabled options a
 
 To adjust advanced settings on your post:
 
-* Click the Settings ![](../.gitbook/assets/settings.png) button.
+* Click the `Settings` ![](../.gitbook/assets/settings.png) button.
 
 {% hint style="info" %}
 You can also [disable comments after posting.](detailview.md#enabling--disabling-comments)
@@ -347,7 +347,7 @@ You can also [disable comments after posting.](detailview.md#enabling--disabling
 To switch the account to post with:
 
 * Click on the profile picture and select an account.
-* Use the `Accounts` Menu Bar item.
+* Use the `Accounts` `Menu Bar` item.
 
 ## Export Edits
 
@@ -356,7 +356,7 @@ If you are a [Flume Pro](../preferences/flumepro.md) user, you can use Flume to 
 To export your edited items:
 
 * Click on the actions ![](../.gitbook/assets/actions-menu.png) button in the titlebar area of the Upload window, and select the `Export Edits…` menu item.
-* Use the `Upload > Export Edits…` Menu Bar item.
+* Use the `Upload > Export Edits…` [Menu Bar](../misc/glossary.md#menu-bar) item.
 
 A dialog will appear asking you to choose the location to export your items.
 
@@ -367,5 +367,5 @@ If you need to post some items in a series, such as 3 photos in a row with the s
 To sync all upload windows:
 
 * Click on the actions ![](../.gitbook/assets/actions-menu.png) button in the titlebar area of the Upload window, and select the `Sync All Upload Windows…` menu item.
-* Use the `Upload > Sync All Upload Windows…` Menu Bar item.
+* Use the `Upload > Sync All Upload Windows…` [Menu Bar](../misc/glossary.md#menu-bar) item.
 

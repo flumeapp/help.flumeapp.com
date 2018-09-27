@@ -13,6 +13,8 @@ The large preview window can be moved to any screen and position, and is saved f
 To view a large preview:
 
 * Long-press on any post, [shared photo or video](conversations/messages.md), or [activity](activity.md) preview.
-* Use the Post &gt; Large Preview Menu Bar item when selecting a post via the [keyboard arrows](../misc/keyboard-shortcuts.md) or viewing the [details](detailview.md) of a post.
-* When hovering your mouse cursor over a post, use the Spacebar [Hover Shortcut.](../misc/hover-shortcuts.md)
+* Use the `Post > Large Preview` [Menu Bar](../misc/glossary.md#menu-bar) item when selecting a post via the [keyboard arrows](../misc/keyboard-shortcuts.md) or viewing the [details](detailview.md) of a post.
+* When hovering your mouse cursor over a post, use the `Spacebar` [Hover Shortcut.](../misc/hover-shortcuts.md)
+
+
 

@@ -26,6 +26,8 @@ Customize the action that will occur when clicking on posts in the [Feed.](https
 
 | Option | Explanation |
 | :--- | :--- |
-| Shows Detail | Clicking on a post will display the [Detail View](../../views/detailview.md) with more details such as the comments, likes and user tags \(_default_\). |
-| Shows Author | Clicking on a post will "push" you to see the author's [Profile.](../../views/profile/) |
+| `Shows Detail` | Clicking on a post will display the [Detail View](../../views/detailview.md) with more details such as the comments, likes and user tags \(_default_\). |
+| `Shows Author` | Clicking on a post will "push" you to see the author's [Profile.](../../views/profile/) |
+
+
 
