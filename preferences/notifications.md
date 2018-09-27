@@ -1,5 +1,7 @@
 # Notifications Preferences
 
+![](../.gitbook/assets/notifications.png)
+
 ## Push Notification Mode
 
 Flume can receive Push Notification from Instagram so that you're alerted instantly to new activity. These behave identically to Push Notifications that you receive on your mobile devices.

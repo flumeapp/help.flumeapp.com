@@ -1,5 +1,7 @@
 # Hidden Users
 
+![](../../.gitbook/assets/feed-hiddenusers.png)
+
 Flume has the unique ability to hide users posts from your [Feed](../../views/feed.md), without specifically unfollowing that user. The feature essentially allows you to temporarily \(or permanently\) mute a user that you follow, for instance if they post too regularly.
 
 ## Adding a Hidden User

@@ -1,5 +1,7 @@
 # Accounts Preferences
 
+![](../.gitbook/assets/accounts.png)
+
 ## Adding an Account ![](../.gitbook/assets/pro.png)
 
 To add an additional account, click on the ![](../.gitbook/assets/add.png) button.

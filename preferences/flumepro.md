@@ -1,5 +1,7 @@
 # Flume Pro Preferences
 
+![](../.gitbook/assets/flume-pro.png)
+
 Flume Pro is a one-time in-app purchase, our way of sustaining the development of Flume. You can read more about the introduction of Flume Pro on our [blog.](http://blog.flumeapp.com/post/145212126271/introducing-flume-20-and-flume-pro)
 
 {% hint style="warning" %}
@@ -49,7 +51,7 @@ To activate your Flume Pro licence manually:
 2. Click on the `Flume Pro` tab \(if not selected\).
 3. Click the `Enter Licence Code…` button.
 4. Enter your licence code that you received via email.  ![](../.gitbook/assets/flume-pro-enter-licence.png)
-5. Click `Verify`. If your licence has not exhausted all its activations, your name and email address will appear.  ![](../.gitbook/assets/flume-pro-verify.png)
+5. Click `Verify`. If your licence has not exhausted all its activations, your name and email address will appear.  ![](../.gitbook/assets/flume-pro-verify%20%281%29.png)
 6. Click `Activate`  ![](../.gitbook/assets/flume-pro-activated.png)
 
 ## Deactivating Flume Pro
@@ -74,6 +76,8 @@ To manually open the Licence Migrator Tool:
 
 1. Click on the ![](../.gitbook/assets/pro%20%284%29.png) button in the [Menu Bar](../misc/glossary.md#menu-bar) and select `Migrate Mac App Store Purchase`
 2. Drag the App Store version of Flume onto the Licence Migrator Tool window and follow the prompts.
+
+![](../.gitbook/assets/flume-pro-migrate.png)
 
 ## Need Help?
 

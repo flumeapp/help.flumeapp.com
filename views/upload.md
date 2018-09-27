@@ -2,6 +2,8 @@
 
 The Upload window allows you upload photos and videos, write captions, tag users, set cover frames, crop and resize, share to [linked accounts](profile/settings/linkedaccounts.md) and much more.
 
+![](../.gitbook/assets/upload.png)
+
 {% hint style="info" %}
 Uploading is a [Flume Pro](../preferences/flumepro.md) feature.
 {% endhint %}
@@ -88,6 +90,8 @@ To toggle between an individual and Carousel Post:
 ## Editing
 
 You can apply filters and make adjustments to your photos and videos easily right inside Flume.
+
+![](../.gitbook/assets/upload-edit.png)
 
 {% hint style="warning" %}
 Video filters and adjustments are not available on macOS Yosemite 10.10
@@ -188,6 +192,8 @@ To reposition a tagged user:
 
 You can tag your photo and video at a location that displays in the [Details View](detailview.md) and links to the [recent media tagged at that location.](locations.md)
 
+![](../.gitbook/assets/edit-location.png)
+
 ### Adding Tagged Locations
 
 To add a location on a photo or video:
@@ -218,6 +224,8 @@ To remove an existing location on a photo or video:
 
 When uploading a video, you can choose a custom cover image that will be used to represent your video's thumbnail image.
 
+![](../.gitbook/assets/upload-cover-image.png)
+
 To set a cover image:
 
 * Click the cover image ![](../.gitbook/assets/coverimage.png) button.
@@ -239,6 +247,8 @@ When you select a photo to upload that exceeds the [aspect ratio requirements](.
 * Scroll the photo's cropping region to a desired area using your mouse/trackpad. The region of the photo not visible will be cropped from the upload.
 * [Crop a region of the photo](upload.md#cropping-photos) so that it falls within the aspect ratio requirements.
 * [Resizing the photo to fit into a square](upload.md#resizing-photos-to-fit), with an optional custom border colour.
+
+![](../.gitbook/assets/upload-cropping.png)
 
 #### Cropping Photos
 
@@ -267,6 +277,8 @@ To resize a photo back to its original dimensions:
 If your selected photo exceeds the [aspect ratio requirements](../misc/upload-specifications.md), you can use the `Resize to Fit` option to resize the entire photo to fit inside a square, with the ability to also choose a custom border color.
 
 This ensures your landscape or portrait photos will not be cropped.
+
+![](../.gitbook/assets/upload-cropping-resizetofit.png)
 
 ### Videos
 
