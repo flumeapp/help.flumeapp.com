@@ -1,7 +1,5 @@
 # Order
 
-## Order
-
 ### Toggling Menu Items
 
 To enable or disable a menu item, click on any ![](../../.gitbook/assets/active.png) button.

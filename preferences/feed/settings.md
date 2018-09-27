@@ -1,7 +1,5 @@
 # Settings
 
-## Settings
-
 ## Automatically Refresh
 
 Choose a refresh interval to automatically refresh your [Feed](../../views/feed.md), [Activity](../../views/activity.md), [Conversations](../../views/conversations/) and [Notifications](../notifications.md) badge when Flume is open. Note that the Flume window does not need to be visible, but you must be [logged in](../../views/login.md) to an account.

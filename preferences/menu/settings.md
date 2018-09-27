@@ -1,7 +1,5 @@
 # Settings
 
-## Settings
-
 ## Show the Menu
 
 | Option | Explanation |

@@ -1,7 +1,5 @@
 # Filters
 
-## Filters
-
 ### Enabling Filters
 
 To enable or disable a filter, click on any ![](../../.gitbook/assets/active.png) button.

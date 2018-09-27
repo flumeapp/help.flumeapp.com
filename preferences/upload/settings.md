@@ -1,7 +1,5 @@
 # Settings
 
-## Settings
-
 ### Photo Quality Level
 
 Depending on the type of content you post to Instagram, you can speed up upload and download times by adjusting the image compression levels that are applied to your photos prior to upload.
@@ -24,5 +22,5 @@ If a `Keywords` tag is found in the photo's IPTC metadata, Flume will append the
 
 ### Pre-fill "PersonInImage" as Mentions
 
-If a `PersonInImage` tag is found in the photo's IPTC metadata, Flume will append the name at the end of the caption and prepend a @ character to turn the text into an Instagram mention. Tagging the user in the photo automatically is not possible, as that requires prior knowledge of the Instagram username, and the desired tagging location in the photo.
+If a `PersonInImage` tag is found in the photo's IPTC metadata, Flume will append the name at the end of the caption and prepend a `@` character to turn the text into an Instagram mention. Tagging the user in the photo automatically is not possible, as that requires prior knowledge of the Instagram username, and the desired tagging location in the photo. 
 

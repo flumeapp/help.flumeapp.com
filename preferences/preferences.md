@@ -1,6 +1,8 @@
 # Accessing Preferences
 
-To access Flume's Preferences, use the macOS standard `⌘,` keyboard shortcut, or access it from the [Menu Bar](../misc/glossary.md#menu-bar) under `Flume > Preferences…`.
+To access Flume's Preferences, use the macOS standard `⌘,` keyboard shortcut, or access it from the [Menu Bar](../misc/glossary.md#menu-bar) under `Flume > Preferences…`
+
+![](../.gitbook/assets/preferences-macos.png)
 
 You can also access Flume's Preferences through an additional shortcut under your [Profile's](https://github.com/flumeapp/help.flumeapp.com/tree/1577f0ffdac2f11d862e55096c48747d3c60ea48/views/profile/README.md) Settings menu \(accessed via the ![](../.gitbook/assets/settings%20%281%29.png) button in the [title bar](../misc/glossary.md#title-bar)\).
 
@@ -8,5 +10,5 @@ You can also access Flume's Preferences through an additional shortcut under you
 If you have set Flume to [display its icon in the Menu Bar only](general.md#show-icon-in), you will not see Flume's [Menu Bar](../misc/glossary.md#menu-bar) menu at all \(by macOS design\). To access preferences, right-click the Flume icon in your [Menu Bar](../misc/glossary.md#menu-bar) and choose the `Preferences…` menu item.
 {% endhint %}
 
-
+![](../.gitbook/assets/preferences-profile.png)
 
