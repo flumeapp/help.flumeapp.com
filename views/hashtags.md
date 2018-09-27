@@ -2,6 +2,8 @@
 
 The hashtags view displays all recent media [tagged with a hashtag in the caption.](upload.md#hashtags)
 
+![](../.gitbook/assets/hashtag.png)
+
 ## Viewing Related Hashtags
 
 To view hashtags related to the currently viewed hashtag:
@@ -28,6 +30,8 @@ To toggle a hashtag as a Search Bookmark:
 ## Hashtag Previews
 
 Hashtag previews are a way to quickly inspect the recent media tagged with that hashtag and [bookmarking](hashtags.md#adding--removing-hashtag-bookmarks) them without leaving your current view. These are similar to the long-press actions or 3D Touch behaviours found on the mobile Instagram apps.
+
+![](../.gitbook/assets/hashtag-preview.png)
 
 To view a hashtag preview:
 

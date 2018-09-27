@@ -2,6 +2,8 @@
 
 The Large Preview window allows you to zoom in on posts quickly and at their original size.
 
+![](../.gitbook/assets/large-preview.png)
+
 {% hint style="info" %}
 If the photo or video is too large to fit on your display, it is scaled to fit appropriately.
 

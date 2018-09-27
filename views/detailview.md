@@ -2,6 +2,8 @@
 
 The Details View allows you view all information related to a post, including its caption, comments, likes, tagged location, tagged users and more.
 
+![](../.gitbook/assets/detail-view.png)
+
 ## Carousel Posts
 
 [Carousel posts](https://help.instagram.com/269314186824048) are multiple photos and videos \(up to 10\) combined into a single post.
@@ -38,6 +40,8 @@ To write a new comment:
 * Click the comment ![](../.gitbook/assets/comment%20%282%29.png) button in the [title bar.](../misc/glossary.md#title-bar)
 * Tap the comment ![](../.gitbook/assets/comment%20%281%29.png) button in the [Touch Bar.](../misc/touchbar.md)
 * Use the `Post > Comment on Photo/Video…` [Menu Bar](../misc/glossary.md#menu-bar) item.
+
+![](../.gitbook/assets/comment-compose.png)
 
 The comment compose area will appear ready for you to write a comment. To send your comment, press `↩ ENTER/RETURN` or click the send ![](../.gitbook/assets/send.png) button.
 
@@ -131,6 +135,8 @@ To view the latest likes on a post:
 * Click the `Likes` tab
 * Press the `⇥ (TAB)` [keyboard shortcut.](../misc/keyboard-shortcuts.md)
 
+![](../.gitbook/assets/detail-view-likes%20%281%29.png)
+
 {% hint style="info" %}
 A maximum of the latest 999 likers are displayed.
 {% endhint %}
@@ -171,6 +177,8 @@ When viewing the Details View from the [Feed](feed.md), [Likes](likes.md) or [Ex
 
 * Click the previous ![](../.gitbook/assets/item-previous.png) or next ![](../.gitbook/assets/item-next.png) button in the [title bar.](../misc/glossary.md#title-bar)
 * Use the `⌘{` or `⌘}` [keyboard shortcuts.](../misc/keyboard-shortcuts.md)
+
+![](../.gitbook/assets/detail-view-navigation.gif)
 
 
 

@@ -2,6 +2,8 @@
 
 The Reposting feature allows you to [upload](upload.md) existing posts \(from you or other profiles\) by ensuring the original source is attributed.
 
+![](../.gitbook/assets/reposting.png)
+
 {% hint style="info" %}
 Please respect author's copyrights. See [Instagram's Help](https://help.instagram.com/126382350847838) for more information regarding copyright.
 {% endhint %}

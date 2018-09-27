@@ -2,6 +2,8 @@
 
 The Sharing window allows you to share your posts to a [linked account](profile/settings/linkedaccounts.md). If you want to share a post in a message, use the [sharing feature of conversations.](conversations/messages.md#sharing-posts)
 
+![](../.gitbook/assets/sharing.png)
+
 ## Sharing Posts
 
 To share a post:

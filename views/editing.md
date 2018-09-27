@@ -2,6 +2,8 @@
 
 The Editing window allows you edit information about a previous post. The user tags \(photos-only\), location and caption can be edited at any time. If you're looking to [make edits to a photo or video](upload.md#editing), you'll need to do that when uploading.
 
+![](../.gitbook/assets/editing.png)
+
 ## Editing Posts
 
 To edit a post:
@@ -59,6 +61,8 @@ To add a location on a photo or video:
 1. Click the `Add Location` button, or tap the location ![](../.gitbook/assets/location-add.png) button in the [Touch Bar.](../misc/touchbar.md)
 2. Type to search for the location to tag, or click the Nearby Places ![](../.gitbook/assets/nearbyplaces.png) button to search locations close to your current position.
 3. Select a location from the search results. If no search results could be found, the results popover will disappear.
+
+![](../.gitbook/assets/edit-location%20%281%29.png)
 
 {% hint style="info" %}
 If the photo or video contains [geotag](https://en.wikipedia.org/wiki/Geotagging) location information, Flume will automatically search for the GPS coordinates where the photo or video was taken. You cannot tag exact GPS coordinates on Instagram, and all tagged locations must exist as Facebook Places. To add new locations, see [Instagram's Help Center.](https://help.instagram.com/1618893218361276)

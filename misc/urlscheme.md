@@ -2,7 +2,7 @@
 
 Flume uses the `flumeapp://` URL scheme, which allows you to create links to jump directly to various areas of the application. Like with all macOS URL schemes, the links will also open Flume if it is not currently open.
 
-Additionally, all the shortcuts below can be opened via a HTTP link to our website \(eg. [https://flumeapp.com/?redirect=pro](https://flumeapp.com/?redirect=pro)\)
+Additionally, all the shortcuts below can be opened via a HTTP link to our website \(eg. [`https://flumeapp.com/?redirect=pro`](https://flumeapp.com/?redirect=pro)\)
 
 {% hint style="info" %}
 If you are a Flume Beta user, substitute `flumeapp://` with `flumeapp-beta://` for all links. There is currently no ability to use the HTTP redirect shortcut to open Flume Beta.

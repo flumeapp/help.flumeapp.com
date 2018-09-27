@@ -2,6 +2,8 @@
 
 The Locations view displays all recent media [tagged at a location.](upload.md#locations)
 
+![](../.gitbook/assets/location.png)
+
 ## Sharing a Location
 
 To share a location:
@@ -28,6 +30,8 @@ To toggle a location as a Search Bookmark:
 ## Location Previews
 
 Location previews are a way to quickly inspect the recent media tagged at a location and [bookmarking](locations.md#adding--removing-location-bookmarks) them without leaving your current view. These are similar to the long-press actions or 3D Touch behaviours found on the mobile Instagram apps.
+
+![](../.gitbook/assets/location-preview.png)
 
 To view a location preview:
 
