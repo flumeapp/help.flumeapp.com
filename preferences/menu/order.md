@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/menu-order.png)
 
-### Toggling Menu Items
+## Toggling Menu Items
 
 To enable or disable a menu item, click on any ![](../../.gitbook/assets/active.png) button.
 
@@ -12,7 +12,7 @@ Disabled menu items are also hidden in the [Touch Bar](../../misc/touchbar.md) m
 The Upload menu item cannot be disabled or moved and will always remain visible and in the first position.
 {% endhint %}
 
-### Reordering Menu Items
+## Reordering Menu Items
 
 To adjust the order of the menu items, click-and-drag to rearrange.
 

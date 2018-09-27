@@ -8,9 +8,9 @@ The Conversation Messages view lists all the messages and activity in a specific
 
 See [Creating Conversations](list.md#creating-conversations) for creating a new conversation.
 
-## Sharing Posts / Profiles / Locations / Hashtags
+## Sharing
 
-### Sharing Posts
+### Posts
 
 To share a post with a new or existing conversation:
 
@@ -18,28 +18,28 @@ To share a post with a new or existing conversation:
 * Right-click a post, then select `Share > Send to…` from the [contextual menu.](../../misc/glossary.md#contextual-menu)
 * Use the `Post > Share > Send to…` [Menu Bar](../../misc/glossary.md#menu-bar) item when selecting a post via the [keyboard arrows](../../misc/keyboard-shortcuts.md) or viewing the [details](../detailview.md) of a post.
 
-### Sharing Profiles
+### Profiles
 
 To share a [profile](../profile/) with a new or existing conversation:
 
 * When viewing the [Profile](../profile/) of a user, use the `Send to…` option under the `Share` ![](../../.gitbook/assets/share.png) button in the [title bar.](../../misc/glossary.md#title-bar)
 * When viewing the [Profile](../profile/) of a user, use the `User > Share > Send to…` [Menu Bar](../../misc/glossary.md#menu-bar) item.
 
-### Sharing Locations
+### Locations
 
 To share a [location](../locations.md) with a new or existing conversation:
 
 * When viewing the location's feed, use the `Send to…` option under the `Share` ![](../../.gitbook/assets/share%20%281%29.png) button in the [title bar.](../../misc/glossary.md#title-bar)
 * When viewing the location's feed, use the `Location > Share > Send to…` [Menu Bar](../../misc/glossary.md#menu-bar) item.
 
-### Sharing Hashtags
+### Hashtags
 
 To share a [hashtag](../hashtags.md) with a new or existing conversation:
 
 * When viewing the hashtag's feed, use the `Send to…` option under the `Share` ![](../../.gitbook/assets/share%20%282%29.png) button in the [title bar.](../../misc/glossary.md#title-bar)
 * When viewing the hashtag's feed, use the `Hashtag > Share > Send to…` [Menu Bar](../../misc/glossary.md#menu-bar) item.
 
-## Sharing Photos / Videos
+### Photos / Videos
 
 It is possible to share photos and videos privately in a one-on-one or group conversation. These shared items are only visible to members of the conversation and are not posted to your Profile.
 

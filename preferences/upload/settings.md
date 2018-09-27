@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/upload-settings.png)
 
-### Photo Quality Level
+## Photo Quality Level
 
 Depending on the type of content you post to Instagram, you can speed up upload and download times by adjusting the image compression levels that are applied to your photos prior to upload.
 

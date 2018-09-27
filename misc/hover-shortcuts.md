@@ -15,3 +15,5 @@ To activate a Hover Shortcut, simply mouse the mouse cursor over a post \(in eit
 
 The demo below demonstrates the use of the `L` \(like\) shortcut being used to like multiple items quickly while moving the mouse.
 
+![](../.gitbook/assets/hovershortcuts.gif)
+

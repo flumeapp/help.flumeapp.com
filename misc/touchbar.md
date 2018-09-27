@@ -4,6 +4,8 @@ The [Touch Bar](https://support.apple.com/en-us/HT207055) is a unique hardware-f
 
 Flume has comprehensive support for the Touch Bar, localized into all supported languages.
 
+![](../.gitbook/assets/touchbar.png)
+
 ## Showing Labels
 
 To save space in the Touch Bar, you can toggle the option to display labels next to buttons from [General Preferences.](../preferences/general.md#show-labels-in-touch-bar)

@@ -2,13 +2,13 @@
 
 ![](../../.gitbook/assets/upload-filters.png)
 
-### Enabling Filters
+## Enabling Filters
 
 To enable or disable a filter, click on any ![](../../.gitbook/assets/active.png) button.
 
 You can also quickly enable or disable filters using the ![](../../.gitbook/assets/settings.png) settings menu.
 
-### Reordering Filters
+## Reordering Filters
 
 To adjust the order of the filters, click-and-drag to rearrange.
 
