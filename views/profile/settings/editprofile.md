@@ -4,6 +4,8 @@
 
 ### Edit Profile
 
+![](../../../.gitbook/assets/profile-edit.png)
+
 #### Editing Your Profile
 
 To edit your profile:

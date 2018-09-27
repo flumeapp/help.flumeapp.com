@@ -6,6 +6,8 @@ Private profiles allow you to manage who can see your posts. You do not need a p
 
 Conversely, private profiles that you do not follow will not display any information except for the name, biography, avatar and follower/following counts. It is not possible to view the followers/following of a private account you do not follow.
 
+![](../../.gitbook/assets/private-profile.png)
+
 ### Following a Private Profile
 
 When requesting to follow a private profile, the user will be notified of your [friend request.](./#friend-requests)

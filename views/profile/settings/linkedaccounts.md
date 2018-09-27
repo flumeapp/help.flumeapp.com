@@ -4,6 +4,8 @@
 
 ### Linked Accounts
 
+![](../../../.gitbook/assets/linked-accounts.png)
+
 When you [upload](../../upload.md) a photo or video, you'll have the option to turn sharing on or off for each of the social networks \(like Facebook or Twitter\) you want to share to. You can also [share existing posts](../../sharing.md) in the same manner.
 
 To learn more, see [Sharing to Social Networks.](https://help.instagram.com/169948159813228)

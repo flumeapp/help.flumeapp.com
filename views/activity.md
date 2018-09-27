@@ -2,6 +2,8 @@
 
 The Activity tab shows you the latest notifications for your account. You can receive [desktop notifications](../preferences/notifications.md) when new activity arrives, as the Activity feed is automatically refreshed based on your [automatic refresh](../preferences/feed/#automatically-refresh) setting.
 
+![](../.gitbook/assets/activity-you.png)
+
 ## You
 
 The `You` tab lists the latest notifications that relate to the current account. These include:
@@ -32,6 +34,8 @@ To perform an action \(such as reply\) on a comment notification:
 
 By default, all notification types are displayed. To apply filters to the notifications, use the `Filter` option under the ![](../.gitbook/assets/settings.png) button in the [title bar.](../misc/glossary.md#title-bar)
 
+![](../.gitbook/assets/activity-filtering.png)
+
 ### Hiding Activity
 
 To hide a specific activity notification:
@@ -45,4 +49,6 @@ The `Following` tab lists the latest notifications that relate to activity made 
 
 * When users you follow like other posts
 * When users you follow start following other users
+
+![](../.gitbook/assets/activity-following.png)
 

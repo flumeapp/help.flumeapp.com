@@ -20,5 +20,5 @@ If you are unable to access your phone, or receive SMS verification codes, you c
 
 To request your backup codes:
 
-* When viewing your [Profile](../), select the `Two-Factor Authentication` item under the [Settings](./) ![](../../../.gitbook/assets/settings.png) button in the title bar. Click `Get Backup Codes` to see your backup codes. These codes can be copied and pasted into a secure document.
+* When viewing your [Profile](../), select the `Two-Factor Authentication` item under the [Settings](./) ![](../../../.gitbook/assets/settings.png) button in the [title bar.](../../../misc/glossary.md#title-bar) Click `Get Backup Codes` to see your backup codes. These codes can be copied and pasted into a secure document.
 

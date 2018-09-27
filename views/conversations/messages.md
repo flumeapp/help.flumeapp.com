@@ -2,6 +2,8 @@
 
 The Conversation Messages view lists all the messages and activity in a specific one-on-one or group conversation.
 
+![](../../.gitbook/assets/conversation.png)
+
 ## Writing Messages / Replies
 
 See [Creating Conversations](list.md#creating-conversations) for creating a new conversation.
@@ -12,8 +14,8 @@ See [Creating Conversations](list.md#creating-conversations) for creating a new 
 
 To share a post with a new or existing conversation:
 
-* When viewing the [details](../detailview.md) of a post, use the `Send to…` option under the `Share` ![](../../.gitbook/assets/share%20%283%29.png) button in the title bar.
-* Right-click a post, then select `Share > Send to…` from the contextual menu.
+* When viewing the [details](../detailview.md) of a post, use the `Send to…` option under the `Share` ![](../../.gitbook/assets/share%20%283%29.png) button in the [title bar.](../../misc/glossary.md#title-bar)
+* Right-click a post, then select `Share > Send to…` from the [contextual menu.](../../misc/glossary.md#contextual-menu)
 * Use the `Post > Share > Send to…` [Menu Bar](../../misc/glossary.md#menu-bar) item when selecting a post via the [keyboard arrows](../../misc/keyboard-shortcuts.md) or viewing the [details](../detailview.md) of a post.
 
 ### Sharing Profiles
@@ -45,6 +47,8 @@ To share a photo / video:
 
 * In an existing conversation, click the `Upload` ![](../../.gitbook/assets/message-upload.png) button in the compose area. You can select from an existing photo or video, or use your web-cam to take a photo.
 
+![](../../.gitbook/assets/conversation-upload.png)
+
 {% hint style="info" %}
 When selecting a photo or video file, the usual [photo and video upload specifications](../../misc/upload-specifications.md) apply.
 {% endhint %}
@@ -58,12 +62,16 @@ To download a photo or video shared in a conversation:
 
 You will be asked to choose a download location.
 
+![](../../.gitbook/assets/message-unlike-1.png)
+
 ## Liking / Unliking Messages
 
 To like an individual message sent in a conversation:
 
 * Right-click the message, then select `Like/Unlike Message` from the [contextual menu.](../../misc/glossary.md#contextual-menu)
 * When selecting a message using the [keyboard arrows](../../misc/keyboard-shortcuts.md), use the `Message > Like/Unlike Message` [Menu Bar](../../misc/glossary.md#menu-bar) item.
+
+![](../../.gitbook/assets/message-unlike-1.png)
 
 ## Viewing Message Timestamps
 
@@ -74,12 +82,16 @@ To view the time a message was sent:
 
 The time will appear beside the message.
 
+![](../../.gitbook/assets/message-timestamp.png)
+
 ## Translating Messages
 
 To translate a text message sent in a conversation:
 
 * Right-click the message, then select `Translate…` from the [contextual menu.](../../misc/glossary.md#contextual-menu)
 * When selecting a message using the [keyboard arrows](../../misc/keyboard-shortcuts.md), use the `Message > Translate…` [Menu Bar](../../misc/glossary.md#menu-bar) item.
+
+![](../../.gitbook/assets/message-translate.png)
 
 {% hint style="info" %}
 The translation option will only appear if the message contains text. The translation will use your current [language](../../preferences/general.md#language) setting.
@@ -91,4 +103,6 @@ To unsend a message you sent in a conversation:
 
 * Right-click the message, then select `Unsend Message…` from the [contextual menu.](../../misc/glossary.md#contextual-menu)
 * When selecting a message using the [keyboard arrows](../../misc/keyboard-shortcuts.md), use the `Message > Unsend Message…` [Menu Bar](../../misc/glossary.md#menu-bar) item.
+
+![](../../.gitbook/assets/message-unlike-1.png)
 

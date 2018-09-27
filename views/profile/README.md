@@ -35,6 +35,8 @@ If you would like to disable users from being able to tag you in photos:
 
 If set to `Add Manually`, you will be notified in [Activity](../activity.md) when someone tags you in a photo, with the option to keep or remove the tag.
 
+![](../../.gitbook/assets/profile-tagging-options.png)
+
 ## Saved Posts
 
 When viewing your own profile, an extra tab will appear, that allows you to view all the posts you have [saved](https://help.instagram.com/1744643532522513) as well as your [Saved Collections.](savedcollections.md) Only you can see this tab, and the posts you have saved.
@@ -61,6 +63,8 @@ To archive or unarchive a post:
 
 To view the followers or followings of a profile, click the `Followers` or `Following` button. The current relationship status between you and each user is displayed, allowing you to quickly follow or unfollow users from other profiles.
 
+![](../../.gitbook/assets/profile-following.png)
+
 To follow/unfollow a user:
 
 * Click the Follow ![](../../.gitbook/assets/follow%20%284%29.png) or Following ![](../../.gitbook/assets/following.png) button \(when hovering, the Following button will change in appearance to the Unfollow ![](../../.gitbook/assets/unfollow.png) button\).
@@ -81,6 +85,8 @@ To respond to friend requests:
 
 * When viewing the list of pending friend requests, click the Accept ![](../../.gitbook/assets/follow%20%283%29.png) or Decline ![](../../.gitbook/assets/decline.png) button that appears next to each user.
 * When viewing the profile of user that has sent you a friend request, click the Accept ![](../../.gitbook/assets/follow%20%282%29.png) or Decline ![](../../.gitbook/assets/decline.png) button that appears below the user's biography.
+
+![](../../.gitbook/assets/profile-friend-requests.png)
 
 {% hint style="info" %}
 If you [switch your profile to a public profile](privateprofiles.md), all pending friend requests will be accepted.
@@ -113,6 +119,8 @@ You can opt-out of being suggested for other users by editing your profile via t
 ## Profile Previews
 
 Profile previews are a way to quickly inspect a user's profile and follow them without leaving your current view. These are similar to the long-press actions or 3D Touch behaviours found on the mobile Instagram apps.
+
+![](../../.gitbook/assets/profile-previews.png)
 
 To view a profile preview:
 

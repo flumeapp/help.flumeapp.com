@@ -4,6 +4,8 @@
 
 ### Change Password
 
+![](../../../.gitbook/assets/profile-password.png)
+
 #### Changing Your Password
 
 To change your password:

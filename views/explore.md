@@ -2,6 +2,8 @@
 
 The Explore tab allows you to discover posts that Instagram curates for you personally. These suggestions are based off various factors, such as existing users you follow, your contacts, your previous likes and more.
 
+![](../.gitbook/assets/explore.png)
+
 ## Ignoring Recommendations
 
 If you'd like to adjust your future recommendations, you can indicate to Instagram that they should show you fewer similar posts.

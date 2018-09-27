@@ -4,6 +4,8 @@
 
 ### Promotions
 
+![](../../../.gitbook/assets/promoting.png)
+
 You can find more information about promoting posts at [Facebook's Business Resources.](https://www.facebook.com/business/help/897631030335607/)
 
 #### Requirements
@@ -31,6 +33,8 @@ It is not possible to promote [carousel posts](../../detailview.md#carousel-post
 To view your current, existing, and expired promotions:
 
 * Click the `Promotions` item that appears at the top of your [Activity.](../../activity.md)
+
+![](../../../.gitbook/assets/view-promotions.png)
 
 #### Deleting Promotions
 

@@ -18,7 +18,7 @@ With support for cropping, tagging, locations, filters, adjustments, cover image
 
 Use the benefit of your dedicated keyboard to quickly respond to customers and share items with friends with complete Instagram Direct support. [Learn more.](views/conversations/)
 
-![](.gitbook/assets/conversations.png)
+![](.gitbook/assets/conversations%20%281%29.png)
 
 ## Manage multiple accounts
 

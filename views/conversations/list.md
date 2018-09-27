@@ -2,6 +2,8 @@
 
 The Conversations List view lists all your current conversations, allows you to create a new one-on-one or group conversation, as well as allowing you to block or allow pending message requests from profiles you do not follow.
 
+![](../../.gitbook/assets/conversations.png)
+
 ## Creating Conversations
 
 There are many ways to begin a conversation with a user, however you should note that if the recipient of a message does not follow you, your message will not appear in their inbox directly but as a [message request](list.md#message-requests) that they must approve or decline.
@@ -66,6 +68,8 @@ To mute/un-mute a conversation:
 
 Muted conversations will display a small icon to indicate their current mute status.
 
+![](../../.gitbook/assets/conversations-muted.png)
+
 ## Exporting Conversations
 
 To export a conversation:
@@ -96,6 +100,8 @@ Group conversations cannot be reported / blocked. You can report / block users i
 
 When a user that you do not follow sends you a message, their message will not appear immediately in your inbox, but requires approval. When you have open message requests, an indicator will appear above the list of conversations.
 
+![](../../.gitbook/assets/conversations-message-requests.png)
+
 ### Responding to Message Requests
 
 You have the option of accepting or declining all message requests, or individually.
@@ -104,13 +110,19 @@ To accept / decline all message requests:
 
 * Click either the accept ![](../../.gitbook/assets/accept%20%281%29.png) or decline ![](../../.gitbook/assets/decline.png) icon in the [title bar](../../misc/glossary.md#title-bar) when viewing the list of message requests. You will be asked to confirm your intention.
 
+![](../../.gitbook/assets/conversations-message-request-respond-all.png)
+
 To accept / decline an individual message requests:
 
 * Click on a conversation from the list of message requests, then click either the accept ![](../../.gitbook/assets/accept.png) or decline ![](../../.gitbook/assets/decline%20%281%29.png) icon in the [title bar](../../misc/glossary.md#title-bar) when viewing the list of message requests. You will be asked to confirm your intention.
 
+![](../../.gitbook/assets/conversations-message-request-respond-individual.png)
+
 ## Filtering Conversations
 
 To apply filters to your conversation threads, use the `Filter` option under the ![](../../.gitbook/assets/settings%20%281%29.png) button in the [title bar.](../../misc/glossary.md#title-bar)
+
+![](../../.gitbook/assets/conversations-filtering.png)
 
 ## Searching Conversations
 
@@ -123,5 +135,8 @@ Bookmarked conversations appear at the top of all others in the conversations li
 To toggle a conversation as a [Bookmark](../search.md#search-bookmarks), perform one of the following:
 
 * Click the `Bookmarks` ![](../../.gitbook/assets/bookmark.png)button in the [title bar](../../misc/glossary.md#title-bar) when viewing the [messages](messages.md) of a conversation.
+
+![](../../.gitbook/assets/conversation-bookmark-toggle.png)
+
 * Use the `View > Add/Remove "Conversation Name" to Bookmarks` [Menu Bar](../../misc/glossary.md#menu-bar) item.
 

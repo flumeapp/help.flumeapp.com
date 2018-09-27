@@ -2,6 +2,8 @@
 
 The Conversation Info view lists all the members of a conversation and allows you to view and edit members of a group conversation as well as perform actions related to a conversation.
 
+![](../../.gitbook/assets/conversation-info.png)
+
 ## Naming Group Conversations
 
 By default, a group conversation will be given the name of every member in the group. You can give a group conversation a custom name \([up to 20 characters](../../misc/limits.md)\) if you prefer.
@@ -17,6 +19,8 @@ One-on-one conversations cannot be named.
 ## Adding Members to Group Conversations
 
 You can include up to [15 users](../../misc/limits.md) in a group conversation.
+
+![](../../.gitbook/assets/conversation-select.png)
 
 To add a new member to a group conversation:
 
