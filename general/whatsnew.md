@@ -4,7 +4,7 @@ search: false
 
 # What's New in Flume
 
-## 2.8.5.2
+## 2.8.5.2 
 
 [_Release Date: September 23rd, 2018._](http://blog.flumeapp.com/post/177901500771/flume-for-mac-2852)
 

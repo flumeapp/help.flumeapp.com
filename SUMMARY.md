@@ -1,13 +1,11 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Overview](README.md)
 
 ## General
 
-* [Home](general/readme/README.md)
-  * [Overview](general/readme/overview.md)
-  * [Design](general/readme/design.md)
-  * [Accessibility](general/readme/accessibility.md)
+* [Design](general/design.md)
+* [Accessibility](general/accessibility.md)
 * [What's New in Flume](general/whatsnew.md)
 
 ## Preferences
