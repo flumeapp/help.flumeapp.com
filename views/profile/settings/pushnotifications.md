@@ -4,7 +4,7 @@
 
 You can customise which types of [Push Notifications](../../../preferences/notifications.md) you would like to receive when Flume is not running.
 
-### Adjusting Push Notification Settings
+## Adjusting Push Notification Settings
 
 To adjust your Push Notification settings:
 

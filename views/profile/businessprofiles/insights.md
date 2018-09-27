@@ -1,9 +1,5 @@
 # Insights
 
-## Business Profiles
-
-### Insights
-
 Instagram Insights provide information on who your followers are, when they're online and more. You can also view insights for specific posts and stories you've created to see how each performed and how people are engaging with them.
 
 You can find more information about Business Insights at [Facebook's Business Resources.](https://www.facebook.com/business/help/897631030335607/)
@@ -14,13 +10,13 @@ You can find more information about Business Insights at [Facebook's Business Re
 Once you [convert your personal profile over to a Business Profile](./), you won't be able to view past insights from before you converted your account.
 {% endhint %}
 
-#### Viewing Insights
+## Viewing Insights
 
 To view your Business Insights:
 
 * When viewing your own profile, click the `Insights` ![](../../../.gitbook/assets/viewinsights.png) button in the [title bar.](../../../misc/glossary.md#title-bar)
 
-#### Exporting Insights
+## Exporting Insights
 
 Flume allows you to export your Insights to a simple `.txt` format for use in other applications. To export your Insights:
 
@@ -30,9 +26,9 @@ Flume allows you to export your Insights to a simple `.txt` format for use in ot
 The export feature will export the currently visible insights.
 {% endhint %}
 
-#### Available Insights
+## Available Insights
 
-**Insights for Posts and Stories**
+### **Insights for Posts and Stories**
 
 **Impressions:** Total number of times your post or story was seen
 
@@ -52,7 +48,7 @@ If your post contains multiple photos or videos, your metrics will still be coun
 For example, regardless of whether someone only views the first out of 10 photos in your post, the post will only receive one impression. Even posts with multiple photos and videos receive one impression for the entire post, when someone views them.
 {% endhint %}
 
-**Insights Specific to Stories**
+### **Insights Specific to Stories**
 
 **Replies:** Number of times people send messages through the Send Message option on your story
 
@@ -62,11 +58,11 @@ For example, regardless of whether someone only views the first out of 10 photos
 While you can view insights on past stories, you won't be able to view past stories that have expired. Stories last for 24 hours, before expiring.
 {% endhint %}
 
-**Insights for Live Content**
+### **Insights for Live Content**
 
 Instagram doesn't offer insights for live content.
 
-#### Notes
+## Notes
 
 * Keep in mind that impressions and reach are different. Impressions are the total number of times your post was seen. A single individual may see your post 5 times. Each time they see it, you'll get an impression. Reach is based on the number of unique people who view your post. Each unique individual will only be counted once, even if they view your post multiple times.
 * You'll also see the following insights about your followers, including gender, age and location information.

@@ -1,16 +1,12 @@
 # Linked Accounts
 
-## Profile Settings
-
-### Linked Accounts
-
 ![](../../../.gitbook/assets/linked-accounts.png)
 
 When you [upload](../../upload.md) a photo or video, you'll have the option to turn sharing on or off for each of the social networks \(like Facebook or Twitter\) you want to share to. You can also [share existing posts](../../sharing.md) in the same manner.
 
 To learn more, see [Sharing to Social Networks.](https://help.instagram.com/169948159813228)
 
-#### Connect a Linked Account
+## Connect a Linked Account
 
 To connect and start sharing your Instagram posts to another social network:
 
@@ -25,7 +21,7 @@ When connecting a linked account from the Upload window, the sharing option will
 Business Profiles cannot be unlinked from Facebook. To link your Instagram account to a different Facebook Page for uploading and sharing, you will need to [convert back to a personal profile.](../businessprofiles/)
 {% endhint %}
 
-#### Disconnect a Linked Account
+## Disconnect a Linked Account
 
 To disconnect and stop sharing your Instagram posts to another social network:
 
@@ -39,7 +35,7 @@ If you're trying to relink Instagram to a social network, you may have to visit 
 
 [Tumblr:](https://www.tumblr.com/preferences) See your Preferences and revoke access from the Applications section
 
-#### Changing Facebook Sharing Options
+## Changing Facebook Sharing Options
 
 To change where your posts are shared on Facebook:
 

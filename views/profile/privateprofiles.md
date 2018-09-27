@@ -1,7 +1,5 @@
 # Private Profiles
 
-## Private Profiles
-
 Private profiles allow you to manage who can see your posts. You do not need a private profile in order to manage who can message you, as all messages from users you do not follow appear as [message requests.](../conversations/#message-requests)
 
 Conversely, private profiles that you do not follow will not display any information except for the name, biography, avatar and follower/following counts. It is not possible to view the followers/following of a private account you do not follow.

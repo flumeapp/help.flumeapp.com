@@ -1,18 +1,14 @@
 # Blocked Users
 
-## Profile Settings
-
-### Blocked Users
-
 ![](../../../.gitbook/assets/profile-blocked-users.png)
 
-#### Viewing Blocked Users
+## Viewing Blocked Users
 
 To view the list of blocked users:
 
 * When viewing your [Profile](../), select the `Blocked Users` item under the [Settings](./) ![](../../../.gitbook/assets/settings.png) button in the [title bar.](../../../misc/glossary.md#title-bar)
 
-#### Blocking / Unblocking Users
+## Blocking / Unblocking Users
 
 To block or unblock a user:
 

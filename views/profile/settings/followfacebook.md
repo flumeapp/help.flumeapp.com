@@ -1,9 +1,5 @@
 # Follow Facebook Friends
 
-## Profile Settings
-
-### Following Facebook Friends
-
 If you [link](linkedaccounts.md) your account with Facebook, you can follow your Facebook friends that you have not yet followed on Instagram.
 
 To follow your Facebook friends on Instagram:

@@ -1,12 +1,8 @@
 # Edit Profile
 
-## Profile Settings
-
-### Edit Profile
-
 ![](../../../.gitbook/assets/profile-edit.png)
 
-#### Editing Your Profile
+## Editing Your Profile
 
 To edit your profile:
 
@@ -20,7 +16,7 @@ If you have an [Business Profile](../businessprofiles/), additional fields will 
 If you have a Business Profile, Instagram will use your Facebook Page's category. To change the category that appears on your Business Profile, [update it on your Facebook Page.](https://www.facebook.com/help/222732947737668/)
 {% endhint %}
 
-#### Changing Your Profile Picture
+## Changing Your Profile Picture
 
 To change your profile picture:
 

@@ -1,20 +1,16 @@
 # Promotions
 
-## Business Profiles
-
-### Promotions
-
 ![](../../../.gitbook/assets/promoting.png)
 
 You can find more information about promoting posts at [Facebook's Business Resources.](https://www.facebook.com/business/help/897631030335607/)
 
-#### Requirements
+## Requirements
 
 * You'll need to [switch to a Business Profile.](./). 
 * You'll also need to be an [admin of the Facebook Page](https://www.facebook.com/business/help/218638451837962) associated with the Business Profile. 
 * Promoted posts must also abide by [Facebook's advertising policies.](https://www.facebook.com/business/help/732496170188362)
 
-#### Promoting a Post
+## Promoting a Post
 
 To promote a post:
 
@@ -28,7 +24,7 @@ Once you've confirmed your promotion, it will be reviewed to ensure it meets [Fa
 It is not possible to promote [carousel posts](../../detailview.md#carousel-posts) currently.
 {% endhint %}
 
-#### Viewing Promotions
+## Viewing Promotions
 
 To view your current, existing, and expired promotions:
 
@@ -36,7 +32,7 @@ To view your current, existing, and expired promotions:
 
 ![](../../../.gitbook/assets/view-promotions.png)
 
-#### Deleting Promotions
+## Deleting Promotions
 
 To delete a promotion:
 

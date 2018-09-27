@@ -1,7 +1,5 @@
 # Profile Settings
 
-## Profile Settings
-
 Your profile settings can be accessed from your own Profile tab via the ![](../../../.gitbook/assets/settings.png) button in the [title bar.](../../../misc/glossary.md#title-bar)
 
 ![](../../../.gitbook/assets/preferences-profile.png)

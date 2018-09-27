@@ -2,7 +2,7 @@
 
 ![](../../../.gitbook/assets/profile-pushnotifications.png)
 
-### Adjusting Email and SMS Notification Settings
+## Adjusting Email and SMS Notification Settings
 
 To adjust your Email and SMS notification settings:
 

@@ -1,9 +1,5 @@
 # Invite Facebook Friends
 
-## Profile Settings
-
-### Inviting Facebook Friends
-
 If you [link](linkedaccounts.md) your account with Facebook, you can invite your Facebook friends that are not yet on Instagram.
 
 To invite your Facebook friends to Instagram:
