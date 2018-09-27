@@ -1,5 +1,7 @@
 # Design Preferences
 
+![](../.gitbook/assets/design.png)
+
 ## Design
 
 | Option | Explanation |
@@ -19,6 +21,8 @@ The font size preference can also be adjusted at any time in Flume via the [keyb
 | `Largest` | Increases the text sizes from the default by 2pt. |
 
 ## Always Show the Title Bar
+
+![](../.gitbook/assets/titlebar.png)
 
 Enables or disables showing the Flume title bar in [Feed](../views/feed.md) and [Likes.](../views/likes.md) When disabled, [Show the menu](design.md#show-the-menu) is set to `On Hover` and [Show media details](design.md#show-media-details) is set to `None`, Flume will display content edge-to-edge with no visible chrome \(_default_\).
 
