@@ -1,436 +1,364 @@
-# Upload <img src="/preferences/assets/pro.png" width="36" height="20" /> 
+# Upload
 
-The Upload window allows you upload photos and videos, write captions, tag users, set cover frames, crop and resize, share to [linked accounts](//views/profile/linkedaccounts.md) and much more. 
+The Upload window allows you upload photos and videos, write captions, tag users, set cover frames, crop and resize, share to [linked accounts](profile/settings/linkedaccounts.md) and much more.
 
-> **[info]**
-> Uploading is a [Flume Pro](/preferences/flumepro.md) feature.
+{% hint style="info" %}
+Uploading is a [Flume Pro](../preferences/flumepro.md) feature.
+{% endhint %}
 
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/upload.png" width="50%" height="50%" /></p>
-
-> **[info]**
-> Photos and videos must fit within certain [specifications](//misc/upload-specifications.md) to be accepted by Instagram.
-
-------
+{% hint style="info" %}
+Photos and videos must fit within certain [specifications](../misc/upload-specifications.md) to be accepted by Instagram.
+{% endhint %}
 
 ## Creating Posts
 
 To begin creating a new post:
 
-- Click the upload <img src="/views/assets/uploadicon.png" width="24" height="24" /> button in [Flume's toolbar menu.](//preferences/design.md#show-the-menu)<br /><br /><img src="/preferences/assets/menu.png" width="30%" height="30%" />
-- Use the <kbd>File > New Post…</kbd> Menu Bar item.
-- Use the <kbd>View > Upload</kbd> Menu Bar item.
-- Tap the upload <img src="/views/assets/uploadicon.png" width="24" height="24" /> button in the [Touch Bar.](//misc/touchbar.md)
-- Right-click on Flume's Dock icon and select the <kbd>Upload</kbd> item.
-- Drag a photo/video directly onto Flume's Dock icon.
-- Right-click a photo or video in Finder and select the <kbd>Open with… > Flume</kbd> menu item.
-
-------
+* Click the upload ![](../.gitbook/assets/uploadicon%20%281%29.png) button in [Flume's toolbar menu.](../preferences/design.md#show-the-menu)  ![](../.gitbook/assets/menu.png)
+* Use the `File > New Post…` Menu Bar item.
+* Use the `View > Upload` Menu Bar item.
+* Tap the upload ![](../.gitbook/assets/uploadicon.png) button in the [Touch Bar.](../misc/touchbar.md)
+* Right-click on Flume's Dock icon and select the `Upload` item.
+* Drag a photo/video directly onto Flume's Dock icon.
+* Right-click a photo or video in Finder and select the `Open with… > Flume` menu item.
 
 ## Drafts
 
-Flume has support for drafts through its own .flume document type. Drafts save the following information:
+Flume has support for drafts through its own `.flume` document type. Drafts save the following information:
 
-- The photos or videos to post.
-- All [filters](#filters) and [adjustments.](#adjustments)
-- The [caption.](#captions)
-- The [tagged users.](#tagged-users)
-- The [tagged location.](#tagged-locations)
-- The [sharing options.](#sharing)
-- The [advanced settings.](#advanced-settings)
-- The [account](//preferences/accounts.md) to post to.
-
-------
+* The photos or videos to post.
+* All [filters](upload.md#filters) and [adjustments.](upload.md#adjustments)
+* The [caption.](upload.md#captions)
+* The [tagged users.](upload.md#tagged-users)
+* The [tagged location.](upload.md#tagged-locations)
+* The [sharing options.](upload.md#sharing)
+* The [advanced settings.](upload.md#advanced-settings)
+* The [account](../preferences/accounts.md) to post to.
 
 ### Creating Drafts
 
 To create/save a draft:
 
-- After selecting your photo/video and making all necessary edits, close the upload window, or use the <kbd>File > Save Draft…</kbd> Menu Bar item. A save dialog will appear to select a save location and filename.
+* After selecting your photo/video and making all necessary edits, close the upload window, or use the `File > Save Draft…` Menu Bar item. A save dialog will appear to select a save location and filename.
 
-> **[info]**
-> If you make edits to a previously opened draft, changes will be saved to the same draft file and no save dialog will appear.
-
-------
+{% hint style="info" %}
+If you make edits to a previously opened draft, changes will be saved to the same draft file and no save dialog will appear.
+{% endhint %}
 
 ### Opening Drafts
 
 To open a draft:
 
-- Open the draft file in Finder.
-- Drag-and-drop the draft onto Flume's Dock icon.
-- Drag-and-drop the draft onto an Upload window.
-- Use the <kbd>File > Open Draft…</kbd> Menu Bar item.
-
-------
+* Open the draft file in Finder.
+* Drag-and-drop the draft onto Flume's Dock icon.
+* Drag-and-drop the draft onto an Upload window.
+* Use the `File > Open Draft…` Menu Bar item.
 
 ### Previewing Drafts
 
 Flume's drafts support [QuickLook](https://en.wikipedia.org/wiki/Quick_Look) and render previews of the photo or video in Finder.
 
-------
-
 ## Carousel Posts
 
-You can select up to 10 photos and videos into a single post, otherwise known as a [carousel or multi-post.](//views/detailview.md#carousel-posts) 
+You can select up to 10 photos and videos into a single post, otherwise known as a [carousel or multi-post.](detailview.md#carousel-posts)
 
-Carousel posts can be either all square items, all horizontal, or all vertical. It is not possible to mix-and-match square items with horizontal or vertical items. **Flume will use the aspect ratio of your first item in the Carousel Post, in order to force cropping of all subsequent items to the same aspect ratio.** If you wish to create a square Carousel Post from a photo or video that is not originally in square aspect ratio, you should first [crop the photo/video](#cropping---resizing) before toggling the Carousel Post option. If you drag-and-drop multiple files to create a Carousel Post, Flume will automatically display the cropping window for you for the first item.
+Carousel posts can be either all square items, all horizontal, or all vertical. It is not possible to mix-and-match square items with horizontal or vertical items. **Flume will use the aspect ratio of your first item in the Carousel Post, in order to force cropping of all subsequent items to the same aspect ratio.** If you wish to create a square Carousel Post from a photo or video that is not originally in square aspect ratio, you should first [crop the photo/video](upload.md#cropping---resizing) before toggling the Carousel Post option. If you drag-and-drop multiple files to create a Carousel Post, Flume will automatically display the cropping window for you for the first item.
 
->**[info]**
->When dragging/opening multiple files to create a Carousel Post, Flume will sort the selected files by **filename** to ascertain the order. The first item in your Carousel Post determines the kind of Carousel Post (square / horizontal / vertical) Flume will create. If you wish to override Flume's default filename ordering, select your first item for Upload manually, then add the remaining items after toggling from a [Single Post to a Carousel Post.](#converting-single-posts-to-carousel-posts) Once all items are added, rearrange them by hovering over the item thumbnail and drag-and-dropping them to a new position.
-
-------
+{% hint style="info" %}
+When dragging/opening multiple files to create a Carousel Post, Flume will sort the selected files by **filename** to ascertain the order. The first item in your Carousel Post determines the kind of Carousel Post \(square / horizontal / vertical\) Flume will create. If you wish to override Flume's default filename ordering, select your first item for Upload manually, then add the remaining items after toggling from a [Single Post to a Carousel Post.](upload.md#converting-single-posts-to-carousel-posts) Once all items are added, rearrange them by hovering over the item thumbnail and drag-and-dropping them to a new position.
+{% endhint %}
 
 ### Creating Carousel Posts
 
 To create a Carousel Post directly:
 
-- Select more than one photo/video in the macOS open panel that appears after choosing <kbd>Select Photo/Video/Draft…</kbd> in the Upload window.
-- Drag more than one photo/video directly onto an empty Upload window.
-- Drag more than one photo/video (or a folder) directly onto Flume's Dock icon.
-- Right-click more than one photo/video in Finder and select the <kbd>Open with… > Flume</kbd> menu item.
-
-------
+* Select more than one photo/video in the macOS open panel that appears after choosing `Select Photo/Video/Draft…` in the Upload window.
+* Drag more than one photo/video directly onto an empty Upload window.
+* Drag more than one photo/video \(or a folder\) directly onto Flume's Dock icon.
+* Right-click more than one photo/video in Finder and select the `Open with… > Flume` menu item.
 
 ### Converting Single Posts to Carousel Posts
 
 To toggle between an individual and Carousel Post:
 
-- Click the carousel <img src="/views/assets/carousel.png" width="20" height="20" /> button.
-- Use the <kbd>Upload > Toggle Carousel Post</kbd> Menu Bar item.
-- Tap the carousel <img src="/views/assets/carousel.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
-
-------
+* Click the carousel ![](../.gitbook/assets/carousel%20%281%29.png) button.
+* Use the `Upload > Toggle Carousel Post` Menu Bar item.
+* Tap the carousel ![](../.gitbook/assets/carousel.png) button in the [Touch Bar.](../misc/touchbar.md)
 
 ## Editing
 
-You can apply filters and make adjustments to your photos and videos easily right inside Flume. 
+You can apply filters and make adjustments to your photos and videos easily right inside Flume.
 
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/upload-edit.png" width="70%" height="70%" /></p>
+{% hint style="warning" %}
+Video filters and adjustments are not available on macOS Yosemite 10.10
+{% endhint %}
 
-> **[info]**
-> Video filters and adjustments are not available on macOS Yosemite 10.10
-
-&nbsp;
-
-> **[info]**
-> The Scale adjustment is only available on photos.
-
-------
+{% hint style="info" %}
+The Scale adjustment is only available on photos.
+{% endhint %}
 
 #### Editing Photos/Videos
 
 To edit a selected photo or video:
 
-- Click the edit <img src="/views/assets/edit.png" width="20" height="20" /> button.
-- Use the <kbd>Upload > Toggle Edit Options</kbd> Menu Bar item.
-- Tap the edit <img src="/views/assets/edit.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
-
-------
+* Click the edit ![](../.gitbook/assets/edit%20%281%29.png) button.
+* Use the `Upload > Toggle Edit Options` Menu Bar item.
+* Tap the edit ![](../.gitbook/assets/edit.png) button in the [Touch Bar.](../misc/touchbar.md)
 
 #### Previewing Edits
 
 To quickly preview your edits:
 
-- Click the preview <img src="/views/assets/preview.png" width="20" height="20" /> button.
-- Tap the preview <img src="/views/assets/preview.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
-
-------
+* Click the preview ![](../.gitbook/assets/preview.png) button.
+* Tap the preview ![](../.gitbook/assets/preview%20%281%29.png) button in the [Touch Bar.](../misc/touchbar.md)
 
 ### Filters
 
 To apply a filter to a photo or video:
 
-- Click on the filter preview.
-- Tap on the filter preview in the [Touch Bar.](//misc/touchbar.md)
-- Use the <kbd>&larr; (LEFT)</kbd> and <kbd>&rarr; (RIGHT)</kbd> [keyboard arrows.](//misc/keyboard-shortcuts.md)
+* Click on the filter preview.
+* Tap on the filter preview in the [Touch Bar.](../misc/touchbar.md)
+* Use the ← \(LEFT\) and → \(RIGHT\) [keyboard arrows.](../misc/keyboard-shortcuts.md)
 
-After selecting a filter, you can adjust the its intensity (default 100%).
+After selecting a filter, you can adjust the its intensity \(default 100%\).
 
-> **[info]**
-> You can reorder and enable Flume's exclusive filters via [Upload Preferences.](//preferences/upload/filters.md)
-
-------
+{% hint style="info" %}
+You can reorder and enable Flume's exclusive filters via [Upload Preferences.](../preferences/upload/filters.md)
+{% endhint %}
 
 ### Adjustments
 
 To make adjustments to a photo or video:
 
-- Click and drag the respective slider to set a new value.
-- Use the <kbd>&uarr; (UP)</kbd> and <kbd>&darr; (DOWN)</kbd> [keyboard arrows](//misc/keyboard-shortcuts.md) to move between adjustments, and <kbd>&larr; (LEFT)</kbd> and <kbd>&rarr; (RIGHT)</kbd> to set their value.
+* Click and drag the respective slider to set a new value.
+* Use the ↑ \(UP\) and ↓ \(DOWN\) [keyboard arrows](../misc/keyboard-shortcuts.md) to move between adjustments, and ← \(LEFT\) and → \(RIGHT\) to set their value.
 
 The Color adjustment requires you to first select a color to apply as an overall tint to the photo or video.
 
-The Tilt Shift adjustment requires you to set the two focal points. Click the <kbd>Adjust</kbd> button and follow the prompts to set the points on the photo or video.
-
-------
+The Tilt Shift adjustment requires you to set the two focal points. Click the Adjust button and follow the prompts to set the points on the photo or video.
 
 #### Resetting Adjustments
 
 To reset all adjustments:
 
-- Click the clear <img src="/views/assets/discard.png" width="20" height="20" /> button.
-
-------
+* Click the clear ![](../.gitbook/assets/discard.png) button.
 
 ## Captions
 
-You can add an optional caption to your posts. When typing a # or @ character, your keyboard input will also search Instagram for matching hashtags and users until you select an item from the popover, press the <kbd>ESC</kbd> key, or press another space.
+You can add an optional caption to your posts. When typing a `#` or `@` character, your keyboard input will also search Instagram for matching hashtags and users until you select an item from the popover, press the `ESC` key, or press another space.
 
-> **[info]**
-> [Limits apply](//misc/limits.md) to the length of the caption, the number of hashtags, and mentions.
-
-------
+{% hint style="info" %}
+[Limits apply](../misc/limits.md) to the length of the caption, the number of hashtags, and mentions.
+{% endhint %}
 
 ## Tagged Users
 
-You can include up to 30 users to tag in a photo. The tagged users can be viewed in the [Details View](//views/detailview.md#tagged-users).
+You can include up to 30 users to tag in a photo. The tagged users can be viewed in the [Details View](detailview.md#tagged-users).
 
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/detail-view-usertags-1.png" width="30%" height="30%" /> <img src="/views/assets/detail-view-usertags-2.png" width="30%" height="30%" /></p>
+![](../.gitbook/assets/detail-view-usertags-1.png) ![](../.gitbook/assets/detail-view-usertags-2.png)
 
-> **[info]**
-> Only photos can contain tagged users.
-
-------
+{% hint style="info" %}
+Only photos can contain tagged users.
+{% endhint %}
 
 ### Adding Tagged Users
 
 To add a tagged user in a photo:
 
-1. Click the tagged users <img src="/views/assets/taggedusers.png" width="20" height="20" /> button on the photo, or tap the button in the [Touch Bar.](//misc/touchbar.md)
+1. Click the tagged users ![](../.gitbook/assets/taggedusers.png) button on the photo, or tap the button in the [Touch Bar.](../misc/touchbar.md)
 2. Click a position in the photo where the user is located.
 3. Type in the search text field to find the relevant user.
 4. Click on a search result to confirm the user tag.
-
-------
 
 ### Removing Tagged Users
 
 To remove a tagged user:
 
-1. Click the tagged users <img src="/views/assets/taggedusers.png" width="20" height="20" /> button on the photo, or tap the button in the [Touch Bar.](//misc/touchbar.md)
+1. Click the tagged users ![](../.gitbook/assets/taggedusers.png) button on the photo, or tap the button in the [Touch Bar.](../misc/touchbar.md)
 2. Hover the mouse over the user tag you wish to remove and click it once.
-
-------
 
 ### Repositioning Tagged Users
 
 To reposition a tagged user:
 
-1. Click the tagged users <img src="/views/assets/taggedusers.png" width="20" height="20" /> button on the photo, or tap the button in the [Touch Bar.](//misc/touchbar.md)
+1. Click the tagged users ![](../.gitbook/assets/taggedusers.png) button on the photo, or tap the button in the [Touch Bar.](../misc/touchbar.md)
 2. Hover the mouse over the user tag you wish to remove and click-and-drag it to a new position.
-
-------
 
 ## Tagged Locations
 
-You can tag your photo and video at a location that displays in the [Details View](//views/detailview.md) and links to the [recent media tagged at that location.](//views/locations.md)
-
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/edit-location.png" width="80%" height="80%" /></p>
-
-------
+You can tag your photo and video at a location that displays in the [Details View](detailview.md) and links to the [recent media tagged at that location.](locations.md)
 
 ### Adding Tagged Locations
 
 To add a location on a photo or video:
 
-1. Click the "Add Location" button, or tap the location <img src="/views/assets/location-add.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
-2. Type to search for the location to tag, or click the Nearby Places <img src="/views/assets/nearbyplaces.png" width="20" height="20" /> button to search locations close to your current position.
+1. Click the `Add Location` button, or tap the location ![](../.gitbook/assets/location-add.png) button in the [Touch Bar.](../misc/touchbar.md)
+2. Type to search for the location to tag, or click the `Nearby Places` ![](../.gitbook/assets/nearbyplaces.png) button to search locations close to your current position.
 3. Select a location from the search results. If no search results could be found, the results popover will disappear.
 
-> **[info]**
-> If the photo or video contains [geotag](https://en.wikipedia.org/wiki/Geotagging) location information, Flume will automatically search for the GPS coordinates where the photo or video was taken.
-
-------
+{% hint style="info" %}
+If the photo or video contains [geotag](https://en.wikipedia.org/wiki/Geotagging) location information, Flume will automatically search for the GPS coordinates where the photo or video was taken. You cannot tag exact GPS coordinates on Instagram, and all tagged locations must exist as Facebook Places. To add new locations, see [Instagram's Help Center.](https://help.instagram.com/1618893218361276)
+{% endhint %}
 
 ### Editing Tagged Locations
 
 To edit a location on a photo or video:
 
-- Click the name of the location, and select the <kbd>Edit Location</kbd> item.
-- Tap the edit location <img src="/views/assets/location-add.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
-
-------
+* Click the name of the location, and select the `Edit Location` item.
+* Tap the edit location ![](../.gitbook/assets/location-add.png) button in the [Touch Bar.](../misc/touchbar.md)
 
 ### Removing Tagged Locations
 
 To remove an existing location on a photo or video:
 
-- Click the name of the location, and select the <kbd>Remove Location</kbd> item.
-- Tap the remove location <img src="/views/assets/location-remove.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
-
-------
+* Click the name of the location, and select the `Remove Location` item.
+* Tap the remove location ![](../.gitbook/assets/location-remove.png) button in the [Touch Bar.](../misc/touchbar.md)
 
 ## Cover Image
 
 When uploading a video, you can choose a custom cover image that will be used to represent your video's thumbnail image.
 
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/upload-cover-image.png" width="50%" height="50%" /></p>
-
 To set a cover image:
 
-- Click the cover image <img src="/views/assets/coverimage.png" width="20" height="20" /> button.
-- Use the <kbd>Upload > Select a Cover Image…</kbd> Menu Bar item.
-- Tap the cover image <img src="/views/assets/coverimage.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
+* Click the cover image ![](../.gitbook/assets/coverimage.png) button.
+* Use the `Upload > Select a Cover Image…` Menu Bar item.
+* Tap the cover image ![](../.gitbook/assets/coverimage%20%281%29.png) button in the [Touch Bar.](../misc/touchbar.md)
 
-Use the video scrubber in the cover image view or [Touch Bar](//misc/touchbar.md) to select a position in the video as the cover image.
+Use the video scrubber in the cover image view or [Touch Bar](../misc/touchbar.md) to select a position in the video as the cover image.
 
-> **[info]**
-> By default, Flume will use the frame at 0.5 seconds into your video as your cover image. If your video contains a solid colour fade-in transition, your cover image will be the solid colour. To avoid this, set a custom cover image.
-
-------
+{% hint style="info" %}
+By default, Flume will use the frame at 0.5 seconds into your video as your cover image. If your video contains a solid colour fade-in transition, your cover image will be the solid colour. To avoid this, set a custom cover image.
+{% endhint %}
 
 ## Cropping / Resizing
 
 ### Photos
 
-When you select a photo to upload that exceeds the [aspect ratio requirements](//misc/upload-specifications.md), you have three options:
+When you select a photo to upload that exceeds the [aspect ratio requirements](../misc/upload-specifications.md), you have three options:
 
-- Scroll the photo's cropping region to a desired area using your mouse/trackpad. The region of the photo not visible will be cropped from the upload.
-- [Crop a region of the photo](#cropping-photos) so that it falls within the aspect ratio requirements.
-- [Resizing the photo to fit into a square](#resizing-photos-to-fit), with an optional custom border colour.
-
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/upload-cropping.png" width="50%" height="50%" /></p>
-
-------
+* Scroll the photo's cropping region to a desired area using your mouse/trackpad. The region of the photo not visible will be cropped from the upload.
+* [Crop a region of the photo](upload.md#cropping-photos) so that it falls within the aspect ratio requirements.
+* [Resizing the photo to fit into a square](upload.md#resizing-photos-to-fit), with an optional custom border colour.
 
 #### Cropping Photos
 
 To crop a photo:
 
-- Click the crop <img src="/views/assets/crop.png" width="20" height="20" /> button.
-- Use the <kbd>Upload > Crop…</kbd> Menu Bar item.
-- Tap the crop <img src="/views/assets/crop.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
+* Click the crop ![](../.gitbook/assets/crop%20%282%29.png) button.
+* Use the `Upload > Crop…` Menu Bar item.
+* Tap the crop ![](../.gitbook/assets/crop%20%281%29.png) button in the [Touch Bar.](../misc/touchbar.md)
 
 Click-and-drag the resize handles to adjust the cropping region, and click-and-drag the rectangle to adjust the cropping position.
 
-> **[info]**
-> You can toggle between forcing a square or freeform cropping region by clicking the the <kbd>1:1</kbd> button.
-
-------
+{% hint style="info" %}
+You can toggle between forcing a square or freeform cropping region by clicking the the 1:1 button.
+{% endhint %}
 
 #### Resizing Photos
 
 To resize a photo back to its original dimensions:
 
-- Click the resize <img src="/views/assets/resize.png" width="20" height="20" /> button.
-- Use the <kbd>Upload > Resize to Original</kbd> Menu Bar item.
-- Tap the resize <img src="/views/assets/resize.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
-
-------
+* Click the resize ![](../.gitbook/assets/resize%20%282%29.png) button.
+* Use the `Upload > Resize to Original` Menu Bar item.
+* Tap the resize ![](../.gitbook/assets/resize%20%283%29.png) button in the [Touch Bar.](../misc/touchbar.md)
 
 #### Resizing Photos to Fit
 
-<p style="text-align: center; margin-top: 1em;"><img src="/views/assets/upload-cropping-resizetofit.png" width="50%" height="50%" /></p>
-
-If your selected photo exceeds the [aspect ratio requirements](//misc/upload-specifications.md), you can use the <kbd>Resize to Fit</kbd> option to resize the entire photo to fit inside a square, with the ability to also choose a custom border color.
+If your selected photo exceeds the [aspect ratio requirements](../misc/upload-specifications.md), you can use the Resize to Fit option to resize the entire photo to fit inside a square, with the ability to also choose a custom border color.
 
 This ensures your landscape or portrait photos will not be cropped.
 
-------
-
 ### Videos
 
-When you select a video to upload that exceeds the [aspect ratio requirements](//misc/upload-specifications.md), you have three options:
+When you select a video to upload that exceeds the [aspect ratio requirements](../misc/upload-specifications.md), you have three options:
 
-- Scroll the video's cropping region to a desired area using your mouse/trackpad. The region of the video not visible will be cropped from the upload, and the original aspect ratio will be maintained.
-- [Crop a region of the video](#cropping-videos) so that it falls within the aspect ratio requirements.
-- Resizing the video to fit into a square. Like above, scroll the video's cropping region to a desired area using your mouse/trackpad. The region of the video not visible will be cropped from the upload, and a 1:1 (square) aspect ratio will be maintained.
+* Scroll the video's cropping region to a desired area using your mouse/trackpad. The region of the video not visible will be cropped from the upload, and the original aspect ratio will be maintained.
+* [Crop a region of the video](upload.md#cropping-videos) so that it falls within the aspect ratio requirements.
+* Resizing the video to fit into a square. Like above, scroll the video's cropping region to a desired area using your mouse/trackpad. The region of the video not visible will be cropped from the upload, and a 1:1 \(square\) aspect ratio will be maintained.
 
+{% hint style="info" %}
+When selecting a video that is already 1:1 \(square\), the options to crop or resize will be disabled.
 
-> **[info]**
-> When selecting a video that is already 1:1 (square), the options to crop or resize will be disabled.
->
-> It is not currently possible to resize videos to fit, [unlike photos.](#resizing-photos-to-fit)
-
-------
+It is not currently possible to resize videos to fit, [unlike photos.](upload.md#resizing-photos-to-fit)
+{% endhint %}
 
 #### Cropping Videos
 
 To crop a video:
 
-- Click the crop <img src="/views/assets/crop.png" width="20" height="20" /> button.
-- Use the <kbd>Upload > Crop…</kbd> Menu Bar item.
-- Tap the crop <img src="/views/assets/crop.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
+* Click the crop ![](../.gitbook/assets/crop.png) button.
+* Use the `Upload > Crop…` Menu Bar item.
+* Tap the crop ![](../.gitbook/assets/crop%20%283%29.png) button in the [Touch Bar.](../misc/touchbar.md)
 
 Click-and-drag the resize handles to adjust the cropping region, and click-and-drag the rectangle to adjust the cropping position.
 
-> **[info]**
-> If you wish to constrain the cropping region to 1:1 aspect ratio, hold down the <kbd>SHIFT</kbd> key while click-and-dragging.
-
-------
+{% hint style="info" %}
+If you wish to constrain the cropping region to 1:1 aspect ratio, hold down the SHIFT key while click-and-dragging.
+{% endhint %}
 
 #### Resizing Videos
 
 To resize a video back to its original dimensions:
 
-- Click the resize <img src="/views/assets/resize.png" width="20" height="20" /> button.
-- Use the <kbd>Upload > Resize to Original</kbd> Menu Bar item.
-- Tap the resize <img src="/views/assets/resize.png" width="20" height="20" /> button in the [Touch Bar.](//misc/touchbar.md)
-
-------
+* Click the resize ![](../.gitbook/assets/resize%20%281%29.png) button.
+* Use the `Upload > Resize to Original` Menu Bar item.
+* Tap the resize ![](../.gitbook/assets/resize.png) button in the [Touch Bar.](../misc/touchbar.md)
 
 ## Sharing
 
 ### Sharing to Your Favorites/Close Friends
 
-To share a post to your [Favorites](//views/profile/favorites.md) / close friends:
+To share a post to your [Favorites](profile/favorites.md) / close friends:
 
-- Click the Share to Favorites <img src="/views/assets/sharefavorites.png" width="20" height="20" /> button.
-- Use the <kbd>Upload > Share > Share to Favorites</kbd> Menu Bar item.
+* Click the Share to Favorites ![](../.gitbook/assets/sharefavorites.png) button.
+* Use the `Upload > Share > Share to Favorites` Menu Bar item.
 
->**[info]**
-> If you enable sharing to your Favorites, [sharing to a Linked Account](#sharing-to-linked-accounts) is disabled.
-
-------
+{% hint style="info" %}
+If you enable sharing to your Favorites, [sharing to a Linked Account](upload.md#sharing-to-linked-accounts) is disabled.
+{% endhint %}
 
 ### Sharing to Linked Accounts
 
-Sharing allows you to cross-post your upload to a [linked account.](//views/profile/linkedaccounts.md) You can also [share existing posts](//views/sharing.md) at any time.
+Sharing allows you to cross-post your upload to a [linked account.](profile/settings/linkedaccounts.md) You can also [share existing posts](sharing.md) at any time.
 
 To share a post to a linked account:
 
-- Click the Share <img src="/views/assets/share.png" width="20" height="20" /> button.
-- Use the <kbd>Upload > Share > Linked Account</kbd> Menu Bar item.
+* Click the Share ![](../.gitbook/assets/share.png) button.
+* Use the `Upload > Share > Linked Account` Menu Bar item.
 
-Choose at least one social network to share to. 
+Choose at least one social network to share to.
 
-> **[info]**
-> You can also save your sharing options, so that the previously enabled options are remembered for your next upload.
-
-------
+{% hint style="info" %}
+You can also save your sharing options, so that the previously enabled options are remembered for your next upload.
+{% endhint %}
 
 ## Advanced Settings
 
 To adjust advanced settings on your post:
 
-- Click the Settings <img src="/views/assets/settings.png" width="20" height="20" /> button.
+* Click the Settings ![](../.gitbook/assets/settings.png) button.
 
-> **[info]**
-> You can also [disable comments after posting.](//views/detailview.md#enabling--disabling-comments)
-
-------
+{% hint style="info" %}
+You can also [disable comments after posting.](detailview.md#enabling--disabling-comments)
+{% endhint %}
 
 ## Switching Accounts
 
 To switch the account to post with:
 
-- Click on the profile picture and select an account.
-- Use the <kbd>Accounts</kbd> Menu Bar item.
-
-------
+* Click on the profile picture and select an account.
+* Use the `Accounts` Menu Bar item.
 
 ## Export Edits
 
-If you are a [Flume Pro](/preferences/flumepro.md) user, you can use Flume to edit your photos and videos, adding filters and fine-tuning with adjustments, but export the items for use elsewhere without uploading to Instagram.
+If you are a [Flume Pro](../preferences/flumepro.md) user, you can use Flume to edit your photos and videos, adding filters and fine-tuning with adjustments, but export the items for use elsewhere without uploading to Instagram.
 
 To export your edited items:
 
-- Click on the actions <img src="/views/assets/actions-menu.png" width="20" height="20" /> button in the titlebar area of the Upload window, and select the <kbd>Export Edits…</kbd> menu item.
-- Use the <kbd>Upload > Export Edits…</kbd> Menu Bar item.
+* Click on the actions ![](../.gitbook/assets/actions-menu.png) button in the titlebar area of the Upload window, and select the `Export Edits…` menu item.
+* Use the `Upload > Export Edits…` Menu Bar item.
 
 A dialog will appear asking you to choose the location to export your items.
-
-------
 
 ## Sync All Upload Windows
 
@@ -438,8 +366,6 @@ If you need to post some items in a series, such as 3 photos in a row with the s
 
 To sync all upload windows:
 
-- Click on the actions <img src="/views/assets/actions-menu.png" width="20" height="20" /> button in the titlebar area of the Upload window, and select the <kbd>Sync All Upload Windows…</kbd> menu item.
-- Use the <kbd>Upload > Sync All Upload Windows…</kbd> Menu Bar item.
-
-------
+* Click on the actions ![](../.gitbook/assets/actions-menu.png) button in the titlebar area of the Upload window, and select the `Sync All Upload Windows…` menu item.
+* Use the `Upload > Sync All Upload Windows…` Menu Bar item.
 
