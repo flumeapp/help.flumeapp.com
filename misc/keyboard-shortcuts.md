@@ -7,19 +7,19 @@ All of Flume's features can be accessed via the keyboard, and there are countles
 | Key Combination | Explanation |
 | :--- | :--- |
 | `↑ / ↓` | In Column-View mode, this will "focus" your media selection. In Grid-View Mode, this will move your current selection one row up/down.  In lists, such as Conversations, or Comments, this will "focus" your selection. |
-| `← / →` | The behaviour of the Left arrow will depend on your current navigation history. Normally, it will "pop" you one level back to where you previously where. If you have already made a selection in Grid-View Mode, the selection will move one to the left. If you deselect \(using ESC\), then pressing left will "pop" you back as usual.  The Right Arrow is only used in Grid-View mode currently, and moves your selection one item to the right. |
+| `← / →` | The behaviour of the Left arrow will depend on your current navigation history. Normally, it will "pop" you one level back to where you previously where. If you have already made a selection in Grid-View Mode, the selection will move one to the left. If you deselect \(using `⎋ (ESC)`\), then pressing left will "pop" you back as usual.  The Right Arrow is only used in Grid-View mode currently, and moves your selection one item to the right. |
 | `J / K` | Selects the next item in the current view. Behaves similar to UP / DOWN / LEFT / RIGHT depending on the current view layout. |
 | `⇞ (PAGE UP) / ⇟ (PAGE DOWN)` | Selects the first / last item in lists. |
-| `↩ (RETURN)` | When selecting items with the keyboard, RETURN will "push" to the relevant item. |
-| `⎋ (ESC)` | If you have made a selection using the arrow keys, ESC will deselect your selection.  If you have no current selection, ESC will "pop" you one level back to where you previously where, if applicable. The window will "bounce" when you cannot "pop" any further.  If the "Larger Preview" window is visible, ESC will close the Larger Preview, but keep your current selection.  In "pop-up" windows and popovers, such as the in-built Browser window, Camera window, Upload Locations, "Go to User…" popover, as well as the automatic hashtag and user search popovers, ESC will close the window/popover. |
-| `⇥ (TAB)` | In the Explore, Search and Profile views, the TAB key will switch between the sections of that view. In area where a text-entry area exists, TAB will switch focus between elements in that view \(for example, between the Search field and the search results table in the Search view. |
+| `↩ (RETURN)` | When selecting items with the keyboard, `↩ (RETURN)` will "push" to the relevant item. |
+| `⎋ (ESC)` | If you have made a selection using the arrow keys, `⎋ (ESC)` will deselect your selection.  If you have no current selection, `⎋ (ESC)` will "pop" you one level back to where you previously where, if applicable. The window will "bounce" when you cannot "pop" any further.  If the "Larger Preview" window is visible, `⎋ (ESC)` will close the Larger Preview, but keep your current selection.  In "pop-up" windows and popovers, such as the in-built Browser window, Camera window, Upload Locations, `Go to User…` popover, as well as the automatic hashtag and user search popovers, ESC will close the window/popover. |
+| `⇥ (TAB)` | In the Explore, Search and Profile views, the `⇥ (TAB)` key will switch between the sections of that view. In area where a text-entry area exists, `⇥ (TAB)` will switch focus between elements in that view \(for example, between the Search field and the search results table in the Search view. |
 | `⌘F` | Jumps to the Search tab. If you are on Conversations tab, the search field will be put in focus if it wasn't previously. |
-| `⌘?` | Displays the "Welcome to Flume" Window, with quick links to Flume's Website, Support and "What's New?" |
+| `⌘?` | Displays the `Welcome to Flume` Window, with quick links to Flume's Website, Support and `What's New?` |
 | `⌘⌃Space` | When the keyboard focus is in a text-entry area, this will invoke macOS's default "Emoji and Symbols" picker window, allowing you to insert emoji characters. See this [Apple Support](https://support.apple.com/en-us/HT201586) article for more info. |
 
 ## Menu Shortcuts
 
-An inbuilt-feature of macOS are keyboard shortcuts assigned to items in menus. Flume shows menus when the selection / item makes most sense. For instance, when you are viewing the Profile of a user, the "User" menu will appear in the menu. Similarly, when using keyboard selections for Media, Comments, Conversations and Messages, their related menus will appear.
+An inbuilt-feature of macOS are keyboard shortcuts assigned to items in menus. Flume shows menus when the selection / item makes most sense. For instance, when you are viewing the Profile of a user, the `User` menu will appear in the menu. Similarly, when using keyboard selections for Media, Comments, Conversations and Messages, their related menus will appear.
 
 {% hint style="info" %}
 Not all menu items are listed below, only those with existing keyboard shortcuts.
@@ -30,7 +30,7 @@ Not all menu items are listed below, only those with existing keyboard shortcuts
 | Key Combination | Explanation |
 | :--- | :--- |
 | `⌘N` | Opens an upload window |
-| `⌘O` | Opens an file selection window in order to open .flume saved draft files. |
+| `⌘O` | Opens an file selection window in order to open `.flume` saved draft files. |
 | `⌘R` | Refreshes the feed view, your notifications, pending follower requests, and the current view you are looking at, if applicable. |
 | `⌘W` | Closes the currently focused window. |
 
@@ -39,7 +39,7 @@ Not all menu items are listed below, only those with existing keyboard shortcuts
 | Key Combination | Explanation |
 | :--- | :--- |
 | `⌘⇧L` | When you use Flume with just a single account, this will logout your account, and delete all cached data and account information, presenting you with the login window.  If you use multiple accounts, this action is disabled. |
-| `⌃[1-9]` | When using multiple accounts, pressing `⌃` \(CTRL\) together with a corresponding number from `1..9` will quickly switch accounts. Click the "Accounts" menu to check the corresponding number \(accounts are sorted alphabetically\). |
+| `⌃[1-9]` | When using multiple accounts, pressing `⌃ (CTRL)` together with a corresponding number from `1..9` will quickly switch accounts. Click the `Accounts` menu to check the corresponding number \(accounts are sorted alphabetically\). |
 
 ### View Menu Shortcuts
 
@@ -60,7 +60,7 @@ Not all menu items are listed below, only those with existing keyboard shortcuts
 
 ### Post Menu Shortcuts
 
-The "Post" menu will appear when a keyboard selection has been made on a post, or when in the [Detail View](../views/detailview.md) of a post.
+The `Post` menu will appear when a keyboard selection has been made on a post, or when in the [Detail View](../views/detailview.md) of a post.
 
 | Key Combination | Explanation |
 | :--- | :--- |
@@ -80,7 +80,7 @@ The "Post" menu will appear when a keyboard selection has been made on a post, o
 
 ### User Menu Shortcuts
 
-The "User" menu will appear when a keyboard selection has been made on a post, when in the Detail View of a post, on a user's Profile, when selecting a Comment, Message, and in all User lists \(following/followers, [Activity](../views/activity.md) notifications etc\)
+The `User` menu will appear when a keyboard selection has been made on a post, when in the Detail View of a post, on a user's Profile, when selecting a Comment, Message, and in all User lists \(following/followers, [Activity](../views/activity.md) notifications etc\)
 
 | Key Combination | Explanation |
 | :--- | :--- |
@@ -106,7 +106,7 @@ The "Conversation" menu will appear when a keyboard selection has been made on a
 
 ### Message Menu Shortcuts
 
-The "Message" menu will appear when a keyboard selection has been made on a Message in a conversation. There are currently no keyboard shortcuts for this menu.
+The `Message` menu will appear when a keyboard selection has been made on a Message in a conversation. There are currently no keyboard shortcuts for this menu.
 
 ### Location Menu Shortcuts
 
@@ -118,7 +118,7 @@ The "Location" menu will appear when viewing the tagged posts at a Location.
 
 ### Hashtag Menu Shortcuts
 
-The "Hashtag" menu will appear when viewing the tagged posts of that Hashtag.
+The `Hashtag` menu will appear when viewing the tagged posts of that Hashtag.
 
 | Key Combination | Explanation |
 | :--- | :--- |
@@ -126,11 +126,11 @@ The "Hashtag" menu will appear when viewing the tagged posts of that Hashtag.
 
 ### Upload Menu Shortcuts
 
-The "Upload" menu will appear when the Upload window is the front-most window. When a Photo / Video has been selected, the `⇥` TAB key can switch focus between the Caption text-input, and the other buttons.
+The `Upload` menu will appear when the Upload window is the front-most window. When a Photo / Video has been selected, the `⇥ TAB` key can switch focus between the Caption text-input, and the other buttons.
 
 | Key Combination | Explanation |
 | :--- | :--- |
-| `⇧+` | Displays the menu to select a photo/video from your Mac, take a photo, or remove a previously selected item. Arrow keys can be used to navigate your selection and `↩` \(RETURN\) to confirm. |
+| `⇧+` | Displays the menu to select a photo/video from your Mac, take a photo, or remove a previously selected item. Arrow keys can be used to navigate your selection and `↩ (RETURN)` to confirm. |
 | `⌥⌘L` | Shows the [Location window](../views/upload.md#tagged-locations), allowing you to search for a location to tag the Media at. |
 | `⌥⌘E` | Toggles the [editing options.](../views/upload.md#editing) |
 | `⌥⌘T` | Shows the [Tagging window](../views/upload.md#tagged-users), allowing you to add User's to tagged in the Photo \(not applicable when uploading a Video\). |

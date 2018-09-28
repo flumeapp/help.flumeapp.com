@@ -48,7 +48,7 @@ The only necessary step is that listed under "Post-Processing", the options for 
 
 ## Adobe Photoshop
 
-Unlike Lightroom, Photoshop does not offer a simple way to export content into a post-processing application. However, using [AppleScript](https://en.wikipedia.org/wiki/AppleScript), it is still possible to automate the export into Flume.
+For Adobe Photoshop CC 2018 and later, you can use the macOS [Share Extension.](integrations.md#share-extension) Unlike Lightroom, Photoshop \(CC 2017 or older\) does not offer a simple way to export content into a post-processing application. However, using [AppleScript](https://en.wikipedia.org/wiki/AppleScript), it is still possible to automate the export into Flume.
 
 The following AppleScript can be used to export the currently open document in Adobe Photoshop CC 2017 into Flume. This can be imported into [AppleScript Editor](https://en.wikipedia.org/wiki/AppleScript_Editor), [Automator](https://en.wikipedia.org/wiki/List_of_macOS_components#Automator), or other tools that accept AppleScript input.
 
@@ -66,6 +66,4 @@ try
     do shell script command
 end try
 ```
-
-For Adobe Photoshop CC 2018 and later, you can use the macOS [Share Extension.](integrations.md#share-extension)
 
