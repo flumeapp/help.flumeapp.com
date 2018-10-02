@@ -24,6 +24,14 @@ When logging out of an account, you have the option for Flume to remember your l
 
 When enabling this option, a saved accounts ![](../.gitbook/assets/oneclick-login.png) button appears allowing you to log quickly back into previously saved accounts with just one click.
 
+## Two-Factor Authentication
+
+If you have enabled [Two-Factor Authentication \(2FA\)](profile/settings/twofactor.md) on your account, you will be asked to enter a code sent to your linked phone number after logging in.
+
+{% hint style="danger" %}
+Flume only supports SMS-based 2FA currently. Third-party 2FA authenticator apps are not supported at this stage.
+{% endhint %}
+
 ## Login Errors
 
 If login fails, a visible error alert will appear describing the issue. If your account has been disabled for violating Instagram's Community Guidelines, please consult [Instagram Support](https://help.instagram.com/366993040048856) for more info.

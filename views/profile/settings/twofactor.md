@@ -2,6 +2,10 @@
 
 To protect your account, Flume provides full support for Instagram's [Two-Factor Authentication. ](https://help.instagram.com/566810106808145) Whenever you or someone attempts to log in as you, an SMS verification code is sent to your phone to authorize the log in attempt.
 
+{% hint style="danger" %}
+Flume only supports SMS-based 2FA currently. Third-party 2FA authenticator apps are not supported at this stage.
+{% endhint %}
+
  ![](../../../.gitbook/assets/profile-twofactor.png) ![](../../../.gitbook/assets/login-twofactor.png)
 
 ## Enabling/Disabling Two-Factor Authentication
