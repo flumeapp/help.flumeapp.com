@@ -6,7 +6,7 @@ search: false
 
 ## 2.8.5.3
 
-[_Release Date: October 3rd, 2018._](http://blog.flumeapp.com/178697221751/flume-for-mac-2853)
+[_Release Date: October 3rd, 2018._](http://blog.flumeapp.com/post/178697221751/flume-for-mac-2853)
 
 * IMPROVED: Applicaition launch will be delayed in order to ensure any crashes that occur on launch have their reports submitted.
 * IMPROVED: Added additional URL schemes to jump to the likes, conversations, explore and profile views. See [https://help.flumeapp.com/misc/urlscheme](https://help.flumeapp.com/misc/urlscheme) for more.
