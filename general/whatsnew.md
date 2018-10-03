@@ -4,6 +4,37 @@ search: false
 
 # What's New in Flume
 
+## 2.8.5.3
+
+[_Release Date: October 3rd, 2018._](http://blog.flumeapp.com/178697221751/flume-for-mac-2853)
+
+* IMPROVED: Applicaition launch will be delayed in order to ensure any crashes that occur on launch have their reports submitted.
+* IMPROVED: Added additional URL schemes to jump to the likes, conversations, explore and profile views. See [https://help.flumeapp.com/misc/urlscheme](https://help.flumeapp.com/misc/urlscheme) for more.
+* FIXED: A concurrency issue that could cause duplicate posts to appear.
+* FIXED: An issue where tagged photos would not appear on profiles.
+* FIXED: An issue when trying to verify/activate/deactivate a Flume Pro licence and you had not logged into any Instagram account/s.
+* FIXED: A crash in the conversations area when trying to create a message header with an invalid date.
+* FIXED: A launch crash issue when the database is routinely pruned.
+* FIXED: When a database save fails, the database could have ended up in an inconsistent state leading to "session timed out" errors that weren't actually session time outs.
+* FIXED: Accounts that need to perform a newer security checkpoint workflow did not show the pop-up browser due to a bug on Instagram's API.
+* FIXED: A crash when clicking on the first item in the "Top", "Suggested" or "Recent" search results.
+* FIXED: An issue calculating the height of some labels when they contained emoji characters.
+* FIXED: It was possible to use the "Select Next/Prev Tab" menu item to switch to views in the main menu that you had hidden in Menu Preferences.
+* FIXED: A crash when dragging files to upload that reported invalid filenames.
+* FIXED: When typing hashtags in caption text areas, the currently typed hashtag would be omitted from the popover search results.
+* FIXED: The text entry areas no longer have contextual menu options to change the font or change the layout direction.
+* FIXED: The follower/following list search text field was hidden.
+* FIXED: A crash when trying to upload or share a video that was too small in dimensions.
+* FIXED: Added a warning about launching Flume outside of the /Applications folder.
+* FIXED: A potential crash when the preferences window resizes.
+* FIXED: A crash when trying to update a selection when there are no search results in popovers \(locations, users, tags\).
+* FIXED: The "Follows you" label will be displayed when viewing the followers of other users that are not you.
+* FIXED: The "Spread the word" button did not appear with the correct background colour directly after Flume Pro activation.
+* FIXED: A crash when receiving a push notification about a new comment received on one of your posts while you were viewing a conversation.
+* FIXED: The Command+F global search shortcut will not show the search view if it's been disabled from the main menu.
+* FIXED: When logging out all accounts, the database is reset to avoid issues where future saving continues to fail.
+* FIXED: Multiple various miscellaneous crash fixes.
+
 ## 2.8.5.2 
 
 [_Release Date: September 23rd, 2018._](http://blog.flumeapp.com/post/177901500771/flume-for-mac-2852)
