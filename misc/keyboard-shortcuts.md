@@ -47,10 +47,10 @@ Not all menu items are listed below, only those with existing keyboard shortcuts
 | :--- | :--- |
 | `⌘0` | Opens the Upload window to create a new post. |
 | `⌘1-7` | Switches to the corresponding views that match with the order in your [menu preferences.](../preferences/menu/order.md#toggling-menu-items) |
-| `⌘]` | Switches to the next tab. |
-| `⌘[` | Switches to the previous tab. |
-| `⌘{` | Moves to the previous item \(when viewing the [Details View](../views/detailview.md) from the [Feed](../views/feed.md), [Likes](../views/likes.md), [Explore](../views/explore.md#posts) or a [Profile](../views/profile/)\). |
-| `⌘}` | Moves to the next item \(when viewing the [Details View](../views/detailview.md) from the [Feed](../views/feed.md), [Likes](../views/likes.md), [Explore](../views/explore.md#posts) or a [Profile](../views/profile/)\). |
+| `⌘}`  / `⌘⇧]` | Switches to the next tab in the [Flume menu.](../preferences/menu/) |
+| `⌘{`  / `⌘⇧[` | Switches to the previous tab in the [Flume menu.](../preferences/menu/) |
+| `⌘[` | Moves to the previous post \(when viewing the [Details View](../views/detailview.md) from the [Feed](../views/feed.md), [Likes](../views/likes.md), [Explore](../views/explore.md#posts), [Hashtag](../views/hashtags.md), [Location](../views/locations.md) or [Profile](../views/profile/) views\). Will be disabled when you are at the beginning of the list. |
+| `⌘]` | Moves to the previous post \(when viewing the [Details View](../views/detailview.md) from the [Feed](../views/feed.md), [Likes](../views/likes.md), [Explore](../views/explore.md#posts), [Hashtag](../views/hashtags.md), [Location](../views/locations.md) or [Profile](../views/profile/) views\). Will attempt to download more items if you reach the end of the list. |
 | `⌘U` | Displays a popover to jump quickly to any user. Use the `⎋ (ESC)` or `↓ (Down Arrow)` key while typing a username to see suggestions. |
 | `⌥⌘1` | In the Feed, Likes and Explore tabs, as well as in Profiles, switches the display to display Media in a single Column-View. |
 | `⌥⌘2` | In the Feed, Likes and Explore tabs, as well as in Profiles, switches the display to display Media in a 3x3 Grid-View. |
