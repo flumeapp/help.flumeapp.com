@@ -59,9 +59,9 @@ Clicking on the status bar icon will toggle the windows front-most status, simil
 
 ![](../.gitbook/assets/menubar.png)
 
-## Play Sounds
+## Play Sound Effects
 
-Enable or disable user-interface sounds \(such as when refreshing content with the "pull-to-refresh" method, or clicking on buttons\).
+Enable or disable user-interface sound effects \(such as when refreshing content with the "pull-to-refresh" method, or clicking on buttons\).
 
 Enable or disable automatic spell checking corrections while typing captions, messages, and captions.
 
