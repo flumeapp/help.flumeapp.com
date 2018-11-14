@@ -2,6 +2,8 @@
 
 All of Flume's features can be accessed via the keyboard, and there are countless keyboard shortcuts that you can use to speed up your browsing experience.
 
+In addition to extensive keyboard shortcuts, Flume includes a unique [Hover Shortcuts](hover-shortcuts.md) feature for even quicker access to common actions.
+
 ## General Shortcuts
 
 | Key Combination | Explanation |
