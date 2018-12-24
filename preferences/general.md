@@ -63,8 +63,6 @@ Clicking on the status bar icon will toggle the windows front-most status, simil
 
 Enable or disable user-interface sound effects \(such as when refreshing content with the "pull-to-refresh" method, or clicking on buttons\).
 
-Enable or disable automatic spell checking corrections while typing captions, messages, and captions.
-
 ## Show Labels in Touch Bar
 
 Enable or disable labels for buttons that appear in the [Touch Bar](https://support.apple.com/en-us/HT207055). Disabling this option will allow more buttons to be visible in the Touch Bar. [Learn more.](../misc/touchbar.md)
