@@ -16,6 +16,18 @@ search: false
 * NEW: You can now toggle through posts in carousel posts in the Large Preview window, including when viewing from Grid-View Mode using the position of the mouse cursor.
 * NEW: Hover-Shortcuts can now have their shortcuts overridden.
 * NEW: Flume now supports upload and handling of wide-gamut (Display P3) images, including editing with filters.
+* NEW: You can now view tagged users in videos.
+* NEW: Added an option to download higher quality grid-view thumbnails.
+* NEW: Profile view counts in the profile header are now displayed (business profiles only).
+* NEW: Added a banner when sharing posts in a conversation from a private profile to indicate only followers of the private profile will be able to see the post.
+* NEW: Separated follower/following/follow requests lists.
+* NEW: Split activity into new/today/yesterday/this week/this month/earlier sections.
+* NEW: New search history and account privacy views.
+* NEW: Added "liked by" avatars in column feed view. 
+* NEW: Language changes no longer require an application restart.
+* NEW: Added option to pre-set location from EXIF data.
+* NEW: Split out post likes from the detail view.
+* NEW: Added new likes and views list for videos.
 * IMPROVED: Switching between tabs on the Flume menu will no longer force a reload, allowing you to switch between views without losing your previous position.
 * IMPROVED: Massively improved Large Preview performance when opening, closing, and moving between posts via the keyboard.
 * IMPROVED: Window resizing / redrawing performance has been massively improved.
@@ -25,6 +37,19 @@ search: false
 * IMPROVED: Edits made in the upload window (filters and adjustments) will be immediately displayed in the thumbnails of the carousel items.
 * IMPROVED: Faster loading of draft files, especially those where the items had edits applied.
 * IMPROVED: On relaunch, Flume will resume from last selected view.
+* IMPROVED: Faster creation of backup file on uploads. 
+* IMPROVED: Faster saving / editing on uploads.
+* IMPROVED: Larger baseline font size, increasing readability everywhere.
+* IMPROVED: Updated to the latest pending message request headers.
+* IMPROVED: Redesigned conversation info view to match latest mobile layout.
+* IMPROVED: Updated profile settings area to match latest mobile app options.
+* IMPROVED: Larger welcome window (so that more release notes can be read).
+* IMPROVED: Added blurred version of thumbnails in details view while higher resolutions are downloaded.
+* IMPROVED: Added long-press support to caption text view links (for previews)
+* IMPROVED: Replying to comment notifications uses the quick-reply popover instead of jumping to the details view.
+* IMPROVED: Sponsored post indicator icon in grid-view.
+* IMPROVED: Vastly improved scroll position behaviour in column view mode when using the keyboard (to ensure the post is visible).
+* IMPROVED: Long captions are now truncated by default and can be expanded.
 * FIXED: Added an explicit check to confirm acceptance of the Flume Term's of Use.
 * FIXED: Improved the image cropping resizing performance on Macs with a Touch Bar.
 * FIXED: An issue where the previous post selection would jump to an incorrect position when using the keyboard to move back/forward.
@@ -84,6 +109,73 @@ search: false
 * FIXED: The avatar of the logged in user might not have updated in the macOS Menu Bar in certain cases.
 * FIXED: If audio alerts are disabled in System Preferences > Notifications > Flume, this will override whatever notification preferences are set for audio alerts.
 * FIXED: Flume Beta will no longer expire if it's not older than the last publicly available release.
+* FIXED: Wider timestamp label on conversations.
+* FIXED: Update account list in Preferences when avatar/name changes.
+* FIXED: Update account names/avatars on upload window when changes detected.
+* FIXED: When changing usernames, the "accounts" menu, accounts preference pane, accounts menus did not update immediately.
+* FIXED: Some usernames with dots were detected incorrectly as URLs (though they are valid URLs/domains).
+* FIXED: The profile header will refresh after popping back from the edit profile view.
+* FIXED: An issue with profile headers not updating correctly when adding/removing content eg. biography/website. 
+* FIXED: Some missing button clicks. 
+* FIXED: Play video on hover if post details mode was no compact or all.
+* FIXED: An issue where long-press actions might be accidentally triggered.
+* FIXED: A long-standing issue with recommended media in similar account suggestion feeds causing missing thumbnails on the subsequent profiles.
+* FIXED: Use "none" not "off" for the Feed > Hide preference.
+* FIXED: Ability to disable all menu items.
+* FIXED: Faster larger preview window appearance on the details view.
+* FIXED: The back button was not working from the similar accounts view.
+* FIXED: Immediately hide posts when archiving them.
+* FIXED: Live resizing positioning of carousel/video indicators on explore / suggested user rows.
+* FIXED: Disabled quick-comment and hover-commenting on media that has commenting disabled.
+* FIXED: Added slightly darker backgrounds to blurred areas to improve readability everywhere.
+* FIXED: An issue where "See translation" links might appear incorrectly after you change languages.
+* FIXED: Don't show usernames of unpublished accounts (sponsored posts).
+* FIXED: After making edits to posts, the feed/profile is immediately refreshed to ensure new captions/locations are displayed.
+* FIXED: Faster account switching.
+* FIXED: Show loading indicators for comments list immediately on appearance.
+* FIXED: Various issues related to changes in comment threads.
+* FIXED: Videos did not stop on the upload window when an upload or other action in progress.
+* FIXED: Don't check video length or size on a repost.
+* FIXED: Added an option to open and clear the recently opened documents.
+* FIXED: Don't show desktop notifications when looking at the pending message requests.
+* FIXED: Pull-down-to-refresh triggering on previous views.
+* FIXED: Incorrect accessibility tooltip on search fields. 
+* FIXED: Missing image previews/blurred images in message requests.
+* FIXED: Activity indicator not disappearing on a profile preview if there's 0 posts from the user (non-private).
+* FIXED: Muted icon and section header images not refreshing to the changed design mode when popping back.
+* FIXED: Increase max conversation group size to 32.
+* FIXED: Private profile previews not showing any thumbnails if we hadn't yet cached any media for the private user.
+* FIXED: Updated formatted count styles to the latest mobile app logic.
+* FIXED: upload window preview not using a cropped image if present.
+* FIXED: Improved visibility of activity indicator on preview profile/hashtag/location views.
+* FIXED: "Show author" preference causing a loop when trying to view the details of a post from a profile.
+* FIXED: ESC key not popping back on tagged posts options.
+* FIXED: Allow arbitrary video/photo aspect-ratios in conversation messages.
+* FIXED: Batch carousel "resize to fit" creating invalid images. 
+* FIXED: Batch carousel not resizing/compressing output files. 
+* FIXED: Flicker of content when popping back views.
+* FIXED: Restrict height of preview images in messages.
+* FIXED: Closing the large preview window on messages didn't use the correct thumbnail.
+* FIXED: Next/previous buttons not showing the correct enabled/disabled stated when pushing from the saved collection or archived posts lists. 
+* FIXED: Saved collections posts not appearing.
+* FIXED: Hover-shortcuts not checking current media liked value.
+* FIXED: Added more errors for fatal issues on the upload window.
+* FIXED: Animate alpha changes on buttons.
+* FIXED: Avoid animating the wrong image in when switching items quickly in detail view.
+* FIXED: Missing avatars in accounts menu after emptying caches.
+* FIXED: Allows hover-shortcuts to work if the current table selection is the view the mouse is over.
+* FIXED: Dock contextual menu will match Flume's menu ordering/enabled sections.
+* FIXED: Speed up background processing of long user lists (eg. followers/following/post likes).
+* FIXED: Added touch bar support on various user lists.
+* FIXED: Defaulted design mode to dark rather than System Appearance.
+* FIXED: Assume videos have audio if not present in API data.
+* FIXED: Handle comment area visible on push, which was causing jumping in details view.
+* FIXED: Profile header labels disappearing when changing font size and header is collapsed.
+* FIXED: Immediately show save/like status on column view buttons, and immediately update frame height (if first like on a post). 
+* FIXED: Fade changes to save/like buttons.
+* FIXED: Disable login sheet being detachable in Accounts preferences.
+* FIXED: Adjust the pending request counts when ignore or accepting a follow request.
+* FIXED: Handle resizing of detail header when first like is added/removed.
 * FIXED: Multiple rare crash fixes.
 
 ## 2.8.5.3
