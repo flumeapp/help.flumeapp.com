@@ -8,11 +8,87 @@ search: false
 
 [_Release Date: February 1st, 2019._](https://flume.link/286)
 
-
+* NEW: Completely redesigned automatic caption pre-filling that uses a template syntax offering the ability to allows you to include IPTC and EXIF information, or simply a preset list of hashtags.
+* NEW: Completely redesigned cropping behaviour, with the ability to quickly switch between common photo/video frame aspect-ratios.
+* NEW: Switching between posts in a carousel post is now simpler and uses the position of the mouse cursor to determine the action (previous / details / next).
+* NEW: The Upload, Edit, and Share windows can now be resized (vertically) to allow more space to write and edit your captions.
+* NEW: Reposting has been vastly improved, allowing you to add visual banners, toggling including the original caption, and whether you wish to tag the original author. Reposting is now permitted on all posts from profiles that are not private, however some form of attribution is mandatory (banner, mention in the caption, and/or user tag).
+* NEW: You can now toggle through posts in carousel posts in the Large Preview window, including when viewing from Grid-View Mode using the position of the mouse cursor.
+* NEW: Hover-Shortcuts can now have their shortcuts overridden.
+* NEW: Flume now supports upload and handling of wide-gamut (Display P3) images, including editing with filters.
+* IMPROVED: Switching between tabs on the Flume menu will no longer force a reload, allowing you to switch between views without losing your previous position.
+* IMPROVED: Massively improved Large Preview performance when opening, closing, and moving between posts via the keyboard.
+* IMPROVED: Window resizing / redrawing performance has been massively improved.
+* IMPROVED: The text-entry area in conversations now increases as you type to make more room for your message.
+* IMPROVED: Carousel posts will now be created faster by removing the need to choose the cropping region for subsequent items that match the initial item.
+* IMPROVED: Videos that contain no audio will make it clearer that it cannot be muted/unmuted.
+* IMPROVED: Edits made in the upload window (filters and adjustments) will be immediately displayed in the thumbnails of the carousel items.
+* IMPROVED: Faster loading of draft files, especially those where the items had edits applied.
+* IMPROVED: On relaunch, Flume will resume from last selected view.
+* FIXED: Added an explicit check to confirm acceptance of the Flume Term's of Use.
+* FIXED: Improved the image cropping resizing performance on Macs with a Touch Bar.
+* FIXED: An issue where the previous post selection would jump to an incorrect position when using the keyboard to move back/forward.
+* FIXED: Video controls are now hidden on the Large Preview window.
+* FIXED: A rounding issue that could cause 1px solid colours to appear in an upload when manually cropping.
+* FIXED: Multiple improvements to update the macOS Menu Bar correctly when using contextual-menus.
+* FIXED: An issue that could cause strange scrolling behaviour for views that did not have a pull-down-to-refresh control.
+* FIXED: The preloading indicator has been redesigned for consistency.
+* FIXED: When using the keyboard to scroll items in Column-View Mode, the table will no longer force a scroll to the middle, and only ensure the item is visible.
+* FIXED: Added more support links to the About window.
+* FIXED: When using the Go to User… search window, the search text field would not be re-enabled in case of a network failure that occurred during the search.
+* FIXED: An issue where a security checkpoint window would not appear on the login window, if it was the very first account you were trying to add.
+* FIXED: An issue where the unread conversations/messages indicator would not disappear.
+* FIXED: Improved reliability of ignoring duplicate database objects due to simultaneous network requests and conditions.
+* FIXED: A crash when the real-time messaging service failed to send a message on macOS Yosemite 10.10.
+* FIXED: Critical errors related to writing files to the file-system will now add entries to the Flume log, and visibly display to the user.
+* FIXED: Any potential database object error is now written to the Flume log file for help diagnosing rare and difficult to produce issues.
+* FIXED: A potential crash when logging out / logging in on macOS Yosemite if the Flume Preference window was visible.
+* FIXED: Hashtags that are added to captions via IPTC keywords pre-fill will now correctly remove spacing for multi-word keywords.
+* FIXED: The current keyboard text-focus would be lost when the main window was moved.
+* FIXED: When writing a message to a user from their profile, a "Search…" placeholder would appear unnecessarily.
+* FIXED: When writing a message to a user not previously messaged, the "done" button would appear in the title bar area unnecessarily.
+* FIXED: A crash that could occur when trying to update the tags on a post.
+* FIXED: A regression where it was not possible to type the + character when logging in via email address.
+* FIXED: A workaround for a crash on macOS Yosemite related to loading new windows.
+* FIXED: A crash when trying to send an invalid / corrupt image in a conversation.
+* FIXED: Before rendering a video for upload, confirm that the desired options are valid to ensure non-corrupt video/audio tracks.
+* FIXED: Every label / text area has been refactored to use less memory, reduce the chance of crashes on older macOS versions, handle font-size changes and alignment better, and provide faster resize performance.
+* FIXED: Pressing the ESC key when typing a message in a conversation would pop the view back before it tried to deactivate the keyboard focus first.
+* FIXED: After selecting the last visible item in Grid-View Mode with the keyboard, the next attempt to select the last (bottom) item would instead select the top visible item.
+* FIXED: A workaround for a macOS bug where multiple files dragged to a Dock icon will not be batched into a single group, causing the option to create a carousel post to disappear.
+* FIXED: When a failure to link to Twitter or Odnoklassniki occurred via the upload sharing options popover, the failure would not be correctly detected and the activity indicator would remain indefinitely.
+* FIXED: The in-app web-browser window would not correctly clip long titles of websites.
+* FIXED: The in-app help documentation viewer is now slimmer by default, to allow side-by-side reading and operation.
+* FIXED: The list of Facebook Pages/locations to share to could appear incorrectly if a network failure occurred when asking Facebook for the current list of managed Facebook Pages.
+* FIXED: Multiple memory and speed improvements via increased caching of common configuration settings (font size, design mode, etc).
+* FIXED: An animation issue when switching between items in a carousel post.
+* FIXED: Force the upload window to close in the rare case that an Instagram API issue returns a video upload failure despite the upload succeeding.
+* FIXED: The follow request button in the Touch Bar will correctly update if the profile is private and a request is pending.
+* FIXED: Video exporting / rendering errors will now display a more descriptive error.
+* FIXED: A rare crash that could occur when trying to view a profile preview popover.
+* FIXED: Added a gap between posts in Column-View mode when Post Details is set to None or Hover, so that it is easier to determine edges when multiple subsequent posts contain the same edge/border colours.
+* FIXED: An alignment issue with the verified badge when the verified profile contains an emoji in the name.
+* FIXED: Reply avatars in threaded comments are smaller to improve readability.
+* FIXED: Profile placeholders have been updated to the latest Instagram versions.
+* FIXED: The upload editing Touch Bar buttons are bolder and easier to see.
+* FIXED: If macOS is currently in Do-Not-Disturb mode, Flume will not play audio alerts.
+* FIXED: When switching between posts in a carousel post, the video play/pause button would appear/disappear momentarily at the wrong time.
+* FIXED: Transitions and switching between views in the Flume menu is now faster.
+* FIXED: Some buttons incorrectly assigned the same key equivalent to Command + Enter on the upload / login windows.
+* FIXED: An issue when trying to repost videos that are in fact longer than 60.0 seconds by a few hundred milliseconds.
+* FIXED: Touch Bar scrubbers will correctly scroll to the newly selected values when using the mouse/keyboard to make selections.
+* FIXED: Further improved handling of session time outs, by ensuring that Flume can handle the case where a log-out request fails.
+* FIXED: When upload, edit, or share windows are open, switching accounts or adding a new account is now prohibited.
+* FIXED: When viewing the un-viewed posts that you have been tagged in, the badge may not have disappeared immediately.
+* FIXED: An edge-case where multiple requests to pre-fetch carousel post items could fail to display on first load.
+* FIXED: The avatar of the logged in user might not have updated in the macOS Menu Bar in certain cases.
+* FIXED: If audio alerts are disabled in System Preferences > Notifications > Flume, this will override whatever notification preferences are set for audio alerts.
+* FIXED: Flume Beta will no longer expire if it's not older than the last publicly available release.
+* FIXED: Multiple rare crash fixes.
 
 ## 2.8.5.3
 
-\_\_[_Release Date: October 3rd, 2018._](http://flume.link/2853)\_\_
+[_Release Date: October 3rd, 2018._](http://flume.link/2853)
 
 * IMPROVED: Application launch will be delayed in order to ensure any crashes that occur on launch have their reports submitted.
 * IMPROVED: Added additional URL schemes to jump to the likes, conversations, explore and profile views. See [https://help.flumeapp.com/misc/urlscheme](https://help.flumeapp.com/misc/urlscheme) for more.
