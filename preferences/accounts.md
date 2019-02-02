@@ -1,6 +1,8 @@
 # Accounts Preferences
 
-![](../.gitbook/assets/accounts.png)
+
+
+![](../.gitbook/assets/accounts%20%281%29.png)
 
 ## Adding an Account ![](../.gitbook/assets/pro.png)
 

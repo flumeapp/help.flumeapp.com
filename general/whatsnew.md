@@ -4,11 +4,239 @@ search: false
 
 # What's New in Flume
 
+## 2.8.6
+
+\_\_[_Release Date: February 1st, 2019._](https://flume.link/286)
+
+* NEW: Carousel posts can be swiped with a mouse gesture when in column view mode or on the detail view.
+* NEW: Video uploads can have their volume adjusted \(or muted entirely\).
+* NEW: Videos can now be muted/unmuted when playing. The preference is saved for future use and persists between app relaunches.
+* NEW: Live-previews of border colour changes and appearance when resizing photos to fit in the cropping window.
+* NEW: Added a preference to enable macOS' automatic spell checking \(for captions, comments, and messages\)
+* NEW: Flume Pro users can export edits to their photos/videos without posting or creating a draft.
+* NEW: Profiles now collapse headers, providing more height for content as you scroll down.
+* NEW: You can now trim videos in the upload window. The 3-60 second selection limit still applies, however you are able to fine-tune and trim your video selections.
+* NEW: Added support for Little Snitch's Internet Access Policies. If you have Little Snitch installed, more information will be provided about the purpose of each remote server that Flume communicates with, and what will occur if you decline the connection.
+* NEW: Support for HEIC \(iPhone X\), TIF and TIFF photos.
+* NEW: More IPTC information will be pre-filled on uploads: titles and descriptions of videos, keywords will be converted into \#hashtags, and tagged people in photos will be also listed in the caption.
+* NEW: The number of tagged users in a photo post are now marked \(max. 20\)
+* NEW: Hashtags from previous uploads are now displayed in groups in the upload/edit/comment popovers. This allows you to reuse all the hashtags from your previous uploads much faster.
+* NEW: Added a tagged posts filter to activity notifications.
+* NEW: Added like/unlike animations on shared photos/videos/posts/hashtags/locations.
+* NEW: You can now double-click shared photos/videos/posts/hashtags/locations.
+* NEW: Conversation headers now show avatars.
+* NEW: Shared media posts now show the caption preview to be consistent with the mobile IG apps.
+* NEW: You can toggle bookmarks of conversations from the contextual menu, macOS menu bar, and Touch Bar \(from the conversations list\).
+* NEW: When loading more comments, the newest comment is highlighted briefly so you can tell which comments just loaded.
+* NEW: Support for link messages that don’t have image previews. Test it out by sharing a Google Maps link in a conversation.
+* NEW: You can double click to like text messages \(if Instagram has enabled it for your account\).
+* NEW: View the tagged users on a video post.
+* IMPROVED: Draft files will now store cropped versions of photos and restore accordingly when opened. Carousel post draft files with photos will no longer require re-cropping upon open resulting in much faster opening times.
+* IMPROVED: You can now open multiple draft files \(max 10 at a time\).
+* IMPROVED: Hashtags, usernames, and links when writing captions are now highlighted and clickable.
+* IMPROVED: Duplicate hashtags and usernames are highlighted when writing captions.
+* IMPROVED: A massive internal refactor to improve multi-threaded performance throughout.
+* IMPROVED: You can now choose a much more refined cover image for video uploads.
+* IMPROVED: The layout of the login window when entering the 2FA SMS code in German.
+* IMPROVED: Added support for more push notification alerts.
+* IMPROVED: Enforcing a square crop no longer requires holding the SHIFT key and can be toggled via a button.
+* IMPROVED: Multiple improvements to the VoiceOver and accessibility behaviour.
+* IMPROVED: You can now use the default 1Password browser extension keyboard shortcut \(Command + Backslash\) on the login window.
+* IMPROVED: The readability of messages with links in dark mode.
+* IMPROVED: Hiding an activity notification, deleting media, deleting saved collections and deleting conversations will refresh the table immediately instead of blocking the app while waiting for the success/failure of the network request.
+* IMPROVED: The licence activation process no longer displays your name/email field until you verify your licence code. Your currently activated name and email address are displayed also.
+* IMPROVED: A warning will display if you have installed multiple versions of Flume \(direct and Setapp\).
+* IMPROVED: A warning will display if you try to activate a Flume Pro licence, but you have the Setapp version of Flume installed.
+* IMPROVED: Reduced the volume and delay of the button click sound effect.
+* IMPROVED: Full-screen is now disabled, while still allowing Split-View on macOS 10.11 and later. To continue using Split-View, hold the OPTION key while long-pressing on the zoom \(maximize\) button.
+* IMPROVED: Maximum video size increased to 400MB to accomodate a 60-second video encoded with an average 5.5mbps bit rate.
+* IMPROVED: The "Resize to Fit" button will now work with carousel posts, making it much easier to quickly mix portrait/landscape items together, and will force any image to resize to the correct dimensions.
+* IMPROVED: Tagged users in a photo will be marked when searching for more users to tag in a photo.
+* IMPROVED: Moved the "Take a Photo" to the contextual menu to speed up the upload process with one less click.
+* IMPROVED: You can click anywhere above a shared post/hashtag/location to view the shared content.
+* IMPROVED: Profile, location, and hashtag previews now have borders around image sections.
+* IMPROVED: When reposting a carousel post that needs to generate previews, more indication as to the progress is provided \(eg. „2/8“\)
+* IMPROVED: Link messages now show more text in the title/summary and are resizable with the message.
+* IMPROVED: The large preview window content will update as you navigate with the keyboard on the activity view.
+* IMPROVED: The push notification status now uses icons as well as colour for colour-blind users.
+* IMPROVED: Much faster saving / editing on uploads.
+* IMPROVED: Much faster creation of backup files \(for drafts\).
+* FIXED: Extremely wide or tall images/videos can be cropped / tagged correctly on smaller resolution displays.
+* FIXED: The resize to original button appeared incorrectly on the upload window, or sometimes did not appear after cropping an item.
+* FIXED: The tagging window will now correctly use the currently cropped region of the photo \(if applicable\).
+* FIXED: Email addresses containing hyphens can now be used for log in.
+* FIXED: An issue that would cause tagged user information and tagged locations to get lost in draft files between app relaunches or database resets, thus causing an upload failure.
+* FIXED: The pending message indicator wasn’t the right colour based on design mode.
+* FIXED: When sending a message, the entire table of messages no longer reloads when the message is successfully delivered.
+* FIXED: When a message failed to send via real-time chat, the retry button didn’t appear.
+* FIXED: The appearance of the switch to business profile window didn’t animate correctly.
+* FIXED: When switching from a business to personal profile, the profile menu would not update to reflect the change.
+* FIXED: The list of managed FB Pages didn’t appear when trying to switch to a business profile.
+* FIXED: An issue where multiple "Session timed out" alerts could appear.
+* FIXED: An issue that could cause the feed to load incorrect items after multiple subsequent refreshes.
+* FIXED: Improved the behaviour of activity cells, including hover and click-throughs.
+* FIXED: Support for 1Password 7 on the login window.
+* FIXED: The pending message indicator didn’t fade in/out nicely.
+* FIXED: The unread conversation indicator would appear for conversations where the last message was a story/temp message, which you can’t see yet as Stories / temp. messages aren’t supported.
+* FIXED: Handle an edge-case where the upload window could become stuck when uploading carousel posts.
+* FIXED: An issue where videos that were taken with a device that was rotated when filming would cause Flume to incorrectly assume the correct orientation.
+* FIXED: The "Crop" button in the cropping window will update to "Done" if you have selected the entire area of the source photo/video.
+* FIXED: A display issue when sending a URL link as a message.
+* FIXED: Fixed sharing using the Share Extension in Photoshop CC 2018.
+* FIXED: An issue where the Share Extension could get stuck when trying to share from another app with a file type that it doesn't support.
+* FIXED: A scrolling issue when replying to threaded comments.
+* FIXED: Restored the "follows you" label when viewing lists of following users.
+* FIXED: Search bookmarks are no longer lost when pruning the internal database.
+* FIXED: The "Details" heading could appear for chats that aren't group chats.
+* FIXED: When cancelling bookmark imports, a success message would still appear.
+* FIXED: The list of bookmarks will no longer jump to the top when scrolling to the bottom of search bookmarks.
+* FIXED: Pagination for follower lists.
+* FIXED: Removed the potential flickering of images when loading older content.
+* FIXED: Users already tagged in a photo are highlighted when searching to tag another user.
+* FIXED: The position of the unread message indicator for conversations with multiple participants.
+* FIXED: Previously failed / empty messages are no longer displayed.
+* FIXED: An issue when trying to play videos from the feed in the large preview window.
+* FIXED: A memory issue / hang that could occur if a network error failed when trying to download the high resolution version of a video  via the large preview window.
+* FIXED: An issue where the app would not respect the "Hide" checkbox for apps that launch at login, if you were using Flume in "Menu Bar only" mode.
+* FIXED: Error messages that occurred during video upload weren't displayed.
+* FIXED: A hanging issue when trying to create a carousel post.
+* FIXED: Video container files that contained a mismatch of audio/video tracks would cause cropping to fail.
+* FIXED: An issue where the conversations activity indicator and Dock icon would remain badged despite no unread messages.
+* FIXED: The reply comment field resets correctly after sending a comment.
+* FIXED: A bug that could cause "\(null\)" comments to be posted when clicking on desktop notification alerts.
+* FIXED: Dragging multiple files will now sort by filename \(alphabetically and numerically sorted\), rather than creation date.
+* FIXED: The profile suggestions section would appear when unfollowing a user instead of only when following.
+* FIXED: Related tag feeds that contained non-ASCII characters would not load.
+* FIXED: The posts count will update immediately when deleting a post from your Profile.
+* FIXED: An issue where some times would not appear in your feed if you unarchived them.
+* FIXED: An issue where you could try to repeatedly request older content multiple times.
+* FIXED: The conversations list is refreshed after accepting a pending message request and popping back.
+* FIXED: Security checkpoints will no longer display a confusing alert, and will also detect when you've completed the security checkpoint and close the pop-up browser window automatically.
+* FIXED: An issue where the saved sharing options would not restore after a relaunch on the first upload window.
+* FIXED: An issue where failed messages sent via real-time did not indicate they failed to send, nor show a retry button.
+* FIXED: Clicking on the avatar in the user search results popover did nothing.
+* FIXED: An issue where the loading indicator could appear incorrectly on the large preview window.
+* FIXED: The colour of the scrollbar scrollers will adjust based on the design mode \(light/dark\).
+* FIXED: If disconnecting from the messaging server takes too long when quitting, Flume will force an app termination.
+* FIXED: An issue where the default cover image frame of a video would not be chosen.
+* FIXED: An incorrect placeholder was displayed when you responded to all pending follow requests from your profile.
+* FIXED: A missing placeholder when viewing a profile that has no tagged posts.
+* FIXED: An edge-case issue that would not show pending message requests in your Activity feed if you had no activity \(for new accounts\).
+* FIXED: The menu will be forced to hide / show when you change your menu visibility preferences.
+* FIXED: When saving a draft but cancelling the save dialog, the current contents could not be saved until another change was made.
+* FIXED: Multiple miscellaneous memory leaks and performance improvements.
+* FIXED: Added support for loading older comments after an API change by Instagram.
+* FIXED: A memory issue that affected macOS Yosemite.
+* FIXED: An issue where top post insights would not show thumbnails of carousel posts.
+* FIXED: An issue where the gender percentage pie chart would clip the value labels.
+* FIXED: When uploading a carousel post, the desktop notification will now show the correct text and a thumbnail preview.
+* FIXED: Missing filter names when scrolling through upload filter preferences.
+* FIXED: Progress indicators animate in/out smoothly when sending messages.
+* FIXED: An issue where a conversation could scroll to the bottom twice when another user in the conversation switched between typing and not typing.
+* FIXED: Failed uploads of photo/video in a conversation if no media had previously been shared in that conversation before.
+* FIXED: A database issue when trying to reduce count/view values below 0.
+* FIXED: An issue when dragging user tag buttons on the upload / edit windows that would remove the tag instead of adjusting the position.
+* FIXED: An incorrect large preview window size when opening/closing.
+* FIXED: An issue where headers might not update their design style \(light/dark mode\) on reappearance.
+* FIXED: The remove saved search button did not adjust when changing design mode.
+* FIXED: Added a verified profile badge to profile previews and adjusted position of usernames when no name exists.
+* FIXED: Update the comment count on a post immediately when deleting comments.
+* FIXED: An issue where deleting the last comment on a post would not reduce the comment count to 0.
+* FIXED: The "Delete Comments" menu item will only appear if there's comments, or if comments are enabled.
+* FIXED: The following status on a blocked account might appear as if it was being followed. 
+* FIXED: The follow button would show on blocked profiles when it should be hidden. 
+* FIXED: A crash when the profile suggestions view tries to display a user with no username.
+* FIXED: The profile view is immediately refreshed when unblocking a user.
+* FIXED: Multiple visual improvements to shared media, photos, videos, hashtags, locations and user profiles in conversations.
+* FIXED: Refresh the "View" menu after toggling a saved search bookmark via the buttons in the titlebar area, as opposed to menu or keyboard shortcut.
+* FIXED: When receiving a new message via real-time messaging and viewing the conversation list, the timestamp on the conversation didn't update.
+* FIXED: The unread message indicator did not show if you were sending messages to an account that has both the sender and recipient added as accounts in Flume.
+* FIXED: Improved memory usage and animation of title bar views, and various issues in refreshing current like/saved status.
+* FIXED: Missing thumbnail/preview images when consecutive and identical shared posts/hashtags/locations are sent.
+* FIXED: Safeguards around all API parsing, to avoid unexpected situations when Instagram API results are changed to invalid or strange values.
+* FIXED: The load more row would randomly drawing a large circle when scrolling quickly to the bottom of the feed.
+* FIXED: Fixed clipping of the "Help spread the word" button in Russian.
+* FIXED: Typing diacritics via the macOS long-press popover would cause double characters to be typed.
+* FIXED: The message section headers could sometimes disappear when resizing the window.
+* FIXED: Previously deleted one-on-one conversations could reappear if that user is considered by Instagram a "recommended" recipient. 
+* FIXED: Added support to handle security checkpoints where you must confirm if a log-in from a certain location was you or not.
+* FIXED: An edge-case where multiple security checkpoint alert dialogs could appear.
+* FIXED: Activity notifications wouldn’t always filter correctly for "likes".
+* FIXED: Handle and workaround for an Instagram API bug for displaying the reason certain media cannot be promoted \(eg. too low resolution\).
+* FIXED: The items in an pop-up button \(eg. share to facebook\) would appear grey instead of black.
+* FIXED: An issue where newlines would appear as „\n“ when sharing posts to Facebook.
+* FIXED: An issue where the user search popover in the upload window would not re-appear in certain edge-cases after pressing backspace.
+* FIXED: Usernames that looked like websites \(eg. username.org\) would appear as blue in activity notifications instead of white.
+* FIXED: When switching between accounts on the activity tab, the activity from the previous account would appear momentarily.
+* FIXED: Dates would not use the language Flume is set to, and would default to the current user’s locale resulting in potential mixes between languages.
+* FIXED: An edge-case issue when switching between accounts where conversations could show the wrong avatars in a group conversation in the conversations list.
+* FIXED: The position of the avatars wasn’t consistent, notable when searching for conversations/recipients.
+* FIXED: Filter out the current user from user search results to workaround a strange API issue - for some reason Instagram lets you message yourself if you search for your own profile.
+* FIXED: The ESC key didn’t behave consistently in the search header, and in the conversations search header.
+* FIXED: Alignment of the verified badge in the profile header view, when a profile had an emoji in the name.
+* FIXED: You can long-press avatars in shared posts.
+* FIXED: "Shared a link" labels are removed for consistency with the mobile IG apps.
+* FIXED: "Shared a photo/video" labels are now „Shared a post“ for consistency with the mobile IG apps.
+* FIXED: When someone unliked a text message, the avatar was not removed.
+* FIXED: The send button in the compose message area was enabled by default even when there is no current message.
+* FIXED: Some audio files were missing from the app \(easter egg…\)
+* FIXED: If scrolled up in a conversation and someone liked an item in the conversation, the unread avatar indicator would appear as if a new message had been received.
+* FIXED: The up/down arrows in the detail view title bar would not work correctly if you were viewing media from your saved feed.
+* FIXED: Added support for push to reveal \(swipe gesture\) for explore feeds \(in column view\) and profile feeds \(in column view\).
+* FIXED: You couldn't push to reveal \(swipe gesture\) more content when you were deeper in the view hierarchy.
+* FIXED: When a message has been selected by the keyboard, and then sending a new message, the previous selection was not deselected, meaning the next arrow key press would jump you back to where you were last.
+* FIXED: The like/unlike contextual menu action wasn’t choosing the correct action.
+* FIXED: When liking a text message that causes a change in the row’s height, the table didn’t redraw immediately.
+* FIXED: When using the keyboard to select a message, and liking it via the menu, menu bar, or Touch Bar, the next arrow up/down selection would be incorrect.
+* FIXED: Some edge-cases where messages could clip text, especially if emoji’s are being used.
+* FIXED: When unfollowing a private user, a network failure would cause the user to be re-added as a „requested“ following.
+* FIXED: The download insights button would not re-enable if a network failure occurred further down the insights hierarchy.
+* FIXED: An issue where network failures for content loading in popovers might not allow the error alert dialog to appear.
+* FIXED: Usernames tagged in „Paid partnership with X“ in the detail view would not load the profile when clicked.
+* FIXED: An issue where usernames like look like URLs would not correctly display the right formatting in comments.
+* FIXED: The profile preview popover would not display any thumbnails for private profiles that you were following, or your own profile if you had it set to private.
+* FIXED: Activity notifications that displayed 2 avatars might have changed the user’s in the avatars on subsequent refreshes/reloads.
+* FIXED: Some scrolling and selection issues when jumping to a specific comment in the detail view.
+* FIXED: Shared photos/videos in messages might not have have the correct preview dimensions.
+* FIXED: The conversations view would sometimes not correctly scroll all the way to the bottom after you sent a new message.
+* FIXED: Added lots more visible errors for network failures: liking/unliking posts, saving/unsaving media, following/unfollowing users, editing profile, editing password, editing tagging options, editing comment options, translation failures, accepting/ignoring follower requests, ignoring suggestions, hiding activity notifications, hiding search suggestions, inviting a Facebook user, linking/unlinking the addressbook, muting/unmuting conversations, leaving group conversations, failing to login with Tumblr, liking/unliking comments, setting profile privacy, updating conversation names and many more.
+* FIXED: The comment resend button now matches the like comment button in size.
+* FIXED: An issue editing a profile if the bio included a new-line.
+* FIXED: Logout is disabled entirely if there’s an open upload window, as opposed to only checking if an upload is in progress.
+* FIXED: An edge-case where multiple upload windows could appear when reposting a carousel post that we did not yet have all downloaded media for.
+* FIXED: Cancelling a video in a carousel post repost that was rendering would not completely stop the process.
+* FIXED: You could still interact and type or click in caption text view when a blocking operation \(upload, save, load, configure, export, render etc\) is in progress.
+* FIXED: Highlighting a newly added comment might have flickered on/off.
+* FIXED: When reposting a post that already had a long caption, it’s possible the caption would go beyond 2200 characters when the \#repost @username text was added to the caption. Typing when in this situation would cause an exception to occur, and the caption count label to not appear red.
+* FIXED: The caption max character count of 2200 was not being applied correctly on the edit window.
+* FIXED: When adding a secondary account, the close button could appear on hover unnecessarily.
+* FIXED: Logging out is allowed even if there’s upload windows open, as long as there’s still 1 account added.
+* FIXED: Sina Weibo was still visible in the Linked Accounts menu.
+* FIXED: The „User“ macOS menu bar item didn’t always appear when viewing profiles.
+* FIXED: The large preview window animation frame didn’t work correctly on the activity view if you were a business user, or if you had a pending friend request.
+* FIXED: An issue when editing profiles if the biography contained \(or you added\) a newline character.
+* FIXED: In grid-view, it was possible that the like/save indicator would still animate in/out when the network request had actually failed.
+* FIXED: When viewing the feed with no media details, it was possible to click the username / location / sponsor label even though you couldn’t see it. 
+* FIXED: A crash on Yosemite when adding an account from the Preferences panel.
+* FIXED: Disabled keyboard interaction in the upload window when something is in progress \(upload, load, save, etc\). You could get into a state when uploading a video if you pressed F or spacebar that the video would play. This also caused a crash on macOS 10.10 when the upload completed.
+* FIXED: Any playing video will now pause if a preview profile/hashtag/location overlay \(long-press\) is shown.
+* FIXED: Verified account indicators appear in conversations, conversation headers and similar account profile suggestions.
+* FIXED: Perhaps fixes a long-standing issue where long presses might be triggered accidentally.
+* FIXED: Play videos on mouse hover would not work if post details mode was set to None or On Hover.
+* FIXED: Some missing button clicks sounds.
+* FXIED: A missing "suggestions for you" translation.
+* FIXED: When changing the account's username or avatar, the „Accounts" menu, accounts preference pane, accounts menus did not update immediately.
+* FIXED: Updated URL logic to ignore usernames that look like URLs.
+* FIXED: An issue refreshing the profile content immediately after an edit.
+* FIXED: The upload window and accounts preferences list reflects changes to the username/avatar immediately.
+* FIXED: An issue with ensuring at least one menu item remains enabled in the Flume main menu.
+* FIXED: An issue when typing Korean in comment popovers.
+
 ## 2.8.5.3
 
 \_\_[_Release Date: October 3rd, 2018._](http://flume.link/2853)\_\_
 
-* IMPROVED: Applicaition launch will be delayed in order to ensure any crashes that occur on launch have their reports submitted.
+* IMPROVED: Application launch will be delayed in order to ensure any crashes that occur on launch have their reports submitted.
 * IMPROVED: Added additional URL schemes to jump to the likes, conversations, explore and profile views. See [https://help.flumeapp.com/misc/urlscheme](https://help.flumeapp.com/misc/urlscheme) for more.
 * FIXED: A concurrency issue that could cause duplicate posts to appear.
 * FIXED: An issue where tagged photos would not appear on profiles.

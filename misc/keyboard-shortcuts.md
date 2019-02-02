@@ -70,8 +70,8 @@ The `Post` menu will appear when a keyboard selection has been made on a post, o
 | `D` | "Pushes" to the [Detail View.](../views/detailview.md) |
 | `A` | "Pushes" to the [Profile View](../views/profile/) of the post's author. |
 | `T` | "Pushes" to the [location](../views/locations.md) that the post is tagged at. |
-| `L` | Likes the Photo/Video. |
-| `U` | Unlikes the Photo/Video. |
+| `L` | Likes the post. |
+| `U` | Unlikes the post. |
 | `C` | "Pushes" to the [Detail View](../views/detailview.md) and sets the focus on the Add Comment text-field. |
 | `⌥⌘C` | Copies the URL of the post to the system clipboard. |
 | `⌥⌘B` | Opens the URL of the post in your web-browser. |

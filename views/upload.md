@@ -26,7 +26,7 @@ To begin creating a new post:
 
 ## Drafts
 
-Flume has support for drafts through its own `.flume` document type. Drafts save the following information:
+Flume has support for drafts through its own `.flumedraft` document type. Drafts save the following information:
 
 * The photos or videos to post.
 * All [filters](upload.md#filters) and [adjustments.](upload.md#adjustments)
@@ -35,7 +35,15 @@ Flume has support for drafts through its own `.flume` document type. Drafts save
 * The [tagged location.](upload.md#tagged-locations)
 * The [sharing options.](upload.md#sharing)
 * The [advanced settings.](upload.md#advanced-settings)
+* The [video settings.](upload.md#video-settings)
+* The [repost settings.](reposting.md#repost-settings)
 * The [account](../preferences/accounts.md) to post to.
+
+{% hint style="info" %}
+Prior to Flume 2.8.5.4, the default Flume draft file extension was `.flume`.
+
+Flume versions older than 2.8.5.4 will not be able to open newer `.flumedraft` drafts. Flume versions 2.8.5.4 and later can still open older `.flume` drafts.
+{% endhint %}
 
 ### Creating Drafts
 
@@ -90,6 +98,10 @@ To toggle between an individual and Carousel Post:
 ## Editing
 
 You can apply filters and make adjustments to your photos and videos easily right inside Flume.
+
+{% hint style="info" %}
+Flume does not currently support tagging users in video posts.
+{% endhint %}
 
 ![](../.gitbook/assets/upload-edit.png)
 
@@ -147,6 +159,24 @@ To reset all adjustments:
 
 * Click the clear ![](../.gitbook/assets/discard.png) button.
 
+### Video Settings
+
+When a video is selected, additional video settings will also appear in the editing area.
+
+#### Volume
+
+To mute or adjust the output volume of the video:
+
+* Click and drag the volume slider to set a new volume level. To mute the video, slide the value left until the   image is visible.
+
+{% hint style="info" %}
+If the video file contains no audio, the volume slider is disabled.
+{% endhint %}
+
+### Repost Settings
+
+For more details on the available repost settings, see [Reposting.](reposting.md)
+
 ## Captions
 
 You can add an optional caption to your posts. When typing a `#` or `@` character, your keyboard input will also search Instagram for matching hashtags and users until you select an item from the popover, press the `ESC` key, or press another space.
@@ -157,20 +187,20 @@ You can add an optional caption to your posts. When typing a `#` or `@` characte
 
 ## Tagged Users
 
-You can include up to 30 users to tag in a photo. The tagged users can be viewed in the [Details View](detailview.md#tagged-users).
+You can include up to 30 users to tag in a post. The tagged users can be viewed in the [Details View](detailview.md#tagged-users).
+
+{% hint style="danger" %}
+Tagging users in videos is not currently supported.
+{% endhint %}
 
 ![](../.gitbook/assets/detail-view-usertags-1.png) ![](../.gitbook/assets/detail-view-usertags-2.png)
 
-{% hint style="info" %}
-Only photos can contain tagged users.
-{% endhint %}
-
 ### Adding Tagged Users
 
-To add a tagged user in a photo:
+To add a tagged user in a post:
 
-1. Click the tagged users ![](../.gitbook/assets/taggedusers.png) button on the photo, or tap the button in the [Touch Bar.](../misc/touchbar.md)
-2. Click a position in the photo where the user is located.
+1. Click the tagged users ![](../.gitbook/assets/taggedusers.png) button on the post, or tap the button in the [Touch Bar.](../misc/touchbar.md)
+2. Click a position where the user is located.
 3. Type in the search text field to find the relevant user.
 4. Click on a search result to confirm the user tag.
 
@@ -178,14 +208,14 @@ To add a tagged user in a photo:
 
 To remove a tagged user:
 
-1. Click the tagged users ![](../.gitbook/assets/taggedusers.png) button on the photo, or tap the button in the [Touch Bar.](../misc/touchbar.md)
+1. Click the tagged users ![](../.gitbook/assets/taggedusers.png) button on the post, or tap the button in the [Touch Bar.](../misc/touchbar.md)
 2. Hover the mouse over the user tag you wish to remove and click it once.
 
 ### Repositioning Tagged Users
 
 To reposition a tagged user:
 
-1. Click the tagged users ![](../.gitbook/assets/taggedusers.png) button on the photo, or tap the button in the [Touch Bar.](../misc/touchbar.md)
+1. Click the tagged users ![](../.gitbook/assets/taggedusers.png) button on the post, or tap the button in the [Touch Bar.](../misc/touchbar.md)
 2. Hover the mouse over the user tag you wish to remove and click-and-drag it to a new position.
 
 ## Tagged Locations
@@ -261,7 +291,7 @@ To crop a photo:
 Click-and-drag the resize handles to adjust the cropping region, and click-and-drag the rectangle to adjust the cropping position.
 
 {% hint style="info" %}
-You can toggle between forcing a square or freeform cropping region by clicking the the `1:1` button.
+You can toggle between common aspect-ratios, or use the aspect-ratio of the media, by clicking on  the `Aspect Ratio` button and choosing from the pop-up menu. This enforces the dragging rectangle to maintain the selected aspect-ratio.
 {% endhint %}
 
 #### Resizing Photos
@@ -274,9 +304,9 @@ To resize a photo back to its original dimensions:
 
 #### Resizing Photos to Fit
 
-If your selected photo exceeds the [aspect ratio requirements](../misc/upload-specifications.md), you can use the `Resize to Fit` option to resize the entire photo to fit inside a square, with the ability to also choose a custom border color.
+If your selected photo exceeds the [aspect ratio requirements](../misc/upload-specifications.md), you can use the `Resize to Fit` option to resize the entire photo to fit inside a square, with the ability to also choose a custom border color \(default: white\).
 
-This ensures your landscape or portrait photos will not be cropped.
+This ensures your landscape or portrait photos will not be cropped, by adding in either vertical or horizontal borders. The border colour chosen is saved for future cropping/resizing edits.
 
 ![](../.gitbook/assets/upload-cropping-resizetofit.png)
 
@@ -305,7 +335,7 @@ To crop a video:
 Click-and-drag the resize handles to adjust the cropping region, and click-and-drag the rectangle to adjust the cropping position.
 
 {% hint style="info" %}
-You can toggle between forcing a square or freeform cropping region by clicking the the `1:1` button.
+You can toggle between common aspect-ratios, or use the aspect-ratio of the media, by clicking on  the `Aspect Ratio` button and choosing from the pop-up menu. This enforces the dragging rectangle to maintain the selected aspect-ratio.
 {% endhint %}
 
 #### Resizing Videos
@@ -316,20 +346,7 @@ To resize a video back to its original dimensions:
 * Use the `Upload > Resize to Original` [Menu Bar](../misc/glossary.md#menu-bar) item.
 * Tap the resize ![](../.gitbook/assets/resize.png) button in the [Touch Bar.](../misc/touchbar.md)
 
-## Sharing
-
-### Sharing to Your Favorites/Close Friends
-
-To share a post to your [Favorites](profile/favorites.md) / close friends:
-
-* Click the Share to Favorites ![](../.gitbook/assets/sharefavorites.png) button.
-* Use the `Upload > Share > Share to Favorites` [Menu Bar](../misc/glossary.md#menu-bar) item.
-
-{% hint style="info" %}
-If you enable sharing to your Favorites, [sharing to a Linked Account](upload.md#sharing-to-linked-accounts) is disabled.
-{% endhint %}
-
-### Sharing to Linked Accounts
+## Sharing to Linked Accounts
 
 Sharing allows you to cross-post your upload to a [linked account.](profile/settings/linkedaccounts.md) You can also [share existing posts](sharing.md) at any time.
 

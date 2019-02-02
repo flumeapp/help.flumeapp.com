@@ -57,8 +57,8 @@ When selecting a photo or video file, the usual [photo and video upload specific
 
 To download a photo or video shared in a conversation:
 
-* Right-click the photo or video, then select `Download Photo/Video…` from the [contextual menu.](../../misc/glossary.md#contextual-menu)
-* When selecting a message using the [keyboard arrows](../../misc/keyboard-shortcuts.md), use the `Message > Download Photo/Video…` [Menu Bar](../../misc/glossary.md#menu-bar) item.
+* Right-click the photo or video, then select `Download [Photo | Video]…` from the [contextual menu.](../../misc/glossary.md#contextual-menu)
+* When selecting a message using the [keyboard arrows](../../misc/keyboard-shortcuts.md), use the `Message > Download [Photo | Video]…` [Menu Bar](../../misc/glossary.md#menu-bar) item.
 
 You will be asked to choose a download location.
 

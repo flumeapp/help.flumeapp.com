@@ -8,8 +8,8 @@ The Editing window allows you edit information about a previous post. The user t
 
 To edit a post:
 
-* Right-click any of your posts, then select `Edit Photo/Video…` from the [contextual menu.](../misc/glossary.md#contextual-menu)
-* When viewing the [Details](detailview.md) of your own posts, select the `Edit Photo/Video…` item under the actions ![](../.gitbook/assets/actions-menu.png) button in the [title bar.](../misc/glossary.md#title-bar)
+* Right-click any of your posts, then select `Edit [Photo | Video]…` from the [contextual menu.](../misc/glossary.md#contextual-menu)
+* When viewing the [Details](detailview.md) of your own posts, select the `Edit [Photo | Video]…` item under the actions ![](../.gitbook/assets/actions-menu.png) button in the [title bar.](../misc/glossary.md#title-bar)
 
 ### Captions
 

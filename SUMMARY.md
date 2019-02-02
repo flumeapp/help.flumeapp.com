@@ -23,8 +23,9 @@
 * [Upload Preferences](preferences/upload/README.md)
   * [Filters](preferences/upload/filters.md)
   * [Adjustments](preferences/upload/adjustments.md)
-  * [Settings](preferences/upload/settings.md)
+  * [Advanced](preferences/upload/settings.md)
 * [Notifications Preferences](preferences/notifications.md)
+* [Shortcuts Preferences](preferences/shortcuts-preferences.md)
 * [Flume Pro Preferences](preferences/flumepro.md)
 
 ## Views
@@ -41,7 +42,6 @@
   * [Messages](views/conversations/messages.md)
   * [Info](views/conversations/info.md)
 * [Profile](views/profile/README.md)
-  * [Favorites](views/profile/favorites.md)
   * [Discover People](views/profile/suggestedusers.md)
   * [Saved Collections](views/profile/savedcollections.md)
   * [Business Profiles](views/profile/businessprofiles/README.md)

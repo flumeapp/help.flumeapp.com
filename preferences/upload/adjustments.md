@@ -1,6 +1,6 @@
 # Adjustments
 
-![](../../.gitbook/assets/upload-adjustments.png)
+![](../../.gitbook/assets/upload-adjustments%20%281%29.png)
 
 ## Reordering Adjustments
 

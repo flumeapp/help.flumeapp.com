@@ -8,5 +8,5 @@ The saying goes that a picture is worth a thousand words, and one of Flume's uni
 
 Flume lets you also customize your viewing preferences to your own preferences. Learn more in [Design Preferences.](../preferences/design.md) 
 
-![](../.gitbook/assets/screenshots.png)
+![](../.gitbook/assets/assets-lnq5pkcpgg5pquesaq9-lnqtsksd7bimke8jsel-lnqtwly6qvnbrlyzoux-screenshots.png)
 

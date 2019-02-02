@@ -1,6 +1,6 @@
 # Settings
 
-![](../../.gitbook/assets/menu-settings.png)
+![](../../.gitbook/assets/menu-settings%20%281%29.png)
 
 ## Show the Menu
 

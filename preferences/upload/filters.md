@@ -1,6 +1,8 @@
 # Filters
 
-![](../../.gitbook/assets/upload-filters.png)
+
+
+![](../../.gitbook/assets/upload-filters%20%281%29.png)
 
 ## Enabling Filters
 

@@ -29,5 +29,7 @@ Customize the action that will occur when clicking on posts in the [Feed.](https
 | `Shows Detail` | Clicking on a post will display the [Detail View](../../views/detailview.md) with more details such as the comments, likes and user tags \(_default_\). |
 | `Shows Author` | Clicking on a post will "push" you to see the author's [Profile.](../../views/profile/) |
 
+## Higher Quality Thumbnails \(Slower\)
 
+Enable or disable the option to download higher resolution thumbnail images when viewing content in Grid-View mode. As the higher resolution images are larger in filesize, they can take longer to appear. 
 

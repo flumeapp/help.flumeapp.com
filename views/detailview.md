@@ -12,9 +12,8 @@ The Details View allows you view all information related to a post, including it
 
 There are multiple methods to view a carousel post:
 
-* Hover over the carousel post, and use the left and right arrows that appear.
+* Hover over the carousel post, and use the left and right cursors that appear.
 * Click-and-swipe left or right with the mouse / trackpad.
-* Click the page indicator dot that appears beneath the carousel post.
 
 {% hint style="info" %}
 Each photo in a carousel post can contain different tagged users. See [Tagged Users](detailview.md#tagged-users) for more. Videos cannot contain any tagged users.
@@ -39,7 +38,7 @@ To write a new comment:
 
 * Click the comment ![](../.gitbook/assets/comment%20%282%29.png) button in the [title bar.](../misc/glossary.md#title-bar)
 * Tap the comment ![](../.gitbook/assets/comment%20%281%29.png) button in the [Touch Bar.](../misc/touchbar.md)
-* Use the `Post > Comment on Photo/Video…` [Menu Bar](../misc/glossary.md#menu-bar) item.
+* Use the `Post > Comment on [Photo | Video]…` [Menu Bar](../misc/glossary.md#menu-bar) item.
 
 ![](../.gitbook/assets/comment-compose.png)
 
@@ -66,7 +65,7 @@ When replying to a comment, replies are indented in order to support comment thr
 
 To like / unlike a comment:
 
-* Move the mouse to the right area of a comment to reveal the comment actions panel, then click the like ![](../.gitbook/assets/like.png) button.  ![](../.gitbook/assets/comment-actions%20%282%29.png)
+* Move the mouse to the left area of a comment to reveal the comment actions panel, then click the like ![](../.gitbook/assets/like.png) button.  ![](../.gitbook/assets/comment-actions%20%282%29.png)
 * When selecting a comment using the [keyboard arrows](../misc/keyboard-shortcuts.md), use the `Comment > Like/Unlike Comment` [Menu Bar](../misc/glossary.md#menu-bar) item.
 * When selecting a comment using the [keyboard arrows](../misc/keyboard-shortcuts.md), tap the like ![](../.gitbook/assets/like%20%281%29.png) button in the [Touch Bar.](../misc/touchbar.md)
 
@@ -92,7 +91,7 @@ You can also [disable commenting](detailview.md#enabling--disabling-comments) on
 
 To delete a single comment:
 
-* Move the mouse to the right area of a comment to reveal the comment actions panel, then click the delete ![](../.gitbook/assets/delete.png) button.  ![](../.gitbook/assets/comment-actions%20%283%29.png)
+* Move the mouse to the left area of a comment to reveal the comment actions panel, then click the delete ![](../.gitbook/assets/delete.png) button.  ![](../.gitbook/assets/comment-actions%20%283%29.png)
 * Right-click a comment, then select `Delete Comment…` from the [contextual menu.](../misc/glossary.md#contextual-menu)
 * When selecting a comment using the [keyboard arrows](../misc/keyboard-shortcuts.md), use the `Comment > Delete Comment…` [Menu Bar](../misc/glossary.md#menu-bar) item.
 
@@ -104,7 +103,7 @@ You can also delete your own comments you make on others posts.
 
 To report a comment:
 
-* Move the mouse to the right area of a comment to reveal the comment actions panel, then click the report ![](../.gitbook/assets/report.png) button.  ![](../.gitbook/assets/comment-actions%20%281%29.png)
+* Move the mouse to the left area of a comment to reveal the comment actions panel, then click the report ![](../.gitbook/assets/report.png) button.  ![](../.gitbook/assets/comment-actions%20%281%29.png)
 * Right-click a comment, then select `Report…` from the [contextual menu.](../misc/glossary.md#contextual-menu)
 * When selecting a comment using the [keyboard arrows](../misc/keyboard-shortcuts.md), use the `Comment > Report…` [Menu Bar](../misc/glossary.md#menu-bar) item.
 
@@ -160,6 +159,16 @@ Only photos can contain tagged users.
 ## Tagged Locations
 
 If a post is tagged at a location, its name will appear above the caption \(if present\). Clicking the location name will display the [Location view.](locations.md)
+
+## Muting Videos
+
+To mute / unmute a video:
+
+* Click the ![](../.gitbook/assets/flumediaitemunmute-2x.png) or  ![](../.gitbook/assets/flumediaitemmute-2x.png) button which appears in the bottom-left corner when hovering the mouse cursor over the post content.
+
+{% hint style="info" %}
+Your mute/unmute preference is saved for all video posts in the future. If a video does not contain any audio, ![](../.gitbook/assets/flumediaitemnoaudio-2x.png)`Video has no sound`will be displayed instead of a button.
+{% endhint %}
 
 ## Translating Captions
 
