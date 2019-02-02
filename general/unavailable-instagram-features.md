@@ -82,4 +82,4 @@ The list of Instagram-based features below are not yet available in Flume.
 
 * Creating product tags
 * Viewing product tags
-* 
+
