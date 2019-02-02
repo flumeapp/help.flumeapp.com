@@ -1,10 +1,10 @@
 # Unavailable Instagram Features
 
-Flume is constantly being improved and developed to support Instagram's latest features and changes. If there's a feature you are missing, please suggest it on our [suggestions portal.](https://flumeapp.com/suggestions/) 
+Flume is constantly being improved and developed to support Instagram's latest features and changes. If there's a feature you are missing, please suggest it on our [suggestions portal.](https://flumeapp.com/suggestions/)
 
 The list of Instagram-based features below are not yet available in Flume.
 
-### Instagram Direct
+## Instagram Direct
 
 * Temporary messages in conversations \("View Once" and "Allow Replay" photo and video messages\)
 * Audio messages in conversations
@@ -14,7 +14,7 @@ The list of Instagram-based features below are not yet available in Flume.
 * Flagged conversations \(Flume allows [bookmarking conversations](../views/conversations/) instead, which works for both [Instagram business profiles](../views/profile/businessprofiles/) and non-business profiles\)
 * Sharing profiles/hashtags/locations to multiple individuals at once \("Send separately"\)
 
-### Instagram Stories
+## Instagram Stories
 
 * Viewing stories
 * Muting stories
@@ -24,7 +24,7 @@ The list of Instagram-based features below are not yet available in Flume.
 * Story controls
 * Top stories for locations/hashtags
 
-### Feed
+## Feed
 
 * Message replies \(currently rolling out to Instagram users\)
 * Feed controls \(currently rolling out to Instagram users\)
@@ -33,20 +33,20 @@ The list of Instagram-based features below are not yet available in Flume.
 * "You're all caught up" indicators
 * Showing profile info of sponsored posts made by non-Instagram users
 
-### Explore
+## Explore
 
 * View explore categories
 * Mute explore categories
 
-### Hashtags
+## Hashtags
 
 * Follow hashtags
 
-### Locations
+## Locations
 
 * Show related businesses for locations
 
-### Accounts
+## Accounts
 
 * Downloading /requesting account data
 * Toggling activity status
@@ -55,30 +55,30 @@ The list of Instagram-based features below are not yet available in Flume.
 * Viewing ad activity
 * Viewing Instagram activity, and setting activity reminders
 
-### Push Notifications
+## Push Notifications
 
 * Implemented, but [currently disabled due to recent IG changes](https://support.flumeapp.com/article/83-push-notifications-cannot-be-enabled)
 
-### Upload
+## Upload
 
 * Adding accessibility text \(and using it with VoiceOver when viewing\)
 * Autoshare to Facebook
 * Share to other accounts
 * Tagging users in video posts
 
-### Insights
+## Insights
 
 * Update to latest Insights data
 
-### Profiles
+## Profiles
 
 * Remove followers
 
-### Business Profiles
+## Business Profiles
 
 * Create a Facebook Page for a business profile directly in Flume
 
-### Shopping
+## Shopping
 
 * Creating product tags
 * Viewing product tags
