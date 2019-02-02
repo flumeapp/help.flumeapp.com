@@ -7,6 +7,7 @@
 * [Design](general/design.md)
 * [Accessibility](general/accessibility.md)
 * [What's New in Flume](general/whatsnew.md)
+* [Unavailable Instagram Features](general/unavailable-instagram-features.md)
 
 ## Preferences
 
