@@ -1,6 +1,6 @@
 # Advanced
 
-![](../../.gitbook/assets/bildschirmfoto-2019-01-09-um-15.31.23.png)
+![](../../.gitbook/assets/upload-settings.png)
 
 ## Photo Quality Level
 
@@ -9,6 +9,14 @@ Depending on the type of content you post to Instagram, you can speed up upload 
 For high resolution and high DPI photography, we recommend an 80% quality level which will result in minimal loss of image quality, while resulting in faster uploads and downloads.
 
 If you mostly post lower resolution, and 72-DPI photos, we recommend a quality level between 80-100%.
+
+## Automatically Set Location
+
+When enabled and your photo or video contains EXIF GPS data, Flume will perform a background search for locations, and automatically set the first result that Instagram returns.
+
+{% hint style="info" %}
+Please note that you cannot tag GPS coordinates on Instagram, only Facebook Places. To add new locations, [you must create a Facebook Place.](https://help.instagram.com/1618893218361276)
+{% endhint %}
 
 ## Pre-fill Caption
 
