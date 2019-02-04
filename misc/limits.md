@@ -65,6 +65,6 @@ The following limits apply to [messages](../views/conversations/messages.md):
 
 The following limits apply to [conversations](../views/conversations/):
 
-* 15 recipients in a group conversation
+* 32 recipients in a group conversation
 * 20 characters for group conversation names
 
