@@ -32,7 +32,7 @@ Not all menu items are listed below, only those with existing keyboard shortcuts
 | Key Combination | Explanation |
 | :--- | :--- |
 | `⌘N` | Opens an upload window |
-| `⌘O` | Opens an file selection window in order to open `.flume` saved draft files. |
+| `⌘O` | Opens an file selection window in order to open `.flumedraft` saved [draft files.](../views/upload.md#drafts) |
 | `⌘R` | Refreshes the feed view, your notifications, pending follower requests, and the current view you are looking at, if applicable. |
 | `⌘W` | Closes the currently focused window. |
 
