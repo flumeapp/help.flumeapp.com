@@ -55,6 +55,6 @@ Whenever there is new content on the [Activity](../views/activity.md) tab that r
 Whenever a new follower request is received, the notification settings will apply. This usually occurs when the [automatic refresh interval](feed/#automatic-refresh-interval) elapses.
 
 {% hint style="info" %}
-Follower requests are only available if you have a [private profile.](../views/profile/privateprofiles.md)
+Follower requests are only available if you have a [private profile.](../views/profile/settings/privateprofiles.md)
 {% endhint %}
 

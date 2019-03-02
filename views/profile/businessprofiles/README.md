@@ -15,7 +15,7 @@ You can find more information about Business Profiles at [Facebook's Business He
 Only businesses on Instagram should use Business Profiles. Additionally, to get access, your business must have a [Facebook Page.](https://www.facebook.com/help/pages)
 
 {% hint style="warning" %}
-[Private profiles](../privateprofiles.md) can't be used as Business Profiles.
+[Private profiles](../settings/privateprofiles.md) can't be used as Business Profiles.
 {% endhint %}
 
 To switch to a Business Profile:

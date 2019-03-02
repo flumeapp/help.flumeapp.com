@@ -1,6 +1,6 @@
 # Profile
 
-The Profile view displays all the posts and related information for a particular user. Certain features will toggle if you are viewing your own profile, a [Business Profile](businessprofiles/), a [private user](privateprofiles.md).
+The Profile view displays all the posts and related information for a particular user. Certain features will toggle if you are viewing your own profile, a [Business Profile](businessprofiles/), a [private user](settings/privateprofiles.md).
 
 ![](../../.gitbook/assets/profile-grid.png) ![](../../.gitbook/assets/profile-column.png)
 
@@ -39,7 +39,7 @@ If set to `Add Manually`, you will be notified in [Activity](../activity.md) whe
 
 ## Saved Posts
 
-When viewing your own profile, an extra tab will appear, that allows you to view all the posts you have [saved](https://help.instagram.com/1744643532522513) as well as your [Saved Collections.](savedcollections.md) Only you can see this tab, and the posts you have saved.
+When viewing your own profile, an extra tab will appear, that allows you to view all the posts you have [saved](https://help.instagram.com/1744643532522513) as well as your [Saved Collections.](settings/savedcollections.md) Only you can see this tab, and the posts you have saved.
 
 To view posts that you have saved:
 
@@ -71,7 +71,7 @@ To follow/unfollow a user:
 
 ## Friend Requests
 
-If your profile is set to [private](privateprofiles.md), users that wish to follow you will require your approval. When there are pending friend requests, they will be visible in various places:
+If your profile is set to [private](settings/privateprofiles.md), users that wish to follow you will require your approval. When there are pending friend requests, they will be visible in various places:
 
 * On your profile, with a badge that appears above your avatar.  ![](../../.gitbook/assets/profile-friend-requests-avatar.png)
 * At the top of your [activity.](../activity.md)  ![](../../.gitbook/assets/profile-friend-requests-activity.png)
@@ -89,7 +89,7 @@ To respond to friend requests:
 ![](../../.gitbook/assets/profile-friend-requests.png)
 
 {% hint style="info" %}
-If you [switch your profile to a public profile](privateprofiles.md), all pending friend requests will be accepted.
+If you [switch your profile to a public profile](settings/privateprofiles.md), all pending friend requests will be accepted.
 {% endhint %}
 
 ## Similar Account Suggestions

@@ -9,7 +9,7 @@ The Activity tab shows you the latest notifications for your account. You can re
 The `You` tab lists the latest notifications that relate to the current account. These include:
 
 * Likes on your posts
-* New followers \(if not set to a [Private Profile](profile/privateprofiles.md)\)
+* New followers \(if not set to a [Private Profile](profile/settings/privateprofiles.md)\)
 * Comments on your posts
 * Mentions in a comment \(on your posts or others\)
 * Likes on your comments \(on your posts or others\)
@@ -20,7 +20,7 @@ The `You` tab lists the latest notifications that relate to the current account.
 Additionally, the following may display:
 
 * A link to view the performance of your [Promotions](profile/businessprofiles/promote.md) \(if an Instagram Business Profile\)
-* A link to view open follower requests \(if set to a [Private Profile](profile/privateprofiles.md)\).
+* A link to view open follower requests \(if set to a [Private Profile](profile/settings/privateprofiles.md)\).
 
 ### Responding to Comments
 

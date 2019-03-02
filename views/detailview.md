@@ -23,13 +23,8 @@ Each photo in a carousel post can contain different tagged users. See [Tagged Us
 
 The comments on a post are displayed by default below the caption \(if present\).
 
-To view the comments on a post:
-
-* Click the `Comments` tab
-* Press the `⇥ (TAB)` [keyboard shortcut.](../misc/keyboard-shortcuts.md)
-
 {% hint style="info" %}
-If [comments are disabled](detailview.md#enabling--disabling-comments) on a post, the comments tab will be dimmed and disabled. If comments are [restricted](detailview.md#restricting-comments) and you do not fit the permitted commenters, you will only be able to view comments and not add or reply to existing comments.
+If [comments are disabled](detailview.md#enabling--disabling-comments) on a post, you will not be able to view any previous comments, or add any new comments. If comments are [restricted](detailview.md#restricting-comments) and you do not fit the permitted commenters, you will only be able to view comments and not add or reply to existing comments.
 {% endhint %}
 
 ### Writing Comments
@@ -131,10 +126,7 @@ To enable/disable comments on your posts:
 
 To view the latest likes on a post:
 
-* Click the `Likes` tab
-* Press the `⇥ (TAB)` [keyboard shortcut.](../misc/keyboard-shortcuts.md)
-
-![](../.gitbook/assets/detail-view-likes%20%281%29.png)
+* Click the `X likes` button beneath the post. This only appears if the post has at least 1 like, and in some instances, may include references to some profiles that you follow.
 
 {% hint style="info" %}
 A maximum of the latest 999 likers are displayed.

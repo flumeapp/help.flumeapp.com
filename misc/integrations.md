@@ -76,7 +76,7 @@ To send an edited file to Flume:
 * Use the `Image > Edit With > Flume` [Menu Bar](https://help.flumeapp.com/misc/glossary#menu-bar) item.
 
 {% hint style="info" %}
-In order for Flume to read EXIF and IPTC metadata that has been added to the file, ensure that you enable all options under the `Metadata` tab on the tool palette window that appears. To pre-fill some of these fields directly into your upload caption, see [Upload Preferences.](../preferences/upload/settings.md#pre-fill-caption)
+In order for Flume to read EXIF and IPTC metadata that has been added to the file, ensure that you enable all options under the `Metadata` tab on the tool palette window that appears. To pre-fill some of these fields directly into your upload caption, see [Upload Preferences.](../preferences/upload/advanced.md#pre-fill-caption)
 {% endhint %}
 
 To send an unedited file to Flume:
