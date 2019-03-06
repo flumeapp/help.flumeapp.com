@@ -12,7 +12,7 @@ To share a post:
 * When viewing the [Details](detailview.md) of your own posts, select the `Share > Send to Linked Account…` item under the actions ![](../.gitbook/assets/actions-menu.png) button in the [title bar.](../misc/glossary.md#title-bar)
 * When viewing the [Details](detailview.md) of your own posts, use the `Share > Send to Linked Account…` [Menu Bar](../misc/glossary.md#menu-bar) item.
 
-You can provide a custom description which will accompany the shared item \(if you wish to adjust the caption, [see editing](editing.md#captions)\). Choose at least one social network to share to, and click `Share.`
+You can provide a custom caption/description which will accompany the shared item \(if you wish to adjust the caption seen on Instagram, see [editing](editing.md#captions)\). Choose at least one social network to share to, and click `Share.`
 
 {% hint style="info" %}
 The `Send to Linked Account…` item will only appear when you are sharing posts that you posted yourself.
