@@ -1,13 +1,12 @@
 # Profile Settings
 
-Your profile settings can be accessed from your own Profile tab via the ![](../../../.gitbook/assets/settings.png) button in the [title bar.](../../../misc/glossary.md#title-bar)
+Your profile settings can be accessed from your own [profile](../) view via the ![](../../../.gitbook/assets/settings.png) button in the [title bar.](../../../misc/glossary.md#title-bar)
 
 ![](../../../.gitbook/assets/preferences-profile.png)
 
 * [Invite Facebook Friends](invitefacebook.md)
 * [Follow Facebook Friends](followfacebook.md)
 * [Find Contacts](invitecontacts.md)
-* [Edit Close Friends List]()
 * [Saved](../#saved-posts)
 * [Photos of You](../#tagged-posts)
 * [Edit Profile](editprofile.md)

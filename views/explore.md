@@ -1,6 +1,6 @@
 # Explore
 
-The Explore tab allows you to discover posts that Instagram curates for you personally. These suggestions are based off various factors, such as existing users you follow, your contacts, your previous likes and more.
+The explore view allows you to discover posts that Instagram curates for you personally. These suggestions are based off various factors, such as existing users you follow, your contacts, your previous likes and more.
 
 ![](../.gitbook/assets/explore.png)
 
@@ -10,5 +10,5 @@ If you'd like to adjust your future recommendations, you can indicate to Instagr
 
 * Right-click on a post and select `Show Fewer Posts Like This` from the contextual menu.
 * Left-click on a post to view the details, and from the ![](../.gitbook/assets/actions-menu.png) button menu, select `Show Fewer Posts Like This`
-* Use the `Post > Show Fewer Posts Like This` [Menu Bar](../misc/glossary.md#menu-bar) item when a post is selected using the [keyboard arrows.](../misc/keyboard-shortcuts.md)
+* Use the `Post > Show Fewer Posts Like This` [menu bar](../misc/glossary.md#menu-bar) item when a post is selected using [keyboard navigation.](../misc/keyboard-shortcuts.md)
 

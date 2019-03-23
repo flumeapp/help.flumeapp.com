@@ -14,12 +14,14 @@ Flume accepts the current photo file formats:
 
 * JPG
 * PNG
+* HEIC
 * RAW
 * ARW \(Sony RAW\)
 * RAF \(Fuji RAW\)
 * MRW \(Sony Minolta RAW\)
 * DNG \(Digital Negative\)
-* ORF \(Olympus RAW\). 
+* ORF \(Olympus RAW\)
+* TIF/TIFF
 
 No other specifications are required, except for the aspect ratio rules above. High DPI images are supported.
 

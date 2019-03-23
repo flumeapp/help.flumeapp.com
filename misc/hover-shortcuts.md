@@ -11,6 +11,10 @@ To activate a Hover Shortcut, simply mouse the mouse cursor over a post \(in eit
 | `S` | Saves the media that is directly underneath the mouse cursor. |
 | `Spacebar` | Opens a large preview for the media that is directly underneath the mouse cursor. |
 
+{% hint style="info" %}
+You can customise the above shortcuts in [Shortcuts Preferences.](../preferences/shortcuts-preferences.md)
+{% endhint %}
+
 ## Demo
 
 The demo below demonstrates the use of the `L` \(like\) shortcut being used to like multiple items quickly while moving the mouse.

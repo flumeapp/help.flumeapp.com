@@ -1,6 +1,6 @@
 # List
 
-The Conversations List view lists all your current conversations, allows you to create a new one-on-one or group conversation, as well as allowing you to block or allow pending message requests from profiles you do not follow.
+The conversations list view lists all your current conversations, allows you to create a new one-on-one or group conversation, as well as allowing you to block or allow pending message requests from profiles you do not follow.
 
 ![](../../.gitbook/assets/conversations.png)
 
@@ -13,15 +13,15 @@ To create a new conversation from the conversations list:
 * Click the compose ![](../../.gitbook/assets/compose%20%281%29.png) button in the [title bar. ](../../misc/glossary.md#title-bar)
 * Tap the `New` ![](../../.gitbook/assets/compose.png) button in the [Touch Bar.](../../misc/touchbar.md)
 
-A list of suggested recipients will appear, and you can search for specific profiles. Selecting more than one recipient will create a group conversation \([maximum of 15 recipients](../../misc/limits.md)\).
+A list of suggested recipients will appear, and you can search for specific profiles. Selecting more than one recipient will create a group conversation \([maximum of 30 recipients](../../misc/limits.md)\).
 
 After making a selection, the confirm button and compose area will appear, allowing you to write your message or [share a photo/video.](messages.md#sharing-photos-videos)
 
 ![](../../.gitbook/assets/conversation-new.png) ![](../../.gitbook/assets/conversation-compose-select.png)
 
-You can also create conversations directly from the [Profile](../profile/) of a user.
+You can also create conversations directly from the [profile](../profile/) of a user.
 
-To create a new conversation from the Profile of a user:
+To create a new conversation from the profile of a user:
 
 * Use the `Send Message` option under the ![](../../.gitbook/assets/actions-menu%20%284%29.png) button in the [title bar.](../../misc/glossary.md#title-bar)
 * Tap the `Message` ![](../../.gitbook/assets/message.png) button in the [Touch Bar.](../../misc/touchbar.md)
@@ -33,7 +33,7 @@ Deleting a conversation will only remove the conversation from your own inbox, b
 To delete a conversation:
 
 * Right-click a conversation, then select `Delete Conversation…` from the contextual menu.
-* When selecting a conversation using the [keyboard arrows](../../misc/keyboard-shortcuts.md), use the `Conversation > Delete Conversation…` [Menu Bar](../../misc/glossary.md#menu-bar) item.
+* When selecting a conversation using [keyboard navigation](../../misc/keyboard-shortcuts.md), use the `Conversation > Delete Conversation…` [menu bar](../../misc/glossary.md#menu-bar) item.
 * When viewing the conversation's [messages](messages.md), use the `Delete Conversation…` option under the ![](../../.gitbook/assets/actions-menu.png) button.
 * Tap the `Delete` ![](../../.gitbook/assets/delete.png) button in the [Touch Bar.](../../misc/touchbar.md)
 
@@ -48,7 +48,7 @@ If you would prefer to remain in the group, but disable notifications of new mes
 To leave a group conversation:
 
 * Right-click a conversation, then select `Leave Conversation…` from the [contextual menu.](../../misc/glossary.md#contextual-menu)
-* When selecting a conversation using the [keyboard arrows](../../misc/keyboard-shortcuts.md), use the `Conversation > Leave Conversation…` [Menu Bar](../../misc/glossary.md#menu-bar) item.
+* When selecting a conversation using [keyboard navigation](../../misc/keyboard-shortcuts.md), use the `Conversation > Leave Conversation…` [menu bar](../../misc/glossary.md#menu-bar) item.
 * When viewing the conversation's [messages](messages.md), use the `Leave Conversation…` option under the ![](../../.gitbook/assets/actions-menu%20%283%29.png) button.
 * When viewing the conversation's [info](info.md), click the `Leave` ![](../../.gitbook/assets/leave%20%281%29.png) button in the [title bar.](../../misc/glossary.md#title-bar)
 * Tap the `Leave` ![](../../.gitbook/assets/leave.png) button in the [Touch Bar.](../../misc/touchbar.md)
@@ -62,7 +62,7 @@ Muted conversations will not send [desktop notifications](../../preferences/noti
 To mute/un-mute a conversation:
 
 * Right-click a conversation, then select `Mute/Unmute Conversation` from the [contextual menu.](../../misc/glossary.md#contextual-menu)
-* When selecting a conversation using the [keyboard arrows](../../misc/keyboard-shortcuts.md), use the `Conversation > Mute/Unmute Conversation` [Menu Bar](../../misc/glossary.md#menu-bar) item.
+* When selecting a conversation using [keyboard navigation](../../misc/keyboard-shortcuts.md), use the `Conversation > Mute/Unmute Conversation` [menu bar](../../misc/glossary.md#menu-bar) item.
 * When viewing the conversation's [messages](messages.md), use the `Mute/Unmute Conversation` option under the ![](../../.gitbook/assets/actions-menu%20%281%29.png) button in the [title bar.](../../misc/glossary.md#title-bar)
 * Tap the `Mute` ![](../../.gitbook/assets/mute.png) or `Unmute` ![](../../.gitbook/assets/mute-active.png) button in the [Touch Bar.](../../misc/touchbar.md)
 
@@ -75,7 +75,7 @@ Muted conversations will display a small icon to indicate their current mute sta
 To export a conversation:
 
 * Right-click a conversation, then select `Export Conversation…` from the [contextual menu.](../../misc/glossary.md#contextual-menu)
-* When selecting a conversation using the [keyboard arrows](../../misc/keyboard-shortcuts.md), use the `Conversation > Export Conversation…` [Menu Bar](../../misc/glossary.md#menu-bar) item.
+* When selecting a conversation using [keyboard navigation](../../misc/keyboard-shortcuts.md), use the `Conversation > Export Conversation…` [menu bar](../../misc/glossary.md#menu-bar) item.
 * When viewing the conversation's [messages](messages.md), use the `Export…` option under the ![](../../.gitbook/assets/download%20%281%29.png) button in the [title bar.](../../misc/glossary.md#title-bar)
 
 {% hint style="info" %}
@@ -87,7 +87,7 @@ Exporting a conversation will only export the messages that Flume has downloaded
 To report a conversation:
 
 * Right-click a conversation, then select `Report…` from the [contextual menu.](../../misc/glossary.md#contextual-menu)
-* When selecting a conversation using the [keyboard arrows](../../misc/keyboard-shortcuts.md), use the `Conversation > Report…` [Menu Bar](../../misc/glossary.md#menu-bar) item.
+* When selecting a conversation using [keyboard navigation](../../misc/keyboard-shortcuts.md), use the `Conversation > Report…` [menu bar](../../misc/glossary.md#menu-bar) item.
 * When viewing the conversation's [messages](messages.md), use the `Report…` option under the ![](../../.gitbook/assets/actions-menu%20%282%29.png) button in the [title bar.](../../misc/glossary.md#title-bar)
 
 You will be asked to confirm reporting the conversation \(user\).
@@ -132,7 +132,7 @@ If you have lots of conversations, you can quickly filter by author or group cha
 
 Bookmarked conversations appear at the top of all others in the conversations list, and provide you with quick access to conversations regardless of the conversation's age.
 
-To toggle a conversation as a [Bookmark](../search.md#search-bookmarks), perform one of the following:
+To toggle a conversation as a bookmark, perform one of the following:
 
 * Click the `Bookmarks` ![](../../.gitbook/assets/bookmark.png)button in the [title bar](../../misc/glossary.md#title-bar) when viewing the [messages](messages.md) of a conversation.
 

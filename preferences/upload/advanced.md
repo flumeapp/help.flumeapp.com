@@ -1,6 +1,6 @@
 # Advanced
 
-![](../../.gitbook/assets/upload-settings.png)
+![](../../.gitbook/assets/upload-settings%20%281%29.png)
 
 ## Photo Quality Level
 
@@ -21,6 +21,8 @@ Please note that you cannot tag GPS coordinates on Instagram, only Facebook Plac
 ## Pre-fill Caption
 
 Flume allows you to create your own customised caption, that can be populated using EXIF or IPTC information embedded in your photos and videos, or any text you wish \(eg. lists of hashtags\). 
+
+Captions are customised on an account level, allowing you to set your prefilled captions individually. If you only wish to use the feature on some accounts, use the account switcher and clear the default caption.
 
 {% hint style="info" %}
 The [IPTC Photo Metadata Standard](https://iptc.org/standards/photo-metadata/iptc-standard/) is the most widely used standard to describe photos. When adding metadata information with Photos.app, Adobe Lightroom, Capture One Pro and other popular photo-editing/cataloging software.

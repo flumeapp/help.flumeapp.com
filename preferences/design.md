@@ -6,7 +6,7 @@
 
 | Option | Explanation |
 | :--- | :--- |
-| `System Appearance` | This item is only available on macOS Mojave \(10.14\) and will match the macOS preference for Dark Mode. Additionally, the macOS "accent colour" will be used for various UI elements in Flume \(eg. buttons, drop-down lists\). |
+| `System Appearance` | This item is only available on macOS Mojave \(10.14\) and will match the macOS preference for [Dark Mode.](https://support.apple.com/en-us/HT208976) Additionally, the macOS "accent colour" will be used for various UI elements in Flume \(eg. buttons, drop-down lists\). |
 | `Dark` | The user interface will use a darker background, with lighter text. |
 | `Light` | The user interface will use a lighter background, with darker text. |
 
@@ -24,11 +24,11 @@ The font size preference can also be adjusted at any time in Flume via the [keyb
 
 ![](../.gitbook/assets/titlebar.png)
 
-Enables or disables showing the Flume title bar in [Feed](../views/feed.md) and [Likes.](../views/likes.md) When disabled, [Show the menu](design.md#show-the-menu) is set to `On Hover` and [Show media details](design.md#show-media-details) is set to `None`, Flume will display content edge-to-edge with no visible chrome \(_default_\).
+Enables or disables showing the Flume [title bar](../misc/glossary.md#title-bar) in [feed](../views/feed.md) and [likes](../views/likes.md) views. When disabled, [`Show the menu:`](design.md#show-the-menu) is set to `On Hover` and [`Show post details:`](design.md#show-media-details) is set to `None`, Flume will display content edge-to-edge with no visible chrome \(_default setting_\).
 
 ## Show Post Details
 
-Customizes the amount of details to show about media when in Column-View content areas \([Feed](../views/feed.md), [Likes](../views/likes.md) and [Profile.](../views/profile/)\) See [Feed](../views/feed.md) for visual examples.
+Customizes the amount of details to show about media when in column views \([feed](../views/feed.md), [likes](../views/likes.md) and [profile](../views/profile/)\). See [feed](../views/feed.md) for visual examples.
 
 | Option | Explanation |
 | :--- | :--- |

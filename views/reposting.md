@@ -1,6 +1,6 @@
 # Reposting
 
-The Reposting feature allows you to [upload](upload.md) existing posts \(from you or other profiles\) by ensuring the original author is attributed.
+The reposting window allows you to [upload](upload.md) existing posts \(from you or other profiles\) by ensuring the original author is attributed.
 
 ![](../.gitbook/assets/reposting%20%281%29.png)
 
@@ -12,9 +12,9 @@ Please respect author's copyrights. See [Instagram's Help](https://help.instagra
 
 To repost a post:
 
-* Right-click any post, then select `Repost [Photo | Video | Carousel Post]…` from the [contextual menu.](../misc/glossary.md#contextual-menu)
-* When viewing the [Details](detailview.md) of a post, select the `Repost [Photo | Video | Carousel Post]…` item under the actions ![](../.gitbook/assets/actions-menu.png) button in the [title bar.](../misc/glossary.md#title-bar)
-* Use the `Post > Repost [Photo | Video | Carousel Post]…` [Menu Bar](../misc/glossary.md#menu-bar) item when selecting a post via the [keyboard arrows](../misc/keyboard-shortcuts.md) or viewing the [details](detailview.md) of a post.
+* Right-click any post, then select `Repost [Photo|Video|Carousel Post]…` from the [contextual menu.](../misc/glossary.md#contextual-menu)
+* When viewing the [details](detailview.md) of a post, select the `Repost [Photo|Video|Carousel Post]…` item under the actions ![](../.gitbook/assets/actions-menu.png) button in the [title bar.](../misc/glossary.md#title-bar)
+* Use the `Post > Repost [Photo|Video|Carousel Post]…` [menu bar](../misc/glossary.md#menu-bar) item when selecting a post via [keyboard navigation](../misc/keyboard-shortcuts.md) or viewing the [details](detailview.md) of a post.
 
 {% hint style="info" %}
 The repost menu items are hidden for posts that were made by a profile that is marked as private. An exception exists if the private profile is added as an account in Flume.
@@ -38,7 +38,7 @@ The caption that the author originally used is appended to the end of your repos
 
 ### Tag author
 
-The original author of the post is tagged into the post, in the center of the post. To adjust the position of the tag, see [Tagging Users.](upload.md#tagged-users)
+The original author of the post is tagged into the post, in the center of the post. To adjust the position of the tag, see [tagging users.](upload.md#tagged-users)
 
 {% hint style="info" %}
 Flume does not currently support tagging users in videos. As a result, reposting video content will disable the option to tag the original author.

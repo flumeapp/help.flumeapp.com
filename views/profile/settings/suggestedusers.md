@@ -1,6 +1,6 @@
 # Discover People
 
-The Discover People view allows you to view suggestions for new accounts to follow from your Instagram activity, from accounts you are connected with on Facebook, and through your [address book.](invitecontacts.md)
+The discover people view allows you to view suggestions for new accounts to follow from your Instagram activity, from accounts you are connected with on Facebook, and through your [address book.](invitecontacts.md)
 
 ![](../../../.gitbook/assets/profile-discoverpeople.png) ![](../../../.gitbook/assets/profile-discoverpeople2.png) ![](../../../.gitbook/assets/profile-discoverpeople3.png)
 
@@ -8,7 +8,7 @@ The Discover People view allows you to view suggestions for new accounts to foll
 
 To view your follower suggestions:
 
-* When viewing your [Profile](../), select the Find Contacts… item under the [Settings](./) ![](../../../.gitbook/assets/settings.png) button in the [title bar.](../../../misc/glossary.md#title-bar)
+* When viewing your own [profile](../), select the `Find Contacts…` item under the [settings](./) ![](../../../.gitbook/assets/settings.png) button in the [title bar.](../../../misc/glossary.md#title-bar)
 
 ## Ignoring Suggestions
 

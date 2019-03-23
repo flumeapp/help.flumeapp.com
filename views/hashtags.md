@@ -14,16 +14,16 @@ To view hashtags related to the currently viewed hashtag:
 
 To share a hashtag:
 
-1. When viewing the recent posts of the hashtag, select the `Share > Send to…` item under the share ![](../.gitbook/assets/actions-menu.png) button in the [title bar](../misc/glossary.md#title-bar), or use the `Hashtag > Share > Send to…` [Menu Bar](../misc/glossary.md#menu-bar) item.
+1. When viewing the recent posts of the hashtag, select the `Share > Send to…` item under the share ![](../.gitbook/assets/actions-menu.png) button in the [title bar](../misc/glossary.md#title-bar), or use the `Hashtag > Share > Send to…` [menu bar](../misc/glossary.md#menu-bar) item.
 2. Select a conversation or user from the suggested list with the select ![](../.gitbook/assets/select.png) button, or search for a different user. You can create a new [group conversation](conversations/) by selecting multiple users.
 3. Type an optional message to accompany the shared hashtag.
 4. Share the hashtag by clicking the confirm ![](../.gitbook/assets/accept.png) button in the [title bar.](../misc/glossary.md#title-bar)
 
 ## Adding / Removing Hashtag Bookmarks
 
-You can add a hashtag as a [Search Bookmark](search.md#search-bookmarks) to quickly access them from the [Search](search.md) view.
+You can add a hashtag as a [search bookmark](search.md#search-bookmarks) to quickly access them from the [search](search.md) view.
 
-To toggle a hashtag as a Search Bookmark:
+To toggle a hashtag as a search bookmark:
 
 * Click the bookmark ![](../.gitbook/assets/bookmark.png) button in the [title bar.](../misc/glossary.md#title-bar)
 

@@ -4,6 +4,172 @@ search: false
 
 # What's New in Flume
 
+## 2.8.6.1
+
+[Release Date: March 23rd 2019.](https://flume.link/2861)
+
+* IMPROVED: Full-screen now uses an extended blurred background as opposed to a solid colour.
+* IMPROVED: Caption pre-filling is now configurable per-account.
+* IMPROVED: EXIF/IPTC descriptions are now localized in Upload Preferences.
+* IMPROVED: Added placeholders and a retry button when a feed fails to download and there is no content to display.
+* IMPROVED: Images used in desktop notifications are higher quality, and avatars are now used for new comments/messages.
+* IMPROVED: Added a more visible cancel button during uploads.
+* IMPROVED: The profile settings menu has been reorganised to match the IG apps.
+* IMPROVED: If there's cached conversation messages and there's no connection when opening the conversation, the cached messages are displayed as a fallback.
+* IMPROVED: The profile header collapsing/expanding behaviour has been improved.
+* IMPROVED: The default reposting caption format has been updated to ensure Instagram does not strip the new-lines.
+* IMPROVED: Saved sharing options are now re-used on the Share window.
+* IMPROVED: Background colours on messages are a little more consistent.
+* IMPROVED: The filter intensity slider and "apply to all items" button will only appear in the upload window when necessary.
+* IMPROVED: The Touch Bar and "View" menu will display unread indicators to match the main Flume menu.
+* FIXED: Some text labels \(with links\) would flicker when hovering on macOS Yosemite.
+* FIXED: Composing a comment was not possible via the "C" keyboard shortcut.
+* FIXED: A crash when converting the colour space of a photo on the upload window.
+* FIXED: Grid-view mode would show stray liked/video/carousel/saved icons when deleting your oldest posts from your profile.
+* FIXED: The timestamp on the conversations list was misaligned in some languages.
+* FIXED: An issue handling the color space of photos/videos during upload.
+* FIXED: A crashing issue handling wide-colour photos/videos on macOS versions older than macOS 10.12
+* FIXED: When replying to comments, the window will no longer scroll to the top.
+* FIXED: The large preview window would float on top of all windows from all applications. It will now float on top of all Flume windows only.
+* FIXED: An edge-case issue that could result in edits/adjustments not being saved before an upload begins.
+* FIXED: An edge-case crashing issue when trying to invoke a mouse scroll while the upload window was generating the first preview.
+* FIXED: Preview views would abruptly disappear when initiated from long-pressing on links in the caption of the upload window and typing quickly.
+* FIXED: Avoid a race condition where it was possible to momentarily action buttons on the upload window right before an upload would begin.
+* FIXED: The next/previous buttons in the detail view title bar would re-enable incorrectly if a profile/hashtag/location preview was displayed.
+* FIXED: Consistency of the behviour of video playback in the upload/edit/share windows.
+* FIXED: The sharing popover and location / user tagging buttons will now hide when video playback begins in the edit window.
+* FIXED: Video playback will stop in the edit/share window when the window loses front-focus.
+* FIXED: An issue with the default Flume draft file-extension.
+* FIXED: An issue where scrolling an item that is outside the permitted aspect-ratio limits would result in the cropped version of the file being deleted unnecessarily.
+* FIXED: When reposting posts from the currently active user, the repost banner and user tag are deactivated by default.
+* FIXED: The recent hashtags popover was searching for hashtags created by all accounts added to Flume instead of the currently active account.
+* FIXED: The full-screen window background colour did not adhere to the current design mode.
+* FIXED: Some header views were misaligned when entering/exiting full-screen mode.
+* FIXED: Some default positioning behaviour when using the large preview feature in full-screen mode.
+* FIXED: EXIF pre-filling of the shutter speed did not correctly handle values greater than 1s.
+* FIXED: Archive menu items will now display "Archive Post/Video/Carousel Post" instead of "Archive Post".
+* FIXED: The close button on the comment reply bar did not dismiss the bar and cancel the comment reply.
+* FIXED: Added exact counts to the tooltips on the posts/following/followers buttons on profile headers.
+* FIXED: When logging in with a second account right after logging in with the first account, the Accounts menu did not correctly update the localization for the "Logout All Accounts" menu item.
+* FIXED: An edge-case crash related to using the undo feature in the message recipients text area.
+* FIXED: The tagged post options popover will use consistent appearance \(left of window\).
+* FIXED: The location/user tagging/video trim/cropping sheets would not close correctly if the main window had to reset \(eg. when emptying the local caches\).
+* FIXED: A crash when using the right-arrow key when selecting items in lists of users.
+* FIXED: Emptying the caches will not be possible if an upload/edit/share window is currently open.
+* FIXED: Updating tagged users on photos would not update correctly unless all users had their tag positions altered \(due to remote changes by Instagram\).
+* FIXED: The Menu Preferences labels would not update localized values after changing language.
+* FIXED: The "Post" button would not correctly enable/disable if reposting a post which had a caption that would exceed the 2200 character limit.
+* FIXED: Loading a document will not proceed if it is not possible to switch to the account that the draft file was initially created under.
+* FIXED: An edge-case issue with the resize-to-fit behaviour not being applied to all subsequent items by default in a carousel post.
+* FIXED: An issue with security checkpoints when presented with the choice of method for receiving the login security code.
+* FIXED: Updated "entfernen" to "löschen" in various German translations.
+* FIXED: When deleting conversations from another device, Flume would not correctly remove the conversation on next refresh.
+* FIXED: When deleting posts from another device, Flume would not correctly remove the posts on the next refresh of the profile view.
+* FIXED: The automatic refresh timer didn't refresh the currently visible feed/view in addition to the home feed.
+* FIXED: The following/unfollowing status of users from the Activity view wasn't immediately reflected after changing the status.
+* FIXED: When pushing to the detail view of media that was removed already \(either from another device, or by Instagram\), always ensure the view is popped back and the author's post counts are correctly decremented.
+* FIXED: Items that were previously cached but no longer visible are removed from the local storage.
+* FIXED: Jumping around on caption text view when scrolled all the way to the bottom of the text view and pressing the Spacebar \(a lot of head-scratching with this one\).
+* FIXED: After a new post was uploaded, the feed view was force a scroll to the top incorrectly.
+* FIXED: A crash related to unsupported colour spaces on macOS 10.10 and 10.11 when trying to apply a filter.
+* FIXED: Jumping around on caption text view when scrolled all the way to the bottom of the text view and pressing the Spacebar.
+* FIXED: After a new post was uploaded, the feed view was forcing a scroll to the top incorrectly.
+* FIXED: New activity will be refreshed when the feed timer interval passes.
+* FIXED: The caption area was not editable after losing window focus on the share window.
+* FIXED: The Facebook share pop-up button would not disable correctly if you don’t admin any Pages, but you’ve got an Instagram business profile.
+* FIXED: Handle line-break issue if there's a space right before the newline which causes paragraph breaks to disappear when IG strips them out.
+* FIXED: The Command+Delete keyboard shortcut can now be used to delete comments/messages/posts/conversations/saved collections and activity notifications.
+* FIXED: The detail view will immediately update the liked/saved status.
+* FIXED: The large preview window did not close when waking the Mac from sleep and the main window reloads.
+* FIXED: An issue with the initial selection in conversations when using the arrow keys.
+* FIXED: An issue when logging in with additional account that could cause duplicate code to execute, resulting in empty feeds and all kinds of other strange issues.
+* FIXED: Removing user tags from a post did not delete the user tag locally, thus appearing as if the deletion did not succeed.
+* FIXED: Spaces are stripped when pasting into the "Go to User…" text field.
+* FIXED: Hashtag / mention detection in captions has been improved to avoid detecting "\#\#" as a used caption.
+* FIXED: Avoid making searches for invalid hashtags in the caption text areas.
+* FIXED: A flickering of dimmed grid-view items when navigating with the keyboard quickly.
+* FIXED: Handled an edge-case where an Instagram business profile might have an "unclaimed Facebook Page", which results in a Facebook permissions error appearing.
+* FIXED: Handling of redirects on the security code pop-up is improved, to avoid cases of infinite login loops.
+* FIXED: Added additional logging for pop-up web-browsers to help debug future issues.
+* FIXED: Much more robust recovery attempts when dealing with race-conditions that resulted in ignored duplicate database entries.
+* FIXED: Selections would not be deselected when scrolling with a scroll-wheel mouse.
+* FIXED: Lots of under-the-hood improvements to keyboard navigation and selection and consistency.
+* FIXED: Keyboard-based selections will no longer deselect when hitting the end of lists.
+* FIXED: Keyboard-based selections will no longer be lost, or flicker on/off when older content is refreshed.
+* FIXED: A long-standing issue with scroll-jumping when loading older messages in conversations.
+* FIXED: A long-standing issue with scroll-jumping when scrolling after having selected the first or last item in column-view mode. 
+* FIXED: A long-standing issue with media details not appearing when using the keyboard to quickly navigate back and forth between the same posts in column-view mode.
+* FIXED: An issue using the J/K navigation keys in the saved collections list.
+* FIXED: An inability to trigger loading older messages in a conversation when using keyboard navigation.
+* FIXED: When using the "Next / Prev Post" feature in the detail view, the previously selected comment, or previously composed comment would not deselect/disappear.
+* FIXED: A workaround for an issue with duplicate browser redirections in the login security checkpoint window.
+* FIXED: Using Cmd+Up/Down arrow will no longer select the first/last item, but scroll only to top/bottom.
+* FIXED: The TAB key will correctly switch focus from the search text field to the tabs/list on the search view.
+* FIXED: Some misc. flickering issues when first displaying some lists.
+* FIXED: Updated the edit Saved Collection touch bar asset.
+* FIXED: The large preview window will no longer close prematurely when using keyboard arrow navigation, and more content is being loaded/reloaded.
+* FIXED: Keyboard selections \(when there was no prior selection\) would not always select the correct top/bottom visible item.
+* FIXED: The Tumblr login window would not display correctly on macOS 10.13.
+* FIXED: When waking from sleep, any attached sheets / additional windows didn't close on reappearance.
+* FIXED: The muted conversation icon didn't appear in the correct position on initial appearance.
+* FIXED: Selecting messages in conversations will now use the default highlight colour in both light/dark design mode.
+* FIXED: After viewing comments in a comment thread, they would appear in addition to the preview comments on the main detail view when popping back.
+* FIXED: A visible scroll jump if the title bar was always visible and you pushed to the detail view.
+* FIXED: Carousel posts won't reset their current page when reloading in column-view.
+* FIXED: The position of the video duration and carousel page labels was incorrect in column-view mode when post details were set to All or Compact.
+* FIXED: Various improvements to handling of comment replies in the detail view.
+* FIXED: When using the keyboard arrows to load older messages, the last selection is kept as the list of messages reloads.
+* FIXED: When replying to a comment, the newly inserted comment would be pre-selected for replying.
+* FIXED: The comment/activity actions panel could get stuck and not appear in some edge-cases.
+* FIXED: When replying to a comment in the detail view, and older comments are loaded, avoid scrolling back to the selected comment, but maintain the selection highlight.
+* FIXED: Detect edge-case failures with background data processing, and assume the entire request has failed if so.
+* FIXED: When deleting a child comment, it didn't disappear immediately, only after the network request succeeded.
+* FIXED: When replying to a new comment, update the "Replying to X" label correctly.
+* FIXED: When processing data fails, an appropriate error message will be displayed when necessary.
+* FIXED: An issue with the "… more" button not appearing in captions based on subpixel rendering calculations.
+* FIXED: The next/previous/list buttons in the profile suggestions area didn't correct enable/disable when the profile header collapsed/expanded.
+* FIXED: Truncated captions in column-view will also resize as you resize the window.
+* FIXED: Added some missing accessibility/VoiceOver labels to some buttons on the upload window.
+* FIXED: Using the right-arrow key to select different filters would move between the last filter and the filter intensity slider.
+* FIXED: The large preview window wouldn’t close when you selected a message with the arrow keys that wasn’t some kind of photo/video message.
+* FIXED: The resend button wasn’t aligned correctly when a message failed to send.
+* FIXED: When clicking the cancel button after selecting a video to upload, the next time you choose a photo/video and close the window, the wrong discard alert text would display.
+* FIXED: The detail view actions button menu didn't have any keyboard shortcuts displayed.
+* FIXED: Some invalid delete keyboard shortcuts in contextual menus.
+* FIXED: After cropping a photo, clicking the resize to original button would sometimes not cause the overlay to disappear, depending on speed of your Mac and file-size of the image.
+* FIXED: When cropping a video, the cropped image preview would be deleted accidentally, resulting in the wrong preview being displayed.
+* FIXED: Multiple edge-case issues with upload window sizes when cropping and resizing into different formats consecutively.
+* FIXED: When switching to a carousel post, a photo that exceeded the aspect ratio limits didn't force a crop to be made before continuing.
+* FIXED: A rounding-error in the photo/video cropping window which resulted in the CROP button having inconsistent state between itself and the red overlay.
+* FIXED: Improved the behaviour of listening for database changes when items are being deleted which would cause some errors to appear in the log.
+* FIXED: Restored the extra 250ms duration buffer on video uploads.
+* FIXED: Removed the flickering that would occur when switching between items in the large preview window, that would require the window to change in size.
+* FIXED: Added a lot more keyboard shortcuts for various menu items, and made sure contextual menus and the macOS menu bar menu have consistent positions of items and shortcuts.
+* FIXED: When another user "unsent" the only visible message in a conversation you were currently looking at, the conversation message list would disappear and show random messages instead of the "No Messages" placeholder.
+* FIXED: Ensure we no longer care about listening for object changes in the database when we're deleting that object.
+* FIXED: If push notifications are disabled, receiving a new message for a new conversation would not immediately display any desktop notification or refresh the list of conversations.
+* FIXED: You can use the ENTER/RETURN key to move between licence verification and activation steps.
+* FIXED: When opening drafts in the upload window, the preview image didn't animate it's size/position correctly until the entire draft had finished loading.
+* FIXED: Replying to new comments and new messages via the desktop notification didn't work correctly. In addition, if there's a error sending the comment/message, a visible error alert will now display.
+* FIXED: If the sending of the first message in a new conversation failed, the activity indicator overlay would not disappear.
+* FIXED: If the sending of the first, and subsequent messages in a new conversation failed, it was not possible to resend the other messages after the first resends successfully.
+* FIXED: If a message in a conversation was selected, and an alert was displayed and then dismissed \(eg. delete the conversation\), the "Message" menu bar item would not reappear in the menu bar.
+* FIXED: If you searched for a user at the top of the conversations list, then proceeded to create a new 1-1 conversation with them, when you popped back to the search and the previous search lists were still displayed, clicking on the same user would not take you to the newly created conversation.
+* FIXED: After creating a new conversation via the search at the top of the conversations list, clearing the search text did not display the newly created conversation.
+* FIXED: Resending a failed video message didn't work correctly.
+* FIXED: The conversation name \(username\) of a new conversation did not always appear correctly in the header area.
+* FIXED: Rearranged the block/report menu items on the profile actions button menu.
+* FIXED: Added keyboard shortcuts to the conversation actions button menu.
+* FIXED: Show errors and the retry button on video message upload failures.
+* FIXED: The posts/followers/following numbers were displayed in the tooltip of private profiles that you don't follow.
+* FIXED: An edge-case deadlocking issue which could be triggered if the debug log window was open and it was attempting to display and log lots of data right when the RESET button was pressed.
+* FIXED: Allow toggling of hide/unhide of posts from a user's profile actions menu.
+* FIXED: Right-clicking on items with contextual menus will no longer deselect the selection after the menu disappears.
+* FIXED: Added more logging in "Verbose" mode to aide in future development issues.
+* FIXED: Alignment issues of the "liked by" label when resizing the window.
+* FIXED: Misc. edge-case crash fixes.
+* FIXED: Updated some various localizations.
+
 ## 2.8.6
 
 [_Release Date: February 1st, 2019._](https://flume.link/286)

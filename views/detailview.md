@@ -1,22 +1,22 @@
 # Details
 
-The Details View allows you view all information related to a post, including its caption, comments, likes, tagged location, tagged users and more.
+The details view allows you view all information related to a post, including its caption, comments, likes, tagged location, tagged users and more.
 
-![](../.gitbook/assets/detail-view.png)
+![](../.gitbook/assets/detail-view%20%281%29.png)
 
 ## Carousel Posts
 
 [Carousel posts](https://help.instagram.com/269314186824048) are multiple photos and videos \(up to 10\) combined into a single post.
 
-![](../.gitbook/assets/detail-view-carousel-1.png) ![](../.gitbook/assets/detail-view-carousel-2.png)
+![](../.gitbook/assets/detail-view-carousel-1-3.png) ![](../.gitbook/assets/detail-view-carousel-2-2.png)
 
 There are multiple methods to view a carousel post:
 
-* Hover over the carousel post, and use the left and right cursors that appear.
+* Hover the mouse towards the left / right of the post, and the mouse cursor will indicate the direction to scroll through the carousel post.
 * Click-and-swipe left or right with the mouse / trackpad.
 
 {% hint style="info" %}
-Each photo in a carousel post can contain different tagged users. See [Tagged Users](detailview.md#tagged-users) for more. Videos cannot contain any tagged users.
+Each photo in a carousel post can contain different tagged users. See [tagged users](detailview.md#tagged-users) to learn more.
 {% endhint %}
 
 ## Comments
@@ -33,7 +33,7 @@ To write a new comment:
 
 * Click the comment ![](../.gitbook/assets/comment%20%282%29.png) button in the [title bar.](../misc/glossary.md#title-bar)
 * Tap the comment ![](../.gitbook/assets/comment%20%281%29.png) button in the [Touch Bar.](../misc/touchbar.md)
-* Use the `Post > Comment on [Photo | Video]…` [Menu Bar](../misc/glossary.md#menu-bar) item.
+* Use the `Post > Comment on [Photo|Video|Carousel Post]…` [menu bar](../misc/glossary.md#menu-bar) item.
 
 ![](../.gitbook/assets/comment-compose.png)
 
@@ -47,10 +47,10 @@ When writing the first comment for one of your own posts, it will be converted a
 
 To reply to a comment:
 
-* Move the mouse to the left area of a comment to reveal the comment actions panel, then click the reply ![](../.gitbook/assets/reply.png) button.  ![](../.gitbook/assets/comment-actions.png)
+* Move the mouse cursor to the left area of a comment to reveal the comment actions panel, then click the reply ![](../.gitbook/assets/reply.png) button.  ![](../.gitbook/assets/comment-actions%20%281%29.png)
 * Right-click a comment, then select `Reply to @username` from the [contextual menu.](../misc/glossary.md#contextual-menu)
-* When selecting a comment using the [keyboard arrows](../misc/keyboard-shortcuts.md), use the `Comment > Reply to @username` [Menu Bar](../misc/glossary.md#menu-bar) item.
-* When selecting a comment using the [keyboard arrows](../misc/keyboard-shortcuts.md), tap the reply ![](../.gitbook/assets/comment.png) button in the [Touch Bar.](../misc/touchbar.md)
+* When selecting a comment using [keyboard navigation](../misc/keyboard-shortcuts.md), use the `Comment > Reply to @username` [menu bar](../misc/glossary.md#menu-bar) item.
+* When selecting a comment using [keyboard navigation](../misc/keyboard-shortcuts.md), tap the reply ![](../.gitbook/assets/comment.png) button in the [Touch Bar.](../misc/touchbar.md)
 
 {% hint style="info" %}
 When replying to a comment, replies are indented in order to support comment threading. If manually typing the username to reply to, the comment will not be considered a reply to a specific comment. It is recommended you always use the methods listed above to reply to a specific comment.
@@ -60,15 +60,15 @@ When replying to a comment, replies are indented in order to support comment thr
 
 To like / unlike a comment:
 
-* Move the mouse to the left area of a comment to reveal the comment actions panel, then click the like ![](../.gitbook/assets/like.png) button.  ![](../.gitbook/assets/comment-actions%20%282%29.png)
-* When selecting a comment using the [keyboard arrows](../misc/keyboard-shortcuts.md), use the `Comment > Like/Unlike Comment` [Menu Bar](../misc/glossary.md#menu-bar) item.
-* When selecting a comment using the [keyboard arrows](../misc/keyboard-shortcuts.md), tap the like ![](../.gitbook/assets/like%20%281%29.png) button in the [Touch Bar.](../misc/touchbar.md)
+* Click the like ![](../.gitbook/assets/like.png) button that appears beside each comment.  ![](../.gitbook/assets/comment-like.png)
+* When selecting a comment using the [keyboard arrows](../misc/keyboard-shortcuts.md), use the `Comment > [Like|Unlike] Comment` [menu bar](../misc/glossary.md#menu-bar) item.
+* When selecting a comment using [keyboard navigation](../misc/keyboard-shortcuts.md), tap the like ![](../.gitbook/assets/like%20%281%29.png) button in the [Touch Bar.](../misc/touchbar.md)
 
 ### Viewing Comment Likes
 
 To view the likes on a specific comment:
 
-* Click the `X likes` button that appears when a comment has at least 1 like.
+* Click the `X likes` button that appears underneath each comment.
 
 ### Bulk Deleting Comments
 
@@ -86,9 +86,9 @@ You can also [disable commenting](detailview.md#enabling--disabling-comments) on
 
 To delete a single comment:
 
-* Move the mouse to the left area of a comment to reveal the comment actions panel, then click the delete ![](../.gitbook/assets/delete.png) button.  ![](../.gitbook/assets/comment-actions%20%283%29.png)
+* Move the mouse cursor to the left area of a comment to reveal the comment actions panel, then click the delete ![](../.gitbook/assets/delete.png) button.  ![](../.gitbook/assets/comment-delete.png)
 * Right-click a comment, then select `Delete Comment…` from the [contextual menu.](../misc/glossary.md#contextual-menu)
-* When selecting a comment using the [keyboard arrows](../misc/keyboard-shortcuts.md), use the `Comment > Delete Comment…` [Menu Bar](../misc/glossary.md#menu-bar) item.
+* When selecting a comment using [keyboard navigation](../misc/keyboard-shortcuts.md), use the `Comment > Delete Comment…` [menu bar](../misc/glossary.md#menu-bar) item.
 
 {% hint style="info" %}
 You can also delete your own comments you make on others posts.
@@ -98,17 +98,17 @@ You can also delete your own comments you make on others posts.
 
 To report a comment:
 
-* Move the mouse to the left area of a comment to reveal the comment actions panel, then click the report ![](../.gitbook/assets/report.png) button.  ![](../.gitbook/assets/comment-actions%20%281%29.png)
+* Move the mouse to the left area of a comment to reveal the comment actions panel, then click the report ![](../.gitbook/assets/report.png) button.  ![](../.gitbook/assets/comment-delete.png)
 * Right-click a comment, then select `Report…` from the [contextual menu.](../misc/glossary.md#contextual-menu)
-* When selecting a comment using the [keyboard arrows](../misc/keyboard-shortcuts.md), use the `Comment > Report…` [Menu Bar](../misc/glossary.md#menu-bar) item.
+* When selecting a comment using [keyboard navigation](../misc/keyboard-shortcuts.md), use the `Comment > Report…` [menu bar](../misc/glossary.md#menu-bar) item.
 
 ### Translating Comments
 
 To translate a comment:
 
 * Right-click a comment, then select `Translate…` from the [contextual menu.](../misc/glossary.md#contextual-menu)
-* When selecting a comment using the [keyboard arrows](../misc/keyboard-shortcuts.md), use the `Comment > Translate…` [Menu Bar](../misc/glossary.md#menu-bar) item.
-* When selecting a comment using the [keyboard arrows](../misc/keyboard-shortcuts.md), tap the Translate ![](../.gitbook/assets/translate.png) button in the [Touch Bar.](../misc/touchbar.md)
+* When selecting a comment using [keyboard navigation](../misc/keyboard-shortcuts.md), use the `Comment > Translate…` [menu bar](../misc/glossary.md#menu-bar) item.
+* When selecting a comment using [keyboard navigation](../misc/keyboard-shortcuts.md), tap the translate ![](../.gitbook/assets/translate.png) button in the [Touch Bar.](../misc/touchbar.md)
 
 {% hint style="info" %}
 The translation will use your current [language](../preferences/general.md#language) setting.
@@ -134,7 +134,7 @@ A maximum of the latest 999 likers are displayed.
 
 ## Tagged Users
 
-If a photo contains tagged users, the tagged users ![](../.gitbook/assets/taggedusers.png) button will appear above the post and automatically fades out.
+If a photo or video contains tagged users, the tagged users ![](../.gitbook/assets/taggedusers.png) button will appear above the post and automatically fades out.
 
 ![](../.gitbook/assets/detail-view-usertags-1.png) ![](../.gitbook/assets/detail-view-usertags-2.png)
 
@@ -142,15 +142,11 @@ To view the tagged users in a post \(or [carousel post](detailview.md#carousel-p
 
 1. Hover over the photo.
 2. Click the tagged users ![](../.gitbook/assets/taggedusers.png) button which appears.
-3. Select a tagged user to view their [Profile.](profile/)
-
-{% hint style="info" %}
-Only photos can contain tagged users.
-{% endhint %}
+3. Select a tagged user to view their [profile.](profile/)
 
 ## Tagged Locations
 
-If a post is tagged at a location, its name will appear above the caption \(if present\). Clicking the location name will display the [Location view.](locations.md)
+If a post is tagged at a location, its name will appear above the caption \(if present\). Clicking the location name will display the [location's](locations.md) tagged posts.
 
 ## Muting Videos
 
@@ -174,7 +170,7 @@ The translation will use your current [language](../preferences/general.md#langu
 
 ## Browsing Feeds
 
-When viewing the Details View from the [Feed](feed.md), [Likes](likes.md) or [Explore](explore.md) views, additional options are available to quickly browse through the content without needing to move back-and-forth between the Details View and the previous list of media.
+When viewing the details from the [feed](feed.md), [likes](likes.md) or [explore](explore.md) views, additional options are available to quickly browse through the content without needing to move back-and-forth between the details view and the previous list of posts.
 
 * Click the previous ![](../.gitbook/assets/item-previous.png) or next ![](../.gitbook/assets/item-next.png) button in the [title bar.](../misc/glossary.md#title-bar)
 * Use the `⌘{` or `⌘}` [keyboard shortcuts.](../misc/keyboard-shortcuts.md)

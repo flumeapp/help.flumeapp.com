@@ -1,20 +1,20 @@
 # Insights
 
-Instagram Insights provide information on who your followers are, when they're online and more. You can also view insights for specific posts and stories you've created to see how each performed and how people are engaging with them.
+The insights view provides information on who your followers are, when they're online and more. You can also view insights for specific posts and stories you've created to see how each performed and how people are engaging with them.
 
-You can find more information about Business Insights at [Facebook's Business Resources.](https://www.facebook.com/business/help/897631030335607/)
+You can find more information about business insights at [Facebook's Business Resources.](https://www.facebook.com/business/help/897631030335607/)
 
 ![](../../../.gitbook/assets/insights-1.png) ![](../../../.gitbook/assets/insights-2.png)
 
 {% hint style="info" %}
-Once you [convert your personal profile over to a Business Profile](./), you won't be able to view past insights from before you converted your account.
+Once you [convert your personal profile over to a business profile](./), you won't be able to view past insights from before you converted your account.
 {% endhint %}
 
 ## Viewing Insights
 
-To view your Business Insights:
+To view your business insights:
 
-* When viewing your own profile, click the `Insights` ![](../../../.gitbook/assets/viewinsights.png) button in the [title bar.](../../../misc/glossary.md#title-bar)
+* When viewing your own profile, click the ![](../../../.gitbook/assets/viewinsights.png)`Insights` item under the [settings](../settings/) ![](../../../.gitbook/assets/settings.png) button in the [title bar.](../../../misc/glossary.md#title-bar)  button in the [title bar.](../../../misc/glossary.md#title-bar)
 
 ## Exporting Insights
 
@@ -52,7 +52,7 @@ For example, regardless of whether someone only views the first out of 10 photos
 
 **Replies:** Number of times people send messages through the Send Message option on your story
 
-**Exits:** The number of times someone swiped from one of your stories to someone else's story, or returned to their Feed.
+**Exits:** The number of times someone swiped from one of your stories to someone else's story, or returned to their feed.
 
 {% hint style="info" %}
 While you can view insights on past stories, you won't be able to view past stories that have expired. Stories last for 24 hours, before expiring.

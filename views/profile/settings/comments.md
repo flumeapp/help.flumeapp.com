@@ -1,18 +1,18 @@
-# Comments
+# Comment Controls
 
-The Comments view allows you to hide comments automatically and set keywords to hide on your posts, as well as restricting who can comment on your posts.
+The comment controls view allows you to moderate and control the commenting behaviour on your posts.
 
 ![](../../../.gitbook/assets/profile-comments.png)
 
-### Viewing Comments Options
+### Viewing Comment Controls
 
-To view your current comments settings:
+To view your current comment controls:
 
-* When viewing your [Profile](../), select the `Comments…` item under the [Settings](./) ![](../../../.gitbook/assets/settings.png) button in the [title bar.](../../../misc/glossary.md#title-bar)
+* When viewing your own [profile](../), select the `Comment Controls…` item under the [settings](./) ![](../../../.gitbook/assets/settings.png) button in the [title bar.](../../../misc/glossary.md#title-bar)
 
 ### Enabling / Disabling Comments on Posts
 
-You can disable commenting on your posts, by toggling the option when [uploading.](../../upload.md)
+You can disable commenting on your posts by toggling the option when [uploading.](../../upload.md)
 
-You can also toggle commenting from the [detail view](../../detailview.md#comments) of existing posts.
+You can also toggle commenting from the [details view](../../detailview.md#comments) of existing posts.
 

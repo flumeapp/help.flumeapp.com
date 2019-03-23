@@ -1,6 +1,6 @@
 # Info
 
-The Conversation Info view lists all the members of a conversation and allows you to view and edit members of a group conversation as well as perform actions related to a conversation.
+The conversation info view lists all the members of a conversation and allows you to view and edit members of a group conversation as well as perform actions related to a conversation.
 
 ![](../../.gitbook/assets/conversation-info.png)
 
@@ -18,13 +18,13 @@ One-on-one conversations cannot be named.
 
 ## Adding Members to Group Conversations
 
-You can include up to [15 users](../../misc/limits.md) in a group conversation.
+You can include up to [30 users](../../misc/limits.md) in a group conversation.
 
 ![](../../.gitbook/assets/conversation-select.png)
 
 To add a new member to a group conversation:
 
-* Click the `Add People…` item. Use the search field to find a specific user, or select from the suggestions that appear using the ![](../../.gitbook/assets/select.png) button. To confirm your selections, click the Confirm ![](../../.gitbook/assets/accept.png) button.
+* Click the `Add People…` item. Use the search field to find a specific user, or select from the suggestions that appear using the ![](../../.gitbook/assets/select.png) button. To confirm your selections, click the confirm ![](../../.gitbook/assets/accept.png) button.
 
 {% hint style="info" %}
 You can only add users to existing group conversations. It is not possible to add members to a one-on-one conversation.

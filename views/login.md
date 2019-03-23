@@ -1,12 +1,12 @@
 # Login
 
-Upon launching Flume, you will be presented with the Login Window. This window will also appear as a sheet when you are adding [multiple accounts.](../preferences/accounts.md)
+Upon launching Flume, you will be presented with the login window. This window will also appear as a slide-down sheet when you are adding [multiple accounts.](../preferences/accounts.md)
 
 ![](../.gitbook/assets/login.png) ![](../.gitbook/assets/login-form.png)
 
 Click `Let's Go!` to get started and enter your Instagram username and password to login.
 
-If you have [1Password](https://1password.com) installed on your Mac, the 1Password logo will appear next to the Password field allowing you quicker access to copy and paste your password securely.
+If you have a popular password manager installed on your Mac, the password manager's logo will appear next to the Password field allowing you quicker access to copy and paste your password securely.
 
 {% hint style="warning" %}
 Do not enter your Flume Pro licence code as your password. You activate Flume Pro from your licence code email, or manually in [Flume Pro preferences.](../preferences/flumepro.md)
@@ -20,9 +20,7 @@ As of [Flume 2.7](../general/whatsnew.md), you can also login with your email ad
 
 ![](../.gitbook/assets/logout-oneclick.png) ![](../.gitbook/assets/login-oneclick.png)
 
-When logging out of an account, you have the option for Flume to remember your login information.
-
-When enabling this option, a saved accounts ![](../.gitbook/assets/oneclick-login.png) button appears allowing you to log quickly back into previously saved accounts with just one click.
+When logging out of an account, you have the option to let Flume remember your login information. When enabling this option, a saved accounts ![](../.gitbook/assets/oneclick-login.png) button appears allowing you to log quickly back into previously saved accounts with just one click.
 
 ## Two-Factor Authentication
 
@@ -34,7 +32,7 @@ Flume only supports SMS-based 2FA currently. Third-party 2FA authenticator apps 
 
 ## Login Errors
 
-If login fails, a visible error alert will appear describing the issue. If your account has been disabled for violating Instagram's Community Guidelines, please consult [Instagram Support](https://help.instagram.com/366993040048856) for more info.
+If login fails, a visible error alert will appear describing the issue. If your account has been disabled for violating [Instagram's Community Guidelines](https://help.instagram.com/477434105621119/), please consult [Instagram Support](https://help.instagram.com/366993040048856) for more info.
 
 ## Facebook Login
 

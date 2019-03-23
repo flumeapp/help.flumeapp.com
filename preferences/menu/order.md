@@ -9,7 +9,7 @@ To enable or disable a menu item, click on any ![](../../.gitbook/assets/active.
 Disabled menu items are also hidden in the [Touch Bar](../../misc/touchbar.md) menu.
 
 {% hint style="info" %}
-The Upload menu item cannot be disabled or moved and will always remain visible and in the first position.
+The `Upload` menu item cannot be disabled or moved and will always remain visible and in the first position.
 {% endhint %}
 
 ## Reordering Menu Items

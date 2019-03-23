@@ -1,6 +1,6 @@
 # Large Preview
 
-The Large Preview window allows you to zoom in on posts quickly and at their original size.
+The large preview window allows you to zoom in on posts quickly and at their original size.
 
 ![](../.gitbook/assets/large-preview.png)
 
@@ -15,8 +15,8 @@ The large preview window can be moved to any screen and position, and is saved f
 To view a large preview:
 
 * Long-press on any post, [shared photo or video](conversations/messages.md), or [activity](activity.md) preview.
-* Use the `Post > Large Preview` [Menu Bar](../misc/glossary.md#menu-bar) item when selecting a post via the [keyboard arrows](../misc/keyboard-shortcuts.md) or viewing the [details](detailview.md) of a post.
-* When hovering your mouse cursor over a post, use the `Spacebar` [Hover Shortcut.](../misc/hover-shortcuts.md)
+* Use the `Post > Large Preview` [menu bar](../misc/glossary.md#menu-bar) item when selecting a post via [keyboard navigation](../misc/keyboard-shortcuts.md) or viewing the [details](detailview.md) of a post.
+* When hovering your mouse cursor over a post, use the `Spacebar` [hover shortcut.](../misc/hover-shortcuts.md)
 
 
 

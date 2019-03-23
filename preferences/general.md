@@ -39,10 +39,6 @@ Flume supports the following languages:
 
 Adjusting the language will adjust all user-interface elements, as well as content that is returned from Instagram directly, such as the language of [activity notifications](../views/activity.md), and error messages.
 
-{% hint style="info" %}
-You will need to restart Flume after changing language in order for it to take effect.
-{% endhint %}
-
 ## Show Icon in
 
 Choose between three options:
@@ -50,12 +46,14 @@ Choose between three options:
 | Option | Explanation |
 | :--- | :--- |
 | `Dock only` | The Flume icon will be displayed in the [macOS Dock](../misc/glossary.md#dock) when running. |
-| `Dock and menu bar` | The Flume icon will be displayed in the [macOS Dock](../misc/glossary.md#dock) when running, and in the Menu Bar's status item area. |
-| `Menu bar only` | The Flume icon will be displayed only in the [Menu Bar's](../misc/glossary.md#menu-bar) status item area.  If set to "Menu bar only", it is a macOS feature that the [Menu Bar](../misc/glossary.md#menu-bar) will not update when Flume is in focus.\*\* |
+| `Dock and menu bar` | The Flume icon will be displayed in the [macOS Dock](../misc/glossary.md#dock) when running, and in the [menu bar's](../misc/glossary.md#menu-bar) status item area. |
+| `Menu bar only` | The Flume icon will be displayed only in the [menu bar's](../misc/glossary.md#menu-bar) status item area. |
 
-Clicking on the status bar icon will toggle the windows front-most status, similar to [Global show/hide window](general.md#global-showhide-window) keyboard shortcut.
+Clicking on the status bar icon will toggle the windows front-most status, similar to the [`Global show/hide window:`](general.md#global-showhide-window) keyboard shortcut.
 
-\*\* To access Flume's preferences in "Menu bar only" mode, right-click on Flume's icon in the [Menu Bar.](../misc/glossary.md#menu-bar)
+{% hint style="info" %}
+To access Flume's preferences in "Menu bar only" mode, right-click on Flume's icon in the [Menu Bar.](../misc/glossary.md#menu-bar)
+{% endhint %}
 
 ![](../.gitbook/assets/menubar.png)
 
@@ -69,7 +67,7 @@ Enable or disable labels for buttons that appear in the [Touch Bar](https://supp
 
 ## Keep Window on Top
 
-Enable or disable Flume's windows to float above all other windows on the screen. [Large Preview](../views/largepreview.md) windows will display above all other Flume windows regardless of this option.
+Enable or disable Flume's windows to float above all other windows on the screen. [Large preview](../views/largepreview.md) windows will display above all other Flume windows regardless of this option.
 
 ## Open Web Links in Background
 
@@ -77,9 +75,9 @@ When clicking on web links in comments, captions, messages, or using the `Open i
 
 ## Global Show/Hide Window
 
-Allows you to configure a custom [Keyboard Shortcut](../misc/keyboard-shortcuts.md) that can be triggered whenever Flume is open, that will display or hide the Flume main window quickly. If Flume is not currently open, no action will be performed.
+Allows you to configure a custom [keyboard shortcut](../misc/keyboard-shortcuts.md) that can be triggered whenever Flume is open, that will display or hide the Flume main window quickly. If Flume is not currently open, no action will be performed.
 
-When the [Show icon in](general.md#show-icon-in) option is set to `Menu bar only` or `Dock and menu bar`, clicking on the status bar icon will also toggle the windows front-most status.
+When the [`Show icon in:`](general.md#show-icon-in) option is set to `Menu bar only` or `Dock and menu bar`, clicking on the status bar icon will also toggle the windows front-most status.
 
 ## Local Cache
 
@@ -87,5 +85,5 @@ Displays the current size of the local database and image cache. This cache is a
 
 ## Show Flume Pro Item in Menu Bar
 
-Toggles the visibility of the ![](../.gitbook/assets/pro.png) menu item in the macOS [Menu Bar.](../misc/glossary.md#menu-bar)
+Toggles the visibility of the ![](../.gitbook/assets/pro.png) menu item in the macOS [menu bar.](../misc/glossary.md#menu-bar)
 

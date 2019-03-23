@@ -61,7 +61,7 @@
     * [Linked Accounts](views/profile/settings/linkedaccounts.md)
     * [Push Notification Settings](views/profile/settings/pushnotifications.md)
     * [Email and SMS Notification Settings](views/profile/settings/emailsms.md)
-    * [Comments](views/profile/settings/comments.md)
+    * [Comment Controls](views/profile/settings/comments.md)
 * [Details](views/detailview.md)
 * [Editing](views/editing.md)
 * [Sharing](views/sharing.md)
