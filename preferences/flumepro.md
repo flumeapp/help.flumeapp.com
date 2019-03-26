@@ -6,8 +6,8 @@ Flume Pro is a software upgrade for Flume that unlocks additional features, as w
 
 The features unlocked with a Flume Pro licence purchase \(at time of writing\) include:
 
-* [Upload photos/videos/carousel posts.](../views/upload.md)
-* [Add multiple accounts.](accounts.md)
+* [Upload photos, videos, and carousel posts](../views/upload.md)
+* [Add multiple accounts](accounts.md)
 
 For more information on Flume Pro, please see the [Flume Pro FAQ.](https://support.flumeapp.com/section/10-flume-pro)
 
