@@ -2,12 +2,12 @@
 
 ![](../.gitbook/assets/flume-pro%20%281%29.png)
 
-Flume Pro is a upgrade on Flume that includes additional features, as well as helps sustain future development, bug-fixes, and customer support. Features that are unlocked via Flume Pro display a ![](../.gitbook/assets/pro%20%282%29.png) badge, which will disappear when you activate a Flume Pro licence.
+Flume Pro is a software upgrade for Flume that unlocks additional features, as well as helps sustain future development, bug-fixes, and customer support. Features that are unlocked via Flume Pro display a ![](../.gitbook/assets/pro%20%282%29.png) badge, which will disappear when you activate a Flume Pro licence.
 
-The features unlocked with Flume Pro \(at time of writing\) include:
+The features unlocked with a Flume Pro licence purchase \(at time of writing\) include:
 
-* [Upload photos/videos.](../views/upload.md)
-* [Add multiple accounts.](accounts.md) You can add and easily switch between as many accounts as you like.
+* [Upload photos/videos/carousel posts.](../views/upload.md)
+* [Add multiple accounts.](accounts.md)
 
 For more information on Flume Pro, please see the [Flume Pro FAQ.](https://support.flumeapp.com/section/10-flume-pro)
 
@@ -16,7 +16,7 @@ For more information on Flume Pro, please see the [Flume Pro FAQ.](https://suppo
 {% endhint %}
 
 {% hint style="info" %}
-Flume for Mac via [Setapp](http://blog.flumeapp.com/post/156342148286/flume-comes-to-setapp) includes Flume Pro as standard and does not require any additional upgrade purchase, as it is covered by Setapp's monthly subscription fee.
+Flume via [Setapp](http://blog.flumeapp.com/post/156342148286/flume-comes-to-setapp) includes Flume Pro's features as standard and does not require any additional upgrade Flume Pro licence purchase or activation. The instructions on this page are therefore only for direct customers.
 {% endhint %}
 
 ## Upgrading to Flume Pro
