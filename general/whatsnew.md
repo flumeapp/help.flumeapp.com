@@ -4,9 +4,80 @@ search: false
 
 # What's New in Flume
 
+## 2.8.6.2
+
+[Release Date: April 10th 2019.](https://flume.link/2862)
+
+* NEW: Flume will now handle adding newlines \(including multiple new lines\) in captions.
+* NEW: Added a "Message user" menu item to the contextual menus on posts.
+* IMPROVED: Switching accounts / quitting Flume should occur quicker.
+* IMPROVED: Preview thumbnails for shared location / hashtag messages will now load quicker.
+* IMPROVED: The pending conversation header \(eg. X wants to send you a message\) is now a sticky header so it's always visible when scrolling.
+* IMPROVED: The action buttons in the activity view have been reordered to avoid accidentally deleting / hiding notifications.
+* IMPROVED: The "User" macOS Menu Bar will now display the username the actions are related to \(message/follow/unfollow\).
+* IMPROVED: Pull-down-to-refresh behaviour / animation has been tweaked and hopefully improved for all scrolling methods \(not available with legacy scroll-wheel mice\)
+* FIXED: A potential fix for invisible content / Flume windows for some users. 
+* FIXED: Hashtags with underscores or non-latin characters were not detected.
+* FIXED: A long-standing issue with Facebook login windows and EU cookie consent which could result in Facebook login forms that disappear.
+* FIXED: The debug window will now show the last 10000 characters only to speed up opening/display. The log file on disk will still retain the full log entries.
+* FIXED: When creating a new conversation from a search, clearing the search might not have ordered it correctly at the top of the list if you had conversation bookmarks.
+* FIXED: When deleting a conversation while looking at the message list, avoid listening for changes to the messages that would cause the log file to show multiple warnings.
+* FIXED: When hovering the mouse over linked entities in comments/captions/messages \(eg. username mentions, URLs, and hashtags\), the macOS cursor will no longer flicker between the "IBeam" and "pointing hand" cursor.
+* FIXED: The like hover shortcut did not work if there was no keyboard selection due to recent changes with keyboard shortcuts.
+* FIXED: The unlike keyboard shortcut has been switched back to "L" instead of "U". This behaviour mimics the toggling of saving an item with the "S" key.
+* FIXED: The large preview window will display the inline media controls again, allowing manual scrubbing.
+* FIXED: The new profile settings menu would show "Switch back to Personal account" even if you hadn't switched to a business profile.
+* FIXED: Miscellaneous fixes to the switch to business profile window.
+* FIXED: Multiple scrolling / deselection behaviour fixes for the Logitech MX mice that override macOS smooth-scrolling behaviour.
+* FIXED: When creating a new conversation \(sending the first message\), you could end up sometimes having the current conversation disappear and display "no messages".
+* FIXED: When the activity overlay is displayed, writing more messages, navigating between views, or doing anything "desctructive" \(eg. logout or switch accounts\) will now be disabled until the overlay has disappeared.
+* FIXED: After importing search bookmarks, the "View" button will force a switch on the Search view to the Bookmarks section \(in case it was still showing Recent Searches or Suggested Searches\).
+* FIXED: A crash when trying to add user tags on a carousel post.
+* FIXED: When a location search included more than 1 search result that has the exact same geographic coordinates \(as determined by Instagram\), it was not possible to select that item correctly.
+* FIXED: The insets on the window when viewing a pending conversation stretch to the visible content area instead of leaving an invisible gap towards the bottom of the window.
+* FIXED: Multiple improvements when bulk deleting comments \(selection, refresh\).
+* FIXED: After deleting all the comments on a post, the comment icon in the title bar would not update to clear.
+* FIXED: Increased padding on popover search results labels.
+* FIXED: Numerical hashtags are supported once again eg. \#030
+* FIXED: Scroll-wheel mice will handle deselections faster than before.
+* FIXED: Resizing the window in a grid-view layout won’t hide the placeholder images if the thumbnails still haven’t downloaded.
+* FIXED: When sharing a profile in a message, the profile would show empty thumbnails due to an Instagram API bug. 
+* FIXED: If a carousel post had tagged users, viewing the tagged posts of that user from their profile \(or your own\) would cause the ordering of that carousel post to be reversed.
+* FIXED: Added a background and fixed some borders on the tagged post section header on profiles.
+* FIXED: Hastags written without spaces will now be properly detected, as well as detecting of duplicates eg. \#you\#should\#really\#use\#spaces\#you\#know
+* FIXED: Added linking of mentions/links/hashtags in the comment compose text area.
+* FIXED: The comment icon in detail view title bar did not refresh the correct "commented" status.
+* FIXED: Selection of a single character username/tag search result eg. \#a
+* FIXED: Improved the scrolling behaviour and animations of profile header collapsing/expansion.
+* FIXED: The profile suggestions cards would not re-enable interaction if you first scroll to collapse the header, then expanded it, then clicked on the suggestions button.
+* FIXED: The animation of the profile suggestions button when collapsing the profile header.
+* FIXED: Nicer profile suggestions card collapsing behaviour.
+* FIXED: Reporting of media/comments/messages/users that would open a browser window, would result in a Facebook "oops an error occurred" message.
+* FIXED: Reporting of ads uses a slightly different reporting flow as regular posts.
+* FIXED: Missing thumbnails on shared messages of locations/hashtags.
+* FIXED: Speed up the performance of refreshing content for shared messages of locations/hashtags.
+* FIXED: The saved/liked/video/carousel icons are now indicated on the sample posts on the suggested user lists.
+* FIXED: Fade-in suggested post thumbnails.
+* FIXED: Show placeholders icons on suggested media while they are downloading.
+* FIXED: Double borders on the top of the first section header in the activity view.
+* FIXED: Faster internal notification sending.
+* FIXED: Multiple improvements to the hiding/autohiding/show behaviour of the main menu \(when not set to always show\).
+* FIXED: The title bar \(if set to autohide\) will do so after it appeared if the mouse is moved away from the main Flume menu. Previously it would only disappear once you began scrolling.
+* FIXED: Added ellipsis marks to to the profile contact options \(call/message/get directions\).
+* FIXED: Flume's custom scrollbars didn't appear on text areas \(captions / debug log window\).
+* FIXED: Alignment improvements for shared profiles/hashtags/locations.
+* FIXED: When someone sends a "like" message, the conversation list will use an image instead of the ❤️ emoji.
+* FIXED: When there are no FB friends to follow, the placeholder was displayed \(regression\).
+* FIXED: The first section in the activity view will always draw the top border if a private profile.
+* FIXED: Some misc issues displaying and populating the "\#" character when choosing recently used hashtags from the search popover.
+* FIXED: The filter editing options could align incorrectly sometimes when toggling between carousel posts if you already had a filter selected.
+* FIXED: The border at the bottom of the title bars will transition much more smoothly.
+* FIXED: Potential fix for a rare issue when trying to scroll / flick on a gesture-based mouse/trackpad while another gesture was still being recorded.
+* FIXED: Misc edge-case crash fixes.
+
 ## 2.8.6.1
 
-[Release Date: March 23rd 2019.](https://flume.link/2861)
+[Release Date: March 23rd 2019.](https://flume.link/2861-update)
 
 * IMPROVED: Full-screen now uses an extended blurred background as opposed to a solid colour.
 * IMPROVED: Caption pre-filling is now configurable per-account.
