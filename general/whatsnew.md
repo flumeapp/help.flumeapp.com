@@ -4,6 +4,21 @@ search: false
 
 # What's New in Flume
 
+## 2.8.6.3
+
+[Release Date: April 12th 2019.](https://flume.link/2863)
+
+* FIXED: A stalling issue if an account had 1 new notification from a user that required an avatar to be downloaded and a desktop notification to be displayed.
+* FIXED: Multiple new follower requests are now properly batched into a single notification.
+* FIXED: Clicking on search results in the conversation search wasn’t possible.
+* FIXED: An issue when sharing to linked accounts with captions that include special characters, that appear as question marks on the Facebook Lite Android app.
+* FIXED: A edge-case crashing issue when clicking on the avatar of the author in the detail view.
+* FIXED: The follow requests list of users didn't update after accepting/ignoring the request.
+* FIXED: Force the Dock icon to remove its badge if you log out of all accounts, and it was previously badged.
+* FIXED: The @ symbol prefix for usernames is gone from various places / notifications.
+* FIXED: Consistent menu appearance/disappearance behaviour/logic in all areas.
+* FIXED: Updated missing localisations.
+
 ## 2.8.6.2
 
 [Release Date: April 10th 2019.](https://flume.link/2862)
