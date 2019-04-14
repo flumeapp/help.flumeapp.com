@@ -93,6 +93,13 @@ To toggle between an individual and carousel post:
 * Use the `Upload > Toggle Carousel Post` [menu bar](../misc/glossary.md#menu-bar) item.
 * Tap the carousel ![](../.gitbook/assets/carousel.png) button in the [Touch Bar.](../misc/touchbar.md)
 
+### Reordering Items in Carousel Posts
+
+To adjust the order of the items in your carousel post:
+
+1. Hover the mouse cursor over the thumbnails in the carousel item list until the drag-handle appears.
+2. Click-and-drag the drag-handle up/down to reorder the item.
+
 ## Editing
 
 You can apply filters and make adjustments to your photos and videos easily right inside Flume.
