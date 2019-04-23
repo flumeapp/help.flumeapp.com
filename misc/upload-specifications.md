@@ -27,6 +27,8 @@ No other specifications are required, except for the aspect ratio rules above. H
 
 Photos will be compressed to a maximum dimension of 1080px before uploading. If you would like to avoid Flume performing compression of high-resolution photos, or to avoid issues with color profiles, configure your workflow to export photos with a maximum dimension of 1080px.
 
+Only sRGB and Display P3 wide-gamut color profiles are supported by Instagram. If your photos or videos embed color profile \(ICC\) information, Flume will attempt to convert your photo/video to an sRGB profile by default. To avoid undesired changes in color reproduction, please export your items to include only sRGB or Display P3 color profiles. The inbuilt macOS [ColorSync Utility](https://support.apple.com/guide/colorsync-utility/welcome/mac) can also convert between color profiles.
+
 For more info on photo specifications and resolutions, please see the [official Instagram support article.](https://github.com/flumeapp/help.flumeapp.com/tree/1577f0ffdac2f11d862e55096c48747d3c60ea48/misc/www.facebook.com/help/instagram/1631821640426723/README.md)
 
 ## Video Specifications
