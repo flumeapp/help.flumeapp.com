@@ -31,7 +31,7 @@ You can also purchase Flume Pro by [visiting our website](https://flumeapp.com) 
 Upon a successful purchase, you will be presented with a thank you screen. Your licence code will be emailed to you, as well as your purchase receipt. If you do not receive your licence code, please check your Spam folders. If you made a mistake with your email address, [please contact us.](https://flumeapp.com/support/)
 
 {% hint style="warning" %}
-If you do not see the  ![](../.gitbook/assets/pro%20%281%29.png) button in your [menu bar](../misc/glossary.md#menu-bar), this could be either because you have previously disabled it via [General preferences](https://help.flumeapp.com/preferences/general#show-flume-pro-item-in-menu-bar), or you are using the Setapp version of Flume. Ensure you do not install both the [Setapp](https://support.flumeapp.com/article/70-what-is-setapp), and direct version of Flume. Flume Pro licences are only to be used with the direct version of Flume, downloadable only from [our website.](https://flumeapp.com) 
+If you do not see the  ![](../.gitbook/assets/pro%20%281%29.png) button in your [menu bar](../misc/glossary.md#menu-bar), this could be either because you have previously disabled it via [General preferences](https://help.flumeapp.com/preferences/general#show-flume-pro-item-in-menu-bar), you have [disabled Flume from appearing in the macOS Dock](https://help.flumeapp.com/preferences/general#show-flume-pro-item-in-menu-bar), or you are using the Setapp version of Flume. Ensure you do not install both the [Setapp](https://support.flumeapp.com/article/70-what-is-setapp), and direct version of Flume. Flume Pro licences are only to be used with the direct version of Flume, downloadable only from [our website.](https://flumeapp.com) 
 
 Alternatively, you can simply [access Flume's preferences](preferences.md), and click on the `Flume Pro` tab.
 {% endhint %}
@@ -54,7 +54,7 @@ To activate your Flume Pro licence manually:
 6. Click `Activate`
 
 {% hint style="warning" %}
-If you do not see the  ![](../.gitbook/assets/pro%20%281%29.png) button in your [menu bar](../misc/glossary.md#menu-bar), this could be either because you have previously disabled it via [General preferences](https://help.flumeapp.com/preferences/general#show-flume-pro-item-in-menu-bar), or you are using the Setapp version of Flume. Ensure you do not install both the [Setapp](https://support.flumeapp.com/article/70-what-is-setapp), and direct version of Flume. Flume Pro licences are only to be used with the direct version of Flume, downloadable only from [our website.](https://flumeapp.com)
+If you do not see the  ![](../.gitbook/assets/pro%20%281%29.png) button in your [menu bar](../misc/glossary.md#menu-bar), this could be either because you have previously disabled it via [General preferences](https://help.flumeapp.com/preferences/general#show-flume-pro-item-in-menu-bar), you have [disabled Flume from appearing in the macOS Dock](https://help.flumeapp.com/preferences/general#show-flume-pro-item-in-menu-bar), or you are using the Setapp version of Flume. Ensure you do not install both the [Setapp](https://support.flumeapp.com/article/70-what-is-setapp), and direct version of Flume. Flume Pro licences are only to be used with the direct version of Flume, downloadable only from [our website.](https://flumeapp.com) 
 
 Alternatively, you can simply [access Flume's preferences](preferences.md), and click on the `Flume Pro` tab.
 {% endhint %}
@@ -70,7 +70,7 @@ To deactivate your Flume Pro licence:
 3. Click the `Deactivate Licence` button.
 
 {% hint style="warning" %}
-If you do not see the  ![](../.gitbook/assets/pro%20%281%29.png) button in your [menu bar](../misc/glossary.md#menu-bar), this could be either because you have previously disabled it via [General preferences](https://help.flumeapp.com/preferences/general#show-flume-pro-item-in-menu-bar), or you are using the Setapp version of Flume. Ensure you do not install both the [Setapp](https://support.flumeapp.com/article/70-what-is-setapp), and direct version of Flume. Flume Pro licences are only to be used with the direct version of Flume, downloadable only from [our website.](https://flumeapp.com)
+If you do not see the  ![](../.gitbook/assets/pro%20%281%29.png) button in your [menu bar](../misc/glossary.md#menu-bar), this could be either because you have previously disabled it via [General preferences](https://help.flumeapp.com/preferences/general#show-flume-pro-item-in-menu-bar), you have [disabled Flume from appearing in the macOS Dock](https://help.flumeapp.com/preferences/general#show-flume-pro-item-in-menu-bar), or you are using the Setapp version of Flume. Ensure you do not install both the [Setapp](https://support.flumeapp.com/article/70-what-is-setapp), and direct version of Flume. Flume Pro licences are only to be used with the direct version of Flume, downloadable only from [our website.](https://flumeapp.com) 
 
 Alternatively, you can simply [access Flume's preferences](preferences.md), and click on the `Flume Pro` tab. 
 {% endhint %}
@@ -91,7 +91,7 @@ To manually open the Licence Migrator Tool:
 2. Drag the App Store version of Flume onto the Licence Migrator Tool window and follow the prompts.
 
 {% hint style="warning" %}
-If you do not see the  ![](../.gitbook/assets/pro%20%281%29.png) button in your [menu bar](../misc/glossary.md#menu-bar), this could be either because you have previously disabled it via [General preferences](https://help.flumeapp.com/preferences/general#show-flume-pro-item-in-menu-bar), or you are using the Setapp version of Flume. Ensure you do not install both the [Setapp](https://support.flumeapp.com/article/70-what-is-setapp), and direct version of Flume. Flume Pro licences are only to be used with the direct version of Flume, downloadable only from [our website.](https://flumeapp.com)
+If you do not see the  ![](../.gitbook/assets/pro%20%281%29.png) button in your [menu bar](../misc/glossary.md#menu-bar), this could be either because you have previously disabled it via [General preferences](https://help.flumeapp.com/preferences/general#show-flume-pro-item-in-menu-bar), you have [disabled Flume from appearing in the macOS Dock](https://help.flumeapp.com/preferences/general#show-flume-pro-item-in-menu-bar), or you are using the Setapp version of Flume. Ensure you do not install both the [Setapp](https://support.flumeapp.com/article/70-what-is-setapp), and direct version of Flume. Flume Pro licences are only to be used with the direct version of Flume, downloadable only from [our website.](https://flumeapp.com) 
 {% endhint %}
 
 ![](../.gitbook/assets/flume-pro-migrate.png)

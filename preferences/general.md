@@ -51,7 +51,9 @@ Choose between three options:
 
 Clicking on the status bar icon will toggle the windows front-most status, similar to the [`Global show/hide window:`](general.md#global-showhide-window) keyboard shortcut.
 
-{% hint style="info" %}
+{% hint style="warning" %}
+If you use Flume in "Menu bar only" mode, you will no longer have access to any of Flume's [Menu Bar](../misc/glossary.md#menu-bar) menus \(a macOS limitation for menu bar apps\). 
+
 To access Flume's preferences in "Menu bar only" mode, right-click on Flume's icon in the [Menu Bar.](../misc/glossary.md#menu-bar)
 {% endhint %}
 
