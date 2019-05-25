@@ -184,6 +184,10 @@ For more details on the available repost settings, see [reposting.](reposting.md
 
 You can add an optional caption to your posts. When typing a `#` or `@` character, your keyboard input will also search Instagram for matching hashtags and users until you select an item from the popover, press the `ESC` key, or press another space.
 
+{% hint style="info" %}
+URLs, hashtags, and mentions can be clicked as links in captions - simply long-press/click on the link for a preview to appear. If your caption text contains duplicate URLs, hashtags, or mentions, the link will display in red.
+{% endhint %}
+
 ### Pre-filling Captions
 
 Flume can use embedded metadata \(EXIF/IPTC\) inside your photos and videos to [pre-fill your caption](../preferences/upload/) with a specific format.
