@@ -53,6 +53,7 @@
     * [Saved Collections](views/profile/settings/savedcollections.md)
     * [Invite Facebook Friends](views/profile/settings/invitefacebook.md)
     * [Follow Facebook Friends](views/profile/settings/followfacebook.md)
+    * [Favorites](views/profile/settings/favorites.md)
     * [Find Contacts](views/profile/settings/invitecontacts.md)
     * [Edit Profile](views/profile/settings/editprofile.md)
     * [Change Password](views/profile/settings/editpassword.md)
