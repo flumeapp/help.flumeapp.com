@@ -367,7 +367,20 @@ Videos posted to Instagram [must be within 3 and 60 seconds in duration.](../mis
 * Use the `Upload > Trim…` [menu bar](../misc/glossary.md#menu-bar) item.
 * Tap the trim ![](../.gitbook/assets/fluuploadvideotrim-2x.png) button in the [Touch Bar.](../misc/touchbar.md)
 
-## Sharing to Linked Accounts
+## Sharing Posts
+
+### Sharing to Your Favorites/Close Friends
+
+To share a post to your [Favorites](profile/favorites.md) / close friends:
+
+* Click the Share to Favorites ![](../.gitbook/assets/sharefavorites.png) button.
+* Use the `Upload > Share > Share to Favorites` [Menu Bar](../misc/glossary.md#menu-bar) item.
+
+{% hint style="info" %}
+If you enable sharing to your Favorites, [sharing to a Linked Account](upload.md#sharing-to-linked-accounts) is disabled.
+{% endhint %}
+
+### Sharing to Linked Accounts
 
 Sharing allows you to cross-post your upload to a [linked account.](profile/settings/linkedaccounts.md) You can also [share existing posts](sharing.md) at any time.
 
