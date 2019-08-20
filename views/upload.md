@@ -302,7 +302,7 @@ To crop a photo:
 Click-and-drag the resize handles to adjust the cropping region, and click-and-drag the rectangle to adjust the cropping position.
 
 {% hint style="info" %}
-You can toggle between common aspect-ratios, or use the aspect-ratio of the media, by clicking on  the `Aspect Ratio` button and choosing from the pop-up menu. This enforces the dragging rectangle to maintain the selected aspect-ratio.
+You can toggle between common aspect-ratios, or use the aspect-ratio of the media, by clicking on the `Aspect Ratio` button and choosing from the pop-up menu. This enforces the dragging rectangle to maintain the selected aspect-ratio.
 {% endhint %}
 
 #### Resizing Photos
@@ -346,7 +346,7 @@ To crop a video:
 Click-and-drag the resize handles to adjust the cropping region, and click-and-drag the rectangle to adjust the cropping position.
 
 {% hint style="info" %}
-You can toggle between common aspect-ratios, or use the aspect-ratio of the media, by clicking on  the `Aspect Ratio` button and choosing from the pop-up menu. This enforces the dragging rectangle to maintain the selected aspect-ratio.
+You can toggle between common aspect-ratios, or use the aspect-ratio of the media, by clicking on the `Aspect Ratio` button and choosing from the pop-up menu. This enforces the dragging rectangle to maintain the selected aspect-ratio.
 {% endhint %}
 
 #### Resizing Videos
@@ -371,7 +371,7 @@ Videos posted to Instagram [must be within 3 and 60 seconds in duration.](../mis
 
 ### Sharing to Your Favorites/Close Friends
 
-To share a post to your [Favorites](profile/favorites.md) / close friends:
+To share a post to your [Favorites](https://github.com/flumeapp/help.flumeapp.com/tree/82be23f531fdb3bb0e72a26ac8eefce213eaa0ab/views/profile/favorites.md) / close friends:
 
 * Click the Share to Favorites ![](../.gitbook/assets/sharefavorites.png) button.
 * Use the `Upload > Share > Share to Favorites` [Menu Bar](../misc/glossary.md#menu-bar) item.

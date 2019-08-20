@@ -120,7 +120,7 @@ To accept / decline an individual message requests:
 
 ## Filtering Conversations
 
-To apply filters to your conversation threads, use the `Filter` option under the ![](../../.gitbook/assets/settings%20%281%29.png) button in the [title bar.](../../misc/glossary.md#title-bar)
+To apply filters to your conversation threads, use the `Filter` option under the ![](../../.gitbook/assets/settings%20%282%29.png) button in the [title bar.](../../misc/glossary.md#title-bar)
 
 ![](../../.gitbook/assets/conversations-filtering.png)
 

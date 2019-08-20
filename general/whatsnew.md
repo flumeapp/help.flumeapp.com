@@ -4,6 +4,94 @@ search: false
 
 # What's New in Flume
 
+## 2.8.6.5
+
+[Release Date: June 5th 2019.](https://flume.link/2865)
+
+* FIXED: A potential crash when trimming a video during file selection.
+* FIXED: A potential crash when removing the hover state from certain text links.
+* FIXED: An issue with location search results not appearing.
+* FIXED: An issue with undo coalescing when pasting text into text entry areas and using the macOS undo/redo functionality.
+* FIXED: When viewing the details of a post shared in a conversation, and then deleting that post, popping back to the conversation will immediately update to remove the now non-existent shared post.
+* FIXED: An upload issue when failing to convert the color space of source items.
+* FIXED: An issue with text links changing to the wrong color after mouse hover.
+
+## 2.8.6.4
+
+[Release Date: June 3rd 2019.](https://flume.link/2864)
+
+* NEW: Added a preference to toggle pausing of videos when Flume's window focus is lost.
+* NEW: Added an ability to replace items \(photos/videos\) in the upload window which will keep all edits/caption/tags.
+* IMPROVED: Video trimming can now be preformed during file-selection.
+* IMPROVED: Added carousel item counts to the upload / edit window.
+* IMPROVED: The pre-selected cropping rectangle when creating carousel posts has been adjusted to automatically select the full-frame of the subsequent items if the aspect-ratios match.
+* IMPROVED: The comment / message text area will now expand to a certain height before scrolling internally.
+* IMPROVED: Reduced the size required to cache certain data in the database.
+* IMPROVED: Conversation messages that are composed but not sent are stored as drafts, to avoid losing any content you had been writing.
+* IMPROVED: Delays with search requests throughout the app have been reduced.
+* IMPROVED: When a view's feed is empty, switching back to that view will force a refresh on appearance, rather than relying on using the File &gt; Refresh menu item or CMD+R shortcut.
+* FIXED: A cropping / resize issue with carousel posts that contained photos with dpi's above 72 that would result in blurry uploads.
+* FIXED: Only the last 25 uploaded posts are searched for recent hashtags.
+* FIXED: User searching in captions uses a generic search returning more reliably search results.
+* FIXED: Improved the speed of typing in the caption area, especially if the caption contains hashtags.
+* FIXED: The wrong filter/adjustments would be applied to the current carousel post item when deleting a photo/video from the carousel post on the upload window.
+* FIXED: URLs with special characters would not be detected as links in captions / comments.
+* FIXED: The carousel item thumbnails might have appeared translucent after performing batch load/cropping operations on the upload window.
+* FIXED: A selection issue when selecting the first item in a carousel post and deleting it.
+* FIXED: The repositioning of the "traffic lights" when a window's frame resizes should occur less often.
+* FIXED: Various issues with the macOS cursor updates being reverted by the system, causing flickering between two cursor types.
+* FIXED: Increased the maximum comment length to 2200 characters.
+* FIXED: A border was missing on the top of the activity notifications for public, non-business profiles.
+* FIXED: An issue with new, dynamic URL formats for certain videos, that would cause videos to not play.
+* FIXED: The comment text in the delete confirmation alert is truncated, to avoid excessively large alert dialogs.
+* FIXED: Avoid adding special new-line / line-break characters if they will cause the caption length to exceed 2200 characters.
+* FIXED: An issue with a stuck "snapshot" image overlaid when switching design mode.
+* FIXED: Video previews in the upload window did not always loop during playback.
+* FIXED: Added support to handle carousel post errors that require certain items to be re-uploaded.
+* FIXED: The mute video / tagged user button was not clickable when the video was contained in a carousel post.
+* FIXED: The play/pause button did not work correctly in column-view feeds.
+* FIXED: The shake animation to indicate the start / end of a carousel post did not work in column-view feeds that were playing a video.
+* FIXED: The TAB/Shift+TAB keyboard shortcuts could result in displaying profile views that aren't enabled \(eg. favourites\)
+* FIXED: When deleting a post from your profile, the content is immediately refreshed while the deletion request is sent in the background.
+* FIXED: The actions button \(…\) would sometimes not appear when the post details option was set to 'All'.
+* FIXED: Viewing the post details of a post on your liked posts feed wasn't possible.
+* FIXED: Design mode changes didn't animate/fade \(regression\).
+* FIXED: Improved the resizing behaviour of the comment popover, and message compose area.
+* FIXED: Removed a flicker that would occur when the height of the compose text area was enlarged.
+* FIXED: Pending / failed messages would appear as if they were sent successfully if you popped back then loaded the conversation again.
+* FIXED: When sending/receiving new messages via real-time messaging that were links and contained link image previews, they would not download until the next refresh.
+* FIXED: Sending a video to an existing conversation could cause the conversation to disappear \(although the video was successfully sent\).
+* FIXED: URLs that contained a question mark at the end weren't detected as links.
+* FIXED: When receiving shared hashtags/locations/profiles via real-time messaging from other users and while looking at the conversation, the preview media thumbnails wouldn't always appear.
+* FIXED: Flickering and incorrect order of preview media on shared hashtag/location/profile messages.
+* FIXED: The upper limit threshold for video durations is now 60.5 seconds.
+* FIXED: When drag-and-dropping a video that was too long or too short, the dropzone image and text would not reset correctly.
+* FIXED: Switched the "unsend message" keyboard shortcut to ⌘⌫.
+* FIXED: Some information on profile headers would disappear if they have converted to a new "creator profile".
+* FIXED: Use more background workers to handle downloading of media and avoid unnessary disk I/O.
+* FIXED: An issue where the content might not refresh and infinitely show a spinning indicator after emptying the caches.
+* FIXED: Preview media in shared hashtags/profiles/location messages might not appear immediately, or might appear in the wrong aspect-ratio.
+* FIXED: Potential fix for a hanging issue when sending real-time messages on macOS Yosemite.
+* FIXED: Placeholder image positioning on carousel posts.
+* FIXED: Upped the message limit to 1000 characters.
+* FIXED: Scroll content to the bottom if the compose text area grows in height.
+* FIXED: Comment thread content insets when the menu hover appears/disappears.
+* FIXED: Highlight states did not disappear when exiting the area of a link in a label.
+* FIXED: Copyright updated activity notifications didn't wrap text correctly.
+* FIXED: Added hover behaviour to textfield links \(eg. websites in profile headers\).
+* FIXED: Removed extra logging of mismatched classes during video upload.
+* FIXED: Use the edited image when tagging users in uploads.
+* FIXED: Handle comment threading on sponsored posts with missing data.
+* FIXED: Fixed missing highlights on text field labels with multiple links.
+* FIXED: Fixed highlights of links at end of labels when mouse enters from the edges.
+* FIXED: Use full number of posts in shared hashtag label.
+* FIXED: Reload conversations on re-appearance \(either via popping back, or via switching menu tabs\).
+* FIXED: Send seen message when popping back to a conversation and new messages arrived and are visible.
+* FIXED: Increased the delay on "transcode timeout" video upload errors to workaround IG/FB server delays.
+* FIXED: When the main menu is set to show on hover, any current selections \(made with keyboard etc.\) would be lost when the menu appeared and you were scrolled to the bottom of the content. Which in turn, fixes...
+* FIXED: When a sheet / alert was presented eg. confirm deletion of a post, the main menu would still react to mouse cursor hover, which would in turn cause the current selection to be lost if scrolled to the bottom of the content \(see above\), resulting in no action being performed.
+* FIXED: Multiple multiple memory leaks.
+
 ## 2.8.6.3
 
 [Release Date: April 12th 2019.](https://flume.link/2863)
@@ -1260,8 +1348,7 @@ Re-release of Flume 2.4.1 with minor adjustments for Setapp release.
 
 [_Release Date: December 24th, 2016_](http://blog.flumeapp.com/post/154810435611/flume-for-mac-24-update)
 
-NEW: The new Touch Bar and Flume are a match made in heaven! Comprehensive support for all functions, and completely customisable, and localised in all languages.
-
+* NEW: The new Touch Bar and Flume are a match made in heaven! Comprehensive support for all functions, and completely customisable, and localised in all languages.
 * NEW: Flume now speaks a whopping 25 languages! Arabic, Chinese \(Traditional\), Danish, Dutch, French, Greek, Indonesian, Italian, Malay, Portuguese \(and BR\), Swedish, Thai, Turkish and Vietnamese speakers can now enjoy Flume in their native tongue.
 * NEW: Get insights on your posts and followers. For the first time ever, now available on a desktop!
 * NEW: Create Instagram Adverts and view your promotion results.

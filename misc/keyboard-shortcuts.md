@@ -5,7 +5,7 @@ All of Flume's features can be accessed via the keyboard, and there are countles
 In addition to extensive keyboard shortcuts, Flume includes unique [hover shortcuts](hover-shortcuts.md) for even quicker access to common actions.
 
 {% hint style="info" %}
-If you have set Flume to [display its icon in the Menu Bar only](../preferences/general.md#show-icon-in), you will not see Flume's [Menu Bar](glossary.md#menu-bar) menu at all \(by macOS design\). As a result, not all of the keyboard shortcuts listed below will be possible to use. 
+If you have set Flume to [display its icon in the Menu Bar only](../preferences/general.md#show-icon-in), you will not see Flume's [Menu Bar](glossary.md#menu-bar) menu at all \(by macOS design\). As a result, not all of the keyboard shortcuts listed below will be possible to use.
 
 In order to see the Menu Bar items, the Dock icon must be enabled.
 {% endhint %}
@@ -88,7 +88,7 @@ The `Post` menu will appear when a keyboard selection has been made on a post, o
 | `⌥⌘B` | Opens the post in your web-browser. |
 | `⌥⌘U` | Opens the author's [profile](../views/profile/) in your web-browser. |
 | `⇧⌘R` | [Reposts](../views/reposting.md) the photo/video/carousel post. |
-| `⌥⇧⌘R` | [Reposts](../views/reposting.md) the currently visible photo/video in the carousel post \(visible only if the post is a carousel post\).  |
+| `⌥⇧⌘R` | [Reposts](../views/reposting.md) the currently visible photo/video in the carousel post \(visible only if the post is a carousel post\). |
 | `⌘E` | Displays the [editing window](../views/editing.md) \(visible only for posts you uploaded\). |
 | `⌘S` | Saves the post to your chosen local folder destination. |
 | `⌘⌫` | Deletes the post \(visible only for posts you uploaded\). |
@@ -126,7 +126,7 @@ The `Conversation` menu will appear when a keyboard selection has been made on a
 
 ### Message Menu Shortcuts
 
-The `Message` menu will appear when a keyboard selection has been made on a message in a conversation. 
+The `Message` menu will appear when a keyboard selection has been made on a message in a conversation.
 
 | Key Combination | Explanation |
 | :--- | :--- |

@@ -10,14 +10,12 @@ Favorites is currently being tested by Instagram and is not yet available on all
 
 ## Sharing Posts to Your Close Friends
 
-To share new posts to just your favorites / close friends, see [Sharing to Your Favorites/Close Friends.](../upload.md#sharing-to-your-favorites-close-friends)
+To share new posts to just your favorites / close friends, see [Sharing to Your Favorites/Close Friends.](../../upload.md#sharing-to-your-favorites-close-friends)
 
 ## Editing Your Close Friends List
 
 To edit your close friends list:
 
-* Click the `Edit Close Friends List` ![](../../.gitbook/assets/profile-editfavorites.png) button in the [title bar.](../../misc/glossary.md#title-bar)
-* Click the `Advanced Settings` ![](../../.gitbook/assets/settings.png) button in the [Upload window](../upload.md#advanced-settings) and select `Edit Your Close Friends List`
-
-
+* Click the `Edit Close Friends List` ![](../../../.gitbook/assets/profile-editfavorites.png) button in the [title bar.](../../../misc/glossary.md#title-bar)
+* Click the `Advanced Settings` ![](../../../.gitbook/assets/settings%20%281%29.png) button in the [Upload window](../../upload.md) and select `Edit Your Close Friends List`
 
